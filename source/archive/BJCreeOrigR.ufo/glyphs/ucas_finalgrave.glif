@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finalgrave" format="2">
+  <advance width="743"/>
+  <unicode hex="1420"/>
+  <outline>
+    <contour>
+      <point x="485" y="874" type="line"/>
+      <point x="127" y="1450" type="line"/>
+      <point x="258" y="1450" type="line"/>
+      <point x="616" y="874" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w743m485,874l127,1450l258,1450l616,874</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1450 -41</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

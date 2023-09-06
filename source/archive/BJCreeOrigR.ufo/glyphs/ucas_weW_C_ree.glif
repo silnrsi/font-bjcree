@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_weWCree" format="2">
+  <advance width="1760"/>
+  <unicode hex="140D"/>
+  <outline>
+    <component base="ucas_e"/>
+    <component base="ucas_finalmiddledot" xOffset="1290"/>
+  </outline>
+</glyph>

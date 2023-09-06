@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finaldowntack" format="2">
+  <advance width="836"/>
+  <unicode hex="142A"/>
+  <outline>
+    <contour>
+      <point x="356" y="727" type="line"/>
+      <point x="356" y="1323" type="line"/>
+      <point x="127" y="1323" type="line"/>
+      <point x="127" y="1446" type="line"/>
+      <point x="709" y="1446" type="line"/>
+      <point x="709" y="1323" type="line"/>
+      <point x="485" y="1323" type="line"/>
+      <point x="485" y="727" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w836m356,727l356,1323l127,1323l127,1446l709,1446l709,1323l485,1323l485,727</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 1323 123</string>
+          <string>vstem 356 129</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

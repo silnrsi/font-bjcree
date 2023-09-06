@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finalplus" format="2">
+  <advance width="1181"/>
+  <unicode hex="1429"/>
+  <outline>
+    <contour>
+      <point x="953" y="895" type="line"/>
+      <point x="631" y="895" type="line"/>
+      <point x="631" y="597" type="line"/>
+      <point x="512" y="597" type="line"/>
+      <point x="512" y="895" type="line"/>
+      <point x="213" y="895" type="line"/>
+      <point x="213" y="1010" type="line"/>
+      <point x="512" y="1010" type="line"/>
+      <point x="512" y="1317" type="line"/>
+      <point x="631" y="1317" type="line"/>
+      <point x="631" y="1010" type="line"/>
+      <point x="953" y="1010" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1181m953,895l631,895l631,597l512,597l512,895l213,895l213,1010l512,1010l512,1317l631,1317l631,1010l953,1010</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 895 115</string>
+          <string>vstem 512 119</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

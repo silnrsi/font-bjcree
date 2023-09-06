@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_mwooWestCree" format="2">
+  <advance width="1500"/>
+  <unicode hex="14B5"/>
+  <outline>
+    <component base="ucas_mo"/>
+    <component base="ucas_finalmiddledot" xOffset="1010"/>
+    <contour>
+      <point x="981" y="1675" type="line"/>
+      <point x="981" y="1609"/>
+      <point x="928" y="1554"/>
+      <point x="864" y="1554" type="curve" smooth="yes"/>
+      <point x="800" y="1554"/>
+      <point x="747" y="1610"/>
+      <point x="747" y="1675" type="curve" smooth="yes"/>
+      <point x="747" y="1740"/>
+      <point x="800" y="1795"/>
+      <point x="864" y="1795" type="curve" smooth="yes"/>
+      <point x="928" y="1795"/>
+      <point x="981" y="1740"/>
+      <point x="981" y="1675" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_waaNaskapi" format="2">
+  <advance width="1731"/>
+  <unicode hex="141B"/>
+  <outline>
+    <component base="ucas_a"/>
+    <component base="ucas_finalmiddledot" xOffset="42" yOffset="521"/>
+    <component base="ucas_finalmiddledot" xOffset="675" yOffset="845"/>
+  </outline>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_pWestCree" format="2">
+  <advance width="446"/>
+  <unicode hex="144A"/>
+  <outline>
+    <contour>
+      <point x="324" y="563" type="line"/>
+      <point x="121" y="563" type="line"/>
+      <point x="121" y="1458" type="line"/>
+      <point x="324" y="1458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w446m324,563l121,563l121,1458l324,1458</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 121 203</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finaldbleshortvstrokes" format="2">
+  <advance width="891"/>
+  <unicode hex="1426"/>
+  <outline>
+    <contour>
+      <point x="770" y="781" type="line"/>
+      <point x="569" y="781" type="line"/>
+      <point x="569" y="1458" type="line"/>
+      <point x="770" y="1458" type="line"/>
+    </contour>
+    <contour>
+      <point x="324" y="781" type="line"/>
+      <point x="121" y="781" type="line"/>
+      <point x="121" y="1458" type="line"/>
+      <point x="324" y="1458" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w891m770,781l569,781l569,1458l770,1458m324,781l121,781l121,1458l324,1458</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>vstem 121 203</string>
+          <string>vstem 569 201</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_chisign" format="2">
+  <advance width="1301"/>
+  <unicode hex="166D"/>
+  <outline>
+    <contour>
+      <point x="339" y="0" type="line"/>
+      <point x="28" y="0" type="line"/>
+      <point x="495" y="737" type="line"/>
+      <point x="40" y="1458" type="line"/>
+      <point x="337" y="1458" type="line"/>
+      <point x="644" y="975" type="line"/>
+      <point x="953" y="1458" type="line"/>
+      <point x="1261" y="1458" type="line"/>
+      <point x="804" y="737" type="line"/>
+      <point x="1271" y="0" type="line"/>
+      <point x="953" y="0" type="line"/>
+      <point x="644" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>public.postscript.hints</key>
+  <dict>
+    <key>formatVersion</key>
+    <string>1</string>
+    <key>id</key>
+    <string>w1301m339,0l28,0l495,737l40,1458l337,1458l644,975l953,1458l1261,1458l804,737l1271,0l953,0l644,496</string>
+    <key>hintSetList</key>
+    <array>
+      <dict>
+        <key>stems</key>
+        <array>
+          <string>hstem 0 41</string>
+        </array>
+      </dict>
+    </array>
+  </dict>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_pwoo" format="2">
+  <advance width="2025"/>
+  <unicode hex="1442"/>
+  <outline>
+    <component base="ucas_po" xOffset="442" yOffset="-1"/>
+    <component base="ucas_finalmiddledot"/>
+    <contour>
+      <point x="778" y="1675" type="line"/>
+      <point x="778" y="1609"/>
+      <point x="725" y="1554"/>
+      <point x="661" y="1554" type="curve" smooth="yes"/>
+      <point x="597" y="1554"/>
+      <point x="544" y="1610"/>
+      <point x="544" y="1675" type="curve" smooth="yes"/>
+      <point x="544" y="1740"/>
+      <point x="597" y="1795"/>
+      <point x="661" y="1795" type="curve" smooth="yes"/>
+      <point x="725" y="1795"/>
+      <point x="778" y="1740"/>
+      <point x="778" y="1675" type="curve"/>
+    </contour>
+  </outline>
+</glyph>
