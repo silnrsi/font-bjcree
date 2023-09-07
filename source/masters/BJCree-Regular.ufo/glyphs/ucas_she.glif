@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_she" format="2">
+  <advance width="1616"/>
+  <unicode hex="1510"/>
+  <outline>
+    <contour>
+      <point x="1495" y="377" type="line"/>
+      <point x="1495" y="182"/>
+      <point x="1384" y="-20"/>
+      <point x="1167" y="-20" type="curve" smooth="yes"/>
+      <point x="537" y="-20"/>
+      <point x="913" y="1276"/>
+      <point x="455" y="1276" type="curve" smooth="yes"/>
+      <point x="332" y="1276"/>
+      <point x="260" y="1146"/>
+      <point x="260" y="1036" type="curve" smooth="yes"/>
+      <point x="260" y="975"/>
+      <point x="274" y="915"/>
+      <point x="285" y="856" type="curve"/>
+      <point x="154" y="817" type="line"/>
+      <point x="136" y="880"/>
+      <point x="123" y="946"/>
+      <point x="123" y="1012" type="curve" smooth="yes"/>
+      <point x="123" y="1206"/>
+      <point x="235" y="1409"/>
+      <point x="451" y="1409" type="curve" smooth="yes"/>
+      <point x="1080" y="1409"/>
+      <point x="708" y="117"/>
+      <point x="1163" y="117" type="curve" smooth="yes"/>
+      <point x="1288" y="117"/>
+      <point x="1358" y="241"/>
+      <point x="1358" y="354" type="curve" smooth="yes"/>
+      <point x="1358" y="414"/>
+      <point x="1342" y="473"/>
+      <point x="1331" y="532" type="curve"/>
+      <point x="1464" y="571" type="line"/>
+      <point x="1482" y="508"/>
+      <point x="1495" y="443"/>
+      <point x="1495" y="377" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -20 137</string>
+              <string>hstem 1276 133</string>
+              <string>vstem 123 137</string>
+              <string>vstem 1358 137</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>e8c624cb9279a7baa320b8cc490f79e2bbab80526f710feef076a87889f60373e633daac9d47b3dc4770bcba20289ae16a27a10c7345387b34e11a307549cbc1</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

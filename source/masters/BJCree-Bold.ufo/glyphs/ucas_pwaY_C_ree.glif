@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_pwaYCree" format="2">
+  <advance width="1731"/>
+  <unicode hex="1448"/>
+  <outline>
+    <component base="ucas_pa"/>
+    <component base="ucas_finalmiddledot" xOffset="42" yOffset="528"/>
+    <component base="ucas_finalmiddledot" xOffset="739" yOffset="883"/>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_thwaa" format="2">
+  <advance width="1848"/>
+  <unicode hex="1568"/>
+  <outline>
+    <component base="ucas_tha" xOffset="430"/>
+    <component base="ucas_finalmiddledot" xOffset="20"/>
+    <contour>
+      <point x="1328" y="1929" type="line"/>
+      <point x="1419" y="1929"/>
+      <point x="1494" y="1854"/>
+      <point x="1494" y="1763" type="curve" smooth="yes"/>
+      <point x="1494" y="1670"/>
+      <point x="1421" y="1597"/>
+      <point x="1328" y="1597" type="curve" smooth="yes"/>
+      <point x="1240" y="1597"/>
+      <point x="1161" y="1675"/>
+      <point x="1161" y="1763" type="curve" smooth="yes"/>
+      <point x="1161" y="1850"/>
+      <point x="1241" y="1929"/>
+      <point x="1328" y="1929" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

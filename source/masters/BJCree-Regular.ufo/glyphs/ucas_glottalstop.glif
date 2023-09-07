@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_glottalstop" format="2">
+  <advance width="1013"/>
+  <unicode hex="141E"/>
+  <outline>
+    <component base="ucas_i" xScale="0.603149" yScale="0.618408" xOffset="24" yOffset="543"/>
+  </outline>
+</glyph>

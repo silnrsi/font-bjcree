@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_swa" format="2">
+  <advance width="1713"/>
+  <unicode hex="1500"/>
+  <outline>
+    <component base="ucas_sa" xOffset="403"/>
+    <component base="ucas_finalmiddledot" xOffset="-7"/>
+  </outline>
+</glyph>

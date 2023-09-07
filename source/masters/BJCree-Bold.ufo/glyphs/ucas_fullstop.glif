@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_fullstop" format="2">
+  <advance width="768"/>
+  <unicode hex="166E"/>
+  <outline>
+    <contour>
+      <point x="381" y="373" type="line"/>
+      <point x="489" y="496" type="line"/>
+      <point x="709" y="496" type="line"/>
+      <point x="489" y="246" type="line"/>
+      <point x="705" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+      <point x="381" y="117" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="270" y="246" type="line"/>
+      <point x="53" y="496" type="line"/>
+      <point x="272" y="496" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 496</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w768m381,373l489,496l709,496l489,246l705,0l481,0l381,117l276,0l59,0l270,246l53,496l272,496</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

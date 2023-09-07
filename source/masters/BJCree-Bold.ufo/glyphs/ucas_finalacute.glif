@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finalacute" format="2">
+  <advance width="743"/>
+  <unicode hex="141F"/>
+  <outline>
+    <contour>
+      <point x="305" y="563" type="line"/>
+      <point x="100" y="563" type="line"/>
+      <point x="457" y="1458" type="line"/>
+      <point x="662" y="1458" type="line"/>
+    </contour>
+  </outline>
+</glyph>

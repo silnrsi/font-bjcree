@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_e" format="2">
+  <advance width="1560"/>
+  <unicode hex="1401"/>
+  <outline>
+    <contour>
+      <point x="1510" y="1393" type="line"/>
+      <point x="780" y="-30" type="line"/>
+      <point x="50" y="1393" type="line"/>
+    </contour>
+    <contour>
+      <point x="1297" y="1268" type="line"/>
+      <point x="261" y="1268" type="line"/>
+      <point x="780" y="240" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem -30 41</string>
+              <string>hstem 1393 -125</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w1560m1510,1393l780,-30l50,1393m1297,1268l261,1268l780,240</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

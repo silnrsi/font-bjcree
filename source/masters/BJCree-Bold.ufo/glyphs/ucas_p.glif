@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_p" format="2">
+  <advance width="1026"/>
+  <unicode hex="1449"/>
+  <outline>
+    <contour>
+      <point x="487" y="1010" type="line"/>
+      <point x="905" y="786" type="line"/>
+      <point x="905" y="553" type="line"/>
+      <point x="59" y="1012" type="line"/>
+      <point x="905" y="1470" type="line"/>
+      <point x="905" y="1237" type="line"/>
+    </contour>
+  </outline>
+</glyph>

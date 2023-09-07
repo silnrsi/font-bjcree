@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_yo" format="2">
+  <advance width="1217"/>
+  <unicode hex="152A"/>
+  <outline>
+    <contour>
+      <point x="1024" y="635" type="line"/>
+      <point x="334" y="635" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="63" y="760" type="line"/>
+      <point x="893" y="760" type="line"/>
+      <point x="893" y="1393" type="line"/>
+      <point x="1024" y="1393" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 41</string>
+              <string>hstem 635 125</string>
+              <string>vstem 893 131</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w1217m1024,635l334,635l887,0l725,0l63,760l893,760l893,1393l1024,1393</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

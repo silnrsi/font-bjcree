@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_finalring" format="2">
+  <advance width="868"/>
+  <unicode hex="1424"/>
+  <outline>
+    <contour>
+      <point x="741" y="1042" type="line"/>
+      <point x="741" y="872"/>
+      <point x="605" y="733"/>
+      <point x="434" y="733" type="curve" smooth="yes"/>
+      <point x="269" y="733"/>
+      <point x="127" y="877"/>
+      <point x="127" y="1042" type="curve" smooth="yes"/>
+      <point x="127" y="1211"/>
+      <point x="265" y="1350"/>
+      <point x="434" y="1350" type="curve" smooth="yes"/>
+      <point x="606" y="1350"/>
+      <point x="741" y="1214"/>
+      <point x="741" y="1042" type="curve"/>
+    </contour>
+    <contour>
+      <point x="606" y="1040" type="line"/>
+      <point x="606" y="1136"/>
+      <point x="533" y="1212"/>
+      <point x="436" y="1212" type="curve" smooth="yes"/>
+      <point x="341" y="1212"/>
+      <point x="262" y="1135"/>
+      <point x="262" y="1040" type="curve" smooth="yes"/>
+      <point x="262" y="946"/>
+      <point x="343" y="868"/>
+      <point x="436" y="868" type="curve" smooth="yes"/>
+      <point x="530" y="868"/>
+      <point x="606" y="947"/>
+      <point x="606" y="1040" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 733 135</string>
+              <string>hstem 1212 138</string>
+              <string>vstem 127 135</string>
+              <string>vstem 606 135</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>4449bd59afa5c8b037e433a899a3e80c8df2d98ede70ad41cb16d5cd9f90ef6b0cc651e3d2c152fdd5717ada6b204078d0f9d99cb2a922ca1949146db75ca4b0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_pwi" format="2">
+  <advance width="1760"/>
+  <unicode hex="143C"/>
+  <outline>
+    <component base="ucas_pi" xOffset="190"/>
+    <component base="ucas_finalmiddledot"/>
+  </outline>
+</glyph>

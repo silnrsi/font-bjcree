@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ucas_pi" format="2">
+  <advance width="1579"/>
+  <unicode hex="1431"/>
+  <outline>
+    <contour>
+      <point x="1520" y="0" type="line"/>
+      <point x="1376" y="0" type="line"/>
+      <point x="793" y="1133" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+      <point x="795" y="1405" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.postscript.hints</key>
+      <dict>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>hintSetList</key>
+        <array>
+          <dict>
+            <key>stems</key>
+            <array>
+              <string>hstem 0 41</string>
+            </array>
+          </dict>
+        </array>
+        <key>id</key>
+        <string>w1579m1520,0l1376,0l793,1133l209,0l61,0l795,1405</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
