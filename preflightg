@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Produce individual UFOs from Glyphs files
+psfglyphs2ufo source/masters/BJCree.glyphs source/masters
+
+./preflight
