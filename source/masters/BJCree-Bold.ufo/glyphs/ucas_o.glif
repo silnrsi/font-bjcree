@@ -14,25 +14,4 @@
       <point x="190" y="-15" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem -15 41</string>
-              <string>vstem 190 260</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w1731m450,408l1090,729l450,1050m190,1473l1671,729l190,-15</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

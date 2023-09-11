@@ -2,30 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>com.github.googlei18n.ufo2ft.featureWriters</key>
+  <array>
+    <dict>
+      <key>class</key>
+      <string>KernFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>ContextualMarkFeatureWriter</string>
+      <key>module</key>
+      <string>glyphsLib.featureWriters.markFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>GdefFeatureWriter</string>
+    </dict>
+    <dict>
+      <key>class</key>
+      <string>CursFeatureWriter</string>
+    </dict>
+  </array>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3205</string>
+  <string>3217</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/_latarchE/_latarchW/_latbowlE/_latbowlW/_latcirNE/_latcirNW/_latcirSE/_latcirSW/_latcrossbar/_latcurveNE/_latcurveSE/_latdot/_lathalfserifNW/_lathalfserifSE/_lathalfserifascW/_latserifSE/_latserifSW/_latlongserifSW/_latserifNE/_latserifNW/_latstemNE/_latstemNW/_latstemSE/_latstemSW/_latstemascW/_latstemdescE/_latstemdescW</string>
-    <string>/_kldiagNWSE/_kldiagSE/_kldiagSWNE/_kldiagNW/_klloopflat/_klmidN/uniA901/uniA903/uniA904/uniA910/uniA917/uniA918/uniA91A/uniA91F/uniA923/uniA925</string>
-    <string>/uniA900/uniA901/uniA902/uniA903/uniA904/uniA905/uniA906/uniA907/uniA908/uniA909/uniA90A/uniA90B/uniA90C/uniA90D/uniA90E/uniA90F/uniA910/uniA911/uniA912/uniA913/uniA914/uniA915/uniA916/uniA917/uniA918/uniA919/uniA91A/uniA91B/uniA91C/uniA91D/uniA91E/uniA91F/uniA920/uniA921/uniA922/uniA923/uniA924/uniA925/uniA901/uniA926/uniA901/uniA927/uniA901/uniA928/uniA901/uniA929/uniA901/uniA92A/uniA901/uniA92B/uniA901/uniA92C/uniA901/uniA92D/uniA901/uniA92E/uniA901/uniA92F/uniA901/uniA901</string>
-    <string>/uniA916/uniA91E///uniA916/uniA91E/backslash/uniA916/uniA91E |/uniA916/uniA91E ¦/uniA916/uniA91E/space ?/uniA916/uniA91E ¿/uniA916/uniA91E !/uniA916/uniA91E ¡/uniA916/uniA91E ./uniA916/uniA91E/ellipsis/uniA916/uniA91E ·/uniA916/uniA91E 
-/uniA916/uniA91E ,/uniA916/uniA91E ;/uniA916/uniA91E :/uniA916/uniA91E/uniA916/uniA91E/uniA916/uniA91E/uniA916/uniA91E 
-(/uniA916/uniA91E )(HO)(hog)(853[/uniA916/uniA91E ][HO][hog][853]{/uniA916/uniA91E }{HO}{hog}{853}/space/space</string>
-    <string>"/uniA916/uniA91E '/uniA916/uniA91E/quotesinglbase/quotedblbase/hyphenationpoint</string>
-    <string>/uniA916/uniA917/uniA918/uniA919/uniA921 0102030405060708090Hlf0O</string>
-    <string>/uniA916 ~/uniA916 ^/uniA916/dagger/uniA916/bullet/uniA916/lozenge/uniA916/daggerdbl/uniA916/FontBslnSideBrngMrkrLft/uniA916/FontBslnSideBrngMrkrRt/uniA916</string>
-    <string>0#0/uniA921//H/uniA921 0/fraction 0%0/perthousand 0/approxequal 0=0/notequal 0±0/lessequal 0/greaterequal 0&lt;0&gt;0×0+0/minus 0÷0/infinity 0$£/euro ¥/summation/product/Ohm/Delta ¢µ/partialdiff/pi/florin/integral ¬0/radical 0¤08°0/bulletoperator 00/space</string>
-    <string>/uniA901/uniA916 &amp;/uniA91E H&amp;HS8gHn§n¶</string>
-    <string>1¹%02²3³4/foursuperior ½¼¾</string>
-    <string>0/Ohm/summation/Delta/_latcrossbar/dagger/lozenge</string>
-    <string>~/space/tildecomb/tilde n/openbox n^«»/guilsinglleft/guilsinglright</string>
-    <string>&amp;S§R®C©@/trademark Maªoº</string>
+    <string>/ucas_no/ucas_no/ucas_nooYCree</string>
+    <string>/ucas_ko</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

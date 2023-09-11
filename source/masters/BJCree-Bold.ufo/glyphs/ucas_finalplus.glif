@@ -18,25 +18,4 @@
       <point x="850" y="1050" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>public.postscript.hints</key>
-      <dict>
-        <key>formatVersion</key>
-        <string>1</string>
-        <key>hintSetList</key>
-        <array>
-          <dict>
-            <key>stems</key>
-            <array>
-              <string>hstem 850 200</string>
-              <string>vstem 400 200</string>
-            </array>
-          </dict>
-        </array>
-        <key>id</key>
-        <string>w1000m850,850l600,850l600,600l400,600l400,850l150,850l150,1050l400,1050l400,1300l600,1300l600,1050l850,1050</string>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

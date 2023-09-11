@@ -3,7 +3,7 @@
   <advance width="1560"/>
   <unicode hex="1402"/>
   <outline>
-    <component base="ucas_i" xScale="1.00052" yScale="0.995285"/>
+    <component base="ucas_i" xScale="1.00052" yScale="0.99528"/>
     <contour>
       <point x="780" y="1942" type="line"/>
       <point x="886" y="1942"/>
@@ -35,4 +35,10 @@
       <point x="780" y="1872" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CPP</string>
+    </dict>
+  </lib>
 </glyph>

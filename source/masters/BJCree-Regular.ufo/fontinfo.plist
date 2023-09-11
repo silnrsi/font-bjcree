@@ -13,7 +13,7 @@
   <key>familyName</key>
   <string>BJCree</string>
   <key>openTypeHeadCreated</key>
-  <string>2023/09/07 11:53:45</string>
+  <string>2023/09/11 16:26:11</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>
@@ -214,8 +214,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
         <string>Bill Jancewicz</string>
         <key>role</key>
         <string>Cree glyph design and development</string>
-        <key>url</key>
-        <string/>
       </dict>
       <dict>
         <key>name</key>
