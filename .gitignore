@@ -1,8 +1,8 @@
-*.pyc
-*.log
 *~
+*.glyphs
+*.log
+*.pyc
 *.sw?
-
 
 installed-files.txt
 pysilfont.cfg
