@@ -8,9 +8,10 @@ installed-files.txt
 pysilfont.cfg
 
 /build
+/dev
 /dist
 /local
-/dev
+/results
 /venv
 
 /lib/pysilfont.egg-info
@@ -22,3 +23,4 @@ pysilfont.cfg
 .idea
 
 .DS_Store
+.lock-smithresults
