@@ -32,8 +32,8 @@
   <string>3217</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ucas_no/ucas_no/ucas_nooYCree</string>
-    <string>/ucas_ko</string>
+    <string>/no-cans/no-cans/nooYCree-cans</string>
+    <string>/ko-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
