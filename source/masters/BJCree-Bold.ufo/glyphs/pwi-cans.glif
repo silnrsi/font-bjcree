@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pwi-cans" format="2">
+  <advance width="1760"/>
+  <unicode hex="143C"/>
+  <outline>
+    <component base="pi-cans" xOffset="190"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

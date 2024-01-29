@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="swiWestCree-cans" format="2">
+  <advance width="1585"/>
+  <unicode hex="14F9"/>
+  <outline>
+    <component base="si-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1096"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ywi-cans" format="2">
+  <advance width="1580"/>
+  <unicode hex="1531"/>
+  <outline>
+    <component base="yi-cans" xOffset="369"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

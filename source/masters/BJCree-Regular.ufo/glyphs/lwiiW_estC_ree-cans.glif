@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwiiWestCree-cans" format="2">
+  <advance width="2125"/>
+  <unicode hex="14E1"/>
+  <outline>
+    <component base="li-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1595"/>
+    <component base="finalmiddledot-cans" xOffset="264" yOffset="577"/>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="se-cans" format="2">
+  <advance width="1310"/>
+  <unicode hex="14ED"/>
+  <outline>
+    <contour>
+      <point x="1120" y="0" type="line"/>
+      <point x="860" y="0" type="line"/>
+      <point x="860" y="565" type="line"/>
+      <point x="705" y="565"/>
+      <point x="595" y="575"/>
+      <point x="458" y="657" type="curve" smooth="yes"/>
+      <point x="255" y="778"/>
+      <point x="120" y="998"/>
+      <point x="120" y="1237" type="curve" smooth="yes"/>
+      <point x="120" y="1458" type="line"/>
+      <point x="380" y="1458" type="line"/>
+      <point x="380" y="1239" type="line" smooth="yes"/>
+      <point x="380" y="1170"/>
+      <point x="399" y="1101"/>
+      <point x="431" y="1040" type="curve" smooth="yes"/>
+      <point x="502" y="903"/>
+      <point x="639" y="825"/>
+      <point x="792" y="825" type="curve" smooth="yes"/>
+      <point x="1120" y="825" type="line"/>
+    </contour>
+  </outline>
+</glyph>

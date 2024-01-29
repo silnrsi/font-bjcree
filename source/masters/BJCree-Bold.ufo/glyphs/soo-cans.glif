@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="soo-cans" format="2">
+  <advance width="1310"/>
+  <unicode hex="14F2"/>
+  <outline>
+    <component base="so-cans"/>
+    <contour>
+      <point x="999" y="1929" type="line"/>
+      <point x="1090" y="1929"/>
+      <point x="1165" y="1854"/>
+      <point x="1165" y="1763" type="curve" smooth="yes"/>
+      <point x="1165" y="1670"/>
+      <point x="1092" y="1597"/>
+      <point x="999" y="1597" type="curve" smooth="yes"/>
+      <point x="911" y="1597"/>
+      <point x="832" y="1675"/>
+      <point x="832" y="1763" type="curve" smooth="yes"/>
+      <point x="832" y="1850"/>
+      <point x="912" y="1929"/>
+      <point x="999" y="1929" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kwaWestCree-cans" format="2">
+  <advance width="1508"/>
+  <unicode hex="147F"/>
+  <outline>
+    <component base="ka-cans" xOffset="1"/>
+    <component base="finalmiddledot-cans" xOffset="1003"/>
+  </outline>
+</glyph>

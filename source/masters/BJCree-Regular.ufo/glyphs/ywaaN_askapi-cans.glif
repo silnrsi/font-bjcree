@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ywaaNaskapi-cans" format="2">
+  <advance width="1580"/>
+  <unicode hex="153D"/>
+  <outline>
+    <component base="ya-cans" xOffset="369"/>
+    <component base="finalmiddledot-cans" yOffset="-420"/>
+    <component base="finalmiddledot-cans" yOffset="420"/>
+  </outline>
+</glyph>

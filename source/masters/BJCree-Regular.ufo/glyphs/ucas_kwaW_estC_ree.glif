@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ucas_kwaWestCree" format="2">
-  <advance width="1508"/>
-  <unicode hex="147F"/>
-  <outline>
-    <component base="ucas_ka" xOffset="1"/>
-    <component base="ucas_finalmiddledot" xOffset="1003"/>
-  </outline>
-</glyph>

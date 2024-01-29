@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="waWCree-cans" format="2">
+  <advance width="2135"/>
+  <unicode hex="1418"/>
+  <outline>
+    <component base="a-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1637"/>
+  </outline>
+</glyph>

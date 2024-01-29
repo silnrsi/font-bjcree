@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twiiWestCree-cans" format="2">
+  <advance width="2021"/>
+  <unicode hex="145C"/>
+  <outline>
+    <component base="ti-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1525"/>
+    <contour>
+      <point x="916" y="1675" type="line"/>
+      <point x="916" y="1609"/>
+      <point x="863" y="1554"/>
+      <point x="799" y="1554" type="curve" smooth="yes"/>
+      <point x="735" y="1554"/>
+      <point x="682" y="1610"/>
+      <point x="682" y="1675" type="curve" smooth="yes"/>
+      <point x="682" y="1740"/>
+      <point x="735" y="1795"/>
+      <point x="799" y="1795" type="curve" smooth="yes"/>
+      <point x="863" y="1795"/>
+      <point x="916" y="1740"/>
+      <point x="916" y="1675" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

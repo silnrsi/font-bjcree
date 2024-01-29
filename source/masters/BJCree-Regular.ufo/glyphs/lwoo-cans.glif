@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwoo-cans" format="2">
+  <advance width="1810"/>
+  <unicode hex="14E4"/>
+  <outline>
+    <component base="lo-cans" xOffset="137"/>
+    <component base="finalmiddledot-cans" xOffset="10"/>
+    <contour>
+      <point x="1356" y="1305" type="line"/>
+      <point x="1356" y="1239"/>
+      <point x="1303" y="1184"/>
+      <point x="1239" y="1184" type="curve" smooth="yes"/>
+      <point x="1175" y="1184"/>
+      <point x="1122" y="1240"/>
+      <point x="1122" y="1305" type="curve" smooth="yes"/>
+      <point x="1122" y="1370"/>
+      <point x="1175" y="1425"/>
+      <point x="1239" y="1425" type="curve" smooth="yes"/>
+      <point x="1303" y="1425"/>
+      <point x="1356" y="1370"/>
+      <point x="1356" y="1305" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

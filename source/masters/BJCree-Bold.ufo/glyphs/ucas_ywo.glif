@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ucas_ywo" format="2">
-  <advance width="1845"/>
-  <unicode hex="1535"/>
-  <outline>
-    <component base="ucas_yo" xOffset="430"/>
-    <component base="ucas_finalmiddledot"/>
-  </outline>
-</glyph>

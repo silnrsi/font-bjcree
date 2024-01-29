@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shwoo-cans" format="2">
+  <advance width="2310"/>
+  <unicode hex="151F"/>
+  <outline>
+    <component base="sho-cans" xOffset="377"/>
+    <component base="finalmiddledot-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1102" yOffset="578"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ywaWestCree-cans" format="2">
+  <advance width="1845"/>
+  <unicode hex="153A"/>
+  <outline>
+    <component base="ya-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1332"/>
+  </outline>
+</glyph>

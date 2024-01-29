@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twaWestCree-cans" format="2">
+  <advance width="1588"/>
+  <unicode hex="1462"/>
+  <outline>
+    <component base="ta-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1099"/>
+  </outline>
+</glyph>

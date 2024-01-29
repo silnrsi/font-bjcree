@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nii-cans" format="2">
+  <advance width="1661"/>
+  <unicode hex="14C3"/>
+  <outline>
+    <component base="ni-cans"/>
+    <component base="finalmiddledot-cans" xOffset="264" yOffset="577"/>
+  </outline>
+</glyph>

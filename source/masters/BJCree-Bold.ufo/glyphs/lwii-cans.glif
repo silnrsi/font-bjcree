@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwii-cans" format="2">
+  <advance width="2150"/>
+  <unicode hex="14E0"/>
+  <outline>
+    <component base="li-cans" xOffset="410"/>
+    <component base="finalmiddledot-cans" xOffset="27"/>
+    <contour>
+      <point x="1039" y="1519" type="line"/>
+      <point x="1130" y="1519"/>
+      <point x="1205" y="1444"/>
+      <point x="1205" y="1353" type="curve" smooth="yes"/>
+      <point x="1205" y="1260"/>
+      <point x="1132" y="1187"/>
+      <point x="1039" y="1187" type="curve" smooth="yes"/>
+      <point x="951" y="1187"/>
+      <point x="872" y="1265"/>
+      <point x="872" y="1353" type="curve" smooth="yes"/>
+      <point x="872" y="1440"/>
+      <point x="952" y="1519"/>
+      <point x="1039" y="1519" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

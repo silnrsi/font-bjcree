@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twi-cans" format="2">
+  <advance width="2021"/>
+  <unicode hex="1459"/>
+  <outline>
+    <component base="ti-cans" xOffset="389"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mi-cans" format="2">
+  <advance width="1122"/>
+  <unicode hex="14A5"/>
+  <outline>
+    <contour>
+      <point x="995" y="1268" type="line"/>
+      <point x="322" y="1268" type="line"/>
+      <point x="322" y="0" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="190" y="1393" type="line"/>
+      <point x="995" y="1393" type="line"/>
+    </contour>
+  </outline>
+</glyph>

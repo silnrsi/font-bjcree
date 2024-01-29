@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pa-cans" format="2">
+  <advance width="1731"/>
+  <unicode hex="1438"/>
+  <outline>
+    <contour>
+      <point x="1541" y="1181" type="line"/>
+      <point x="641" y="729" type="line"/>
+      <point x="1541" y="277" type="line"/>
+      <point x="1541" y="-30" type="line"/>
+      <point x="60" y="729" type="line"/>
+      <point x="1541" y="1473" type="line"/>
+    </contour>
+  </outline>
+</glyph>

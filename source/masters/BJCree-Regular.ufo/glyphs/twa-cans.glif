@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="twa-cans" format="2">
+  <advance width="1588"/>
+  <unicode hex="1461"/>
+  <outline>
+    <component base="ta-cans" xOffset="430"/>
+    <component base="finalmiddledot-cans" xOffset="41"/>
+  </outline>
+</glyph>

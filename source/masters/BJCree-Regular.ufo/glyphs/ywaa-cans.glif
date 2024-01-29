@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ywaa-cans" format="2">
+  <advance width="1580"/>
+  <unicode hex="153B"/>
+  <outline>
+    <component base="ya-cans" xOffset="369"/>
+    <component base="finalmiddledot-cans"/>
+    <contour>
+      <point x="742" y="1675" type="line"/>
+      <point x="742" y="1609"/>
+      <point x="689" y="1554"/>
+      <point x="625" y="1554" type="curve" smooth="yes"/>
+      <point x="561" y="1554"/>
+      <point x="508" y="1610"/>
+      <point x="508" y="1675" type="curve" smooth="yes"/>
+      <point x="508" y="1740"/>
+      <point x="561" y="1795"/>
+      <point x="625" y="1795" type="curve" smooth="yes"/>
+      <point x="689" y="1795"/>
+      <point x="742" y="1740"/>
+      <point x="742" y="1675" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

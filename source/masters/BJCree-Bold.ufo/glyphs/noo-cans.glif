@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="noo-cans" format="2">
+  <advance width="1720"/>
+  <unicode hex="14C5"/>
+  <outline>
+    <component base="no-cans"/>
+    <contour>
+      <point x="1139" y="1519" type="line"/>
+      <point x="1230" y="1519"/>
+      <point x="1305" y="1444"/>
+      <point x="1305" y="1353" type="curve" smooth="yes"/>
+      <point x="1305" y="1260"/>
+      <point x="1232" y="1187"/>
+      <point x="1139" y="1187" type="curve" smooth="yes"/>
+      <point x="1051" y="1187"/>
+      <point x="972" y="1265"/>
+      <point x="972" y="1353" type="curve" smooth="yes"/>
+      <point x="972" y="1440"/>
+      <point x="1052" y="1519"/>
+      <point x="1139" y="1519" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+    </dict>
+  </lib>
+</glyph>

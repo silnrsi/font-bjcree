@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kwa-cans" format="2">
+  <advance width="1508"/>
+  <unicode hex="147E"/>
+  <outline>
+    <component base="ka-cans" xOffset="361"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

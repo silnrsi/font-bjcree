@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mh-cans" format="2">
+  <advance width="836"/>
+  <unicode hex="14BD"/>
+  <outline>
+    <contour>
+      <point x="127" y="604" type="line"/>
+      <point x="709" y="604" type="line"/>
+      <point x="709" y="1450" type="line"/>
+      <point x="576" y="1450" type="line"/>
+      <point x="576" y="733" type="line"/>
+      <point x="127" y="733" type="line"/>
+    </contour>
+  </outline>
+</glyph>

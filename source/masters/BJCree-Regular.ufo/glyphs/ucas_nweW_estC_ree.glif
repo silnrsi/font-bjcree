@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ucas_nweWestCree" format="2">
-  <advance width="2125"/>
-  <unicode hex="14CA"/>
-  <outline>
-    <component base="ucas_ne"/>
-    <component base="ucas_finalmiddledot" xOffset="1595"/>
-  </outline>
-</glyph>

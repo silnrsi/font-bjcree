@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mwa-cans" format="2">
+  <advance width="1655"/>
+  <unicode hex="14B6"/>
+  <outline>
+    <component base="ma-cans" xOffset="403"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

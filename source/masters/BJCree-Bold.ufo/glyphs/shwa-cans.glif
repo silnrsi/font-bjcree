@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shwa-cans" format="2">
+  <advance width="2378"/>
+  <unicode hex="1521"/>
+  <outline>
+    <component base="sha-cans" xOffset="377"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
+</glyph>

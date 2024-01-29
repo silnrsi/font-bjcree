@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalplus-cans" format="2">
+  <advance width="1000"/>
+  <unicode hex="1429"/>
+  <outline>
+    <contour>
+      <point x="850" y="850" type="line"/>
+      <point x="600" y="850" type="line"/>
+      <point x="600" y="600" type="line"/>
+      <point x="400" y="600" type="line"/>
+      <point x="400" y="850" type="line"/>
+      <point x="150" y="850" type="line"/>
+      <point x="150" y="1050" type="line"/>
+      <point x="400" y="1050" type="line"/>
+      <point x="400" y="1300" type="line"/>
+      <point x="600" y="1300" type="line"/>
+      <point x="600" y="1050" type="line"/>
+      <point x="850" y="1050" type="line"/>
+    </contour>
+  </outline>
+</glyph>

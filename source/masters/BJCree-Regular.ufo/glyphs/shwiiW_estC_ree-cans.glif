@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shwiiWestCree-cans" format="2">
+  <advance width="2012"/>
+  <unicode hex="151C"/>
+  <outline>
+    <component base="finalmiddledot-cans" xOffset="1503"/>
+    <component base="shi-cans"/>
+    <contour>
+      <point x="1282" y="1675" type="line"/>
+      <point x="1282" y="1609"/>
+      <point x="1229" y="1554"/>
+      <point x="1165" y="1554" type="curve" smooth="yes"/>
+      <point x="1101" y="1554"/>
+      <point x="1048" y="1610"/>
+      <point x="1048" y="1675" type="curve" smooth="yes"/>
+      <point x="1048" y="1740"/>
+      <point x="1101" y="1795"/>
+      <point x="1165" y="1795" type="curve" smooth="yes"/>
+      <point x="1229" y="1795"/>
+      <point x="1282" y="1740"/>
+      <point x="1282" y="1675" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
+</glyph>

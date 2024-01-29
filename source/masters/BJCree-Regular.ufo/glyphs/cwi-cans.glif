@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cwi-cans" format="2">
+  <advance width="1508"/>
+  <unicode hex="1494"/>
+  <outline>
+    <component base="ci-cans" xOffset="382"/>
+    <component base="finalmiddledot-cans" xOffset="10"/>
+  </outline>
+</glyph>

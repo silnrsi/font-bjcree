@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalgrave-cans" format="2">
+  <advance width="743"/>
+  <unicode hex="1420"/>
+  <outline>
+    <contour>
+      <point x="457" y="563" type="line"/>
+      <point x="98" y="1458" type="line"/>
+      <point x="303" y="1458" type="line"/>
+      <point x="662" y="563" type="line"/>
+    </contour>
+  </outline>
+</glyph>

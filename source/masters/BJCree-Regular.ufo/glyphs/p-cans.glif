@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="p-cans" format="2">
+  <advance width="1034"/>
+  <unicode hex="1449"/>
+  <outline>
+    <contour>
+      <point x="907" y="598" type="line"/>
+      <point x="63" y="1038" type="line"/>
+      <point x="907" y="1475" type="line"/>
+      <point x="905" y="1323" type="line"/>
+      <point x="352" y="1036" type="line"/>
+      <point x="905" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

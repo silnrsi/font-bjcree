@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwii-cans" format="2">
+  <advance width="2125"/>
+  <unicode hex="14E0"/>
+  <outline>
+    <component base="li-cans" xOffset="410"/>
+    <component base="finalmiddledot-cans" xOffset="27"/>
+    <component base="finalmiddledot-cans" xOffset="696" yOffset="594"/>
+  </outline>
+</glyph>

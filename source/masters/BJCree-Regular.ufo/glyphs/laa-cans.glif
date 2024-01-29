@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="laa-cans" format="2">
+  <advance width="1661"/>
+  <unicode hex="14DB"/>
+  <outline>
+    <component base="la-cans"/>
+    <component base="finalmiddledot-cans" xOffset="278" yOffset="584"/>
+  </outline>
+</glyph>

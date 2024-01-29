@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lwaaWestCree-cans" format="2">
+  <advance width="1810"/>
+  <unicode hex="14E9"/>
+  <outline>
+    <component base="la-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1279"/>
+    <component base="finalmiddledot-cans" xOffset="278" yOffset="584"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="swi-cans" format="2">
+  <advance width="1713"/>
+  <unicode hex="14F8"/>
+  <outline>
+    <component base="si-cans" xOffset="403"/>
+    <component base="finalmiddledot-cans" xOffset="1" yOffset="-6"/>
+  </outline>
+</glyph>

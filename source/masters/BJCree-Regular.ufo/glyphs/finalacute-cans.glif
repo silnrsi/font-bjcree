@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="finalacute-cans" format="2">
+  <advance width="743"/>
+  <unicode hex="141F"/>
+  <outline>
+    <contour>
+      <point x="258" y="874" type="line"/>
+      <point x="127" y="874" type="line"/>
+      <point x="483" y="1450" type="line"/>
+      <point x="616" y="1450" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ya-cans" format="2">
+  <advance width="1415"/>
+  <unicode hex="152D"/>
+  <outline>
+    <contour>
+      <point x="450" y="859" type="line"/>
+      <point x="1355" y="859" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+      <point x="786" y="599" type="line"/>
+      <point x="190" y="599" type="line"/>
+      <point x="190" y="1458" type="line"/>
+      <point x="450" y="1458" type="line"/>
+    </contour>
+  </outline>
+</glyph>

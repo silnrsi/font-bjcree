@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mweWestCree-cans" format="2">
+  <advance width="1500"/>
+  <unicode hex="14AD"/>
+  <outline>
+    <component base="me-cans" yOffset="1"/>
+    <component base="finalmiddledot-cans" xOffset="1004"/>
+  </outline>
+</glyph>
