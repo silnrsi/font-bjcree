@@ -4,41 +4,7 @@
   <unicode hex="1435"/>
   <outline>
     <component base="po-cans"/>
-    <contour>
-      <point x="1156" y="1675" type="line"/>
-      <point x="1156" y="1609"/>
-      <point x="1103" y="1554"/>
-      <point x="1039" y="1554" type="curve" smooth="yes"/>
-      <point x="975" y="1554"/>
-      <point x="922" y="1610"/>
-      <point x="922" y="1675" type="curve" smooth="yes"/>
-      <point x="922" y="1740"/>
-      <point x="975" y="1795"/>
-      <point x="1039" y="1795" type="curve" smooth="yes"/>
-      <point x="1103" y="1795"/>
-      <point x="1156" y="1740"/>
-      <point x="1156" y="1675" type="curve"/>
-    </contour>
-    <contour>
-      <point x="566" y="1675" type="line"/>
-      <point x="566" y="1609"/>
-      <point x="513" y="1554"/>
-      <point x="449" y="1554" type="curve" smooth="yes"/>
-      <point x="385" y="1554"/>
-      <point x="332" y="1610"/>
-      <point x="332" y="1675" type="curve" smooth="yes"/>
-      <point x="332" y="1740"/>
-      <point x="385" y="1795"/>
-      <point x="449" y="1795" type="curve" smooth="yes"/>
-      <point x="513" y="1795"/>
-      <point x="566" y="1740"/>
-      <point x="566" y="1675" type="curve"/>
-    </contour>
+    <component base="finalmiddledot-cans" xOffset="794" yOffset="978"/>
+    <component base="finalmiddledot-cans" xOffset="204" yOffset="978"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CPP</string>
-    </dict>
-  </lib>
 </glyph>

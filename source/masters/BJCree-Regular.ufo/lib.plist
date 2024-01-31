@@ -29,11 +29,10 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3217</string>
+  <string>3234</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/no-cans/no-cans/nooYCree-cans</string>
-    <string>/ko-cans</string>
+    <string>/pa-cans/paa-cans/paai-cans/pe-cans/pi-cans/pii-cans/po-cans/poo-cans/pooYCree-cans/pwa-cans/pwaWestCree-cans/pwaYCree-cans/pwaa-cans/pwaaWestCree-cans/pwe-cans/pweWestCree-cans/pwi-cans/pwiWestCree-cans/pwii-cans/pwiiWestCree-cans/pwo-cans/pwoWestCree-cans/pwoo-cans/pwooWestCree-cans/s-cans.small/spaNaskapi-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -6,6 +6,8 @@
   <string>_heightcontrol.glif</string>
   <key>NARROWSPACE</key>
   <string>N_A_R_R_O_W_S_P_A_C_E_.glif</string>
+  <key>_ring</key>
+  <string>_ring.glif</string>
   <key>a-cans</key>
   <string>a-cans.glif</string>
   <key>aa-cans</key>
@@ -464,6 +466,8 @@
   <string>rwaaW_estC_ree-cans.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
+  <key>s-cans.small</key>
+  <string>s-cans.small.glif</string>
   <key>sAthapaskan-cans</key>
   <string>sA_thapaskan-cans.glif</string>
   <key>sBlackfoot-cans</key>
