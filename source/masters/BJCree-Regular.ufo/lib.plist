@@ -25,14 +25,48 @@
   </array>
   <key>com.schriftgestaltung.Glyphs.fontUserData</key>
   <dict>
+    <key>GSDontShowVersionAlert</key>
+    <integer>1</integer>
     <key>com.schriftgestaltung.Glyphs.groupsNotInFeature</key>
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3234</string>
+  <string>3236</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/pa-cans/paa-cans/paai-cans/pe-cans/pi-cans/pii-cans/po-cans/poo-cans/pooYCree-cans/pwa-cans/pwaWestCree-cans/pwaYCree-cans/pwaa-cans/pwaaWestCree-cans/pwe-cans/pweWestCree-cans/pwi-cans/pwiWestCree-cans/pwii-cans/pwiiWestCree-cans/pwo-cans/pwoWestCree-cans/pwoo-cans/pwooWestCree-cans/s-cans.small/spaNaskapi-cans</string>
+    <string>/aai-cans/wi-cans/wiWCree-cans/wii-cans/wiiWCree-cans 
+/e-cans/we-cans/weWCree-cans 
+/o-cans/oo-cans/wo-cans/woWCree-cans/wooWCree-cans/wooNaskapi-cans/woo-cans/ooYCree-cans 
+/a-cans/aa-cans/wa-cans/waWCree-cans/waa-cans/waaNaskapi-cans/waaWCree-cans 
+</string>
+    <string>/pi-cans/pii-cans/paai-cans/pwi-cans/pwiWestCree-cans/pwii-cans/pwiiWestCree-cans 
+/pe-cans/pwe-cans/pweWestCree-cans 
+/pa-cans/paa-cans/pwa-cans/pwaWestCree-cans/pwaYCree-cans/pwaa-cans/pwaaWestCree-cans/spaNaskapi-cans 
+/po-cans/poo-cans/pwo-cans/pwoWestCree-cans/pooYCree-cans/pwoo-cans/pwooWestCree-cans</string>
+    <string>/fi-cans/fii-cans/faai-cans 
+/fe-cans 
+/fa-cans/faa-cans/fwaa-cans/fwaaWestCree-cans/f-cans 
+/fo-cans/foo-cans</string>
+    <string>/co-cans/coo-cans/cooYCree-cans/cwo-cans/cwoWestCree-cans/cwoo-cans/cwooWestCree-cans 
+/c-cans/ca-cans/caa-cans/cwa-cans/cwaWestCree-cans/cwaa-cans/cwaaNaskapi-cans/cwaaWestCree-cans 
+/caai-cans/ci-cans/cii-cans/cwi-cans/cwiWestCree-cans/cwii-cans/cwiiWestCree-cans 
+/ce-cans/cwe-cans/cweWestCree-cans 
+/la-cans/laa-cans/lwa-cans/lwaWestCree-cans/lwaa-cans/lwaaWestCree-cans 
+/laai-cans/li-cans/lii-cans/lwi-cans/lwiWestCree-cans/lwii-cans/lwiiWestCree-cans 
+/lo-cans/loo-cans/looYCree-cans/lwo-cans/lwoWestCree-cans/lwoo-cans/lwooWestCree-cans 
+/le-cans/lwe-cans/lweWestCree-cans</string>
+    <string>/ma-cans/maa-cans/mwa-cans/mwaWestCree-cans/mwaa-cans/mwaaNaskapi-cans/mwaaWestCree-cans/m-cans 
+/mo-cans/moo-cans/mwo-cans/mwoWestCree-cans/mwoo-cans/mwooWestCree-cans/mooYCree-cans/mh-cans 
+/maai-cans/mi-cans/mii-cans/mwi-cans/mwiWestCree-cans/mwii-cans/mwiiWestCree-cans 
+/me-cans/mwe-cans/mweWestCree-cans</string>
+    <string>/ka-cans/kaa-cans/kwa-cans/kwaWestCree-cans/kwaa-cans/kwaaNaskapi-cans/kwaaWestCree-cans/k-cans 
+/koo-cans/kwo-cans/kwoWestCree-cans/kwoo-cans/kwooWestCree-cans/kooYCree-cans/kw-cans 
+/ki-cans/kii-cans/kaai-cans/kwi-cans/kwiWestCree-cans/kwii-cans/kwiiWestCree-cans 
+/ke-cans/kwe-cans/kweWestCree-cans 
+/na-cans/naa-cans/nwa-cans/nwaWestCree-cans/nwaa-cans/nwaaNaskapi-cans/nwaaWestCree-cans/n-cans 
+/noo-cans/nh-cans 
+/ni-cans/nii-cans/naai-cans 
+/ne-cans/nwe-cans/nweWestCree-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
