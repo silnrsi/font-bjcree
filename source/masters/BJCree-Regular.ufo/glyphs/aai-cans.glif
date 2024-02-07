@@ -4,6 +4,6 @@
   <unicode hex="1402"/>
   <outline>
     <component base="i-cans" xScale="1.00052" yScale="0.99528"/>
-    <component base="_ring" xOffset="588"/>
+    <component base="_ring" xOffset="588" yOffset="3"/>
   </outline>
 </glyph>

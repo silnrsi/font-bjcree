@@ -4,6 +4,6 @@
   <unicode hex="1411"/>
   <outline>
     <component base="wiWCree-cans"/>
-    <component base="finalmiddledot-cans" xOffset="539" yOffset="977"/>
+    <component base="finalmiddledot-cans" xOffset="539" yOffset="976"/>
   </outline>
 </glyph>
