@@ -30,9 +30,25 @@
       <key>y</key>
       <integer>1551</integer>
     </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>x</key>
+      <integer>42</integer>
+      <key>y</key>
+      <integer>1187</integer>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>x</key>
+      <integer>41</integer>
+      <key>y</key>
+      <integer>1061</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/07 15:39:55</string>
+  <string>2024/02/08 15:18:06</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

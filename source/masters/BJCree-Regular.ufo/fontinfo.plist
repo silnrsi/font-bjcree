@@ -22,9 +22,25 @@
       <key>y</key>
       <integer>1554</integer>
     </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>x</key>
+      <integer>58</integer>
+      <key>y</key>
+      <integer>1162</integer>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>x</key>
+      <integer>61</integer>
+      <key>y</key>
+      <integer>1011</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/07 15:39:55</string>
+  <string>2024/02/08 15:18:05</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

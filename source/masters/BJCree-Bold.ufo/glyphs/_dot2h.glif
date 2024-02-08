@@ -2,8 +2,8 @@
 <glyph name="_dot2h" format="2">
   <advance width="1585"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="891" yOffset="1022"/>
     <component base="finalmiddledot-cans" xOffset="301" yOffset="1022"/>
+    <component base="finalmiddledot-cans" xOffset="891" yOffset="1022"/>
   </outline>
   <lib>
     <dict>

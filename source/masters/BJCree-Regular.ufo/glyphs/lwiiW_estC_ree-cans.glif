@@ -5,6 +5,6 @@
   <outline>
     <component base="li-cans"/>
     <component base="finalmiddledot-cans" xOffset="1595"/>
-    <component base="finalmiddledot-cans" xOffset="264" yOffset="577"/>
+    <component base="_dotAbove" xOffset="510" yOffset="-392"/>
   </outline>
 </glyph>

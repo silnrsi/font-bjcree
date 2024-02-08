@@ -5,26 +5,6 @@
   <outline>
     <component base="lo-cans"/>
     <component base="finalmiddledot-cans" xOffset="1595"/>
-    <contour>
-      <point x="1206" y="1305" type="line"/>
-      <point x="1206" y="1239"/>
-      <point x="1153" y="1184"/>
-      <point x="1089" y="1184" type="curve" smooth="yes"/>
-      <point x="1025" y="1184"/>
-      <point x="972" y="1240"/>
-      <point x="972" y="1305" type="curve" smooth="yes"/>
-      <point x="972" y="1370"/>
-      <point x="1025" y="1425"/>
-      <point x="1089" y="1425" type="curve" smooth="yes"/>
-      <point x="1153" y="1425"/>
-      <point x="1206" y="1370"/>
-      <point x="1206" y="1305" type="curve"/>
-    </contour>
+    <component base="_dotAbove" xOffset="1089" yOffset="-392"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCP</string>
-    </dict>
-  </lib>
 </glyph>

@@ -4,26 +4,6 @@
   <unicode hex="14DB"/>
   <outline>
     <component base="la-cans"/>
-    <contour>
-      <point x="609" y="1519" type="line"/>
-      <point x="700" y="1519"/>
-      <point x="775" y="1444"/>
-      <point x="775" y="1353" type="curve" smooth="yes"/>
-      <point x="775" y="1260"/>
-      <point x="702" y="1187"/>
-      <point x="609" y="1187" type="curve" smooth="yes"/>
-      <point x="521" y="1187"/>
-      <point x="442" y="1265"/>
-      <point x="442" y="1353" type="curve" smooth="yes"/>
-      <point x="442" y="1440"/>
-      <point x="522" y="1519"/>
-      <point x="609" y="1519" type="curve"/>
-    </contour>
+    <component base="_dotAbove" xOffset="609" yOffset="-410"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
-    </dict>
-  </lib>
 </glyph>
