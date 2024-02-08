@@ -4,6 +4,6 @@
   <unicode hex="1491"/>
   <outline>
     <component base="ca-cans" xOffset="41"/>
-    <component base="_dotAbove" xOffset="289"/>
+    <component base="_dotabove" xOffset="289"/>
   </outline>
 </glyph>

@@ -4,6 +4,6 @@
   <unicode hex="148F"/>
   <outline>
     <component base="co-cans"/>
-    <component base="_dot2h" xOffset="-206"/>
+    <component base="_dot2hclose"/>
   </outline>
 </glyph>

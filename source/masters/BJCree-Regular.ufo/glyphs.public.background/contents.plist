@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>cooYCree-cans</key>
-  <string>cooY_C_ree-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
   <key>th-cans</key>

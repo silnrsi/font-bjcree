@@ -3,7 +3,7 @@
   <advance width="1624"/>
   <unicode hex="149A"/>
   <outline>
-    <component base="_dotAbove" xOffset="1301"/>
+    <component base="_dotabove" xOffset="1301"/>
     <component base="cwo-cans"/>
   </outline>
 </glyph>
