@@ -4,6 +4,6 @@
   <unicode hex="14C5"/>
   <outline>
     <component base="no-cans"/>
-    <component base="finalmiddledot-cans" xOffset="899" yOffset="585"/>
+    <component base="_dotabove" xOffset="1145" yOffset="-392"/>
   </outline>
 </glyph>
