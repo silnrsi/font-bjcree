@@ -5,26 +5,6 @@
   <outline>
     <component base="ti-cans"/>
     <component base="finalmiddledot-cans" xOffset="1624"/>
-    <contour>
-      <point x="860" y="1929" type="line"/>
-      <point x="951" y="1929"/>
-      <point x="1026" y="1854"/>
-      <point x="1026" y="1763" type="curve" smooth="yes"/>
-      <point x="1026" y="1670"/>
-      <point x="953" y="1597"/>
-      <point x="860" y="1597" type="curve" smooth="yes"/>
-      <point x="772" y="1597"/>
-      <point x="693" y="1675"/>
-      <point x="693" y="1763" type="curve" smooth="yes"/>
-      <point x="693" y="1850"/>
-      <point x="773" y="1929"/>
-      <point x="860" y="1929" type="curve"/>
-    </contour>
+    <component base="finalmiddledot-cans" xOffset="611" yOffset="1022"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCP</string>
-    </dict>
-  </lib>
 </glyph>

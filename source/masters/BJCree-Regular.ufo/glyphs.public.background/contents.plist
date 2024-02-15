@@ -4,6 +4,8 @@
 <dict>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
+  <key>ta-cans</key>
+  <string>ta-cans.glif</string>
   <key>th-cans</key>
   <string>th-cans.glif</string>
 </dict>

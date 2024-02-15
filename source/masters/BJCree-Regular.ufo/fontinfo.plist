@@ -38,9 +38,17 @@
       <key>y</key>
       <integer>1011</integer>
     </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>x</key>
+      <integer>68</integer>
+      <key>y</key>
+      <integer>578</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/15 15:09:20</string>
+  <string>2024/02/15 15:30:30</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

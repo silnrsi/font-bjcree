@@ -4,41 +4,6 @@
   <unicode hex="1452"/>
   <outline>
     <component base="to-cans"/>
-    <contour>
-      <point x="336" y="1675" type="line"/>
-      <point x="336" y="1609"/>
-      <point x="283" y="1554"/>
-      <point x="219" y="1554" type="curve" smooth="yes"/>
-      <point x="155" y="1554"/>
-      <point x="102" y="1610"/>
-      <point x="102" y="1675" type="curve" smooth="yes"/>
-      <point x="102" y="1740"/>
-      <point x="155" y="1795"/>
-      <point x="219" y="1795" type="curve" smooth="yes"/>
-      <point x="283" y="1795"/>
-      <point x="336" y="1740"/>
-      <point x="336" y="1675" type="curve"/>
-    </contour>
-    <contour>
-      <point x="806" y="1675" type="line"/>
-      <point x="806" y="1609"/>
-      <point x="753" y="1554"/>
-      <point x="689" y="1554" type="curve" smooth="yes"/>
-      <point x="625" y="1554"/>
-      <point x="572" y="1610"/>
-      <point x="572" y="1675" type="curve" smooth="yes"/>
-      <point x="572" y="1740"/>
-      <point x="625" y="1795"/>
-      <point x="689" y="1795" type="curve" smooth="yes"/>
-      <point x="753" y="1795"/>
-      <point x="806" y="1740"/>
-      <point x="806" y="1675" type="curve"/>
-    </contour>
+    <component base="_dot2hclose" xOffset="-180"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CPP</string>
-    </dict>
-  </lib>
 </glyph>

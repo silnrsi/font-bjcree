@@ -73,6 +73,10 @@
 /ri-cans/rii-cans/raai-cans 
 /re-cans 
 /reRCree-cans</string>
+    <string>/te-cans/twe-cans/tweWestCree-cans 
+/ti-cans/tii-cans/twi-cans/twiWestCree-cans/twii-cans/twiiWestCree-cans/taai-cans 
+/to-cans/too-cans/tooYCree-cans/two-cans/twoWestCree-cans/twoo-cans/twooWestCree-cans/deeCarrier-cans/diCarrier-cans 
+/ta-cans/taa-cans/twa-cans/twaWestCree-cans/twaa-cans/twaaWestCree-cans/twaNaskapi-cans/t-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
