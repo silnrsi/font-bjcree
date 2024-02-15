@@ -4,6 +4,6 @@
   <unicode hex="1547"/>
   <outline>
     <component base="ri-cans"/>
-    <component base="finalmiddledot-cans" xOffset="284" yOffset="594"/>
+    <component base="finalmiddledot-cans" xOffset="284" yOffset="584"/>
   </outline>
 </glyph>
