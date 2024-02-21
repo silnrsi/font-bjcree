@@ -40,15 +40,15 @@
     </dict>
     <dict>
       <key>angle</key>
-      <integer>0</integer>
+      <integer>270</integer>
       <key>x</key>
-      <integer>68</integer>
+      <integer>64</integer>
       <key>y</key>
-      <integer>578</integer>
+      <integer>1067</integer>
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/02/15 15:30:30</string>
+  <string>2024/02/21 15:39:38</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

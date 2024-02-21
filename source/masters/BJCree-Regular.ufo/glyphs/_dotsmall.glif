@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_dotsmall" format="2">
+  <advance width="600"/>
+  <outline>
+    <component base="finalmiddledot-cans" xScale="0.92" yScale="0.92" xOffset="151" yOffset="503"/>
+  </outline>
+</glyph>

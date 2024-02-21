@@ -4,6 +4,10 @@
 <dict>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
+  <key>si-cans</key>
+  <string>si-cans.glif</string>
+  <key>skwNaskapi-cans</key>
+  <string>skwN_askapi-cans.glif</string>
   <key>ta-cans</key>
   <string>ta-cans.glif</string>
   <key>th-cans</key>

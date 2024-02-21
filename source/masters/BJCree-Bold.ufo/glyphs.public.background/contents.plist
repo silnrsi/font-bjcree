@@ -4,6 +4,14 @@
 <dict>
   <key>s-cans</key>
   <string>s-cans.glif</string>
+  <key>se-cans</key>
+  <string>se-cans.glif</string>
+  <key>si-cans</key>
+  <string>si-cans.glif</string>
+  <key>skwNaskapi-cans</key>
+  <string>skwN_askapi-cans.glif</string>
+  <key>swNaskapi-cans</key>
+  <string>swN_askapi-cans.glif</string>
   <key>th-cans</key>
   <string>th-cans.glif</string>
 </dict>

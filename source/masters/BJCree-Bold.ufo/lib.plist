@@ -51,7 +51,7 @@
 /c-cans/ca-cans/caa-cans/cwa-cans/cwaWestCree-cans/cwaa-cans/cwaaNaskapi-cans/cwaaWestCree-cans 
 /caai-cans/ci-cans/cii-cans/cwi-cans/cwiWestCree-cans/cwii-cans/cwiiWestCree-cans 
 /ce-cans/cwe-cans/cweWestCree-cans 
-/la-cans/laa-cans/lwa-cans/lwaWestCree-cans/lwaa-cans/lwaaWestCree-cans 
+/la-cans/laa-cans/lwa-cans/lwaWestCree-cans/lwaa-cans/lwaaWestCree-cans/l-cans 
 /laai-cans/li-cans/lii-cans/lwi-cans/lwiWestCree-cans/lwii-cans/lwiiWestCree-cans 
 /lo-cans/loo-cans/looYCree-cans/lwo-cans/lwoWestCree-cans/lwoo-cans/lwooWestCree-cans 
 /le-cans/lwe-cans/lweWestCree-cans</string>
@@ -77,6 +77,11 @@
 /ti-cans/tii-cans/twi-cans/twiWestCree-cans/twii-cans/twiiWestCree-cans/taai-cans 
 /to-cans/too-cans/tooYCree-cans/two-cans/twoWestCree-cans/twoo-cans/twooWestCree-cans/deeCarrier-cans/diCarrier-cans 
 /ta-cans/taa-cans/twa-cans/twaWestCree-cans/twaa-cans/twaaWestCree-cans/twaNaskapi-cans/t-cans</string>
+    <string>/se-cans/swe-cans/sweWestCree-cans 
+/si-cans/sii-cans/swii-cans/swiiWestCree-cans/saai-cans/swi-cans/swiWestCree-cans 
+/so-cans/soo-cans/swoo-cans/swooWestCree-cans/sooYCree-cans/swo-cans/swoWestCree-cans/skwNaskapi-cans/sw-cans 
+/sa-cans/saa-cans/swaa-cans/swaaWestCree-cans/swa-cans/swaWestCree-cans/swaaNaskapi-cans/skMooseCree-cans/swNaskapi-cans/s-cans 
+/sAthapaskan-cans/sBlackfoot-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
