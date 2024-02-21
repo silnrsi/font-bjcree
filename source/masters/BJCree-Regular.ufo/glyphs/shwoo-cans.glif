@@ -3,8 +3,7 @@
   <advance width="2310"/>
   <unicode hex="151F"/>
   <outline>
-    <component base="sho-cans" xOffset="377"/>
     <component base="finalmiddledot-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1102" yOffset="578"/>
+    <component base="shoo-cans" xOffset="377"/>
   </outline>
 </glyph>

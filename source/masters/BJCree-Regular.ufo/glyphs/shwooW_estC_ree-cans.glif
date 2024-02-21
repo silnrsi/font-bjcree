@@ -4,7 +4,6 @@
   <unicode hex="1520"/>
   <outline>
     <component base="finalmiddledot-cans" xOffset="1783"/>
-    <component base="sho-cans"/>
-    <component base="finalmiddledot-cans" xOffset="722" yOffset="572"/>
+    <component base="shoo-cans"/>
   </outline>
 </glyph>

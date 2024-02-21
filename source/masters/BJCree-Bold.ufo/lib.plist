@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>GSOffsetHorizontal</key>
+  <integer>130</integer>
+  <key>GSOffsetMakeStroke</key>
+  <integer>1</integer>
+  <key>GSOffsetVertical</key>
+  <integer>130</integer>
   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
   <array>
     <dict>
@@ -82,6 +88,10 @@
 /so-cans/soo-cans/swoo-cans/swooWestCree-cans/sooYCree-cans/swo-cans/swoWestCree-cans/skwNaskapi-cans/sw-cans 
 /sa-cans/saa-cans/swaa-cans/swaaWestCree-cans/swa-cans/swaWestCree-cans/swaaNaskapi-cans/skMooseCree-cans/swNaskapi-cans/s-cans 
 /sAthapaskan-cans/sBlackfoot-cans</string>
+    <string>/she-cans/shwe-cans/shweWestCree-cans/shwe-cans/shweWestCree-cans 
+/shi-cans/shii-cans/shwi-cans/shwiWestCree-cans/shwii-cans/shwiiWestCree-cans 
+/sho-cans/shoo-cans/shwo-cans/shwoWestCree-cans/shwoo-cans/shwooWestCree-cans 
+/sha-cans/shaa-cans/shwa-cans/shwaWestCree-cans/shwaa-cans/shwaaWestCree-cans/sh-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
