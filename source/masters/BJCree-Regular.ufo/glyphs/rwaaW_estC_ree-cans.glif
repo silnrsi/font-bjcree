@@ -3,28 +3,7 @@
   <advance width="1508"/>
   <unicode hex="154F"/>
   <outline>
-    <component base="ra-cans"/>
     <component base="finalmiddledot-cans" xOffset="1032"/>
-    <contour>
-      <point x="1006" y="1675" type="line"/>
-      <point x="1006" y="1609"/>
-      <point x="953" y="1554"/>
-      <point x="889" y="1554" type="curve" smooth="yes"/>
-      <point x="825" y="1554"/>
-      <point x="772" y="1610"/>
-      <point x="772" y="1675" type="curve" smooth="yes"/>
-      <point x="772" y="1740"/>
-      <point x="825" y="1795"/>
-      <point x="889" y="1795" type="curve" smooth="yes"/>
-      <point x="953" y="1795"/>
-      <point x="1006" y="1740"/>
-      <point x="1006" y="1675" type="curve"/>
-    </contour>
+    <component base="raa-cans"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCP</string>
-    </dict>
-  </lib>
 </glyph>
