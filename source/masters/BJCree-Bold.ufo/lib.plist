@@ -37,7 +37,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3241</string>
+  <string>3301</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/aai-cans/wi-cans/wiWCree-cans/wii-cans/wiiWCree-cans 
@@ -97,6 +97,12 @@
 /yo-cans/yoo-cans/yooYCree-cans/ywo-cans/ywoWestCree-cans/ywoo-cans/ywooWestCree-cans 
 /ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/y-cans 
 /yBibleCree-cans/yWestCree-cans/yiSayisi-cans</string>
+    <string>/_fe-ring 
+/fe-cans 
+/fi-cans/fii-cans/faai-cans 
+/i-cans/fo-cans/foo-cans 
+/fa-cans/faa-cans/fwaa-cans/fwaaWestCree-cans/f-cans</string>
+    <string>/co-cans/cwooWestCree-cans/fe-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

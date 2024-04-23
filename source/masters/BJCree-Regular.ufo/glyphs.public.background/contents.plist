@@ -2,6 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>f-cans</key>
+  <string>f-cans.glif</string>
+  <key>fa-cans</key>
+  <string>fa-cans.glif</string>
+  <key>fe-cans</key>
+  <string>fe-cans.glif</string>
+  <key>fi-cans</key>
+  <string>fi-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
   <key>sha-cans</key>

@@ -3,38 +3,6 @@
   <advance width="1580"/>
   <unicode hex="1559"/>
   <outline>
-    <contour>
-      <point x="1497" y="-30" type="line"/>
-      <point x="1497" y="118" type="line"/>
-      <point x="356" y="696" type="line"/>
-      <point x="1022" y="1100" type="line"/>
-      <point x="1008" y="971"/>
-      <point x="1140" y="870"/>
-      <point x="1260" y="870" type="curve" smooth="yes"/>
-      <point x="1396" y="870"/>
-      <point x="1497" y="980"/>
-      <point x="1497" y="1114" type="curve" smooth="yes"/>
-      <point x="1497" y="1243"/>
-      <point x="1401" y="1360"/>
-      <point x="1268" y="1360" type="curve" smooth="yes"/>
-      <point x="1210" y="1360"/>
-      <point x="1156" y="1335"/>
-      <point x="1108" y="1307" type="curve" smooth="yes"/>
-      <point x="82" y="696" type="line"/>
-    </contour>
-    <contour>
-      <point x="1251" y="993" type="curve" smooth="yes"/>
-      <point x="1187" y="993"/>
-      <point x="1139" y="1055"/>
-      <point x="1139" y="1116" type="curve" smooth="yes"/>
-      <point x="1139" y="1179"/>
-      <point x="1195" y="1235"/>
-      <point x="1257" y="1235" type="curve" smooth="yes"/>
-      <point x="1321" y="1235"/>
-      <point x="1372" y="1176"/>
-      <point x="1372" y="1114" type="curve" smooth="yes"/>
-      <point x="1372" y="1051"/>
-      <point x="1315" y="993"/>
-    </contour>
+    <component base="fo-cans" xScale="-1" xOffset="1579"/>
   </outline>
 </glyph>
