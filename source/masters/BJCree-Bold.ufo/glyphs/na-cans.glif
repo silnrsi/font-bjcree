@@ -3,36 +3,12 @@
   <advance width="1720"/>
   <unicode hex="14C7"/>
   <outline>
-    <contour>
-      <point x="590" y="0" type="curve" smooth="yes"/>
-      <point x="1600" y="0" type="line"/>
-      <point x="1600" y="260" type="line"/>
-      <point x="1011" y="260" type="line"/>
-      <point x="1043" y="324"/>
-      <point x="1061" y="395"/>
-      <point x="1061" y="467" type="curve" smooth="yes"/>
-      <point x="1061" y="728"/>
-      <point x="853" y="942"/>
-      <point x="590" y="942" type="curve" smooth="yes"/>
-      <point x="323" y="942"/>
-      <point x="120" y="732"/>
-      <point x="120" y="467" type="curve" smooth="yes"/>
-      <point x="120" y="210"/>
-      <point x="334" y="0"/>
-    </contour>
-    <contour>
-      <point x="590" y="248" type="curve" smooth="yes"/>
-      <point x="467" y="248"/>
-      <point x="370" y="344"/>
-      <point x="370" y="467" type="curve" smooth="yes"/>
-      <point x="370" y="590"/>
-      <point x="468" y="684"/>
-      <point x="590" y="684" type="curve" smooth="yes"/>
-      <point x="710" y="684"/>
-      <point x="807" y="587"/>
-      <point x="807" y="467" type="curve" smooth="yes"/>
-      <point x="807" y="349"/>
-      <point x="709" y="248"/>
-    </contour>
+    <component base="ka-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="135" yOffset="-190"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>

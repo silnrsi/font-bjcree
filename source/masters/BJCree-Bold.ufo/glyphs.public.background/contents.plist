@@ -14,8 +14,16 @@
   <string>fe-cans.glif</string>
   <key>fi-cans</key>
   <string>fi-cans.glif</string>
+  <key>finalrighthalfring-cans</key>
+  <string>finalrighthalfring-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
+  <key>na-cans</key>
+  <string>na-cans.glif</string>
+  <key>ni-cans</key>
+  <string>ni-cans.glif</string>
+  <key>no-cans</key>
+  <string>no-cans.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
   <key>se-cans</key>

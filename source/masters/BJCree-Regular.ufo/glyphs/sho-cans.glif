@@ -5,4 +5,10 @@
   <outline>
     <component base="she-cans" xScale="0.72023" xyScale="0.69373" yxScale="-0.69373" yScale="0.72023" xOffset="866" yOffset="-695"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
 </glyph>
