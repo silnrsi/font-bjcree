@@ -4,41 +4,12 @@
   <unicode hex="14C6"/>
   <outline>
     <component base="no-cans"/>
-    <contour>
-      <point x="899" y="1519" type="curve"/>
-      <point x="990" y="1519"/>
-      <point x="1065" y="1444"/>
-      <point x="1065" y="1353" type="curve" smooth="yes"/>
-      <point x="1065" y="1260"/>
-      <point x="992" y="1187"/>
-      <point x="899" y="1187" type="curve" smooth="yes"/>
-      <point x="811" y="1187"/>
-      <point x="732" y="1265"/>
-      <point x="732" y="1353" type="curve" smooth="yes"/>
-      <point x="732" y="1440"/>
-      <point x="812" y="1519"/>
-    </contour>
-    <contour>
-      <point x="1369" y="1519" type="curve"/>
-      <point x="1460" y="1519"/>
-      <point x="1535" y="1444"/>
-      <point x="1535" y="1353" type="curve" smooth="yes"/>
-      <point x="1535" y="1260"/>
-      <point x="1462" y="1187"/>
-      <point x="1369" y="1187" type="curve" smooth="yes"/>
-      <point x="1281" y="1187"/>
-      <point x="1202" y="1265"/>
-      <point x="1202" y="1353" type="curve" smooth="yes"/>
-      <point x="1202" y="1440"/>
-      <point x="1282" y="1519"/>
-    </contour>
+    <component base="_dot2hclose" xOffset="431" yOffset="-410"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CPP</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

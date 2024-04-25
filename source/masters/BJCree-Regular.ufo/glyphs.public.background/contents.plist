@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>c-cans</key>
+  <string>c-cans.glif</string>
   <key>f-cans</key>
   <string>f-cans.glif</string>
   <key>fa-cans</key>
@@ -10,28 +12,46 @@
   <string>fe-cans.glif</string>
   <key>fi-cans</key>
   <string>fi-cans.glif</string>
+  <key>finalbottom-cans</key>
+  <string>finalbottom-cans.glif</string>
   <key>finalrighthalfring-cans</key>
   <string>finalrighthalfring-cans.glif</string>
+  <key>finaltophalfring-cans</key>
+  <string>finaltophalfring-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
   <key>ke-cans</key>
   <string>ke-cans.glif</string>
   <key>ki-cans</key>
   <string>ki-cans.glif</string>
+  <key>ko-cans</key>
+  <string>ko-cans.glif</string>
   <key>na-cans</key>
   <string>na-cans.glif</string>
+  <key>ngCarrier-cans</key>
+  <string>ngC_arrier-cans.glif</string>
   <key>ni-cans</key>
   <string>ni-cans.glif</string>
   <key>no-cans</key>
   <string>no-cans.glif</string>
+  <key>nooYCree-cans</key>
+  <string>nooY_C_ree-cans.glif</string>
+  <key>p-cans</key>
+  <string>p-cans.glif</string>
+  <key>scwaNaskapi-cans</key>
+  <string>scwaN_askapi-cans.glif</string>
   <key>sha-cans</key>
   <string>sha-cans.glif</string>
   <key>she-cans</key>
   <string>she-cans.glif</string>
   <key>si-cans</key>
   <string>si-cans.glif</string>
+  <key>skaNaskapi-cans</key>
+  <string>skaN_askapi-cans.glif</string>
   <key>skwNaskapi-cans</key>
   <string>skwN_askapi-cans.glif</string>
+  <key>staNaskapi-cans</key>
+  <string>staN_askapi-cans.glif</string>
   <key>ta-cans</key>
   <string>ta-cans.glif</string>
   <key>th-cans</key>

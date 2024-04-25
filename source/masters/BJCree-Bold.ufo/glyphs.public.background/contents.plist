@@ -16,16 +16,30 @@
   <string>fi-cans.glif</string>
   <key>finalrighthalfring-cans</key>
   <string>finalrighthalfring-cans.glif</string>
+  <key>finalring-cans</key>
+  <string>finalring-cans.glif</string>
+  <key>finaltophalfring-cans</key>
+  <string>finaltophalfring-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
+  <key>ko-cans</key>
+  <string>ko-cans.glif</string>
   <key>na-cans</key>
   <string>na-cans.glif</string>
+  <key>ngCarrier-cans</key>
+  <string>ngC_arrier-cans.glif</string>
   <key>ni-cans</key>
   <string>ni-cans.glif</string>
   <key>no-cans</key>
   <string>no-cans.glif</string>
+  <key>nooYCree-cans</key>
+  <string>nooY_C_ree-cans.glif</string>
+  <key>p-cans</key>
+  <string>p-cans.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
+  <key>scwaNaskapi-cans</key>
+  <string>scwaN_askapi-cans.glif</string>
   <key>se-cans</key>
   <string>se-cans.glif</string>
   <key>sha-cans</key>
@@ -36,8 +50,12 @@
   <string>sho-cans.glif</string>
   <key>si-cans</key>
   <string>si-cans.glif</string>
+  <key>skaNaskapi-cans</key>
+  <string>skaN_askapi-cans.glif</string>
   <key>skwNaskapi-cans</key>
   <string>skwN_askapi-cans.glif</string>
+  <key>staNaskapi-cans</key>
+  <string>staN_askapi-cans.glif</string>
   <key>swNaskapi-cans</key>
   <string>swN_askapi-cans.glif</string>
   <key>th-cans</key>
