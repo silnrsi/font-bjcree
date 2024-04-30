@@ -3,30 +3,13 @@
   <advance width="1632"/>
   <unicode hex="1569"/>
   <outline>
-    <component base="tha-cans"/>
     <component base="finalmiddledot-cans" xOffset="1167"/>
-    <contour>
-      <point x="1056" y="1675" type="line"/>
-      <point x="1056" y="1609"/>
-      <point x="1003" y="1554"/>
-      <point x="939" y="1554" type="curve" smooth="yes"/>
-      <point x="875" y="1554"/>
-      <point x="822" y="1610"/>
-      <point x="822" y="1675" type="curve" smooth="yes"/>
-      <point x="822" y="1740"/>
-      <point x="875" y="1795"/>
-      <point x="939" y="1795" type="curve" smooth="yes"/>
-      <point x="1003" y="1795"/>
-      <point x="1056" y="1740"/>
-      <point x="1056" y="1675" type="curve"/>
-    </contour>
+    <component base="thaa-cans"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCP</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.04,0.57,0.04,1</string>
     </dict>
   </lib>
 </glyph>

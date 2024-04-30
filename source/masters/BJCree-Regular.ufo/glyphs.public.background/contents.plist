@@ -56,5 +56,25 @@
   <string>ta-cans.glif</string>
   <key>th-cans</key>
   <string>th-cans.glif</string>
+  <key>tha-cans</key>
+  <string>tha-cans.glif</string>
+  <key>thaa-cans</key>
+  <string>thaa-cans.glif</string>
+  <key>the-cans</key>
+  <string>the-cans.glif</string>
+  <key>thi-cans</key>
+  <string>thi-cans.glif</string>
+  <key>thii-cans</key>
+  <string>thii-cans.glif</string>
+  <key>tho-cans</key>
+  <string>tho-cans.glif</string>
+  <key>thoo-cans</key>
+  <string>thoo-cans.glif</string>
+  <key>thwaa-cans</key>
+  <string>thwaa-cans.glif</string>
+  <key>thwaaWestCree-cans</key>
+  <string>thwaaW_estC_ree-cans.glif</string>
+  <key>wYCree-cans</key>
+  <string>wY_C_ree-cans.glif</string>
 </dict>
 </plist>

@@ -101,6 +101,8 @@
 /ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/y-cans 
 /yBibleCree-cans/yWestCree-cans/yiSayisi-cans</string>
     <string>/finalacute-cans/finalgrave-cans/finalring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
+    <string>/the-cans/thi-cans/thii-cans/tho-cans/thoo-cans/tha-cans/thaa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
+    <string>/cheeCarrier-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
