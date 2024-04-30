@@ -4,6 +4,8 @@
 <dict>
   <key>.heightcontrol</key>
   <string>_heightcontrol.glif</string>
+  <key>.notdef</key>
+  <string>_notdef.glif</string>
   <key>NARROWSPACE</key>
   <string>N_A_R_R_O_W_S_P_A_C_E_.glif</string>
   <key>_dot2h</key>

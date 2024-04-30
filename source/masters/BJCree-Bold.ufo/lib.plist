@@ -102,7 +102,12 @@
 /yBibleCree-cans/yWestCree-cans/yiSayisi-cans</string>
     <string>/finalacute-cans/finalgrave-cans/finalring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
     <string>/the-cans/thi-cans/thii-cans/tho-cans/thoo-cans/tha-cans/thaa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
-    <string>/cheeCarrier-cans</string>
+    <string>/i-cans/glottalstop-cans/p-cans/pWestCree-cans/t-cans 
+/k-cans/kw-cans/n-cans/nh-cans 
+/c-cans/thSayisi-cans/m-cans/mh-cans/l-cans/s-cans/sw-cans/skMooseCree-cans/skwNaskapi-cans/sh-cans/y-cans/r-cans/f-cans/th-cans 
+/mWestCree-cans/finalrighthalfring-cans/ngCarrier-cans/finalbottom-cans/finaltophalfring-cans/finalring-cans 
+/finalacute-cans/finalgrave-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalmiddledot-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
+    <string>/.notdef/eCarrier-cans/iCarrier-cans/en-cans/in-cans/on-cans/an-cans/heeCarrier-cans/hiCarrier-cans/hCarrier-cans/deeCarrier-cans/diCarrier-cans/tte-cans/tti-cans/tto-cans/tta-cans/keSouthSlavey-cans/kiSouthSlavey-cans/koSouthSlavey-cans/kahSouthSlavey-cans/mAthapascan-cans/mSayisi-cans/lWestCree-cans/lMedial-cans/sAthapaskan-cans/sBlackfoot-cans/yBibleCree-cans/yWestCree-cans/yiSayisi-cans/leWestCree-cans/loWestCree-cans/laWestCree-cans/rWestCree-cans/rMedial-cans/theNCree-cans/thiNCree-cans/thiiNCree-cans/tthe-cans/tthi-cans/ttho-cans/ttha-cans/tth-cans/tsaCarrier-cans/chuCarrier-cans/choCarrier-cans/cheCarrier-cans/cheeCarrier-cans/chiCarrier-cans/chaCarrier-cans/ttsuCarrier-cans/ttsoCarrier-cans/ttseCarrier-cans/ttseeCarrier-cans/ttsiCarrier-cans/ttsaCarrier-cans/qai-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
