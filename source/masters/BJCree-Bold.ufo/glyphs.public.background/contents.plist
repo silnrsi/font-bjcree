@@ -4,6 +4,8 @@
 <dict>
   <key>_fe-ring</key>
   <string>_fe-ring.glif</string>
+  <key>_ring</key>
+  <string>_ring.glif</string>
   <key>co-cans</key>
   <string>co-cans.glif</string>
   <key>f-cans</key>

@@ -37,7 +37,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3303</string>
+  <string>3306</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/i-cans/ii-cans/aai-cans/wi-cans/wiWCree-cans/wii-cans/wiiWCree-cans/glottalstop-cans 
@@ -55,7 +55,7 @@
 /fa-cans/faa-cans/fwaa-cans/fwaaWestCree-cans/f-cans 
 /fo-cans/foo-cans 
 </string>
-    <string>/co-cans/coo-cans/cooYCree-cans/cwo-cans/cwoWestCree-cans/finalmiddledot-cans/cwoo-cans/cwooWestCree-cans/thSayisi-cans 
+    <string>/co-cans/coo-cans/cooYCree-cans/cwo-cans/cwoWestCree-cans/finalmiddledot-cans/cwoo-cans/co-cans/cwooWestCree-cans/c-cans/thSayisi-cans 
 /c-cans/ca-cans/caa-cans/cwa-cans/cwaWestCree-cans/cwaa-cans/cwaaNaskapi-cans/cwaaWestCree-cans/scwaNaskapi-cans 
 /caai-cans/ci-cans/cii-cans/cwi-cans/cwiWestCree-cans/cwii-cans/cwiiWestCree-cans 
 /ce-cans/cwe-cans/cweWestCree-cans 
@@ -100,14 +100,21 @@
 /yo-cans/yoo-cans/yooYCree-cans/ywo-cans/ywoWestCree-cans/ywoo-cans/ywooWestCree-cans 
 /ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/y-cans 
 /yBibleCree-cans/yWestCree-cans/yiSayisi-cans</string>
-    <string>/finalacute-cans/finalgrave-cans/finalring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
     <string>/the-cans/thi-cans/thii-cans/tho-cans/thoo-cans/tha-cans/thaa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
     <string>/i-cans/glottalstop-cans/p-cans/pWestCree-cans/t-cans 
 /k-cans/kw-cans/n-cans/nh-cans 
 /c-cans/thSayisi-cans/m-cans/mh-cans/l-cans/s-cans/sw-cans/skMooseCree-cans/skwNaskapi-cans/sh-cans/y-cans/r-cans/f-cans/th-cans 
 /mWestCree-cans/finalrighthalfring-cans/ngCarrier-cans/finalbottom-cans/finaltophalfring-cans/finalring-cans 
 /finalacute-cans/finalgrave-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalmiddledot-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
-    <string>/.notdef/eCarrier-cans/iCarrier-cans/en-cans/in-cans/on-cans/an-cans/heeCarrier-cans/hiCarrier-cans/hCarrier-cans/deeCarrier-cans/diCarrier-cans/tte-cans/tti-cans/tto-cans/tta-cans/keSouthSlavey-cans/kiSouthSlavey-cans/koSouthSlavey-cans/kahSouthSlavey-cans/mAthapascan-cans/mSayisi-cans/lWestCree-cans/lMedial-cans/sAthapaskan-cans/sBlackfoot-cans/yBibleCree-cans/yWestCree-cans/yiSayisi-cans/leWestCree-cans/loWestCree-cans/laWestCree-cans/rWestCree-cans/rMedial-cans/theNCree-cans/thiNCree-cans/thiiNCree-cans/tthe-cans/tthi-cans/ttho-cans/ttha-cans/tth-cans/tsaCarrier-cans/chuCarrier-cans/choCarrier-cans/cheCarrier-cans/cheeCarrier-cans/chiCarrier-cans/chaCarrier-cans/ttsuCarrier-cans/ttsoCarrier-cans/ttseCarrier-cans/ttseeCarrier-cans/ttsiCarrier-cans/ttsaCarrier-cans/qai-cans</string>
+    <string>/wYCree-cans/oo-cans/ooYCree-cans/wooNaskapi-cans/space/nbspace/narrowspace/NARROWSPACE/_ring/wo-cans/woo-cans/saai-cans/th-cans/skMooseCree-cans/paai-cans</string>
+    <string>/coo-cans/cooYCree-cans/cwoo-cans/cwooWestCree-cans/caa-cans/cwaa-cans/cwaaWestCree-cans</string>
+    <string>/wooNaskapi-cans/waaNaskapi-cans/twaNaskapi-cans/kwaaNaskapi-cans/cwaaNaskapi-cans/mwaaNaskapi-cans/nwaaNaskapi-cans/swaaNaskapi-cans/swNaskapi-cans/spaNaskapi-cans/ywaaNaskapi-cans</string>
+    <string>/la-cans/laa-cans/lwa-cans/lwaWestCree-cans/lwaa-cans/lwaaWestCree-cans/l-cans/laai-cans/li-cans/lii-cans/lwi-cans/lwiWestCree-cans/lwii-cans/lwiiWestCree-cans/lo-cans/loo-cans/looYCree-cans/ne-cans/nwe-cans/nweWestCree-cans/lwo-cans/i-cans/lwoWestCree-cans/lo-cans/lwoo-cans/lwooWestCree-cans/le-cans/lwe-cans/lweWestCree-cans</string>
+    <string>/ooYCree-cans/wYCree-cans/pooYCree-cans/pwaYCree-cans/tooYCree-cans/kooYCree-cans/cooYCree-cans/mooYCree-cans/nooYCree-cans/looYCree-cans/sooYCree-cans/yooYCree-cans</string>
+    <string>/i-cans/aai-cans/wYCree-cans/paai-cans/taai-cans/kaai-cans/caai-cans/naai-cans/laai-cans/saai-cans/yaai-cans/raai-cans/faai-cans/_ring</string>
+    <string>/_ring/_ring/aai-cans/aai-cans 
+/_ring/_ring/ii-cans/aai-cans/paai-cans/tii-cans/taai-cans/kaai-cans/caai-cans/naai-cans/laai-cans/saai-cans/yaai-cans/raai-cans/faai-cans/wYCree-cans 
+/_ring/_ring/ii-cans/aai-cans/paai-cans/tii-cans/taai-cans/kaai-cans/caai-cans/naai-cans/laai-cans/saai-cans/yaai-cans/raai-cans/faai-cans/wYCree-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

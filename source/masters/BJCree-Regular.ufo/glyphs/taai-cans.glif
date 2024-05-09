@@ -4,7 +4,7 @@
   <unicode hex="144D"/>
   <outline>
     <component base="ti-cans"/>
-    <component base="_ring" xOffset="595" yOffset="3"/>
+    <component base="_ring" xOffset="599" yOffset="3"/>
   </outline>
   <lib>
     <dict>
