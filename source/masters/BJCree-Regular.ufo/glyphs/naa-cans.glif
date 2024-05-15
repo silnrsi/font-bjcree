@@ -4,7 +4,7 @@
   <unicode hex="14C8"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_dotabove" xOffset="528" yOffset="-392"/>
+    <component base="_dotabove" xOffset="528" yOffset="-594"/>
   </outline>
   <lib>
     <dict>

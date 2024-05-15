@@ -5,7 +5,7 @@
   <outline>
     <component base="lo-cans" xOffset="137"/>
     <component base="finalmiddledot-cans" xOffset="10"/>
-    <component base="_dotabove" xOffset="1240" yOffset="-392"/>
+    <component base="_dotabove" xOffset="1240" yOffset="-594"/>
   </outline>
   <lib>
     <dict>

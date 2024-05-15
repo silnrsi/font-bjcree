@@ -36,7 +36,7 @@
       <key>x</key>
       <integer>-58</integer>
       <key>y</key>
-      <integer>1187</integer>
+      <integer>1049</integer>
     </dict>
     <dict>
       <key>angle</key>
@@ -44,7 +44,7 @@
       <key>x</key>
       <integer>-59</integer>
       <key>y</key>
-      <integer>1061</integer>
+      <integer>927</integer>
     </dict>
     <dict>
       <key>angle</key>
@@ -56,7 +56,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/05/09 16:38:34</string>
+  <string>2024/05/15 16:44:48</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

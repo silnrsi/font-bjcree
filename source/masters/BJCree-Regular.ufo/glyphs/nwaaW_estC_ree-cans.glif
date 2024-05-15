@@ -6,7 +6,7 @@
     <component base="na-cans"/>
     <component base="finalmiddledot-cans" xOffset="1303"/>
     <component base="finalmiddledot-cans" xOffset="1303"/>
-    <component base="_dotabove" xOffset="530" yOffset="-392"/>
+    <component base="_dotabove" xOffset="530" yOffset="-594"/>
   </outline>
   <lib>
     <dict>
