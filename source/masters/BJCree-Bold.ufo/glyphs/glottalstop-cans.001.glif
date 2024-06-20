@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="glottalstop-cans.001" format="2">
+  <advance width="1013"/>
+  <outline>
+    <component base="i-cans" xScale="0.60315" yScale="0.61841" xOffset="24" yOffset="543"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

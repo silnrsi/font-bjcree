@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sh-cans" format="2">
+  <outline>
+    <contour>
+      <point x="328" y="811" type="curve" smooth="yes"/>
+      <point x="505" y="811"/>
+      <point x="778" y="1135"/>
+      <point x="920" y="1135" type="curve" smooth="yes"/>
+      <point x="957" y="1135"/>
+      <point x="989" y="1104"/>
+      <point x="989" y="1067" type="curve" smooth="yes"/>
+      <point x="989" y="1002"/>
+      <point x="929" y="964"/>
+      <point x="879" y="936" type="curve"/>
+      <point x="932" y="817" type="line"/>
+      <point x="1034" y="876"/>
+      <point x="1116" y="942"/>
+      <point x="1116" y="1071" type="curve" smooth="yes"/>
+      <point x="1116" y="1173"/>
+      <point x="1024" y="1257"/>
+      <point x="924" y="1257" type="curve" smooth="yes"/>
+      <point x="727" y="1257"/>
+      <point x="450" y="942"/>
+      <point x="322" y="942" type="curve" smooth="yes"/>
+      <point x="284" y="942"/>
+      <point x="248" y="973"/>
+      <point x="248" y="1012" type="curve" smooth="yes"/>
+      <point x="248" y="1080"/>
+      <point x="310" y="1105"/>
+      <point x="360" y="1133" type="curve"/>
+      <point x="309" y="1255" type="line"/>
+      <point x="213" y="1206"/>
+      <point x="123" y="1119"/>
+      <point x="123" y="1004" type="curve" smooth="yes"/>
+      <point x="123" y="897"/>
+      <point x="225" y="811"/>
+    </contour>
+    <contour>
+      <point x="335" y="1193" type="move"/>
+      <point x="210" y="1143"/>
+      <point x="145" y="1037"/>
+      <point x="206" y="951" type="curve" smooth="yes"/>
+      <point x="305" y="811"/>
+      <point x="456" y="914"/>
+      <point x="608" y="1024" type="curve" smooth="yes"/>
+      <point x="771" y="1142"/>
+      <point x="936" y="1266"/>
+      <point x="1016" y="1154" type="curve" smooth="yes"/>
+      <point x="1070" y="1078"/>
+      <point x="1060" y="968"/>
+      <point x="914" y="878" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

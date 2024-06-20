@@ -37,7 +37,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3306</string>
+  <string>3310</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/i-cans/ii-cans/aai-cans/wi-cans/wiWCree-cans/wii-cans/wiiWCree-cans/glottalstop-cans 
@@ -101,11 +101,6 @@
 /ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/y-cans 
 /yBibleCree-cans/yWestCree-cans/yiSayisi-cans</string>
     <string>/the-cans/thi-cans/thii-cans/tho-cans/thoo-cans/tha-cans/thaa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
-    <string>/i-cans/glottalstop-cans/p-cans/pWestCree-cans/t-cans 
-/k-cans/kw-cans/n-cans/nh-cans 
-/c-cans/thSayisi-cans/m-cans/mh-cans/l-cans/s-cans/sw-cans/skMooseCree-cans/skwNaskapi-cans/sh-cans/y-cans/r-cans/f-cans/th-cans 
-/mWestCree-cans/finalrighthalfring-cans/ngCarrier-cans/finalbottom-cans/finaltophalfring-cans/finalring-cans 
-/finalacute-cans/finalgrave-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalmiddledot-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
     <string>/wYCree-cans/oo-cans/ooYCree-cans/wooNaskapi-cans/space/nbspace/narrowspace/NARROWSPACE/_ring/wo-cans/woo-cans/saai-cans/th-cans/skMooseCree-cans/paai-cans</string>
     <string>/coo-cans/cooYCree-cans/cwoo-cans/cwooWestCree-cans/caa-cans/cwaa-cans/cwaaWestCree-cans</string>
     <string>/wooNaskapi-cans/waaNaskapi-cans/twaNaskapi-cans/kwaaNaskapi-cans/cwaaNaskapi-cans/mwaaNaskapi-cans/nwaaNaskapi-cans/swaaNaskapi-cans/swNaskapi-cans/spaNaskapi-cans/ywaaNaskapi-cans</string>
@@ -120,6 +115,10 @@
     <string>/nii-cans/noo-cans/nooYCree-cans/naa-cans/naai-cans/nwe-cans/nweWestCree-cans/nwa-cans/nwaWestCree-cans/nwaa-cans/nwaaWestCree-cans/nwaaNaskapi-cans/lii-cans/laai-cans/loo-cans/looYCree-cans/laa-cans/lwe-cans/lweWestCree-cans/lwi-cans/lwiWestCree-cans/lwii-cans/lwiiWestCree-cans/lwo-cans/lwoWestCree-cans/lwoo-cans/lwooWestCree-cans/lwa-cans/lwaWestCree-cans/lwaa-cans/lwaaWestCree-cans/shoo-cans/shaa-cans/shwo-cans/shwoWestCree-cans/shwoo-cans/shwooWestCree-cans/shwa-cans/shwaWestCree-cans/shwaa-cans/shwaaWestCree-cans/rii-cans/raai-cans</string>
     <string>/ii-cans/tii-cans/space/shoo-cans/shaa-cans/shwoo-cans/shwooWestCree-cans/shwaa-cans/shwaaWestCree-cans/rii-cans/raai-cans 
 /ii-cans/tii-cans/space/shoo-cans/shaa-cans/shwoo-cans/shwooWestCree-cans/shwaa-cans/shwaaWestCree-cans/rii-cans/raai-cans</string>
+    <string>/a-cans/n-cans/ta-cans/space/ma-cans/o-cans/c-cans/space/ni-cans/s-cans/ti-cans/m-cans/space/a-cans/s-cans/kw-cans/space/a-cans/ka-cans/space/o-cans/ci-cans/space/ti-cans/kwaaNaskapi-cans/c-cans/space/ca-cans/kwaaNaskapi-cans/n-cans/space/sa-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/fullstop-cans/space/ci-cans/narrowspace/narrowspace/wi-cans/ca-cans/waaNaskapi-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/waaNaskapi-cans/space/ki-cans/ya-cans/space/wi-cans/y-cans/space/ci-cans/narrowspace/narrowspace/a-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/finalring-cans/space/a-cans/n-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/fullstop-cans/space/space/mo-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/finalring-cans/space/a-cans/n-cans/space/ma-cans/k-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/space/ka-cans/narrowspace/narrowspace/i-cans/si-cans/ni-cans/finalmiddledot-cans/ka-cans/so-cans/t-cans/space/sa-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/ki-cans/ya-cans/space/ci-cans/narrowspace/narrowspace/wi-cans/ca-cans/waaNaskapi-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/waaNaskapi-cans/fullstop-cans 
+/a-cans/n-cans/ta-cans/space/ma-cans/o-cans/c-cans/space/ni-cans/s-cans/ti-cans/m-cans/space/a-cans/s-cans/kw-cans/space/a-cans/ka-cans/space/o-cans/ci-cans/space/ti-cans/kwaaNaskapi-cans/c-cans/space/ca-cans/kwaaNaskapi-cans/n-cans/space/sa-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/fullstop-cans/space/ci-cans/narrowspace/narrowspace/wi-cans/ca-cans/waaNaskapi-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/waaNaskapi-cans/space/ki-cans/ya-cans/space/wi-cans/y-cans/space/ci-cans/narrowspace/narrowspace/a-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/finalring-cans/space/a-cans/n-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/fullstop-cans/space/space/mo-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/finalring-cans/space/a-cans/n-cans/space/ma-cans/k-cans/space/i-cans/yi-cans/mo-cans/o-cans/n-cans/space/ka-cans/narrowspace/narrowspace/i-cans/si-cans/ni-cans/finalmiddledot-cans/ka-cans/so-cans/t-cans/space/sa-cans/s-cans/space/ci-cans/narrowspace/narrowspace/ta-cans/finalring-cans/space/ki-cans/ya-cans/space/ci-cans/narrowspace/narrowspace/wi-cans/ca-cans/waaNaskapi-cans/finalring-cans/space/ci-cans/sa-cans/ma-cans/ni-cans/to-cans/waaNaskapi-cans/fullstop-cans 
+</string>
+    <string>/ai-cans/i-cans/glottalstop-cans/glottalstop-cans.001/p-cans/t-cans/k-cans/kw-cans/n-cans/nh-cans/c-cans/thSayisi-cans/l-cans/m-cans/mh-cans/s-cans/sw-cans/skMooseCree-cans/skwNaskapi-cans/sh-cans/ye-cans/y-cans/r-cans/f-cans/th-cans/finalring-cans/ngCarrier-cans/ngCarrier-cans/finalbottom-cans/finaltophalfring-cans/t-cans/mWestCree-cans/finalrighthalfring-cans/finalacute-cans/finalgrave-cans/finaldbleacute-cans/pWestCree-cans/finaldbleshortvstrokes-cans/finalshorthstroke-cans/finalplus-cans/finaldowntack-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

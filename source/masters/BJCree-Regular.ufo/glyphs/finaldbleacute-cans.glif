@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finaldbleacute-cans" format="2">
-  <advance width="1053"/>
+  <advance width="1054"/>
   <unicode hex="1425"/>
   <outline>
-    <component base="finalacute-cans" xOffset="350"/>
+    <component base="finalacute-cans" xOffset="297"/>
     <component base="finalacute-cans"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

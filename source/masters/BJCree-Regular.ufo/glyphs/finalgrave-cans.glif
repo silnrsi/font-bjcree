@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalgrave-cans" format="2">
-  <advance width="743"/>
+  <advance width="757"/>
   <unicode hex="1420"/>
   <outline>
-    <contour>
-      <point x="485" y="874" type="line"/>
-      <point x="127" y="1450" type="line"/>
-      <point x="258" y="1450" type="line"/>
-      <point x="616" y="874" type="line"/>
-    </contour>
+    <component base="finalacute-cans" xScale="-1" xOffset="757"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>

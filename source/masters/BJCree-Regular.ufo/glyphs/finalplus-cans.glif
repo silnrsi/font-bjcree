@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalplus-cans" format="2">
-  <advance width="1181"/>
+  <advance width="994"/>
   <unicode hex="1429"/>
   <outline>
     <contour>
-      <point x="953" y="895" type="line"/>
-      <point x="631" y="895" type="line"/>
-      <point x="631" y="597" type="line"/>
-      <point x="512" y="597" type="line"/>
-      <point x="512" y="895" type="line"/>
-      <point x="213" y="895" type="line"/>
-      <point x="213" y="1010" type="line"/>
-      <point x="512" y="1010" type="line"/>
-      <point x="512" y="1317" type="line"/>
-      <point x="631" y="1317" type="line"/>
-      <point x="631" y="1010" type="line"/>
-      <point x="953" y="1010" type="line"/>
+      <point x="127" y="1015" type="line"/>
+      <point x="127" y="890" type="line"/>
+      <point x="867" y="890" type="line"/>
+      <point x="867" y="1015" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="1323" type="line"/>
+      <point x="435" y="1323" type="line"/>
+      <point x="435" y="583" type="line"/>
+      <point x="560" y="583" type="line"/>
+    </contour>
+    <contour>
+      <point x="560" y="150" type="line"/>
+      <point x="435" y="150" type="line"/>
+      <point x="435" y="-426" type="line"/>
+      <point x="560" y="-426" type="line"/>
+    </contour>
+    <contour>
+      <point x="786" y="-200" type="line"/>
+      <point x="786" y="-75" type="line"/>
+      <point x="210" y="-75" type="line"/>
+      <point x="210" y="-200" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
+      <string>0.99,0.62,0.11,1</string>
     </dict>
   </lib>
 </glyph>
