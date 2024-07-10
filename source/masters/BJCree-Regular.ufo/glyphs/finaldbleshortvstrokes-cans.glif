@@ -3,8 +3,30 @@
   <advance width="654"/>
   <unicode hex="1426"/>
   <outline>
-    <component base="pWestCree-cans"/>
-    <component base="pWestCree-cans" xOffset="275"/>
+    <contour>
+      <point x="127" y="813" type="line"/>
+      <point x="252" y="813" type="line"/>
+      <point x="252" y="1450" type="line"/>
+      <point x="127" y="1450" type="line"/>
+    </contour>
+    <contour>
+      <point x="127" y="-326" type="line"/>
+      <point x="252" y="-326" type="line"/>
+      <point x="252" y="250" type="line"/>
+      <point x="127" y="250" type="line"/>
+    </contour>
+    <contour>
+      <point x="442" y="813" type="line"/>
+      <point x="567" y="813" type="line"/>
+      <point x="567" y="1450" type="line"/>
+      <point x="442" y="1450" type="line"/>
+    </contour>
+    <contour>
+      <point x="402" y="-326" type="line"/>
+      <point x="527" y="-326" type="line"/>
+      <point x="527" y="250" type="line"/>
+      <point x="402" y="250" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
