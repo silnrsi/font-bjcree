@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="y-cans" format="2">
+  <outline>
+    <contour>
+      <point x="252" y="563" type="line"/>
+      <point x="514" y="563" type="line"/>
+      <point x="950" y="1135" type="line"/>
+      <point x="326" y="1135" type="line"/>
+      <point x="326" y="1458" type="line"/>
+      <point x="121" y="1458" type="line"/>
+      <point x="121" y="930" type="line"/>
+      <point x="535" y="930" type="line"/>
+    </contour>
+  </outline>
+</glyph>
