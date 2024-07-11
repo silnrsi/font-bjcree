@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaa-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1200"/>
   <unicode hex="1473"/>
   <outline>
-    <component base="ka-cans"/>
-    <component base="_dotabove" xOffset="320"/>
+    <component base="ka-cans" xOffset="16"/>
+    <component base="_dotabove" xOffset="276"/>
   </outline>
   <lib>
     <dict>

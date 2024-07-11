@@ -6,6 +6,10 @@
   <string>_fe-ring.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
+  <key>ai-cans</key>
+  <string>ai-cans.glif</string>
+  <key>c-cans</key>
+  <string>c-cans.glif</string>
   <key>co-cans</key>
   <string>co-cans.glif</string>
   <key>f-cans</key>
@@ -16,20 +20,48 @@
   <string>fe-cans.glif</string>
   <key>fi-cans</key>
   <string>fi-cans.glif</string>
+  <key>finalacute-cans</key>
+  <string>finalacute-cans.glif</string>
+  <key>finaldbleshortvstrokes-cans</key>
+  <string>finaldbleshortvstrokes-cans.glif</string>
+  <key>finalgrave-cans</key>
+  <string>finalgrave-cans.glif</string>
+  <key>finalplus-cans</key>
+  <string>finalplus-cans.glif</string>
   <key>finalrighthalfring-cans</key>
   <string>finalrighthalfring-cans.glif</string>
   <key>finalring-cans</key>
   <string>finalring-cans.glif</string>
+  <key>finalshorthstroke-cans</key>
+  <string>finalshorthstroke-cans.glif</string>
   <key>finaltophalfring-cans</key>
   <string>finaltophalfring-cans.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
+  <key>glottalstop-cans.001</key>
+  <string>glottalstop-cans.001.glif</string>
+  <key>k-cans</key>
+  <string>k-cans.glif</string>
   <key>ko-cans</key>
   <string>ko-cans.glif</string>
+  <key>kw-cans</key>
+  <string>kw-cans.glif</string>
+  <key>l-cans</key>
+  <string>l-cans.glif</string>
+  <key>m-cans</key>
+  <string>m-cans.glif</string>
+  <key>mWestCree-cans</key>
+  <string>mW_estC_ree-cans.glif</string>
+  <key>mh-cans</key>
+  <string>mh-cans.glif</string>
+  <key>n-cans</key>
+  <string>n-cans.glif</string>
   <key>na-cans</key>
   <string>na-cans.glif</string>
   <key>ngCarrier-cans</key>
   <string>ngC_arrier-cans.glif</string>
+  <key>nh-cans</key>
+  <string>nh-cans.glif</string>
   <key>ni-cans</key>
   <string>ni-cans.glif</string>
   <key>no-cans</key>
@@ -38,12 +70,16 @@
   <string>nooY_C_ree-cans.glif</string>
   <key>p-cans</key>
   <string>p-cans.glif</string>
+  <key>r-cans</key>
+  <string>r-cans.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
   <key>scwaNaskapi-cans</key>
   <string>scwaN_askapi-cans.glif</string>
   <key>se-cans</key>
   <string>se-cans.glif</string>
+  <key>sh-cans</key>
+  <string>sh-cans.glif</string>
   <key>sha-cans</key>
   <string>sha-cans.glif</string>
   <key>she-cans</key>
@@ -58,8 +94,12 @@
   <string>skwN_askapi-cans.glif</string>
   <key>staNaskapi-cans</key>
   <string>staN_askapi-cans.glif</string>
+  <key>sw-cans</key>
+  <string>sw-cans.glif</string>
   <key>swNaskapi-cans</key>
   <string>swN_askapi-cans.glif</string>
+  <key>t-cans</key>
+  <string>t-cans.glif</string>
   <key>ta-cans</key>
   <string>ta-cans.glif</string>
   <key>th-cans</key>
@@ -84,5 +124,7 @@
   <string>thwaaW_estC_ree-cans.glif</string>
   <key>wYCree-cans</key>
   <string>wY_C_ree-cans.glif</string>
+  <key>y-cans</key>
+  <string>y-cans.glif</string>
 </dict>
 </plist>

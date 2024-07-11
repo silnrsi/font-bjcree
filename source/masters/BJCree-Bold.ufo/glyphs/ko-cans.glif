@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ko-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1184"/>
   <unicode hex="146F"/>
   <outline>
-    <component base="ka-cans" xScale="-1" xOffset="1252"/>
+    <component base="ka-cans" xScale="-1" xOffset="1184"/>
   </outline>
   <lib>
     <dict>

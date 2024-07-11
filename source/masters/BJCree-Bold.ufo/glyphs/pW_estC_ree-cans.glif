@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pWestCree-cans" format="2">
-  <advance width="446"/>
+  <advance width="467"/>
   <unicode hex="144A"/>
   <outline>
     <contour>
-      <point x="121" y="563" type="line"/>
-      <point x="324" y="563" type="line"/>
-      <point x="324" y="1458" type="line"/>
-      <point x="121" y="1458" type="line"/>
+      <point x="121" y="810" type="line"/>
+      <point x="346" y="810" type="line"/>
+      <point x="346" y="1467" type="line"/>
+      <point x="121" y="1467" type="line"/>
     </contour>
   </outline>
   <lib>

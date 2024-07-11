@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finaldbleshortvstrokes-cans" format="2">
-  <advance width="891"/>
+  <advance width="890"/>
   <unicode hex="1426"/>
   <outline>
-    <contour>
-      <point x="770" y="781" type="line"/>
-      <point x="569" y="781" type="line"/>
-      <point x="569" y="1458" type="line"/>
-      <point x="770" y="1458" type="line"/>
-    </contour>
-    <contour>
-      <point x="324" y="781" type="line"/>
-      <point x="121" y="781" type="line"/>
-      <point x="121" y="1458" type="line"/>
-      <point x="324" y="1458" type="line"/>
-    </contour>
+    <component base="pWestCree-cans"/>
+    <component base="pWestCree-cans" xOffset="423"/>
   </outline>
   <lib>
     <dict>

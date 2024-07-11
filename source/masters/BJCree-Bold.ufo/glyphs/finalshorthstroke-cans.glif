@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalshorthstroke-cans" format="2">
-  <advance width="696"/>
+  <advance width="726"/>
   <unicode hex="1428"/>
   <outline>
     <contour>
-      <point x="590" y="1130" type="line"/>
-      <point x="590" y="930" type="line"/>
-      <point x="106" y="930" type="line"/>
-      <point x="106" y="1130" type="line"/>
+      <point x="605" y="1233" type="line"/>
+      <point x="605" y="1008" type="line"/>
+      <point x="121" y="1008" type="line"/>
+      <point x="121" y="1233" type="line"/>
     </contour>
   </outline>
   <lib>

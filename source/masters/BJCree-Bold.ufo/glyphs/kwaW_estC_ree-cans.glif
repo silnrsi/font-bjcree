@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwaWestCree-cans" format="2">
-  <advance width="1624"/>
+  <advance width="1649"/>
   <unicode hex="147F"/>
   <outline>
-    <component base="ka-cans" xOffset="1"/>
-    <component base="finalmiddledot-cans" xOffset="1125"/>
+    <component base="ka-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1124"/>
   </outline>
   <lib>
     <dict>

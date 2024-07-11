@@ -2,7 +2,17 @@
 <glyph name="glottalstop-cans.001" format="2">
   <advance width="1013"/>
   <outline>
-    <component base="i-cans" xScale="0.60315" yScale="0.61841" xOffset="24" yOffset="543"/>
+    <contour>
+      <point x="60" y="575" type="line"/>
+      <point x="943" y="575" type="line"/>
+      <point x="502" y="1495" type="line"/>
+    </contour>
+    <contour>
+      <point x="351" y="758" type="line"/>
+      <point x="523" y="1112" type="line"/>
+      <point x="483" y="1112" type="line"/>
+      <point x="655" y="758" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

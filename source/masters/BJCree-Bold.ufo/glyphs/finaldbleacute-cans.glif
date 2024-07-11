@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finaldbleacute-cans" format="2">
-  <advance width="1100"/>
+  <advance width="1512"/>
   <unicode hex="1425"/>
   <outline>
-    <component base="finalacute-cans" xOffset="400"/>
+    <component base="finalacute-cans" xOffset="470"/>
     <component base="finalacute-cans"/>
   </outline>
   <lib>

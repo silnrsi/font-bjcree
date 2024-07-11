@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalgrave-cans" format="2">
-  <advance width="743"/>
+  <advance width="1042"/>
   <unicode hex="1420"/>
   <outline>
-    <contour>
-      <point x="457" y="563" type="line"/>
-      <point x="98" y="1458" type="line"/>
-      <point x="303" y="1458" type="line"/>
-      <point x="662" y="563" type="line"/>
-    </contour>
+    <component base="finalacute-cans" xScale="-1" xOffset="1042"/>
   </outline>
   <lib>
     <dict>

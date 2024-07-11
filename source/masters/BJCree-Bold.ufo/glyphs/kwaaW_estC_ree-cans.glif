@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwaaWestCree-cans" format="2">
-  <advance width="1624"/>
+  <advance width="1649"/>
   <unicode hex="1481"/>
   <outline>
-    <component base="ka-cans" xOffset="1"/>
-    <component base="finalmiddledot-cans" xOffset="1125"/>
-    <component base="_dotabove" xOffset="320"/>
+    <component base="ka-cans"/>
+    <component base="finalmiddledot-cans" xOffset="1124"/>
+    <component base="_dotabove" xOffset="319"/>
   </outline>
   <lib>
     <dict>
