@@ -17,7 +17,9 @@ This font package is also available in the [SIL software repository for Ubuntu](
 
 ## Previous versions
 
-Previous versions remain available from our [Previous Versions archive](https://software.sil.org/bjcree/download/previous-versions).
+A prior version of the BJCree font remains available from the [East Cree language resources](https://www.eastcree.org/cree/en/resources/how-to/cree-fonts/) page. That version will no longer be updated. 
+
+In the future, the [BJCree download page](https://software.sil.org/bjcree/download/) will have keep previous versions available.
 
 ## Change history
 

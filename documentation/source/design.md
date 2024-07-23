@@ -3,9 +3,10 @@ title: BJCree - Design
 fontversion: 6.000
 ---
 
-The BJCree typeface was originally designed in conjunction with the Naskapi community in the 1990s.  When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
 
-Two fonts from this typeface family are included in the *BJCree* release:
+The <b>BJCree</b> (Baie-James Cree) font is a Canadian Syllabics font in the style preferred by Eastern Cree communities of Canada. It was originally designed in collaboration with the persons who speak the Cree language around James Bay.  When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the Algonquian language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
+
+Two fonts from this typeface family are included in the **BJCree** release:
 
 * BJCree Regular
 * BJCree Bold

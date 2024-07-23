@@ -20,7 +20,10 @@ Many questions can be answered by consulting the following FAQ pages. Here are a
 
 Here are a few of the most frequently asked questions specifically regarding BJCree:
 
-#### *How is this font different than BJCree Uni?*
+#### *How is this font different than BJCree UNI?*
 
-Add answer. 
+**BJCree UNI** is a shareware font. The Latin typeface in the **BJCree UNI** font included Latin designed glyphs which were specifically licensed to the original designer of the Canadian syllabics, Bill Jancewicz. That license did not permit reusing the Latin glyphs when transferring this project to SIL. Thus, the **BJCree** has been developed with a completely new Latin typeface in a style very similar to the previous Latin design. Additionally, the syllabic glyphs have been reviewed and standardized to facilitate easier maintenance in the future.
 
+#### *What does "BJ" mean in the font name?*
+
+&#x201C;BJ&#x201C; represents Baie-James Cree for the style of font it was designed for.

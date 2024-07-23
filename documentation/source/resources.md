@@ -13,7 +13,19 @@ Install the fonts by decompressing the .zip archive and installing the fonts usi
 
 ## Keyboarding and character set support
 
-These fonts do not include keyboards or other software for entering text. To type the symbols in these fonts use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) provides keyboards for over 2000 languages and works on all major desktop and mobile platforms. For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
+These fonts do not include keyboards or other software for entering text. To type the symbols in these fonts use the keyboarding systems provided in your OS or use a separate utility. SIL’s [Keyman](https://keyman.com/) provides keyboards for over 2000 languages and works on all major desktop and mobile platforms. 
+
+Some available Keyman keyboards:
+- [BJ-OjiCree (Kingfisher)](https://keyman.com/keyboards/bj_oji_cree)
+- [BJCreeUNI (east)](https://keyman.com/keyboards/bj_cree_east)
+- [CreeBoard](https://keyman.com/keyboards/bj_cree_east_james_bay)
+- [Naskapi (Classic)](https://keyman.com/keyboards/bj_naskapi_classic)
+- [Naskapi (Common)](https://keyman.com/keyboards/bj_naskapi_common)
+- [Swampy Cree (Tataskweyak)](https://keyman.com/keyboards/bj_mista_wasaha_cree)
+- [Western Cree (TH-Woods)](https://keyman.com/keyboards/bj_cree_woods)
+
+
+For information on other keyboarding options see the overview at [Keyboard Systems Overview (ScriptSource)](https://scriptsource.org/entry/ytr8g8n6sw).
 
 See [Character set support](charset.md) for details of the Unicode characters supported by these fonts.
 
