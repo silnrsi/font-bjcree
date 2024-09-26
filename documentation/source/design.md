@@ -11,7 +11,7 @@ Two fonts from this typeface family are included in the **BJCree** release:
 * BJCree Regular
 * BJCree Bold
 
-SIL International is the creator of the BJCree fonts, and is the owner of all proprietary rights therein.
+SIL Global is the creator of the BJCree fonts, and is the owner of all proprietary rights therein.
 
 ## Type Samples
 
