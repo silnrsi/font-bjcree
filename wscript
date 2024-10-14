@@ -22,7 +22,7 @@ cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']))
 #cmds.append(cmd('../tools/ttfaddemptyot.py -t gpos ${DEP} ${TGT}'))
 #cmds.append(cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'))
 
-designspace('source/' + FAMILY + 'RB.designspace',
+designspace('source/' + FAMILY + '.designspace',
     target = process("${DS:FILENAME_BASE}.ttf", *cmds),
     params = "--decomposeComponents --removeOverlap",
     # opentype = fea('srcs/${DS:FILENAME_BASE}.fea', master='source/empty.feax'),
