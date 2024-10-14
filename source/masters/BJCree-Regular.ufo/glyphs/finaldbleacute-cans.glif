@@ -3,8 +3,6 @@
   <advance width="1054"/>
   <unicode hex="1425"/>
   <outline>
-    <component base="finalacute-cans" xOffset="297" yOffset="-1200"/>
-    <component base="finalacute-cans" yOffset="-1200"/>
     <component base="finalacute-cans"/>
     <component base="finalacute-cans" xOffset="350"/>
   </outline>

@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalplus-cans" format="2">
-  <advance width="994"/>
+  <advance width="830"/>
   <unicode hex="1429"/>
   <outline>
     <contour>
-      <point x="127" y="1015" type="line"/>
-      <point x="127" y="890" type="line"/>
-      <point x="867" y="890" type="line"/>
-      <point x="867" y="1015" type="line"/>
+      <point x="477" y="1450" type="line"/>
+      <point x="352" y="1450" type="line"/>
+      <point x="352" y="874" type="line"/>
+      <point x="477" y="874" type="line"/>
     </contour>
     <contour>
-      <point x="560" y="1323" type="line"/>
-      <point x="435" y="1323" type="line"/>
-      <point x="435" y="583" type="line"/>
-      <point x="560" y="583" type="line"/>
-    </contour>
-    <contour>
-      <point x="560" y="250" type="line"/>
-      <point x="435" y="250" type="line"/>
-      <point x="435" y="-326" type="line"/>
-      <point x="560" y="-326" type="line"/>
-    </contour>
-    <contour>
-      <point x="786" y="-100" type="line"/>
-      <point x="786" y="25" type="line"/>
-      <point x="210" y="25" type="line"/>
-      <point x="210" y="-100" type="line"/>
+      <point x="703" y="1100" type="line"/>
+      <point x="703" y="1225" type="line"/>
+      <point x="127" y="1225" type="line"/>
+      <point x="127" y="1100" type="line"/>
     </contour>
   </outline>
   <lib>

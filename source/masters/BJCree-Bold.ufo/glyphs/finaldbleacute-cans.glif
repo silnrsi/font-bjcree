@@ -3,8 +3,8 @@
   <advance width="1512"/>
   <unicode hex="1425"/>
   <outline>
-    <component base="finalacute-cans" xOffset="470"/>
     <component base="finalacute-cans"/>
+    <component base="finalacute-cans" xOffset="470"/>
   </outline>
   <lib>
     <dict>

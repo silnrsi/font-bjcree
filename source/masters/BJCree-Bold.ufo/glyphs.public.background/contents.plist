@@ -24,6 +24,8 @@
   <string>finalacute-cans.glif</string>
   <key>finaldbleshortvstrokes-cans</key>
   <string>finaldbleshortvstrokes-cans.glif</string>
+  <key>finaldowntack-cans</key>
+  <string>finaldowntack-cans.glif</string>
   <key>finalgrave-cans</key>
   <string>finalgrave-cans.glif</string>
   <key>finalplus-cans</key>
@@ -72,6 +74,8 @@
   <string>p-cans.glif</string>
   <key>r-cans</key>
   <string>r-cans.glif</string>
+  <key>rwaa-cans</key>
+  <string>rwaa-cans.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
   <key>scwaNaskapi-cans</key>
