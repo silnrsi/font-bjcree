@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalplus-cans" format="2">
-  <advance width="942"/>
+  <advance width="899"/>
   <unicode hex="1429"/>
   <outline>
     <contour>
-      <point x="359" y="810" type="line"/>
-      <point x="584" y="810" type="line"/>
-      <point x="584" y="1467" type="line"/>
-      <point x="359" y="1467" type="line"/>
+      <point x="337" y="810" type="line"/>
+      <point x="562" y="810" type="line"/>
+      <point x="562" y="1467" type="line"/>
+      <point x="337" y="1467" type="line"/>
     </contour>
     <contour>
-      <point x="143" y="1251" type="line"/>
-      <point x="143" y="1026" type="line"/>
-      <point x="800" y="1026" type="line"/>
-      <point x="800" y="1251" type="line"/>
+      <point x="121" y="1251" type="line"/>
+      <point x="121" y="1026" type="line"/>
+      <point x="778" y="1026" type="line"/>
+      <point x="778" y="1251" type="line"/>
     </contour>
   </outline>
   <lib>
