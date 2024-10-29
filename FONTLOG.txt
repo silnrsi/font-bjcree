@@ -27,6 +27,7 @@ ChangeLog
 ### 2024-xx-xx (SIL WSTech team) BJCree version 6.000
 - Renamed font
 - Changed to use Open Font License
+- Replaced Century Schoolbook Latin glyphs with new design based loosely on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
 - Added new characters:
 
 ### April 2022

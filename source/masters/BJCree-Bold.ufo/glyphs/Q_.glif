@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="1706"/>
+  <unicode hex="0051"/>
+  <outline>
+    <component base="O"/>
+    <contour>
+      <point x="1343" y="-397" type="curve" smooth="yes"/>
+      <point x="1533" y="-397"/>
+      <point x="1653" y="-262"/>
+      <point x="1653" y="-49" type="curve"/>
+      <point x="1564" y="-49" type="line"/>
+      <point x="1555" y="-150"/>
+      <point x="1527" y="-195"/>
+      <point x="1464" y="-195" type="curve" smooth="yes"/>
+      <point x="1225" y="-195"/>
+      <point x="1346" y="582"/>
+      <point x="843" y="582" type="curve" smooth="yes"/>
+      <point x="671" y="582"/>
+      <point x="538" y="461"/>
+      <point x="538" y="291" type="curve" smooth="yes"/>
+      <point x="538" y="214"/>
+      <point x="580" y="79"/>
+      <point x="679" y="62" type="curve"/>
+      <point x="710" y="94" type="line"/>
+      <point x="652" y="127"/>
+      <point x="632" y="188"/>
+      <point x="632" y="258" type="curve" smooth="yes"/>
+      <point x="632" y="379"/>
+      <point x="716" y="465"/>
+      <point x="823" y="465" type="curve" smooth="yes"/>
+      <point x="955" y="465"/>
+      <point x="1015" y="372"/>
+      <point x="1015" y="176" type="curve" smooth="yes"/>
+      <point x="1015" y="128"/>
+      <point x="1012" y="73"/>
+      <point x="1007" y="11" type="curve"/>
+      <point x="1007" y="-235"/>
+      <point x="1104" y="-397"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

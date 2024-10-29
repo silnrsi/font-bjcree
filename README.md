@@ -6,6 +6,7 @@ The BJCree typeface was originally designed in conjunction with the Naskapi comm
 
 The family provides both Regular and Bold weights, and includes a basic Latin set of characters.
 
+The Latin glyphs are based loosely on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
 
 # Status
 

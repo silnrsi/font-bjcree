@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <anchor x="-512" y="1100" name="_Lupper"/>
+  <outline>
+    <contour>
+      <point x="-578" y="1086" type="line"/>
+      <point x="-448" y="1086" type="line"/>
+      <point x="-212" y="1426" type="line"/>
+      <point x="-286" y="1426" type="line"/>
+      <point x="-512" y="1219" type="line"/>
+      <point x="-740" y="1426" type="line"/>
+      <point x="-814" y="1426" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

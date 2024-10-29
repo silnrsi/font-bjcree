@@ -6,8 +6,134 @@
   <string>_heightcontrol.glif</string>
   <key>.notdef</key>
   <string>_notdef.glif</string>
+  <key>A</key>
+  <string>A_.glif</string>
+  <key>AE</key>
+  <string>A_E_.glif</string>
+  <key>Aacute</key>
+  <string>A_acute.glif</string>
+  <key>Acircumflex</key>
+  <string>A_circumflex.glif</string>
+  <key>Adieresis</key>
+  <string>A_dieresis.glif</string>
+  <key>Agrave</key>
+  <string>A_grave.glif</string>
+  <key>Aring</key>
+  <string>A_ring.glif</string>
+  <key>Atilde</key>
+  <string>A_tilde.glif</string>
+  <key>B</key>
+  <string>B_.glif</string>
+  <key>C</key>
+  <string>C_.glif</string>
+  <key>Ccedilla</key>
+  <string>C_cedilla.glif</string>
+  <key>D</key>
+  <string>D_.glif</string>
+  <key>Delta</key>
+  <string>D_elta.glif</string>
+  <key>E</key>
+  <string>E_.glif</string>
+  <key>Eacute</key>
+  <string>E_acute.glif</string>
+  <key>Ecircumflex</key>
+  <string>E_circumflex.glif</string>
+  <key>Edieresis</key>
+  <string>E_dieresis.glif</string>
+  <key>Egrave</key>
+  <string>E_grave.glif</string>
+  <key>Eth</key>
+  <string>E_th.glif</string>
+  <key>Euro</key>
+  <string>E_uro.glif</string>
+  <key>F</key>
+  <string>F_.glif</string>
+  <key>G</key>
+  <string>G_.glif</string>
+  <key>H</key>
+  <string>H_.glif</string>
+  <key>I</key>
+  <string>I_.glif</string>
+  <key>Iacute</key>
+  <string>I_acute.glif</string>
+  <key>Icircumflex</key>
+  <string>I_circumflex.glif</string>
+  <key>Idieresis</key>
+  <string>I_dieresis.glif</string>
+  <key>Igrave</key>
+  <string>I_grave.glif</string>
+  <key>J</key>
+  <string>J_.glif</string>
+  <key>K</key>
+  <string>K_.glif</string>
+  <key>L</key>
+  <string>L_.glif</string>
+  <key>M</key>
+  <string>M_.glif</string>
+  <key>N</key>
+  <string>N_.glif</string>
   <key>NARROWSPACE</key>
   <string>N_A_R_R_O_W_S_P_A_C_E_.glif</string>
+  <key>Ntilde</key>
+  <string>N_tilde.glif</string>
+  <key>O</key>
+  <string>O_.glif</string>
+  <key>OE</key>
+  <string>O_E_.glif</string>
+  <key>Oacute</key>
+  <string>O_acute.glif</string>
+  <key>Ocircumflex</key>
+  <string>O_circumflex.glif</string>
+  <key>Odieresis</key>
+  <string>O_dieresis.glif</string>
+  <key>Ograve</key>
+  <string>O_grave.glif</string>
+  <key>Omega</key>
+  <string>O_mega.glif</string>
+  <key>Oslash</key>
+  <string>O_slash.glif</string>
+  <key>Otilde</key>
+  <string>O_tilde.glif</string>
+  <key>P</key>
+  <string>P_.glif</string>
+  <key>Q</key>
+  <string>Q_.glif</string>
+  <key>R</key>
+  <string>R_.glif</string>
+  <key>S</key>
+  <string>S_.glif</string>
+  <key>Scaron</key>
+  <string>S_caron.glif</string>
+  <key>T</key>
+  <string>T_.glif</string>
+  <key>Thorn</key>
+  <string>T_horn.glif</string>
+  <key>U</key>
+  <string>U_.glif</string>
+  <key>Uacute</key>
+  <string>U_acute.glif</string>
+  <key>Ucircumflex</key>
+  <string>U_circumflex.glif</string>
+  <key>Udieresis</key>
+  <string>U_dieresis.glif</string>
+  <key>Ugrave</key>
+  <string>U_grave.glif</string>
+  <key>V</key>
+  <string>V_.glif</string>
+  <key>W</key>
+  <string>W_.glif</string>
+  <key>X</key>
+  <string>X_.glif</string>
+  <key>Y</key>
+  <string>Y_.glif</string>
+  <key>Yacute</key>
+  <string>Y_acute.glif</string>
+  <key>Ydieresis</key>
+  <string>Y_dieresis.glif</string>
+  <key>Z</key>
+  <string>Z_.glif</string>
+  <key>Zcaron</key>
+  <string>Z_caron.glif</string>
   <key>_dot2h</key>
   <string>_dot2h.glif</string>
   <key>_dot2hclose</key>
@@ -20,16 +146,72 @@
   <string>_fe-ring.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
+  <key>a</key>
+  <string>a.glif</string>
   <key>a-cans</key>
   <string>a-cans.glif</string>
   <key>aa-cans</key>
   <string>aa-cans.glif</string>
+  <key>aacute</key>
+  <string>aacute.glif</string>
   <key>aai-cans</key>
   <string>aai-cans.glif</string>
+  <key>acircumflex</key>
+  <string>acircumflex.glif</string>
+  <key>acute</key>
+  <string>acute.glif</string>
+  <key>acutecomb</key>
+  <string>acutecomb.glif</string>
+  <key>adieresis</key>
+  <string>adieresis.glif</string>
+  <key>ae</key>
+  <string>ae.glif</string>
+  <key>agrave</key>
+  <string>agrave.glif</string>
   <key>ai-cans</key>
   <string>ai-cans.glif</string>
+  <key>ampersand</key>
+  <string>ampersand.glif</string>
   <key>an-cans</key>
   <string>an-cans.glif</string>
+  <key>approxequal</key>
+  <string>approxequal.glif</string>
+  <key>aring</key>
+  <string>aring.glif</string>
+  <key>asciicircum</key>
+  <string>asciicircum.glif</string>
+  <key>asciitilde</key>
+  <string>asciitilde.glif</string>
+  <key>asterisk</key>
+  <string>asterisk.glif</string>
+  <key>at</key>
+  <string>at.glif</string>
+  <key>atilde</key>
+  <string>atilde.glif</string>
+  <key>b</key>
+  <string>b.glif</string>
+  <key>backslash</key>
+  <string>backslash.glif</string>
+  <key>bar</key>
+  <string>bar.glif</string>
+  <key>blank</key>
+  <string>blank.glif</string>
+  <key>braceleft</key>
+  <string>braceleft.glif</string>
+  <key>braceright</key>
+  <string>braceright.glif</string>
+  <key>bracketleft</key>
+  <string>bracketleft.glif</string>
+  <key>bracketright</key>
+  <string>bracketright.glif</string>
+  <key>breve</key>
+  <string>breve.glif</string>
+  <key>brokenbar</key>
+  <string>brokenbar.glif</string>
+  <key>bullet</key>
+  <string>bullet.glif</string>
+  <key>c</key>
+  <string>c.glif</string>
   <key>c-cans</key>
   <string>c-cans.glif</string>
   <key>ca-cans</key>
@@ -38,8 +220,20 @@
   <string>caa-cans.glif</string>
   <key>caai-cans</key>
   <string>caai-cans.glif</string>
+  <key>caron</key>
+  <string>caron.glif</string>
+  <key>caroncomb</key>
+  <string>caroncomb.glif</string>
+  <key>ccedilla</key>
+  <string>ccedilla.glif</string>
   <key>ce-cans</key>
   <string>ce-cans.glif</string>
+  <key>cedilla</key>
+  <string>cedilla.glif</string>
+  <key>cedillacomb</key>
+  <string>cedillacomb.glif</string>
+  <key>cent</key>
+  <string>cent.glif</string>
   <key>chaCarrier-cans</key>
   <string>chaC_arrier-cans.glif</string>
   <key>cheCarrier-cans</key>
@@ -58,12 +252,24 @@
   <string>ci-cans.glif</string>
   <key>cii-cans</key>
   <string>cii-cans.glif</string>
+  <key>circumflex</key>
+  <string>circumflex.glif</string>
+  <key>circumflexcomb</key>
+  <string>circumflexcomb.glif</string>
   <key>co-cans</key>
   <string>co-cans.glif</string>
+  <key>colon</key>
+  <string>colon.glif</string>
+  <key>comma</key>
+  <string>comma.glif</string>
   <key>coo-cans</key>
   <string>coo-cans.glif</string>
   <key>cooYCree-cans</key>
   <string>cooY_C_ree-cans.glif</string>
+  <key>copyright</key>
+  <string>copyright.glif</string>
+  <key>currency</key>
+  <string>currency.glif</string>
   <key>cwa-cans</key>
   <string>cwa-cans.glif</string>
   <key>cwaWestCree-cans</key>
@@ -94,16 +300,72 @@
   <string>cwoo-cans.glif</string>
   <key>cwooWestCree-cans</key>
   <string>cwooW_estC_ree-cans.glif</string>
+  <key>d</key>
+  <string>d.glif</string>
+  <key>dagger</key>
+  <string>dagger.glif</string>
+  <key>daggerdbl</key>
+  <string>daggerdbl.glif</string>
   <key>deeCarrier-cans</key>
   <string>deeC_arrier-cans.glif</string>
+  <key>degree</key>
+  <string>degree.glif</string>
   <key>diCarrier-cans</key>
   <string>diC_arrier-cans.glif</string>
+  <key>dieresis</key>
+  <string>dieresis.glif</string>
+  <key>dieresiscomb</key>
+  <string>dieresiscomb.glif</string>
+  <key>divide</key>
+  <string>divide.glif</string>
+  <key>dollar</key>
+  <string>dollar.glif</string>
+  <key>dotaccent</key>
+  <string>dotaccent.glif</string>
+  <key>dotlessi</key>
+  <string>dotlessi.glif</string>
+  <key>e</key>
+  <string>e.glif</string>
   <key>e-cans</key>
   <string>e-cans.glif</string>
   <key>eCarrier-cans</key>
   <string>eC_arrier-cans.glif</string>
+  <key>eacute</key>
+  <string>eacute.glif</string>
+  <key>ecircumflex</key>
+  <string>ecircumflex.glif</string>
+  <key>edieresis</key>
+  <string>edieresis.glif</string>
+  <key>egrave</key>
+  <string>egrave.glif</string>
+  <key>eight</key>
+  <string>eight.glif</string>
+  <key>ellipsis</key>
+  <string>ellipsis.glif</string>
+  <key>emdash</key>
+  <string>emdash.glif</string>
+  <key>emquad</key>
+  <string>emquad.glif</string>
+  <key>emspace</key>
+  <string>emspace.glif</string>
   <key>en-cans</key>
   <string>en-cans.glif</string>
+  <key>endash</key>
+  <string>endash.glif</string>
+  <key>enquad</key>
+  <string>enquad.glif</string>
+  <key>enspace</key>
+  <string>enspace.glif</string>
+  <key>equal</key>
+  <string>equal.glif</string>
+  <key>eth</key>
+  <string>eth.glif</string>
+  <key>exclam</key>
+  <string>exclam.glif</string>
+  <key>exclamdown</key>
+  <string>exclamdown.glif</string>
+  <key>f</key>
+  <string>f.glif</string>
   <key>f-cans</key>
   <string>f-cans.glif</string>
   <key>fa-cans</key>
@@ -114,8 +376,14 @@
   <string>faai-cans.glif</string>
   <key>fe-cans</key>
   <string>fe-cans.glif</string>
+  <key>fi</key>
+  <string>fi.glif</string>
   <key>fi-cans</key>
   <string>fi-cans.glif</string>
+  <key>figuredash</key>
+  <string>figuredash.glif</string>
+  <key>figurespace</key>
+  <string>figurespace.glif</string>
   <key>fii-cans</key>
   <string>fii-cans.glif</string>
   <key>finalacute-cans</key>
@@ -142,34 +410,100 @@
   <string>finalshorthstroke-cans.glif</string>
   <key>finaltophalfring-cans</key>
   <string>finaltophalfring-cans.glif</string>
+  <key>five</key>
+  <string>five.glif</string>
+  <key>fl</key>
+  <string>fl.glif</string>
+  <key>florin</key>
+  <string>florin.glif</string>
   <key>fo-cans</key>
   <string>fo-cans.glif</string>
   <key>foo-cans</key>
   <string>foo-cans.glif</string>
+  <key>four</key>
+  <string>four.glif</string>
+  <key>fourperemspace</key>
+  <string>fourperemspace.glif</string>
+  <key>foursuperior</key>
+  <string>foursuperior.glif</string>
+  <key>fraction</key>
+  <string>fraction.glif</string>
   <key>fullstop-cans</key>
   <string>fullstop-cans.glif</string>
   <key>fwaa-cans</key>
   <string>fwaa-cans.glif</string>
   <key>fwaaWestCree-cans</key>
   <string>fwaaW_estC_ree-cans.glif</string>
+  <key>g</key>
+  <string>g.glif</string>
+  <key>germandbls</key>
+  <string>germandbls.glif</string>
   <key>glottalstop-cans</key>
   <string>glottalstop-cans.glif</string>
   <key>glottalstop-cans.001</key>
   <string>glottalstop-cans.001.glif</string>
+  <key>grave</key>
+  <string>grave.glif</string>
+  <key>gravecomb</key>
+  <string>gravecomb.glif</string>
+  <key>greater</key>
+  <string>greater.glif</string>
+  <key>greaterequal</key>
+  <string>greaterequal.glif</string>
+  <key>guillemotleft</key>
+  <string>guillemotleft.glif</string>
+  <key>guillemotright</key>
+  <string>guillemotright.glif</string>
+  <key>guilsinglleft</key>
+  <string>guilsinglleft.glif</string>
+  <key>guilsinglright</key>
+  <string>guilsinglright.glif</string>
+  <key>h</key>
+  <string>h.glif</string>
   <key>hCarrier-cans</key>
   <string>hC_arrier-cans.glif</string>
+  <key>hairspace</key>
+  <string>hairspace.glif</string>
   <key>heeCarrier-cans</key>
   <string>heeC_arrier-cans.glif</string>
   <key>hiCarrier-cans</key>
   <string>hiC_arrier-cans.glif</string>
+  <key>horizontalbar</key>
+  <string>horizontalbar.glif</string>
+  <key>hungarumlaut</key>
+  <string>hungarumlaut.glif</string>
+  <key>hyphen</key>
+  <string>hyphen.glif</string>
+  <key>hyphenationpoint</key>
+  <string>hyphenationpoint.glif</string>
+  <key>hyphentwo</key>
+  <string>hyphentwo.glif</string>
+  <key>i</key>
+  <string>i.glif</string>
   <key>i-cans</key>
   <string>i-cans.glif</string>
   <key>iCarrier-cans</key>
   <string>iC_arrier-cans.glif</string>
+  <key>iacute</key>
+  <string>iacute.glif</string>
+  <key>icircumflex</key>
+  <string>icircumflex.glif</string>
+  <key>idieresis</key>
+  <string>idieresis.glif</string>
+  <key>igrave</key>
+  <string>igrave.glif</string>
   <key>ii-cans</key>
   <string>ii-cans.glif</string>
   <key>in-cans</key>
   <string>in-cans.glif</string>
+  <key>infinity</key>
+  <string>infinity.glif</string>
+  <key>integral</key>
+  <string>integral.glif</string>
+  <key>j</key>
+  <string>j.glif</string>
+  <key>k</key>
+  <string>k.glif</string>
   <key>k-cans</key>
   <string>k-cans.glif</string>
   <key>ka-cans</key>
@@ -230,6 +564,8 @@
   <string>kwoo-cans.glif</string>
   <key>kwooWestCree-cans</key>
   <string>kwooW_estC_ree-cans.glif</string>
+  <key>l</key>
+  <string>l.glif</string>
   <key>l-cans</key>
   <string>l-cans.glif</string>
   <key>lMedial-cans</key>
@@ -248,6 +584,10 @@
   <string>le-cans.glif</string>
   <key>leWestCree-cans</key>
   <string>leW_estC_ree-cans.glif</string>
+  <key>less</key>
+  <string>less.glif</string>
+  <key>lessequal</key>
+  <string>lessequal.glif</string>
   <key>li-cans</key>
   <string>li-cans.glif</string>
   <key>lii-cans</key>
@@ -256,10 +596,14 @@
   <string>lo-cans.glif</string>
   <key>loWestCree-cans</key>
   <string>loW_estC_ree-cans.glif</string>
+  <key>logicalnot</key>
+  <string>logicalnot.glif</string>
   <key>loo-cans</key>
   <string>loo-cans.glif</string>
   <key>looYCree-cans</key>
   <string>looY_C_ree-cans.glif</string>
+  <key>lozenge</key>
+  <string>lozenge.glif</string>
   <key>lwa-cans</key>
   <string>lwa-cans.glif</string>
   <key>lwaWestCree-cans</key>
@@ -288,6 +632,8 @@
   <string>lwoo-cans.glif</string>
   <key>lwooWestCree-cans</key>
   <string>lwooW_estC_ree-cans.glif</string>
+  <key>m</key>
+  <string>m.glif</string>
   <key>m-cans</key>
   <string>m-cans.glif</string>
   <key>mAthapascan-cans</key>
@@ -302,6 +648,10 @@
   <string>maa-cans.glif</string>
   <key>maai-cans</key>
   <string>maai-cans.glif</string>
+  <key>macron</key>
+  <string>macron.glif</string>
+  <key>macroncomb</key>
+  <string>macroncomb.glif</string>
   <key>me-cans</key>
   <string>me-cans.glif</string>
   <key>mh-cans</key>
@@ -310,12 +660,16 @@
   <string>mi-cans.glif</string>
   <key>mii-cans</key>
   <string>mii-cans.glif</string>
+  <key>minus</key>
+  <string>minus.glif</string>
   <key>mo-cans</key>
   <string>mo-cans.glif</string>
   <key>moo-cans</key>
   <string>moo-cans.glif</string>
   <key>mooYCree-cans</key>
   <string>mooY_C_ree-cans.glif</string>
+  <key>multiply</key>
+  <string>multiply.glif</string>
   <key>mwa-cans</key>
   <string>mwa-cans.glif</string>
   <key>mwaWestCree-cans</key>
@@ -346,6 +700,8 @@
   <string>mwoo-cans.glif</string>
   <key>mwooWestCree-cans</key>
   <string>mwooW_estC_ree-cans.glif</string>
+  <key>n</key>
+  <string>n.glif</string>
   <key>n-cans</key>
   <string>n-cans.glif</string>
   <key>na-cans</key>
@@ -354,8 +710,8 @@
   <string>naa-cans.glif</string>
   <key>naai-cans</key>
   <string>naai-cans.glif</string>
-  <key>narrowspace</key>
-  <string>narrowspace.glif</string>
+  <key>narrownbspace</key>
+  <string>narrownbspace.glif</string>
   <key>nbspace</key>
   <string>nbspace.glif</string>
   <key>ne-cans</key>
@@ -368,12 +724,20 @@
   <string>ni-cans.glif</string>
   <key>nii-cans</key>
   <string>nii-cans.glif</string>
+  <key>nine</key>
+  <string>nine.glif</string>
   <key>no-cans</key>
   <string>no-cans.glif</string>
   <key>noo-cans</key>
   <string>noo-cans.glif</string>
   <key>nooYCree-cans</key>
   <string>nooY_C_ree-cans.glif</string>
+  <key>notequal</key>
+  <string>notequal.glif</string>
+  <key>ntilde</key>
+  <string>ntilde.glif</string>
+  <key>numbersign</key>
+  <string>numbersign.glif</string>
   <key>nwa-cans</key>
   <string>nwa-cans.glif</string>
   <key>nwaWestCree-cans</key>
@@ -388,14 +752,46 @@
   <string>nwe-cans.glif</string>
   <key>nweWestCree-cans</key>
   <string>nweW_estC_ree-cans.glif</string>
+  <key>o</key>
+  <string>o.glif</string>
   <key>o-cans</key>
   <string>o-cans.glif</string>
+  <key>oacute</key>
+  <string>oacute.glif</string>
+  <key>ocircumflex</key>
+  <string>ocircumflex.glif</string>
+  <key>odieresis</key>
+  <string>odieresis.glif</string>
+  <key>oe</key>
+  <string>oe.glif</string>
+  <key>ogonek</key>
+  <string>ogonek.glif</string>
+  <key>ograve</key>
+  <string>ograve.glif</string>
   <key>on-cans</key>
   <string>on-cans.glif</string>
+  <key>one</key>
+  <string>one.glif</string>
+  <key>onehalf</key>
+  <string>onehalf.glif</string>
+  <key>onequarter</key>
+  <string>onequarter.glif</string>
+  <key>onesuperior</key>
+  <string>onesuperior.glif</string>
   <key>oo-cans</key>
   <string>oo-cans.glif</string>
   <key>ooYCree-cans</key>
   <string>ooY_C_ree-cans.glif</string>
+  <key>ordfeminine</key>
+  <string>ordfeminine.glif</string>
+  <key>ordmasculine</key>
+  <string>ordmasculine.glif</string>
+  <key>oslash</key>
+  <string>oslash.glif</string>
+  <key>otilde</key>
+  <string>otilde.glif</string>
+  <key>p</key>
+  <string>p.glif</string>
   <key>p-cans</key>
   <string>p-cans.glif</string>
   <key>pWestCree-cans</key>
@@ -406,18 +802,44 @@
   <string>paa-cans.glif</string>
   <key>paai-cans</key>
   <string>paai-cans.glif</string>
+  <key>paragraph</key>
+  <string>paragraph.glif</string>
+  <key>parenleft</key>
+  <string>parenleft.glif</string>
+  <key>parenright</key>
+  <string>parenright.glif</string>
+  <key>partialdiff</key>
+  <string>partialdiff.glif</string>
   <key>pe-cans</key>
   <string>pe-cans.glif</string>
+  <key>percent</key>
+  <string>percent.glif</string>
+  <key>period</key>
+  <string>period.glif</string>
+  <key>periodcentered</key>
+  <string>periodcentered.glif</string>
+  <key>perthousand</key>
+  <string>perthousand.glif</string>
+  <key>pi</key>
+  <string>pi.glif</string>
   <key>pi-cans</key>
   <string>pi-cans.glif</string>
   <key>pii-cans</key>
   <string>pii-cans.glif</string>
+  <key>plus</key>
+  <string>plus.glif</string>
+  <key>plusminus</key>
+  <string>plusminus.glif</string>
   <key>po-cans</key>
   <string>po-cans.glif</string>
   <key>poo-cans</key>
   <string>poo-cans.glif</string>
   <key>pooYCree-cans</key>
   <string>pooY_C_ree-cans.glif</string>
+  <key>product</key>
+  <string>product.glif</string>
+  <key>punctuationspace</key>
+  <string>punctuationspace.glif</string>
   <key>pwa-cans</key>
   <string>pwa-cans.glif</string>
   <key>pwaWestCree-cans</key>
@@ -448,8 +870,32 @@
   <string>pwoo-cans.glif</string>
   <key>pwooWestCree-cans</key>
   <string>pwooW_estC_ree-cans.glif</string>
+  <key>q</key>
+  <string>q.glif</string>
   <key>qai-cans</key>
   <string>qai-cans.glif</string>
+  <key>question</key>
+  <string>question.glif</string>
+  <key>questiondown</key>
+  <string>questiondown.glif</string>
+  <key>quotedbl</key>
+  <string>quotedbl.glif</string>
+  <key>quotedblbase</key>
+  <string>quotedblbase.glif</string>
+  <key>quotedblleft</key>
+  <string>quotedblleft.glif</string>
+  <key>quotedblright</key>
+  <string>quotedblright.glif</string>
+  <key>quoteleft</key>
+  <string>quoteleft.glif</string>
+  <key>quoteright</key>
+  <string>quoteright.glif</string>
+  <key>quotesinglbase</key>
+  <string>quotesinglbase.glif</string>
+  <key>quotesingle</key>
+  <string>quotesingle.glif</string>
+  <key>r</key>
+  <string>r.glif</string>
   <key>r-cans</key>
   <string>r-cans.glif</string>
   <key>rMedial-cans</key>
@@ -462,14 +908,22 @@
   <string>raa-cans.glif</string>
   <key>raai-cans</key>
   <string>raai-cans.glif</string>
+  <key>radical</key>
+  <string>radical.glif</string>
   <key>re-cans</key>
   <string>re-cans.glif</string>
   <key>reRCree-cans</key>
   <string>reR_C_ree-cans.glif</string>
+  <key>registered</key>
+  <string>registered.glif</string>
   <key>ri-cans</key>
   <string>ri-cans.glif</string>
   <key>rii-cans</key>
   <string>rii-cans.glif</string>
+  <key>ring</key>
+  <string>ring.glif</string>
+  <key>ringcomb</key>
+  <string>ringcomb.glif</string>
   <key>ro-cans</key>
   <string>ro-cans.glif</string>
   <key>roo-cans</key>
@@ -478,6 +932,8 @@
   <string>rwaa-cans.glif</string>
   <key>rwaaWestCree-cans</key>
   <string>rwaaW_estC_ree-cans.glif</string>
+  <key>s</key>
+  <string>s.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
   <key>s-cans.small</key>
@@ -492,10 +948,18 @@
   <string>saa-cans.glif</string>
   <key>saai-cans</key>
   <string>saai-cans.glif</string>
+  <key>scaron</key>
+  <string>scaron.glif</string>
   <key>scwaNaskapi-cans</key>
   <string>scwaN_askapi-cans.glif</string>
   <key>se-cans</key>
   <string>se-cans.glif</string>
+  <key>section</key>
+  <string>section.glif</string>
+  <key>semicolon</key>
+  <string>semicolon.glif</string>
+  <key>seven</key>
+  <string>seven.glif</string>
   <key>sh-cans</key>
   <string>sh-cans.glif</string>
   <key>sha-cans</key>
@@ -542,14 +1006,24 @@
   <string>shwooW_estC_ree-cans.glif</string>
   <key>si-cans</key>
   <string>si-cans.glif</string>
+  <key>sidebearingleft</key>
+  <string>sidebearingleft.glif</string>
+  <key>sidebearingright</key>
+  <string>sidebearingright.glif</string>
   <key>sii-cans</key>
   <string>sii-cans.glif</string>
+  <key>six</key>
+  <string>six.glif</string>
+  <key>sixperemspace</key>
+  <string>sixperemspace.glif</string>
   <key>skMooseCree-cans</key>
   <string>skM_ooseC_ree-cans.glif</string>
   <key>skaNaskapi-cans</key>
   <string>skaN_askapi-cans.glif</string>
   <key>skwNaskapi-cans</key>
   <string>skwN_askapi-cans.glif</string>
+  <key>slash</key>
+  <string>slash.glif</string>
   <key>so-cans</key>
   <string>so-cans.glif</string>
   <key>soo-cans</key>
@@ -562,6 +1036,10 @@
   <string>space.glif</string>
   <key>staNaskapi-cans</key>
   <string>staN_askapi-cans.glif</string>
+  <key>sterling</key>
+  <string>sterling.glif</string>
+  <key>summation</key>
+  <string>summation.glif</string>
   <key>sw-cans</key>
   <string>sw-cans.glif</string>
   <key>swNaskapi-cans</key>
@@ -596,6 +1074,8 @@
   <string>swoo-cans.glif</string>
   <key>swooWestCree-cans</key>
   <string>swooW_estC_ree-cans.glif</string>
+  <key>t</key>
+  <string>t.glif</string>
   <key>t-cans</key>
   <string>t-cans.glif</string>
   <key>ta-cans</key>
@@ -626,10 +1106,22 @@
   <string>thii-cans.glif</string>
   <key>thiiNCree-cans</key>
   <string>thiiN_C_ree-cans.glif</string>
+  <key>thinspace</key>
+  <string>thinspace.glif</string>
   <key>tho-cans</key>
   <string>tho-cans.glif</string>
   <key>thoo-cans</key>
   <string>thoo-cans.glif</string>
+  <key>thorn</key>
+  <string>thorn.glif</string>
+  <key>three</key>
+  <string>three.glif</string>
+  <key>threeperemspace</key>
+  <string>threeperemspace.glif</string>
+  <key>threequarters</key>
+  <string>threequarters.glif</string>
+  <key>threesuperior</key>
+  <string>threesuperior.glif</string>
   <key>thwaa-cans</key>
   <string>thwaa-cans.glif</string>
   <key>thwaaWestCree-cans</key>
@@ -638,12 +1130,18 @@
   <string>ti-cans.glif</string>
   <key>tii-cans</key>
   <string>tii-cans.glif</string>
+  <key>tilde</key>
+  <string>tilde.glif</string>
+  <key>tildecomb</key>
+  <string>tildecomb.glif</string>
   <key>to-cans</key>
   <string>to-cans.glif</string>
   <key>too-cans</key>
   <string>too-cans.glif</string>
   <key>tooYCree-cans</key>
   <string>tooY_C_ree-cans.glif</string>
+  <key>trademark</key>
+  <string>trademark.glif</string>
   <key>tsaCarrier-cans</key>
   <string>tsaC_arrier-cans.glif</string>
   <key>tta-cans</key>
@@ -698,6 +1196,8 @@
   <string>twii-cans.glif</string>
   <key>twiiWestCree-cans</key>
   <string>twiiW_estC_ree-cans.glif</string>
+  <key>two</key>
+  <string>two.glif</string>
   <key>two-cans</key>
   <string>two-cans.glif</string>
   <key>twoWestCree-cans</key>
@@ -706,6 +1206,30 @@
   <string>twoo-cans.glif</string>
   <key>twooWestCree-cans</key>
   <string>twooW_estC_ree-cans.glif</string>
+  <key>twosuperior</key>
+  <string>twosuperior.glif</string>
+  <key>u</key>
+  <string>u.glif</string>
+  <key>uacute</key>
+  <string>uacute.glif</string>
+  <key>ucircumflex</key>
+  <string>ucircumflex.glif</string>
+  <key>udieresis</key>
+  <string>udieresis.glif</string>
+  <key>ugrave</key>
+  <string>ugrave.glif</string>
+  <key>underscore</key>
+  <string>underscore.glif</string>
+  <key>uni00B5</key>
+  <string>uni00B_5.glif</string>
+  <key>uni2308</key>
+  <string>uni2308.glif</string>
+  <key>uni2309</key>
+  <string>uni2309.glif</string>
+  <key>v</key>
+  <string>v.glif</string>
+  <key>w</key>
+  <string>w.glif</string>
   <key>wYCree-cans</key>
   <string>wY_C_ree-cans.glif</string>
   <key>wa-cans</key>
@@ -740,6 +1264,10 @@
   <string>wooN_askapi-cans.glif</string>
   <key>wooWCree-cans</key>
   <string>wooW_C_ree-cans.glif</string>
+  <key>x</key>
+  <string>x.glif</string>
+  <key>y</key>
+  <string>y.glif</string>
   <key>y-cans</key>
   <string>y-cans.glif</string>
   <key>yBibleCree-cans</key>
@@ -752,8 +1280,14 @@
   <string>yaa-cans.glif</string>
   <key>yaai-cans</key>
   <string>yaai-cans.glif</string>
+  <key>yacute</key>
+  <string>yacute.glif</string>
+  <key>ydieresis</key>
+  <string>ydieresis.glif</string>
   <key>ye-cans</key>
   <string>ye-cans.glif</string>
+  <key>yen</key>
+  <string>yen.glif</string>
   <key>yi-cans</key>
   <string>yi-cans.glif</string>
   <key>yiSayisi-cans</key>
@@ -796,5 +1330,11 @@
   <string>ywoo-cans.glif</string>
   <key>ywooWestCree-cans</key>
   <string>ywooW_estC_ree-cans.glif</string>
+  <key>z</key>
+  <string>z.glif</string>
+  <key>zcaron</key>
+  <string>zcaron.glif</string>
+  <key>zero</key>
+  <string>zero.glif</string>
 </dict>
 </plist>

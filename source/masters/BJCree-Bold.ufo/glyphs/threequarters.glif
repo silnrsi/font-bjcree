@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threequarters" format="2">
+  <advance width="1763"/>
+  <unicode hex="00BE"/>
+  <note>
+threequarters
+</note>
+  <outline>
+    <component base="three" xScale="0.6" yScale="0.6" xOffset="13" yOffset="585"/>
+    <component base="four" xScale="0.6" yScale="0.6" xOffset="1005" yOffset="5"/>
+    <contour>
+      <point x="1436" y="1479" type="line"/>
+      <point x="1272" y="1479" type="line"/>
+      <point x="414" y="-40" type="line"/>
+      <point x="575" y="-40" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

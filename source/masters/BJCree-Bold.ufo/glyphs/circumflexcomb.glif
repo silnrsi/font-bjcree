@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb" format="2">
+  <unicode hex="0302"/>
+  <anchor x="-628" y="1100" name="_Lupper"/>
+  <outline>
+    <contour>
+      <point x="-270" y="1114" type="line"/>
+      <point x="-517" y="1479" type="line"/>
+      <point x="-741" y="1479" type="line"/>
+      <point x="-988" y="1114" type="line"/>
+      <point x="-851" y="1114" type="line"/>
+      <point x="-628" y="1305" type="line"/>
+      <point x="-407" y="1114" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>
