@@ -10,10 +10,10 @@ The Latin glyphs are based loosely on C059 (New Century Schoolbook) from (URW)++
 
 # Status
 
-The fonts are currently in transition from a previous source format to a UFO-based workflow, and will be re-released under the SIL OFL (https://scripts.sil.org/OFL).
-
+The fonts are currently in transition from a previous source format to a UFO-based workflow, and will be re-released under the [OFL](https://openfontlicense.org).
 Since it's still in flux, please don't make derivatives at this stage.
 
+## Project status [![Build Status](http://build.palaso.org/app/rest/builds/buildType:Fonts_BJCree/statusIcon)](http://build.palaso.org/viewType.html?buildTypeId=Fonts_BJCree&guest=1)  
 
 # Documentation
 
