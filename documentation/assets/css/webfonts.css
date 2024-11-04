@@ -9,7 +9,7 @@ released under the MIT license (http://opensource.org/licenses/MIT).
 }
 @font-face {
     font-family: BJCree-B;
-    src: url("../../../web/BJCree-Regular.woff2") format("woff2");
+    src: url("../../../web/BJCree-Bold.woff2") format("woff2");
 }
 
 .cans-R { font-family: BJCree-R; }

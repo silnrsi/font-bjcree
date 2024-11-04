@@ -14,6 +14,7 @@ This documentation is a set of HTML pages that can be viewed in any modern web b
 - [FAQ](faq.md) — Common questions and answers
 - [Design](design.md) — History and background of the design
 - [Character set support](charset.md) — Details of Unicode characters that are supported
+- [Type Sample](sample.md) — Type sample demonstrating all the characters in this font
 - [Font features](features.md) — Using smart font features
 - [Support](support.md) — How to get additional support
 - [Developer information](developer.md) — How to modify and build the fonts
