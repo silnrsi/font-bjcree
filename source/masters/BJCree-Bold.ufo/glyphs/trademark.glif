@@ -6,8 +6,8 @@
 trademark
 </note>
   <outline>
-    <component base="T" xScale="0.6" yScale="0.6"/>
-    <component base="M" xScale="0.6" yScale="0.6" xOffset="922"/>
+    <component base="T" xScale="0.6" yScale="0.6" yOffset="575"/>
+    <component base="M" xScale="0.6" yScale="0.6" xOffset="922" yOffset="575"/>
   </outline>
   <lib>
     <dict>
