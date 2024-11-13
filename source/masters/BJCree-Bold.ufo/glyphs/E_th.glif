@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="2">
-  <advance width="1706"/>
+  <advance width="1692"/>
   <unicode hex="00D0"/>
   <note>
 Eth
@@ -8,10 +8,10 @@ Eth
   <outline>
     <component base="D"/>
     <contour>
-      <point x="43" y="814" type="line"/>
-      <point x="43" y="692" type="line"/>
-      <point x="907" y="692" type="line"/>
-      <point x="907" y="814" type="line"/>
+      <point x="43" y="807" type="line"/>
+      <point x="43" y="686" type="line"/>
+      <point x="900" y="686" type="line"/>
+      <point x="900" y="807" type="line"/>
     </contour>
   </outline>
   <lib>

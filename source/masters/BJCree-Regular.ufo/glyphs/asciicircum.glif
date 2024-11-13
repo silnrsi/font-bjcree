@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="2">
-  <advance width="1241"/>
+  <advance width="1171"/>
   <unicode hex="005E"/>
   <note>
 asciicircum
@@ -8,14 +8,14 @@ asciicircum
   <guideline x="776" y="990" angle="117.9671"/>
   <outline>
     <contour>
-      <point x="995" y="651" type="line"/>
-      <point x="1135" y="651" type="line"/>
-      <point x="709" y="1479" type="line"/>
-      <point x="535" y="1479" type="line"/>
-      <point x="106" y="651" type="line"/>
-      <point x="245" y="651" type="line"/>
-      <point x="635" y="1386" type="line"/>
-      <point x="605" y="1386" type="line"/>
+      <point x="938" y="614" type="line"/>
+      <point x="1071" y="614" type="line"/>
+      <point x="669" y="1395" type="line"/>
+      <point x="505" y="1395" type="line"/>
+      <point x="100" y="614" type="line"/>
+      <point x="231" y="614" type="line"/>
+      <point x="599" y="1307" type="line"/>
+      <point x="571" y="1307" type="line"/>
     </contour>
   </outline>
   <lib>

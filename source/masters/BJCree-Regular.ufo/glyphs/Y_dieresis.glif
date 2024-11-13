@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ydieresis" format="2">
-  <advance width="1442"/>
+  <advance width="1360"/>
   <unicode hex="0178"/>
   <note>
 Ydieresis
 </note>
   <outline>
     <component base="Y"/>
-    <component base="dieresiscomb" xOffset="1269" yOffset="530"/>
+    <component base="dieresiscomb" xOffset="1197" yOffset="500"/>
   </outline>
   <lib>
     <dict>

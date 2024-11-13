@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="2">
-  <advance width="682"/>
+  <advance width="676"/>
   <unicode hex="00A8"/>
   <note>
 dieresis
 </note>
   <outline>
-    <component base="dieresiscomb" xOffset="968"/>
+    <component base="dieresiscomb" xOffset="960"/>
   </outline>
   <lib>
     <dict>

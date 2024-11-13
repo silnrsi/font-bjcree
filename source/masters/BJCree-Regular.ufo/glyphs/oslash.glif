@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oslash" format="2">
-  <advance width="1024"/>
+  <advance width="966"/>
   <unicode hex="00F8"/>
   <note>
 oslash
@@ -8,10 +8,10 @@ oslash
   <outline>
     <component base="o"/>
     <contour>
-      <point x="164" y="-9" type="line"/>
-      <point x="270" y="-9" type="line"/>
-      <point x="858" y="954" type="line"/>
-      <point x="752" y="954" type="line"/>
+      <point x="155" y="-8" type="line"/>
+      <point x="255" y="-8" type="line"/>
+      <point x="809" y="900" type="line"/>
+      <point x="709" y="900" type="line"/>
     </contour>
   </outline>
   <lib>

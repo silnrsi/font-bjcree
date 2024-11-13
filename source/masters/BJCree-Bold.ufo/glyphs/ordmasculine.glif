@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="2">
-  <advance width="752"/>
+  <advance width="746"/>
   <unicode hex="00BA"/>
   <note>
 ordmasculine
 </note>
   <outline>
-    <component base="o" xScale="0.6" yScale="0.6" yOffset="900"/>
+    <component base="o" xScale="0.6" yScale="0.6" yOffset="893"/>
   </outline>
   <lib>
     <dict>

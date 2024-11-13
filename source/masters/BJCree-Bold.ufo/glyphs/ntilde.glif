@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="2">
-  <advance width="1403"/>
+  <advance width="1391"/>
   <unicode hex="00F1"/>
   <note>
 ntilde
 </note>
   <outline>
     <component base="n"/>
-    <component base="tildecomb" xOffset="1403"/>
+    <component base="tildecomb" xOffset="1391"/>
   </outline>
   <lib>
     <dict>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="2">
-  <advance width="2048"/>
+  <advance width="1932"/>
   <unicode hex="2026"/>
   <note>
 ellipsis
 </note>
   <outline>
-    <component base="period" xOffset="60"/>
-    <component base="period" xOffset="740"/>
-    <component base="period" xOffset="1420"/>
+    <component base="period" xOffset="57"/>
+    <component base="period" xOffset="698"/>
+    <component base="period" xOffset="1339"/>
   </outline>
   <lib>
     <dict>

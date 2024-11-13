@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="multiply" format="2">
-  <advance width="1241"/>
+  <advance width="1231"/>
   <unicode hex="00D7"/>
   <note>
 multiply
 </note>
   <outline>
     <contour>
-      <point x="1126" y="158" type="line"/>
-      <point x="260" y="1024" type="line"/>
-      <point x="114" y="878" type="line"/>
-      <point x="980" y="12" type="line"/>
+      <point x="1117" y="157" type="line"/>
+      <point x="258" y="1016" type="line"/>
+      <point x="113" y="871" type="line"/>
+      <point x="972" y="12" type="line"/>
     </contour>
     <contour>
-      <point x="260" y="12" type="line"/>
-      <point x="1126" y="878" type="line"/>
-      <point x="980" y="1024" type="line"/>
-      <point x="114" y="158" type="line"/>
+      <point x="258" y="12" type="line"/>
+      <point x="1117" y="871" type="line"/>
+      <point x="972" y="1016" type="line"/>
+      <point x="113" y="157" type="line"/>
     </contour>
   </outline>
   <lib>

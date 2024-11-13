@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ograve" format="2">
-  <advance width="1024"/>
+  <advance width="966"/>
   <unicode hex="00F2"/>
   <note>
 ograve
 </note>
   <outline>
     <component base="o"/>
-    <component base="gravecomb" xOffset="1024"/>
+    <component base="gravecomb" xOffset="966"/>
   </outline>
   <lib>
     <dict>

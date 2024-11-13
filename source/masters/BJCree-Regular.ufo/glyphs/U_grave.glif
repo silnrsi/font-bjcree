@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ugrave" format="2">
-  <advance width="1669"/>
+  <advance width="1574"/>
   <unicode hex="00D9"/>
   <note>
 Ugrave
 </note>
   <outline>
     <component base="U"/>
-    <component base="gravecomb" xOffset="1365" yOffset="540"/>
+    <component base="gravecomb" xOffset="1287" yOffset="509"/>
   </outline>
   <lib>
     <dict>

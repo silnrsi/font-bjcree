@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tilde" format="2">
-  <advance width="614"/>
+  <advance width="609"/>
   <unicode hex="02DC"/>
   <outline>
-    <component base="tildecomb" xOffset="978"/>
+    <component base="tildecomb" xOffset="970"/>
   </outline>
   <lib>
     <dict>

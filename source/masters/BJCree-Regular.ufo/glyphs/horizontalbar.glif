@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="horizontalbar" format="2">
-  <advance width="2048"/>
+  <advance width="1932"/>
   <unicode hex="2015"/>
   <note>
 afii00208
 </note>
   <outline>
     <contour>
-      <point x="2048" y="547" type="line"/>
-      <point x="0" y="547" type="line"/>
-      <point x="0" y="422" type="line"/>
-      <point x="2048" y="422" type="line"/>
+      <point x="1932" y="516" type="line"/>
+      <point x="0" y="516" type="line"/>
+      <point x="0" y="398" type="line"/>
+      <point x="1932" y="398" type="line"/>
     </contour>
   </outline>
   <lib>

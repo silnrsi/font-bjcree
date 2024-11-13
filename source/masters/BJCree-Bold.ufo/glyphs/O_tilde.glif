@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otilde" format="2">
-  <advance width="1706"/>
+  <advance width="1692"/>
   <unicode hex="00D5"/>
   <note>
 Otilde
 </note>
   <outline>
     <component base="O"/>
-    <component base="tildecomb" xOffset="1526" yOffset="520"/>
+    <component base="tildecomb" xOffset="1513" yOffset="516"/>
   </outline>
   <lib>
     <dict>

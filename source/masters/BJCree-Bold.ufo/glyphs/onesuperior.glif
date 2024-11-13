@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="2">
-  <advance width="705"/>
+  <advance width="699"/>
   <unicode hex="00B9"/>
   <note>
 onesuperior
 </note>
   <outline>
-    <component base="one" xScale="0.6" yScale="0.6" yOffset="580"/>
+    <component base="one" xScale="0.6" yScale="0.6" yOffset="575"/>
   </outline>
   <lib>
     <dict>

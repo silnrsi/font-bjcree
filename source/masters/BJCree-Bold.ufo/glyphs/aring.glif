@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="2">
-  <advance width="1251"/>
+  <advance width="1241"/>
   <unicode hex="00E5"/>
   <note>
 aring
 </note>
   <outline>
     <component base="a"/>
-    <component base="ringcomb" xOffset="1225"/>
+    <component base="ringcomb" xOffset="1215"/>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caroncomb" format="2">
   <unicode hex="030C"/>
-  <anchor x="-628" y="1100" name="_Lupper"/>
+  <anchor x="-623" y="1091" name="_Lupper"/>
   <outline>
     <contour>
-      <point x="-739" y="1114" type="line"/>
-      <point x="-515" y="1114" type="line"/>
-      <point x="-268" y="1479" type="line"/>
-      <point x="-405" y="1479" type="line"/>
-      <point x="-628" y="1288" type="line"/>
-      <point x="-849" y="1479" type="line"/>
-      <point x="-986" y="1479" type="line"/>
+      <point x="-733" y="1105" type="line"/>
+      <point x="-511" y="1105" type="line"/>
+      <point x="-266" y="1467" type="line"/>
+      <point x="-402" y="1467" type="line"/>
+      <point x="-623" y="1277" type="line"/>
+      <point x="-842" y="1467" type="line"/>
+      <point x="-978" y="1467" type="line"/>
     </contour>
   </outline>
   <lib>

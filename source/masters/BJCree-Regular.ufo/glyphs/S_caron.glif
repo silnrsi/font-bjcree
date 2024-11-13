@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="2">
-  <advance width="1290"/>
+  <advance width="1217"/>
   <unicode hex="0160"/>
   <note>
 Scaron
 </note>
   <outline>
     <component base="S"/>
-    <component base="caroncomb" xOffset="1191" yOffset="540"/>
+    <component base="caroncomb" xOffset="1123" yOffset="509"/>
   </outline>
   <lib>
     <dict>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="2">
-  <advance width="1763"/>
+  <advance width="1749"/>
   <unicode hex="00BE"/>
   <note>
 threequarters
 </note>
   <outline>
-    <component base="three" xScale="0.6" yScale="0.6" xOffset="13" yOffset="585"/>
-    <component base="four" xScale="0.6" yScale="0.6" xOffset="1005" yOffset="5"/>
+    <component base="three" xScale="0.6" yScale="0.6" xOffset="13" yOffset="580"/>
+    <component base="four" xScale="0.6" yScale="0.6" xOffset="997" yOffset="5"/>
     <contour>
-      <point x="1436" y="1479" type="line"/>
-      <point x="1272" y="1479" type="line"/>
-      <point x="414" y="-40" type="line"/>
-      <point x="575" y="-40" type="line"/>
+      <point x="1424" y="1467" type="line"/>
+      <point x="1262" y="1467" type="line"/>
+      <point x="411" y="-40" type="line"/>
+      <point x="570" y="-40" type="line"/>
     </contour>
   </outline>
   <lib>

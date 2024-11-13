@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Z" format="2">
-  <advance width="1251"/>
+  <advance width="1180"/>
   <unicode hex="005A"/>
   <note>
 Z
 </note>
   <guideline x="638" y="1382" angle="90"/>
-  <anchor x="638" y="1640" name="Lupper"/>
+  <anchor x="602" y="1547" name="Lupper"/>
   <outline>
     <contour>
-      <point x="1158" y="1395" type="line"/>
-      <point x="1158" y="1479" type="line"/>
-      <point x="165" y="1479" type="line"/>
-      <point x="124" y="961" type="line"/>
-      <point x="194" y="961" type="line"/>
-      <point x="261" y="1305"/>
-      <point x="415" y="1382"/>
-      <point x="608" y="1382" type="curve" smooth="yes"/>
-      <point x="956" y="1382" type="line"/>
-      <point x="935" y="1421" type="line"/>
-      <point x="74" y="84" type="line"/>
-      <point x="74" y="0" type="line"/>
-      <point x="1135" y="0" type="line"/>
-      <point x="1172" y="569" type="line"/>
-      <point x="1102" y="569" type="line"/>
-      <point x="1054" y="264"/>
-      <point x="937" y="96"/>
-      <point x="685" y="96" type="curve" smooth="yes"/>
-      <point x="274" y="96" type="line"/>
-      <point x="294" y="57" type="line"/>
+      <point x="1092" y="1316" type="line"/>
+      <point x="1092" y="1395" type="line"/>
+      <point x="156" y="1395" type="line"/>
+      <point x="117" y="906" type="line"/>
+      <point x="183" y="906" type="line"/>
+      <point x="246" y="1231"/>
+      <point x="391" y="1304"/>
+      <point x="573" y="1304" type="curve" smooth="yes"/>
+      <point x="902" y="1304" type="line"/>
+      <point x="882" y="1340" type="line"/>
+      <point x="70" y="79" type="line"/>
+      <point x="70" y="0" type="line"/>
+      <point x="1071" y="0" type="line"/>
+      <point x="1105" y="537" type="line"/>
+      <point x="1039" y="537" type="line"/>
+      <point x="994" y="249"/>
+      <point x="884" y="91"/>
+      <point x="646" y="91" type="curve" smooth="yes"/>
+      <point x="258" y="91" type="line"/>
+      <point x="277" y="54" type="line"/>
     </contour>
   </outline>
   <lib>

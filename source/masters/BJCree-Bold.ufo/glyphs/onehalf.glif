@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onehalf" format="2">
-  <advance width="1763"/>
+  <advance width="1749"/>
   <unicode hex="00BD"/>
   <note>
 onehalf
 </note>
   <outline>
-    <component base="one" xScale="0.6" yScale="0.6" xOffset="-5" yOffset="585"/>
-    <component base="two" xScale="0.6" yScale="0.6" xOffset="1025" yOffset="5"/>
+    <component base="one" xScale="0.6" yScale="0.6" xOffset="-5" yOffset="580"/>
+    <component base="two" xScale="0.6" yScale="0.6" xOffset="1017" yOffset="5"/>
     <contour>
-      <point x="1376" y="1479" type="line"/>
-      <point x="1214" y="1479" type="line"/>
-      <point x="354" y="-40" type="line"/>
-      <point x="516" y="-40" type="line"/>
+      <point x="1365" y="1467" type="line"/>
+      <point x="1204" y="1467" type="line"/>
+      <point x="351" y="-40" type="line"/>
+      <point x="512" y="-40" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflexcomb" format="2">
   <unicode hex="0302"/>
-  <anchor x="-628" y="1100" name="_Lupper"/>
+  <anchor x="-623" y="1091" name="_Lupper"/>
   <outline>
     <contour>
-      <point x="-270" y="1114" type="line"/>
-      <point x="-517" y="1479" type="line"/>
-      <point x="-741" y="1479" type="line"/>
-      <point x="-988" y="1114" type="line"/>
-      <point x="-851" y="1114" type="line"/>
-      <point x="-628" y="1305" type="line"/>
-      <point x="-407" y="1114" type="line"/>
+      <point x="-268" y="1105" type="line"/>
+      <point x="-513" y="1467" type="line"/>
+      <point x="-735" y="1467" type="line"/>
+      <point x="-980" y="1105" type="line"/>
+      <point x="-844" y="1105" type="line"/>
+      <point x="-623" y="1294" type="line"/>
+      <point x="-404" y="1105" type="line"/>
     </contour>
   </outline>
   <lib>

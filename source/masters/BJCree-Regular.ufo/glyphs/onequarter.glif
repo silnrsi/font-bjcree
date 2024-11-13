@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="2">
-  <advance width="1708"/>
+  <advance width="1611"/>
   <unicode hex="00BC"/>
   <note>
 onequarter
 </note>
   <outline>
-    <component base="one" xScale="0.6" yScale="0.6" xOffset="-9" yOffset="591"/>
-    <component base="four" xScale="0.6" yScale="0.6" xOffset="951" yOffset="5"/>
+    <component base="one" xScale="0.6" yScale="0.6" xOffset="-8" yOffset="557"/>
+    <component base="four" xScale="0.6" yScale="0.6" xOffset="897" yOffset="5"/>
     <contour>
-      <point x="1462" y="1450" type="line"/>
-      <point x="1346" y="1450" type="line"/>
-      <point x="317" y="-40" type="line"/>
-      <point x="434" y="-40" type="line"/>
+      <point x="1379" y="1368" type="line"/>
+      <point x="1270" y="1368" type="line"/>
+      <point x="299" y="-38" type="line"/>
+      <point x="409" y="-38" type="line"/>
     </contour>
   </outline>
   <lib>

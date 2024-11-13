@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="acircumflex" format="2">
-  <advance width="1139"/>
+  <advance width="1074"/>
   <unicode hex="00E2"/>
   <note>
 acircumflex
 </note>
   <outline>
     <component base="a"/>
-    <component base="circumflexcomb" xOffset="1040"/>
+    <component base="circumflexcomb" xOffset="981"/>
   </outline>
   <lib>
     <dict>

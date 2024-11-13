@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caron" format="2">
-  <advance width="682"/>
+  <advance width="643"/>
   <unicode hex="02C7"/>
   <note>
 caron
 </note>
   <outline>
-    <component base="caroncomb" xOffset="854"/>
+    <component base="caroncomb" xOffset="805"/>
   </outline>
   <lib>
     <dict>
