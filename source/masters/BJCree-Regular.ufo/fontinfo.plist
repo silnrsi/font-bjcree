@@ -7,7 +7,7 @@
   <key>capHeight</key>
   <integer>1434</integer>
   <key>copyright</key>
-  <string>Copyright (c) 2000-2023 SIL International.</string>
+  <string>Copyright (c) 2000-2024 SIL Global.</string>
   <key>descender</key>
   <integer>-443</integer>
   <key>familyName</key>
@@ -72,7 +72,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/11/13 14:46:30</string>
+  <string>2024/11/13 16:25:39</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>
