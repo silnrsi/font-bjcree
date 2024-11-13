@@ -66,7 +66,7 @@
       <key>name</key>
       <string>Top</string>
       <key>x</key>
-      <integer>-59</integer>
+      <integer>-56</integer>
       <key>y</key>
       <integer>1467</integer>
     </dict>
@@ -82,7 +82,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2024/11/13 14:35:39</string>
+  <string>2024/11/13 14:46:30</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>
