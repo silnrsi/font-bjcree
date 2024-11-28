@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="enquad" format="2">
-  <advance width="1219"/>
+  <advance width="1024"/>
   <unicode hex="2000"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=enspace</string>
+    </dict>
+  </lib>
 </glyph>

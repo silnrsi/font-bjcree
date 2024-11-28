@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fourperemspace" format="2">
-  <advance width="1219"/>
+  <advance width="512"/>
   <unicode hex="2005"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=emspace/4</string>
+    </dict>
+  </lib>
 </glyph>

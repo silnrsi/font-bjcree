@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="enspace" format="2">
-  <advance width="1130"/>
+  <advance width="1024"/>
   <unicode hex="2002"/>
   <note>
 uni2002
 </note>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=emspace/2</string>
+    </dict>
+  </lib>
 </glyph>

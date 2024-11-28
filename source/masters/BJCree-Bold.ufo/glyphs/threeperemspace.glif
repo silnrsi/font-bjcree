@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threeperemspace" format="2">
-  <advance width="1219"/>
+  <advance width="683"/>
   <unicode hex="2004"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=emspace/3</string>
+    </dict>
+  </lib>
 </glyph>

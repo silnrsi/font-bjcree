@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sixperemspace" format="2">
-  <advance width="192"/>
+  <advance width="341"/>
   <unicode hex="2006"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=emspace/6</string>
+    </dict>
+  </lib>
 </glyph>

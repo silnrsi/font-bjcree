@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emquad" format="2">
-  <advance width="1159"/>
+  <advance width="2048"/>
   <unicode hex="2001"/>
   <outline/>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
+      <string>=emspace</string>
+    </dict>
+  </lib>
 </glyph>
