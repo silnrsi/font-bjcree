@@ -127,8 +127,6 @@ The/space word/space space/space is/space designed/space for/space use/space wit
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
   <true/>
-  <key>com.schriftgestaltung.customParameter.GSFont.uniqueID</key>
-  <string>SIL Global: BJCree Regular: 2024</string>
   <key>com.schriftgestaltung.customParameter.GSFont.useNiceNames</key>
   <integer>0</integer>
   <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>

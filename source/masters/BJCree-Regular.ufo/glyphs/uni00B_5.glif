@@ -2,9 +2,6 @@
 <glyph name="uni00B5" format="2">
   <advance width="1180"/>
   <unicode hex="00B5"/>
-  <note>
-mu
-</note>
   <outline>
     <component base="u"/>
     <contour>
