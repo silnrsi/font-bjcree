@@ -17,6 +17,8 @@
     <dict>
       <key>angle</key>
       <integer>0</integer>
+      <key>name</key>
+      <string>DotAbove base</string>
       <key>x</key>
       <integer>-60</integer>
       <key>y</key>
@@ -25,6 +27,8 @@
     <dict>
       <key>angle</key>
       <integer>0</integer>
+      <key>name</key>
+      <string>Raised top</string>
       <key>x</key>
       <integer>-58</integer>
       <key>y</key>
@@ -82,7 +86,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/01/16 09:36:11</string>
+  <string>2025/01/16 14:25:04</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>
@@ -275,38 +279,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>6</integer>
   <key>versionMinor</key>
   <integer>0</integer>
-  <key>woffMetadataCredits</key>
-  <dict>
-    <key>credits</key>
-    <array>
-      <dict>
-        <key>name</key>
-        <string>Bill Jancewicz</string>
-        <key>role</key>
-        <string>Cree glyph design and development</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Peter Martin</string>
-        <key>role</key>
-        <string>Design and engineering</string>
-        <key>url</key>
-        <string>https://software.sil.org/wstech/</string>
-      </dict>
-    </array>
-  </dict>
-  <key>woffMetadataDescription</key>
-  <dict>
-    <key>text</key>
-    <array>
-      <dict>
-        <key>text</key>
-        <string>BJCree is a Canadian Syllabics font for the Algonquian family of languages.</string>
-      </dict>
-    </array>
-    <key>url</key>
-    <string>https://software.sil.org/bjcree/</string>
-  </dict>
   <key>xHeight</key>
   <integer>1024</integer>
 </dict>

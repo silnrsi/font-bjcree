@@ -72,7 +72,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/01/16 09:36:10</string>
+  <string>2025/01/16 14:25:03</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>
@@ -252,6 +252,8 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>-223</integer>
   <key>postscriptUnderlineThickness</key>
   <integer>100</integer>
+  <key>styleMapStyleName</key>
+  <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
   <key>trademark</key>
@@ -262,38 +264,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <integer>6</integer>
   <key>versionMinor</key>
   <integer>0</integer>
-  <key>woffMetadataCredits</key>
-  <dict>
-    <key>credits</key>
-    <array>
-      <dict>
-        <key>name</key>
-        <string>Bill Jancewicz</string>
-        <key>role</key>
-        <string>Cree glyph design and development</string>
-      </dict>
-      <dict>
-        <key>name</key>
-        <string>Peter Martin</string>
-        <key>role</key>
-        <string>Design and engineering</string>
-        <key>url</key>
-        <string>https://software.sil.org/wstech/</string>
-      </dict>
-    </array>
-  </dict>
-  <key>woffMetadataDescription</key>
-  <dict>
-    <key>text</key>
-    <array>
-      <dict>
-        <key>text</key>
-        <string>BJCree is a Canadian Syllabics font for the Algonquian family of languages.</string>
-      </dict>
-    </array>
-    <key>url</key>
-    <string>https://software.sil.org/bjcree/</string>
-  </dict>
   <key>xHeight</key>
   <integer>1024</integer>
 </dict>

@@ -9,7 +9,7 @@ lozenge
     <contour>
       <point x="118" y="764" type="line"/>
       <point x="506" y="0" type="line"/>
-      <point x="628" y="-2" type="line"/>
+      <point x="628" y="0" type="line"/>
       <point x="1028" y="760" type="line"/>
       <point x="644" y="1504" type="line"/>
       <point x="516" y="1504" type="line"/>

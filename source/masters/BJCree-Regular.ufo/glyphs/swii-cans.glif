@@ -3,7 +3,7 @@
   <advance width="1500"/>
   <unicode hex="14FA"/>
   <outline>
-    <component base="si-cans" xOffset="370" yOffset="-2"/>
+    <component base="si-cans" xOffset="370"/>
     <component base="finalmiddledot-cans" xOffset="1" yOffset="-6"/>
     <component base="finalmiddledot-cans" xOffset="1057" yOffset="976"/>
   </outline>

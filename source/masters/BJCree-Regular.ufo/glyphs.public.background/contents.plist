@@ -66,6 +66,8 @@
   <string>no-cans.glif</string>
   <key>nooYCree-cans</key>
   <string>nooY_C_ree-cans.glif</string>
+  <key>ogonek</key>
+  <string>ogonek.glif</string>
   <key>p-cans</key>
   <string>p-cans.glif</string>
   <key>pWestCree-cans</key>
@@ -114,6 +116,8 @@
   <string>thwaa-cans.glif</string>
   <key>thwaaWestCree-cans</key>
   <string>thwaaW_estC_ree-cans.glif</string>
+  <key>uni00B5</key>
+  <string>uni00B_5.glif</string>
   <key>wYCree-cans</key>
   <string>wY_C_ree-cans.glif</string>
   <key>y-cans</key>

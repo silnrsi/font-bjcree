@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name=".heightcontrol" format="2">
+<glyph name="_heightcontrol" format="2">
   <advance width="1923"/>
-  <unicode hex="261D"/>
   <outline>
     <contour>
       <point x="845" y="808" type="line"/>
@@ -129,7 +128,7 @@
       <point x="636" y="-114" type="line"/>
     </contour>
     <contour>
-      <point x="589" y="-444" type="line"/>
+      <point x="589" y="-443" type="line"/>
       <point x="578" y="-56" type="line"/>
       <point x="658" y="-46" type="line"/>
       <point x="658" y="-26" type="line" smooth="yes"/>
@@ -179,7 +178,7 @@
       <point x="1336" y="-50" type="line"/>
       <point x="1342" y="-224" type="line"/>
       <point x="1395" y="-255" type="line"/>
-      <point x="1373" y="-444" type="line"/>
+      <point x="1373" y="-443" type="line"/>
     </contour>
     <contour>
       <point x="691" y="2280" type="line"/>

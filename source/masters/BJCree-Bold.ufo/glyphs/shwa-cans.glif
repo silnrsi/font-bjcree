@@ -3,7 +3,7 @@
   <advance width="2378"/>
   <unicode hex="1521"/>
   <outline>
-    <component base="sha-cans" xOffset="377"/>
+    <component base="sha-cans" xOffset="377" yOffset="-8"/>
     <component base="finalmiddledot-cans"/>
   </outline>
   <lib>

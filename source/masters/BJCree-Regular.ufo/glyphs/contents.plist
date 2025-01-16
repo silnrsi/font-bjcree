@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>.heightcontrol</key>
-  <string>_heightcontrol.glif</string>
   <key>.notdef</key>
   <string>_notdef.glif</string>
   <key>A</key>
@@ -142,6 +140,8 @@
   <string>_dotsmall.glif</string>
   <key>_fe-ring</key>
   <string>_fe-ring.glif</string>
+  <key>_heightcontrol</key>
+  <string>_heightcontrol.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
   <key>a</key>

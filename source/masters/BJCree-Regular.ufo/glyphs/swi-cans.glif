@@ -3,7 +3,7 @@
   <advance width="1500"/>
   <unicode hex="14F8"/>
   <outline>
-    <component base="si-cans" xOffset="370" yOffset="-2"/>
+    <component base="si-cans" xOffset="370"/>
     <component base="finalmiddledot-cans" xOffset="1" yOffset="-6"/>
   </outline>
   <lib>

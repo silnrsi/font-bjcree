@@ -3,7 +3,7 @@
   <advance width="2001"/>
   <unicode hex="1513"/>
   <outline>
-    <component base="she-cans" xScale="0.75254" xyScale="0.65855" yxScale="-0.65855" yScale="0.75254" xOffset="833" yOffset="-702"/>
+    <component base="she-cans" xScale="0.75254" xyScale="0.65855" yxScale="-0.65855" yScale="0.75254" xOffset="833" yOffset="-701"/>
   </outline>
   <lib>
     <dict>
