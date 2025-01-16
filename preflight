@@ -3,8 +3,8 @@
 # echo "--- Normalizing and updating production names in Regular..."
 # psfsetpsnames -p checkfix=fix -i source/glyph_data.csv source/masters/BJCree-Regular.ufo
 
-# echo "--- Updating glyph orders in Regular..."
-# psfsetglyphorder --header sort_design -i source/glyph_data.csv source/masters/BJCree-Regular.ufo
+echo "--- Updating glyph orders in Regular..."
+psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/BJCree-Regular.ufo
 
 echo "--- Normalizing Regular..."
 psfnormalize -p scrlevel=w -p checkfix=fix source/masters/BJCree-Regular.ufo
