@@ -754,6 +754,8 @@
   <string>o-cans.glif</string>
   <key>oacute</key>
   <string>oacute.glif</string>
+  <key>objectReplacementCharacter</key>
+  <string>objectR_eplacementC_haracter.glif</string>
   <key>ocircumflex</key>
   <string>ocircumflex.glif</string>
   <key>odieresis</key>

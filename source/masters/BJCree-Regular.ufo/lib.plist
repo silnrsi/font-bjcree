@@ -37,7 +37,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3327</string>
+  <string>3340</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/i-cans/ii-cans/aai-cans/wi-cans/wiWCree-cans/wii-cans/wiiWCree-cans/glottalstop-cans 
@@ -120,6 +120,8 @@ The/space word/space space/space is/space designed/space for/space use/space wit
     <string>!"#$%&amp;'()*+,-.//0123456789:;&lt;=&gt;?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[/backslash ]^_`abcdefghijklmnopqrstuvwxyz{|}~ÄÅÇÉÑÖÜáàâäãåçéèêëíìîïñóòôöõúùûü/dagger °¢£§/bullet ¶ß®©/trademark ´¨/notequal ÆØ/infinity ±/lessequal/greaterequal ¥/partialdiff/summation/product/pi/integral ªºæø¿¡¬/radical/florin/approxequal/Delta/ellipsis/nbspace ÀÃÕ/OE/oe/endash/emdash/quotedblleft/quotedblright/quoteleft/quoteright ÷/lozenge/ydieresis/Ydieresis/fraction ¤/guilsinglleft/guilsinglright/fi/fl/daggerdbl ·/quotesinglbase/quotedblbase/perthousand ÂÊÁËÈÍÎÏÌÓÔÒÚÛÙ/circumflex/tilde ¯/breve/dotaccent/ring ¸/hungarumlaut/ogonek/caron ðÐþÞ/scaron/Scaron ýÝ/zcaron/Zcaron ¹²³/foursuperior ½¼¾/hyphenationpoint ¦/hyphentwo/figuredash/horizontalbar/minus/acutecomb/gravecomb/circumflexcomb/caroncomb/tildecomb ×/dieresiscomb/ringcomb/cedillacomb/emquad/emspace/narrownbspace/punctuationspace/sixperemspace/threeperemspace/enquad/enspace/fourperemspace/figurespace/thinspace/hairspace/.notdef/dotlessi/uni2308/uni2309/Euro µ/macroncomb/sidebearingleft/sidebearingright/Omega</string>
     <string>/space/nbspace/emspace/emquad/enspace/enquad/threeperemspace/fourperemspace/sixperemspace/narrownbspace ./punctuationspace 0/figurespace/thinspace/hairspace</string>
     <string>/ttho-cans/eCarrier-cans/iCarrier-cans/en-cans/in-cans/on-cans/an-cans/heeCarrier-cans/hiCarrier-cans/hCarrier-cans/deeCarrier-cans/diCarrier-cans/tte-cans/tti-cans/tto-cans/tta-cans/keSouthSlavey-cans/kiSouthSlavey-cans/koSouthSlavey-cans/kahSouthSlavey-cans/mAthapascan-cans/mSayisi-cans/lWestCree-cans/lMedial-cans/sAthapaskan-cans/sBlackfoot-cans/yBibleCree-cans/yWestCree-cans/yiSayisi-cans/leWestCree-cans/loWestCree-cans/laWestCree-cans/rWestCree-cans/rMedial-cans/theNCree-cans/thiNCree-cans/thiiNCree-cans/tthe-cans/tthi-cans/ttha-cans/tth-cans/tsaCarrier-cans/chuCarrier-cans/choCarrier-cans/cheCarrier-cans/cheeCarrier-cans/chiCarrier-cans/chaCarrier-cans/ttsuCarrier-cans/ttsoCarrier-cans/ttseCarrier-cans/ttseeCarrier-cans/ttsiCarrier-cans/ttsaCarrier-cans/qai-cans (54)</string>
+    <string/>
+    <string>/objectReplacementCharacter</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
