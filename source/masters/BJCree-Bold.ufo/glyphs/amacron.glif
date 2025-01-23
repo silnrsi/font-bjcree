@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="amacron" format="2">
+  <advance width="1241"/>
   <unicode hex="0101"/>
-  <outline/>
+  <outline>
+    <component base="a"/>
+    <component base="macroncomb" xOffset="1212" yOffset="-82"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
