@@ -16,6 +16,8 @@
   <string>A_dieresis.glif</string>
   <key>Agrave</key>
   <string>A_grave.glif</string>
+  <key>Amacron</key>
+  <string>A_macron.glif</string>
   <key>Aring</key>
   <string>A_ring.glif</string>
   <key>Atilde</key>
@@ -40,6 +42,8 @@
   <string>E_dieresis.glif</string>
   <key>Egrave</key>
   <string>E_grave.glif</string>
+  <key>Emacron</key>
+  <string>E_macron.glif</string>
   <key>Eth</key>
   <string>E_th.glif</string>
   <key>Euro</key>
@@ -60,6 +64,8 @@
   <string>I_dieresis.glif</string>
   <key>Igrave</key>
   <string>I_grave.glif</string>
+  <key>Imacron</key>
+  <string>I_macron.glif</string>
   <key>J</key>
   <string>J_.glif</string>
   <key>K</key>
@@ -84,6 +90,8 @@
   <string>O_dieresis.glif</string>
   <key>Ograve</key>
   <string>O_grave.glif</string>
+  <key>Omacron</key>
+  <string>O_macron.glif</string>
   <key>Omega</key>
   <string>O_mega.glif</string>
   <key>Oslash</key>
@@ -170,6 +178,8 @@
   <string>agrave.glif</string>
   <key>ai-cans</key>
   <string>ai-cans.glif</string>
+  <key>amacron</key>
+  <string>amacron.glif</string>
   <key>ampersand</key>
   <string>ampersand.glif</string>
   <key>an-cans</key>
@@ -346,6 +356,8 @@
   <string>eight.glif</string>
   <key>ellipsis</key>
   <string>ellipsis.glif</string>
+  <key>emacron</key>
+  <string>emacron.glif</string>
   <key>emdash</key>
   <string>emdash.glif</string>
   <key>emquad</key>
@@ -502,6 +514,8 @@
   <string>igrave.glif</string>
   <key>ii-cans</key>
   <string>ii-cans.glif</string>
+  <key>imacron</key>
+  <string>imacron.glif</string>
   <key>in-cans</key>
   <string>in-cans.glif</string>
   <key>infinity</key>
@@ -818,6 +832,8 @@
   <string>ogonek.glif</string>
   <key>ograve</key>
   <string>ograve.glif</string>
+  <key>omacron</key>
+  <string>omacron.glif</string>
   <key>on-cans</key>
   <string>on-cans.glif</string>
   <key>one</key>
