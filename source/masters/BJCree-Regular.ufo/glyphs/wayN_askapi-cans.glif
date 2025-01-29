@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wayNaskapi-cans" format="2">
+  <advance width="2009"/>
   <unicode hex="18B3"/>
-  <outline/>
+  <outline>
+    <component base="a-cans" xOffset="430"/>
+    <component base="_ring" xOffset="1601"/>
+    <component base="finalmiddledot-cans"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>
