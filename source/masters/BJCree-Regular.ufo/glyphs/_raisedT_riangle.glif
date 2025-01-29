@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_raisedTriangle" format="2">
+  <advance width="984"/>
+  <outline>
+    <contour>
+      <point x="50" y="601" type="line"/>
+      <point x="934" y="601" type="line"/>
+      <point x="492" y="1462" type="line"/>
+    </contour>
+    <contour>
+      <point x="255" y="726" type="line"/>
+      <point x="511" y="1225" type="line"/>
+      <point x="473" y="1225" type="line"/>
+      <point x="729" y="726" type="line"/>
+    </contour>
+  </outline>
+</glyph>

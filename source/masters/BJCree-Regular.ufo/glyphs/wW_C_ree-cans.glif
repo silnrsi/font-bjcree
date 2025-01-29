@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wWCree-cans" format="2">
+  <advance width="1115"/>
   <unicode hex="18DD"/>
-  <outline/>
+  <outline>
+    <component base="_raisedTriangle"/>
+    <component base="_dotsmall" xOffset="580" yOffset="-104"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>
