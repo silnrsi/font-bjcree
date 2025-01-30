@@ -3,8 +3,8 @@
   <advance width="1720"/>
   <unicode hex="14C3"/>
   <outline>
-    <component base="ni-cans"/>
-    <component base="_dotabove" xOffset="569" yOffset="-548"/>
+    <component base="ni-cans" yOffset="-57"/>
+    <component base="_dotabove" xOffset="569" yOffset="-594"/>
   </outline>
   <lib>
     <dict>

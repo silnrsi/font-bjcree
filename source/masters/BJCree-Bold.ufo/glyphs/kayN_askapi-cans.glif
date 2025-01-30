@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kayNaskapi-cans" format="2">
+  <advance width="1180"/>
   <unicode hex="18B8"/>
-  <outline/>
+  <outline>
+    <component base="ka-cans" xOffset="-4"/>
+    <component base="_ring" xOffset="59"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>
