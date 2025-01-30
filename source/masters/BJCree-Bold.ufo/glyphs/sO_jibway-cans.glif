@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sOjibway-cans" format="2">
+  <advance width="875"/>
   <unicode hex="18DA"/>
-  <outline/>
+  <outline>
+    <component base="s-cans" yScale="-1" yOffset="2042"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

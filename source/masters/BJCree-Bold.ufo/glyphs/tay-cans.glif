@@ -4,7 +4,7 @@
   <unicode hex="18B7"/>
   <outline>
     <component base="ta-cans"/>
-    <component base="_ring" xOffset="450"/>
+    <component base="_ring" xOffset="733"/>
   </outline>
   <lib>
     <dict>
