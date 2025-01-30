@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theThCree-cans" format="2">
+  <advance width="1281"/>
   <unicode hex="15A7"/>
-  <outline/>
+  <outline>
+    <component base="ye-cans" xOffset="64"/>
+    <contour>
+      <point x="795" y="419" type="line"/>
+      <point x="795" y="294" type="line"/>
+      <point x="1251" y="294" type="line"/>
+      <point x="1251" y="419" type="line"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>
