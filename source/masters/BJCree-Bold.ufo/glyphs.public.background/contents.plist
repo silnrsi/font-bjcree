@@ -72,6 +72,8 @@
   <string>nooY_C_ree-cans.glif</string>
   <key>p-cans</key>
   <string>p-cans.glif</string>
+  <key>pOjibway-cans</key>
+  <string>pO_jibway-cans.glif</string>
   <key>r-cans</key>
   <string>r-cans.glif</string>
   <key>rwaa-cans</key>
@@ -104,6 +106,8 @@
   <string>swN_askapi-cans.glif</string>
   <key>t-cans</key>
   <string>t-cans.glif</string>
+  <key>tOjibway-cans</key>
+  <string>tO_jibway-cans.glif</string>
   <key>ta-cans</key>
   <string>ta-cans.glif</string>
   <key>th-cans</key>

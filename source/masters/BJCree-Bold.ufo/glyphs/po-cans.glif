@@ -3,14 +3,7 @@
   <advance width="1731"/>
   <unicode hex="1433"/>
   <outline>
-    <contour>
-      <point x="190" y="-15" type="line"/>
-      <point x="1671" y="729" type="line"/>
-      <point x="190" y="1473" type="line"/>
-      <point x="190" y="1181" type="line"/>
-      <point x="1090" y="729" type="line"/>
-      <point x="190" y="270" type="line"/>
-    </contour>
+    <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1730" yOffset="1458"/>
   </outline>
   <lib>
     <dict>

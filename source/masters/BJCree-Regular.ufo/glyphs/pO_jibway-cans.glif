@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pOjibway-cans" format="2">
+  <advance width="1131"/>
   <unicode hex="18D4"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="127" y="601" type="line"/>
+      <point x="269" y="601" type="line"/>
+      <point x="567" y="1184" type="line"/>
+      <point x="862" y="601" type="line"/>
+      <point x="1004" y="601" type="line"/>
+      <point x="567" y="1460" type="line"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

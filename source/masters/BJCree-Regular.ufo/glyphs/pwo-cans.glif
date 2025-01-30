@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwo-cans" format="2">
-  <advance width="2025"/>
+  <advance width="2023"/>
   <unicode hex="1440"/>
   <outline>
-    <component base="po-cans" xOffset="442" yOffset="-1"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="po-cans" xOffset="440" yOffset="-1"/>
+    <component base="finalmiddledot-cans" xOffset="-2"/>
   </outline>
   <lib>
     <dict>
