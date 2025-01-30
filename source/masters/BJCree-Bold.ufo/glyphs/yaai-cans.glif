@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yaai-cans" format="2">
-  <advance width="1415"/>
+  <advance width="1419"/>
   <unicode hex="1527"/>
   <outline>
-    <component base="yi-cans"/>
-    <component base="_ring" xOffset="271" yOffset="46"/>
+    <component base="yi-cans" xOffset="-63"/>
+    <component base="_ring" xOffset="208" yOffset="46"/>
   </outline>
   <lib>
     <dict>

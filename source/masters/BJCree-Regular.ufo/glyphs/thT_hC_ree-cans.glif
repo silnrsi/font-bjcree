@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thThCree-cans" format="2">
+  <advance width="946"/>
   <unicode hex="15AE"/>
-  <outline/>
+  <outline>
+    <component base="y-cans"/>
+    <component base="_barStem" xScale="0.61951" xOffset="-444" yOffset="925"/>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

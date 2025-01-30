@@ -138,6 +138,8 @@
   <string>Z_.glif</string>
   <key>Zcaron</key>
   <string>Z_caron.glif</string>
+  <key>_barStem</key>
+  <string>_barS_tem.glif</string>
   <key>_dot2h</key>
   <string>_dot2h.glif</string>
   <key>_dot2hclose</key>

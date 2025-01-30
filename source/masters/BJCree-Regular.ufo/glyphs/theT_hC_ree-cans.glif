@@ -4,17 +4,10 @@
   <unicode hex="15A7"/>
   <outline>
     <component base="ye-cans" xOffset="64"/>
-    <contour>
-      <point x="795" y="419" type="line"/>
-      <point x="795" y="294" type="line"/>
-      <point x="1251" y="294" type="line"/>
-      <point x="1251" y="419" type="line"/>
-    </contour>
+    <component base="_barStem"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

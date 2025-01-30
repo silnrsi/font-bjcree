@@ -37,10 +37,10 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3341</string>
+  <string>3342</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ye-cans/theThCree-cans/thweeWoodsCree-cans/thiThCree-cans/thiiThCree-cans/thwiWoodsCree-cans/thwiiWoodsCree-cans/space/space/yoy-cans/space/space/thoThCree-cans/space/space/thooThCree-cans/space/space/thwoWoodsCree-cans/space/space/thwooWoodsCree-cans/space/space/yay-cans/space/space/thaThCree-cans/space/space/thaaThCree-cans/space/space/thwaWoodsCree-cans/space/space/thwaaWoodsCree-cans/space/space/thThCree-cans</string>
+    <string>/ye-cans/_barStem/theThCree-cans/thweeWoodsCree-cans/thiThCree-cans/thiiThCree-cans/thwiWoodsCree-cans/thwiiWoodsCree-cans/space/yaai-cans/yoy-cans/space/thoThCree-cans/thooThCree-cans/thwoWoodsCree-cans/thwooWoodsCree-cans/space/yay-cans/thaThCree-cans/thaaThCree-cans/thwaWoodsCree-cans/thwaaWoodsCree-cans/thThCree-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
