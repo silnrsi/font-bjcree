@@ -41,6 +41,7 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/ye-cans/_barStem/theThCree-cans/thweeWoodsCree-cans/thiThCree-cans/thiiThCree-cans/thwiWoodsCree-cans/thwiiWoodsCree-cans/space/yaai-cans/yoy-cans/space/thoThCree-cans/thooThCree-cans/thwoWoodsCree-cans/thwooWoodsCree-cans/space/yay-cans/thaThCree-cans/thaaThCree-cans/thwaWoodsCree-cans/thwaaWoodsCree-cans/thThCree-cans</string>
+    <string>/_raisedTriangle/glottalstop-cans/wECree-cans/wWCree-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

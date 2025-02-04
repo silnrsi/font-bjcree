@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="glottalstop-cans" format="2">
-  <advance width="1013"/>
+  <advance width="1070"/>
   <unicode hex="141E"/>
   <outline>
-    <component base="i-cans" xScale="0.60315" yScale="0.61841" xOffset="24" yOffset="543"/>
+    <component base="_raisedTriangle"/>
   </outline>
   <lib>
     <dict>
