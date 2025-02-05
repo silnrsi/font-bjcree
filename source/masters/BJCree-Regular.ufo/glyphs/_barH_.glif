@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_barStem" format="2">
+<glyph name="_barH" format="2">
   <advance width="1281"/>
   <outline>
     <contour>
-      <point x="795" y="419" type="line"/>
-      <point x="795" y="294" type="line"/>
-      <point x="1251" y="294" type="line"/>
-      <point x="1251" y="419" type="line"/>
+      <point x="207" y="1151" type="line"/>
+      <point x="207" y="1026" type="line"/>
+      <point x="947" y="1026" type="line"/>
+      <point x="947" y="1151" type="line"/>
     </contour>
   </outline>
   <lib>

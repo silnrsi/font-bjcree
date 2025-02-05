@@ -84,9 +84,29 @@
       <key>y</key>
       <integer>808</integer>
     </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>HalfHeight top</string>
+      <key>x</key>
+      <integer>-34</integer>
+      <key>y</key>
+      <integer>927</integer>
+    </dict>
+    <dict>
+      <key>angle</key>
+      <integer>0</integer>
+      <key>name</key>
+      <string>HalfHeight dot base</string>
+      <key>x</key>
+      <integer>-36</integer>
+      <key>y</key>
+      <integer>1049</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/02/04 11:46:50</string>
+  <string>2025/02/05 17:10:35</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

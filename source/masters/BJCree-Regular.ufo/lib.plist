@@ -40,8 +40,11 @@
   <string>3342</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ye-cans/_barStem/theThCree-cans/thweeWoodsCree-cans/thiThCree-cans/thiiThCree-cans/thwiWoodsCree-cans/thwiiWoodsCree-cans/space/yaai-cans/yoy-cans/space/thoThCree-cans/thooThCree-cans/thwoWoodsCree-cans/thwooWoodsCree-cans/space/yay-cans/thaThCree-cans/thaaThCree-cans/thwaWoodsCree-cans/thwaaWoodsCree-cans/thThCree-cans</string>
-    <string>/_raisedTriangle/glottalstop-cans/wECree-cans/wWCree-cans</string>
+    <string>/_barH/thFinalWoodsCree-cans/wBlackfoot-cans/space/rwee-cans/space/space 
+/ra-cans/le-cans/ne-cans/re-cans/reRCree-cans/ri-cans/ro-cans/raa-cans/rwaa-cans 
+/ra-cans/reRCree-cans/rwee-cans/rweRCree-cans 
+/rweRCree-cans/rwi-cans/rwii-cans/ra-cans/rwo-cans/rwoo-cans/looWestCree-cans/space/laaWestCree-cans/space/space/rwa-cans/space/space/ray-cans/space/space/thwe-cans/space/space/thwa-cans/space/space/hk-cans</string>
+    <string>/roo-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="thFinalWoodsCree-cans" format="2">
+  <outline>
+    <contour>
+      <point x="127" y="922" type="line"/>
+      <point x="127" y="788" type="line"/>
+      <point x="418" y="788" type="line"/>
+      <point x="418" y="498" type="line"/>
+      <point x="553" y="498" type="line"/>
+      <point x="553" y="788" type="line"/>
+      <point x="866" y="788" type="line"/>
+      <point x="866" y="922" type="line"/>
+      <point x="553" y="922" type="line"/>
+      <point x="553" y="1020" type="line"/>
+      <point x="866" y="1020" type="line"/>
+      <point x="866" y="1151" type="line"/>
+      <point x="553" y="1151" type="line"/>
+      <point x="553" y="1452" type="line"/>
+      <point x="418" y="1452" type="line"/>
+      <point x="418" y="1151" type="line"/>
+      <point x="127" y="1151" type="line"/>
+      <point x="127" y="1020" type="line"/>
+      <point x="418" y="1020" type="line"/>
+      <point x="418" y="922" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_barH" format="2">
+  <advance width="982"/>
+  <outline>
+    <contour>
+      <point x="121" y="1201" type="line"/>
+      <point x="121" y="976" type="line"/>
+      <point x="861" y="976" type="line"/>
+      <point x="861" y="1201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

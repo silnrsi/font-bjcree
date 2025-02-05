@@ -3,7 +3,7 @@
   <advance width="1661"/>
   <unicode hex="1546"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1534" yOffset="938"/>
+    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1534" yOffset="950"/>
   </outline>
   <lib>
     <dict>

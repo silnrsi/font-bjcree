@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_barStemH" format="2">
+  <advance width="1281"/>
+  <outline>
+    <contour>
+      <point x="795" y="419" type="line"/>
+      <point x="795" y="294" type="line"/>
+      <point x="1251" y="294" type="line"/>
+      <point x="1251" y="419" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>
