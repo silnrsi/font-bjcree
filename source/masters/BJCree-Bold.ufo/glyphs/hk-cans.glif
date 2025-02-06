@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hk-cans" format="2">
+  <advance width="1148"/>
   <unicode hex="157D"/>
-  <outline/>
+  <outline>
+    <contour>
+      <point x="121" y="575" type="line"/>
+      <point x="390" y="575" type="line"/>
+      <point x="1027" y="1551" type="line"/>
+      <point x="758" y="1551" type="line"/>
+    </contour>
+    <contour>
+      <point x="758" y="575" type="line"/>
+      <point x="1027" y="575" type="line"/>
+      <point x="389" y="1551" type="line"/>
+      <point x="121" y="1551" type="line"/>
+    </contour>
+  </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.85,0.26,0.06,1</string>
+      <string>0.18,0.16,0.78,1</string>
     </dict>
   </lib>
 </glyph>

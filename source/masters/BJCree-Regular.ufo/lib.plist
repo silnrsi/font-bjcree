@@ -43,8 +43,9 @@
     <string>/_barH/thFinalWoodsCree-cans/wBlackfoot-cans/space/rwee-cans/space/space 
 /ra-cans/le-cans/ne-cans/re-cans/reRCree-cans/ri-cans/ro-cans/raa-cans/rwaa-cans 
 /ra-cans/reRCree-cans/rwee-cans/rweRCree-cans 
-/rweRCree-cans/rwi-cans/rwii-cans/ra-cans/rwo-cans/rwoo-cans/looWestCree-cans/space/laaWestCree-cans/space/space/rwa-cans/space/space/ray-cans/space/space/thwe-cans/space/space/thwa-cans/space/space/hk-cans</string>
-    <string>/roo-cans</string>
+/rweRCree-cans/rwi-cans/rwii-cans/ra-cans/rwo-cans/rwoo-cans/looWestCree-cans/laaWestCree-cans/rwa-cans/ray-cans/space/thwe-cans/thwa-cans/space/space/fullstop-cans/space/hk-cans</string>
+    <string>/fullstop-cans</string>
+    <string>X</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
