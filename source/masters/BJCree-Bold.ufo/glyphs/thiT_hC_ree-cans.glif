@@ -5,10 +5,4 @@
   <outline>
     <component base="theThCree-cans" xScale="-1" xOffset="1455"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

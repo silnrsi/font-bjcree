@@ -6,10 +6,4 @@
     <component base="_dotabove" xOffset="967" yOffset="-594"/>
     <component base="nwi-cans" xOffset="33"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

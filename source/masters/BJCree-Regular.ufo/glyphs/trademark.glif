@@ -9,10 +9,4 @@ trademark
     <component base="T" xScale="0.6" yScale="0.6" xOffset="94" yOffset="567"/>
     <component base="M" xScale="0.6" yScale="0.6" xOffset="848" yOffset="567"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>

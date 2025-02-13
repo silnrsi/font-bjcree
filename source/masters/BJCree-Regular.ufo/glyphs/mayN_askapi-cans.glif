@@ -6,10 +6,4 @@
     <component base="ma-cans" xOffset="-63"/>
     <component base="_ring"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

@@ -7,10 +7,4 @@
     <component base="_ring" xOffset="1631"/>
     <component base="finalmiddledot-cans"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

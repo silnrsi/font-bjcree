@@ -146,6 +146,10 @@
   <string>_dot2h.glif</string>
   <key>_dot2hclose</key>
   <string>_dot2hclose.glif</string>
+  <key>_dotLeft</key>
+  <string>_dotL_eft.glif</string>
+  <key>_dotRight</key>
+  <string>_dotR_ight.glif</string>
   <key>_dotabove</key>
   <string>_dotabove.glif</string>
   <key>_dotsmall</key>

@@ -6,10 +6,4 @@
     <component base="thaThCree-cans"/>
     <component base="finalmiddledot-cans" xOffset="1412"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

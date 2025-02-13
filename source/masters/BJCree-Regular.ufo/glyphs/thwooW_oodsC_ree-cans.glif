@@ -6,10 +6,4 @@
     <component base="thwoWoodsCree-cans"/>
     <component base="_dotabove" xOffset="1030"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

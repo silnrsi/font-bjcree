@@ -3,13 +3,7 @@
   <advance width="1626"/>
   <unicode hex="18D1"/>
   <outline>
-    <component base="ra-cans" xScale="-1" xOffset="1625"/>
     <component base="finalmiddledot-cans" xOffset="6"/>
+    <component base="ra-cans" xScale="-1" xOffset="1625"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

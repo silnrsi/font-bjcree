@@ -6,10 +6,4 @@
     <component base="ri-cans" xOffset="374"/>
     <component base="finalmiddledot-cans" xOffset="6"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

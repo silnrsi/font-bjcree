@@ -6,10 +6,4 @@
     <component base="so-cans" xOffset="1"/>
     <component base="_ring" xOffset="801"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

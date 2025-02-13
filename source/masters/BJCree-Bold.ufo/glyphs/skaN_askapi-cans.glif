@@ -6,10 +6,4 @@
     <component base="kwaaNaskapi-cans" xOffset="49"/>
     <component base="s-cans.small" xOffset="-336" yOffset="-746"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.04,0.57,0.04,1</string>
-    </dict>
-  </lib>
 </glyph>
