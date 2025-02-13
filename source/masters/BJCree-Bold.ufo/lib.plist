@@ -40,8 +40,7 @@
   <string>3343</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/ra-cans/re-cans/reRCree-cans/ri-cans/ro-cans/space/finalmiddledot-cans/weWestCree-cans/wiWestCree-cans/space/rwo-cans/space/space/rwoo-cans/looWestCree-cans/raa-cans/rwa-cans/rwaa-cans/ray-cans</string>
-    <string>/finalmiddledot-cans/wiWestCree-cans</string>
+    <string>/re-cans/reRCree-cans/rwee-cans/rweRCree-cans/leWestCree-cans/ri-cans/rii-cans/rwi-cans/rwii-cans/raai-cans/ro-cans/roo-cans/rwo-cans/rwoo-cans/loWestCree-cans/looWestCree-cans/laWestCree-cans/laaWestCree-cans/ra-cans/raa-cans/rwa-cans/rwaa-cans/rwaaWestCree-cans/ray-cans/r-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -450,13 +449,13 @@
     <string>uni01B00306</string>
     <string>ai-cans</string>
     <string>wYCree-cans</string>
-    <string>finalacute-cans</string>
-    <string>finalgrave-cans</string>
     <string>finalbottom-cans</string>
     <string>finaltophalfring-cans</string>
     <string>finalrighthalfring-cans</string>
     <string>finalring-cans</string>
     <string>finalsmallring-cans</string>
+    <string>finalgrave-cans</string>
+    <string>finalacute-cans</string>
     <string>finaldbleacute-cans</string>
     <string>finaldbleshortvstrokes-cans</string>
     <string>finalmiddledot-cans</string>
@@ -464,15 +463,26 @@
     <string>finalshorthstroke-cans</string>
     <string>pWestCree-cans</string>
     <string>hCarrier-cans</string>
-    <string>finalplus-cans</string>
     <string>finaldowntack-cans</string>
     <string>yBibleCree-cans</string>
+    <string>finalplus-cans</string>
     <string>yWestCree-cans</string>
     <string>yiSayisi-cans</string>
     <string>fullstop-cans</string>
     <string>hk-cans</string>
     <string>thFinalWoodsCree-cans</string>
     <string>wBlackfoot-cans</string>
+    <string>a-cans</string>
+    <string>aa-cans</string>
+    <string>wa-cans</string>
+    <string>waWestCree-cans</string>
+    <string>waa-cans</string>
+    <string>waaWestCree-cans</string>
+    <string>waaNaskapi-cans</string>
+    <string>ayNaskapi-cans</string>
+    <string>aayaNaskapi-cans</string>
+    <string>wayNaskapi-cans</string>
+    <string>an-cans</string>
     <string>e-cans</string>
     <string>we-cans</string>
     <string>weWestCree-cans</string>
@@ -500,17 +510,16 @@
     <string>on-cans</string>
     <string>eCarrier-cans</string>
     <string>iCarrier-cans</string>
-    <string>a-cans</string>
-    <string>aa-cans</string>
-    <string>wa-cans</string>
-    <string>waWestCree-cans</string>
-    <string>waa-cans</string>
-    <string>waaWestCree-cans</string>
-    <string>waaNaskapi-cans</string>
-    <string>ayNaskapi-cans</string>
-    <string>aayaNaskapi-cans</string>
-    <string>wayNaskapi-cans</string>
-    <string>an-cans</string>
+    <string>pa-cans</string>
+    <string>paa-cans</string>
+    <string>pwa-cans</string>
+    <string>pwaWestCree-cans</string>
+    <string>pwaa-cans</string>
+    <string>pwaaWestCree-cans</string>
+    <string>pwaYCree-cans</string>
+    <string>pay-cans</string>
+    <string>spaNaskapi-cans</string>
+    <string>p-cans</string>
     <string>pe-cans</string>
     <string>pwe-cans</string>
     <string>pweWestCree-cans</string>
@@ -522,16 +531,6 @@
     <string>pwiiWestCree-cans</string>
     <string>paai-cans</string>
     <string>pOjibway-cans</string>
-    <string>pa-cans</string>
-    <string>paa-cans</string>
-    <string>pwa-cans</string>
-    <string>pwaWestCree-cans</string>
-    <string>pwaa-cans</string>
-    <string>pwaaWestCree-cans</string>
-    <string>pwaYCree-cans</string>
-    <string>pay-cans</string>
-    <string>spaNaskapi-cans</string>
-    <string>p-cans</string>
     <string>po-cans</string>
     <string>poo-cans</string>
     <string>pooYCree-cans</string>
@@ -543,6 +542,18 @@
     <string>pwoy-cans</string>
     <string>heeCarrier-cans</string>
     <string>hiCarrier-cans</string>
+    <string>ta-cans</string>
+    <string>taa-cans</string>
+    <string>twa-cans</string>
+    <string>twaWestCree-cans</string>
+    <string>twaa-cans</string>
+    <string>twaaWestCree-cans</string>
+    <string>twaaNaskapi-cans</string>
+    <string>tay-cans</string>
+    <string>tta-cans</string>
+    <string>staNaskapi-cans</string>
+    <string>t-cans</string>
+    <string>mWestCree-cans</string>
     <string>te-cans</string>
     <string>twe-cans</string>
     <string>tweWestCree-cans</string>
@@ -557,18 +568,6 @@
     <string>taai-cans</string>
     <string>tti-cans</string>
     <string>tOjibway-cans</string>
-    <string>ta-cans</string>
-    <string>taa-cans</string>
-    <string>twa-cans</string>
-    <string>twaWestCree-cans</string>
-    <string>twaa-cans</string>
-    <string>twaaWestCree-cans</string>
-    <string>twaaNaskapi-cans</string>
-    <string>tay-cans</string>
-    <string>tta-cans</string>
-    <string>staNaskapi-cans</string>
-    <string>t-cans</string>
-    <string>mWestCree-cans</string>
     <string>to-cans</string>
     <string>too-cans</string>
     <string>tooYCree-cans</string>
@@ -579,6 +578,18 @@
     <string>deeCarrier-cans</string>
     <string>diCarrier-cans</string>
     <string>tto-cans</string>
+    <string>ka-cans</string>
+    <string>kaa-cans</string>
+    <string>kwa-cans</string>
+    <string>kwaWestCree-cans</string>
+    <string>kwaa-cans</string>
+    <string>kwaaWestCree-cans</string>
+    <string>kwaaNaskapi-cans</string>
+    <string>kayNaskapi-cans</string>
+    <string>kwayNaskapi-cans</string>
+    <string>kahSouthSlavey-cans</string>
+    <string>skaNaskapi-cans</string>
+    <string>k-cans</string>
     <string>ke-cans</string>
     <string>kwe-cans</string>
     <string>kweWestCree-cans</string>
@@ -602,18 +613,15 @@
     <string>kwooWestCree-cans</string>
     <string>koSouthSlavey-cans</string>
     <string>kw-cans</string>
-    <string>ka-cans</string>
-    <string>kaa-cans</string>
-    <string>kwa-cans</string>
-    <string>kwaWestCree-cans</string>
-    <string>kwaa-cans</string>
-    <string>kwaaWestCree-cans</string>
-    <string>kwaaNaskapi-cans</string>
-    <string>kayNaskapi-cans</string>
-    <string>kwayNaskapi-cans</string>
-    <string>kahSouthSlavey-cans</string>
-    <string>skaNaskapi-cans</string>
-    <string>k-cans</string>
+    <string>na-cans</string>
+    <string>naa-cans</string>
+    <string>nwa-cans</string>
+    <string>nwaWestCree-cans</string>
+    <string>nwaa-cans</string>
+    <string>nwaaWestCree-cans</string>
+    <string>nwaaNaskapi-cans</string>
+    <string>nay-cans</string>
+    <string>n-cans</string>
     <string>ne-cans</string>
     <string>nwe-cans</string>
     <string>nweWestCree-cans</string>
@@ -634,15 +642,15 @@
     <string>nwooOjibway-cans</string>
     <string>noy-cans</string>
     <string>nh-cans</string>
-    <string>na-cans</string>
-    <string>naa-cans</string>
-    <string>nwa-cans</string>
-    <string>nwaWestCree-cans</string>
-    <string>nwaa-cans</string>
-    <string>nwaaWestCree-cans</string>
-    <string>nwaaNaskapi-cans</string>
-    <string>nay-cans</string>
-    <string>n-cans</string>
+    <string>ca-cans</string>
+    <string>caa-cans</string>
+    <string>cwa-cans</string>
+    <string>cwaWestCree-cans</string>
+    <string>cwaa-cans</string>
+    <string>cwaaWestCree-cans</string>
+    <string>cwaaNaskapi-cans</string>
+    <string>scwaNaskapi-cans</string>
+    <string>c-cans</string>
     <string>ce-cans</string>
     <string>cwe-cans</string>
     <string>cweWestCree-cans</string>
@@ -662,15 +670,14 @@
     <string>cwoo-cans</string>
     <string>cwooWestCree-cans</string>
     <string>thSayisi-cans</string>
-    <string>ca-cans</string>
-    <string>caa-cans</string>
-    <string>cwa-cans</string>
-    <string>cwaWestCree-cans</string>
-    <string>cwaa-cans</string>
-    <string>cwaaWestCree-cans</string>
-    <string>cwaaNaskapi-cans</string>
-    <string>scwaNaskapi-cans</string>
-    <string>c-cans</string>
+    <string>la-cans</string>
+    <string>laa-cans</string>
+    <string>lwa-cans</string>
+    <string>lwaWestCree-cans</string>
+    <string>lwaa-cans</string>
+    <string>lwaaWestCree-cans</string>
+    <string>layWestCree-cans</string>
+    <string>l-cans</string>
     <string>le-cans</string>
     <string>lwe-cans</string>
     <string>lweWestCree-cans</string>
@@ -688,14 +695,15 @@
     <string>lwoWestCree-cans</string>
     <string>lwoo-cans</string>
     <string>lwooWestCree-cans</string>
-    <string>la-cans</string>
-    <string>laa-cans</string>
-    <string>lwa-cans</string>
-    <string>lwaWestCree-cans</string>
-    <string>lwaa-cans</string>
-    <string>lwaaWestCree-cans</string>
-    <string>layWestCree-cans</string>
-    <string>l-cans</string>
+    <string>ma-cans</string>
+    <string>maa-cans</string>
+    <string>mwa-cans</string>
+    <string>mwaWestCree-cans</string>
+    <string>mwaa-cans</string>
+    <string>mwaaWestCree-cans</string>
+    <string>mwaaNaskapi-cans</string>
+    <string>mayNaskapi-cans</string>
+    <string>m-cans</string>
     <string>me-cans</string>
     <string>mwe-cans</string>
     <string>mweWestCree-cans</string>
@@ -715,15 +723,18 @@
     <string>mwoo-cans</string>
     <string>mwooWestCree-cans</string>
     <string>mh-cans</string>
-    <string>ma-cans</string>
-    <string>maa-cans</string>
-    <string>mwa-cans</string>
-    <string>mwaWestCree-cans</string>
-    <string>mwaa-cans</string>
-    <string>mwaaWestCree-cans</string>
-    <string>mwaaNaskapi-cans</string>
-    <string>mayNaskapi-cans</string>
-    <string>m-cans</string>
+    <string>sa-cans</string>
+    <string>saa-cans</string>
+    <string>swa-cans</string>
+    <string>swaWestCree-cans</string>
+    <string>swaa-cans</string>
+    <string>swaaWestCree-cans</string>
+    <string>swaaNaskapi-cans</string>
+    <string>say-cans</string>
+    <string>s-cans</string>
+    <string>swNaskapi-cans</string>
+    <string>skMooseCree-cans</string>
+    <string>s-cans.small</string>
     <string>se-cans</string>
     <string>swe-cans</string>
     <string>sweWestCree-cans</string>
@@ -745,18 +756,14 @@
     <string>soy-cans</string>
     <string>sw-cans</string>
     <string>skwNaskapi-cans</string>
-    <string>sa-cans</string>
-    <string>saa-cans</string>
-    <string>swa-cans</string>
-    <string>swaWestCree-cans</string>
-    <string>swaa-cans</string>
-    <string>swaaWestCree-cans</string>
-    <string>swaaNaskapi-cans</string>
-    <string>say-cans</string>
-    <string>s-cans</string>
-    <string>swNaskapi-cans</string>
-    <string>skMooseCree-cans</string>
-    <string>s-cans.small</string>
+    <string>sha-cans</string>
+    <string>shaa-cans</string>
+    <string>shwa-cans</string>
+    <string>shwaWestCree-cans</string>
+    <string>shwaa-cans</string>
+    <string>shwaaWestCree-cans</string>
+    <string>shay-cans</string>
+    <string>sh-cans</string>
     <string>she-cans</string>
     <string>shwe-cans</string>
     <string>shweWestCree-cans</string>
@@ -775,14 +782,20 @@
     <string>shwooWestCree-cans</string>
     <string>shoy-cans</string>
     <string>shwoy-cans</string>
-    <string>sha-cans</string>
-    <string>shaa-cans</string>
-    <string>shwa-cans</string>
-    <string>shwaWestCree-cans</string>
-    <string>shwaa-cans</string>
-    <string>shwaaWestCree-cans</string>
-    <string>shay-cans</string>
-    <string>sh-cans</string>
+    <string>ya-cans</string>
+    <string>yaa-cans</string>
+    <string>ywa-cans</string>
+    <string>ywaWestCree-cans</string>
+    <string>ywaa-cans</string>
+    <string>ywaaWestCree-cans</string>
+    <string>ywaaNaskapi-cans</string>
+    <string>yay-cans</string>
+    <string>thaThCree-cans</string>
+    <string>thaaThCree-cans</string>
+    <string>thwaWoodsCree-cans</string>
+    <string>thwaaWoodsCree-cans</string>
+    <string>y-cans</string>
+    <string>thThCree-cans</string>
     <string>ye-cans</string>
     <string>ywe-cans</string>
     <string>yweWestCree-cans</string>
@@ -811,20 +824,13 @@
     <string>thooThCree-cans</string>
     <string>thwoWoodsCree-cans</string>
     <string>thwooWoodsCree-cans</string>
-    <string>ya-cans</string>
-    <string>yaa-cans</string>
-    <string>ywa-cans</string>
-    <string>ywaWestCree-cans</string>
-    <string>ywaa-cans</string>
-    <string>ywaaWestCree-cans</string>
-    <string>ywaaNaskapi-cans</string>
-    <string>yay-cans</string>
-    <string>thaThCree-cans</string>
-    <string>thaaThCree-cans</string>
-    <string>thwaWoodsCree-cans</string>
-    <string>thwaaWoodsCree-cans</string>
-    <string>y-cans</string>
-    <string>thThCree-cans</string>
+    <string>ra-cans</string>
+    <string>raa-cans</string>
+    <string>rwa-cans</string>
+    <string>rwaa-cans</string>
+    <string>rwaaWestCree-cans</string>
+    <string>ray-cans</string>
+    <string>r-cans</string>
     <string>re-cans</string>
     <string>reRCree-cans</string>
     <string>rwee-cans</string>
@@ -843,24 +849,23 @@
     <string>looWestCree-cans</string>
     <string>laWestCree-cans</string>
     <string>laaWestCree-cans</string>
-    <string>ra-cans</string>
-    <string>raa-cans</string>
-    <string>rwa-cans</string>
-    <string>rwaa-cans</string>
-    <string>rwaaWestCree-cans</string>
-    <string>ray-cans</string>
-    <string>r-cans</string>
+    <string>fa-cans</string>
+    <string>faa-cans</string>
+    <string>fwaa-cans</string>
+    <string>fwaaWestCree-cans</string>
+    <string>f-cans</string>
     <string>fe-cans</string>
     <string>fi-cans</string>
     <string>fii-cans</string>
     <string>faai-cans</string>
     <string>fo-cans</string>
     <string>foo-cans</string>
-    <string>fa-cans</string>
-    <string>faa-cans</string>
-    <string>fwaa-cans</string>
-    <string>fwaaWestCree-cans</string>
-    <string>f-cans</string>
+    <string>tha-cans</string>
+    <string>thaa-cans</string>
+    <string>thwa-cans</string>
+    <string>thwaa-cans</string>
+    <string>thwaaWestCree-cans</string>
+    <string>th-cans</string>
     <string>the-cans</string>
     <string>thwe-cans</string>
     <string>theNCree-cans</string>
@@ -870,12 +875,6 @@
     <string>thiiNCree-cans</string>
     <string>tho-cans</string>
     <string>thoo-cans</string>
-    <string>tha-cans</string>
-    <string>thaa-cans</string>
-    <string>thwa-cans</string>
-    <string>thwaa-cans</string>
-    <string>thwaaWestCree-cans</string>
-    <string>th-cans</string>
     <string>mSayisi-cans</string>
     <string>mAthapascan-cans</string>
     <string>sBlackfoot-cans</string>

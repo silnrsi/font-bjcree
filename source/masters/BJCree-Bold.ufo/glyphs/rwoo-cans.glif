@@ -7,4 +7,10 @@
     <component base="finalmiddledot-cans" xOffset="6"/>
     <component base="_dotabove" xOffset="723"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
 </glyph>
