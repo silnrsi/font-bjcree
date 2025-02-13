@@ -6,10 +6,4 @@
     <component base="ra-cans" xScale="-1" yScale="-1" xOffset="1183" yOffset="1458"/>
     <component base="_dotabove" xOffset="256"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
 </glyph>

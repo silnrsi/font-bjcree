@@ -7,10 +7,4 @@
     <component base="finalmiddledot-cans" xOffset="1003" yOffset="976"/>
     <component base="finalmiddledot-cans"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.99,0.62,0.11,1</string>
-    </dict>
-  </lib>
 </glyph>

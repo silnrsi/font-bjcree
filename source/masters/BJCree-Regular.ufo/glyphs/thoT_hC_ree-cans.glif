@@ -6,4 +6,10 @@
     <component base="ye-cans" yScale="-1" xOffset="64" yOffset="1393"/>
     <component base="_barStemH" xOffset="2" yOffset="749"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
 </glyph>

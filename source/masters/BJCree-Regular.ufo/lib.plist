@@ -38,10 +38,6 @@
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
   <string>3343</string>
-  <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
-  <array>
-    <string>/re-cans/reRCree-cans/rwee-cans/rweRCree-cans/leWestCree-cans/ri-cans/rii-cans/rwi-cans/rwii-cans/raai-cans/ro-cans/roo-cans/rwo-cans/rwoo-cans/loWestCree-cans/looWestCree-cans/laWestCree-cans/laaWestCree-cans/ra-cans/raa-cans/rwa-cans/rwaa-cans/rwaaWestCree-cans/ray-cans/r-cans</string>
-  </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesLastChange</key>
