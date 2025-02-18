@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a-cans" format="2">
-  <advance width="1642"/>
+  <advance width="1721"/>
   <unicode hex="140A"/>
+  <anchor x="1463" y="1395" name="dot"/>
+  <anchor x="920" y="1263" name="dot2"/>
+  <anchor x="287" y="939" name="dot3"/>
+  <anchor x="1463" y="1393" name="ring"/>
+  <anchor x="888" y="1395" name="ringmiddle"/>
   <outline>
     <contour>
-      <point x="1452" y="-30" type="line"/>
-      <point x="1452" y="1423" type="line"/>
-      <point x="50" y="696" type="line"/>
+      <point x="1531" y="-30" type="line"/>
+      <point x="1531" y="1423" type="line"/>
+      <point x="129" y="696" type="line"/>
     </contour>
     <contour>
-      <point x="1323" y="180" type="line"/>
-      <point x="323" y="696" type="line"/>
-      <point x="1323" y="1213" type="line"/>
+      <point x="1402" y="180" type="line"/>
+      <point x="402" y="696" type="line"/>
+      <point x="1402" y="1213" type="line"/>
     </contour>
   </outline>
   <lib>

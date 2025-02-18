@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dotRight" format="2">
-  <advance width="431"/>
+<glyph name="_dotleft" format="2">
+  <advance width="361"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="-121"/>
+    <component base="finalmiddledot-cans" xOffset="-2"/>
   </outline>
   <lib>
     <dict>

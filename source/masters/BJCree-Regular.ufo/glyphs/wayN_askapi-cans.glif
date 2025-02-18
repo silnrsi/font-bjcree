@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wayNaskapi-cans" format="2">
-  <advance width="2009"/>
+  <advance width="2082"/>
   <unicode hex="18B3"/>
+  <anchor x="1824" y="1391" name="_ringmiddle"/>
+  <anchor x="1824" y="1395" name="dot"/>
+  <anchor x="1281" y="1263" name="dot2"/>
+  <anchor x="648" y="939" name="dot3"/>
+  <anchor x="1249" y="1395" name="ringmiddle"/>
   <outline>
-    <component base="a-cans" xOffset="430"/>
-    <component base="_ring" xOffset="1601"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="wa-cans"/>
+    <component base="_ring" xOffset="1824" yOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

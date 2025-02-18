@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_dotabove" format="2">
   <advance width="300"/>
+  <anchor x="0" y="1468" name="_dot"/>
+  <anchor x="0" y="1466" name="_dot2"/>
+  <anchor x="0" y="1464" name="_dot3"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="-249" yOffset="1022"/>
+    <component base="finalmiddledot-cans" xOffset="-276" yOffset="1022"/>
   </outline>
   <lib>
     <dict>
