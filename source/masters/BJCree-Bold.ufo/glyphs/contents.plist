@@ -150,8 +150,12 @@
   <string>_dotabove.glif</string>
   <key>_dotleft</key>
   <string>_dotleft.glif</string>
+  <key>_dotleftclose</key>
+  <string>_dotleftclose.glif</string>
   <key>_dotright</key>
   <string>_dotright.glif</string>
+  <key>_dotrightclose</key>
+  <string>_dotrightclose.glif</string>
   <key>_dotsmall</key>
   <string>_dotsmall.glif</string>
   <key>_fe-ring</key>

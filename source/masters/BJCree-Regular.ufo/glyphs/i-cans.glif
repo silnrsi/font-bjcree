@@ -2,6 +2,8 @@
 <glyph name="i-cans" format="2">
   <advance width="1560"/>
   <unicode hex="1403"/>
+  <anchor x="780" y="1395" name="dot"/>
+  <anchor x="780" y="1393" name="ring"/>
   <outline>
     <contour>
       <point x="50" y="0" type="line"/>

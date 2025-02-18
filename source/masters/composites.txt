@@ -1,8 +1,7 @@
 # Composites for BJCree project
 # https://github.com/silnrsi/pysilfont/blob/master/docs/composite.md
 
-# Idea: use APs like dot, dot2, ring, ring2?
-
+### a-cans based
 aa-cans         = a-cans + _dotabove@dot
 wa-cans         = _dotleft & a-cans
 waWestCree-cans = a-cans & _dotright
@@ -10,8 +9,18 @@ waa-cans        = wa-cans + _dotabove@dot
 waaWestCree-cans = aa-cans & _dotright
 waaNaskapi-cans = a-cans + _dotabove@dot2 + _dotabove@dot3
 ayNaskapi-cans  = a-cans + _ring@ring
-
 aayaNaskapi-cans = aa-cans + _ring@ringmiddle
 wayNaskapi-cans = wa-cans + _ring@ring
 
-#rwo-cans = _dotLeft & ro-cans
+### e-cans based
+we-cans         = _dotleftclose & e-cans
+weWestCree-cans = e-cans & _dotrightclose
+
+### i-cans based
+ii-cans         = i-cans + _dotabove@dot
+wi-cans         = _dotleftclose & i-cans
+wiWestCree-cans = i-cans & _dotrightclose
+wii-cans        = wi-cans + _dotabove@dot
+wiiWestCree-cans= ii-cans & _dotrightclose
+aai-cans        = i-cans + _ring@ring
+

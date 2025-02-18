@@ -40,8 +40,8 @@
   <string>3343</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/_dotabove/_ring/space/a-cans/aa-cans/wa-cans/waWestCree-cans/waa-cans/waaWestCree-cans/waaNaskapi-cans/ayNaskapi-cans/aayaNaskapi-cans/wayNaskapi-cans</string>
-    <string>/a-cans/finalgrave-cans</string>
+    <string>/i-cans</string>
+    <string>/a-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
