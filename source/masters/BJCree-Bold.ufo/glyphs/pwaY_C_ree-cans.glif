@@ -2,9 +2,21 @@
 <glyph name="pwaYCree-cans" format="2">
   <advance width="1731"/>
   <unicode hex="1448"/>
+  <anchor x="317" y="970" name="_dot"/>
+  <anchor x="317" y="968" name="_dot2"/>
+  <anchor x="950" y="1278" name="_dot3"/>
+  <anchor x="1411" y="1467" name="dot"/>
+  <anchor x="1411" y="1465" name="ring"/>
+  <anchor x="888" y="1467" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="finalmiddledot-cans" xOffset="42" yOffset="528"/>
-    <component base="finalmiddledot-cans" xOffset="739" yOffset="883"/>
+    <component base="_dotabove" xOffset="950" yOffset="-186"/>
+    <component base="_dotabove" xOffset="317" yOffset="-498"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

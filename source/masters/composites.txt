@@ -33,3 +33,12 @@ woo-cans        = wo-cans + _dotabove@dot
 wooWestCree-cans= oo-cans & _dotright
 wooNaskapi-cans = o-cans + _dotabove@dot2 + _dotabove@dot3
 oY-cans         = o-cans + _ring@ring
+
+### pa-cans based
+paa-cans        = pa-cans + _dotabove@dot
+pwa-cans        = _dotleft & pa-cans
+pwaWestCree-cans= pa-cans & _dotright
+pwaa-cans       = pwa-cans + _dotabove@dot
+pwaaWestCree-cans= paa-cans & _dotright
+pwaYCree-cans   = pa-cans + _dotabove@dot2 + _dotabove@dot3
+pay-cans        = pa-cans + _ring@ring

@@ -22,10 +22,4 @@ semicolon
       <point x="223" y="671"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
-    </dict>
-  </lib>
 </glyph>
