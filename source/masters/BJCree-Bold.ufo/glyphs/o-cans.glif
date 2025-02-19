@@ -2,6 +2,12 @@
 <glyph name="o-cans" format="2">
   <advance width="1731"/>
   <unicode hex="1405"/>
+  <anchor x="769" y="1467" name="2dotsmiddle"/>
+  <anchor x="320" y="1467" name="dot"/>
+  <anchor x="647" y="1310" name="dot2"/>
+  <anchor x="1332" y="966" name="dot3"/>
+  <anchor x="320" y="1465" name="ring"/>
+  <anchor x="987" y="1467" name="ringmiddle"/>
   <outline>
     <contour>
       <point x="190" y="-15" type="line"/>

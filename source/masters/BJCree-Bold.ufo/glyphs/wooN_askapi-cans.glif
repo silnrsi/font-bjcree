@@ -2,9 +2,22 @@
 <glyph name="wooNaskapi-cans" format="2">
   <advance width="1731"/>
   <unicode hex="1416"/>
+  <anchor x="769" y="1467" name="2dotsmiddle"/>
+  <anchor x="1332" y="970" name="_dot"/>
+  <anchor x="1332" y="968" name="_dot2"/>
+  <anchor x="647" y="1308" name="_dot3"/>
+  <anchor x="320" y="1467" name="dot"/>
+  <anchor x="320" y="1465" name="ring"/>
+  <anchor x="987" y="1467" name="ringmiddle"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="372" yOffset="865"/>
-    <component base="finalmiddledot-cans" xOffset="1057" yOffset="521"/>
     <component base="o-cans"/>
+    <component base="_dotabove" xOffset="647" yOffset="-156"/>
+    <component base="_dotabove" xOffset="1332" yOffset="-498"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

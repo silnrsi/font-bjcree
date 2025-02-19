@@ -43,6 +43,10 @@ build_one() {
 		-i "$COMP_DEFS" "$SOURCE_UFO" "$TARGET_UFO"
 	echo
 
+	message "--- Removing key: com.schriftgestaltung.Glyphs.shapeOrder..."
+	psfremovegliflibkeys BJCree-Regular.ufo com.schriftgestaltung.Glyphs.shapeOrder
+	psfremovegliflibkeys BJCree-Bold.ufo    com.schriftgestaltung.Glyphs.shapeOrder
+
 }
 
 message "Rebuilding composites..."

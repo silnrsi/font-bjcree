@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_dot2hclose" format="2">
   <advance width="1130"/>
+  <anchor x="399" y="1395" name="_2dotsleft"/>
+  <anchor x="634" y="1395" name="_2dotsmiddle"/>
+  <anchor x="868" y="1395" name="_2dotsright"/>
   <outline>
     <component base="_dotabove" xOffset="400"/>
     <component base="_dotabove" xOffset="869"/>

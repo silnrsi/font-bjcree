@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ooYCree-cans" format="2">
-  <advance width="1585"/>
+  <advance width="1731"/>
   <unicode hex="1407"/>
+  <anchor x="534" y="1467" name="_2dotsleft"/>
+  <anchor x="1004" y="1467" name="_2dotsright"/>
+  <anchor x="320" y="1467" name="dot"/>
+  <anchor x="647" y="1310" name="dot2"/>
+  <anchor x="1332" y="966" name="dot3"/>
+  <anchor x="320" y="1465" name="ring"/>
+  <anchor x="987" y="1467" name="ringmiddle"/>
   <outline>
     <component base="o-cans"/>
-    <component base="finalmiddledot-cans" xOffset="891" yOffset="1022"/>
-    <component base="finalmiddledot-cans" xOffset="301" yOffset="1022"/>
+    <component base="_dot2hclose" xOffset="73"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

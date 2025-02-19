@@ -24,3 +24,12 @@ wii-cans        = wi-cans + _dotabove@dot
 wiiWestCree-cans= ii-cans & _dotrightclose
 aai-cans        = i-cans + _ring@ring
 
+### o-cans based
+oo-cans         = o-cans + _dotabove@dot
+ooYCree-cans    = o-cans + _dot2hclose@2dotsmiddle
+wo-cans         = _dotleft & o-cans
+woWestCree-cans = o-cans & _dotright
+woo-cans        = wo-cans + _dotabove@dot
+wooWestCree-cans= oo-cans & _dotright
+wooNaskapi-cans = o-cans + _dotabove@dot2 + _dotabove@dot3
+oY-cans         = o-cans + _ring@ring

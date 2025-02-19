@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="woWestCree-cans" format="2">
-  <advance width="2025"/>
+  <advance width="2003"/>
+  <anchor x="738" y="1395" name="2dotsmiddle"/>
+  <anchor x="255" y="1395" name="dot"/>
+  <anchor x="617" y="1263" name="dot2"/>
+  <anchor x="1302" y="939" name="dot3"/>
+  <anchor x="255" y="1393" name="ring"/>
+  <anchor x="888" y="1395" name="ringmiddle"/>
   <outline>
     <component base="o-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1552" yOffset="-2"/>
+    <component base="_dotright" xOffset="1642"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
