@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twaaNaskapi-cans" format="2">
-  <advance width="1484"/>
+  <advance width="1470"/>
   <unicode hex="1465"/>
+  <anchor x="1263" y="1395" name="dot"/>
+  <anchor x="1263" y="1393" name="ring"/>
   <outline>
-    <component base="ta-cans" xOffset="319"/>
-    <component base="finalmiddledot-cans" yOffset="-420"/>
-    <component base="finalmiddledot-cans" yOffset="420"/>
+    <component base="_dot2vclose"/>
+    <component base="ta-cans" xOffset="317"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

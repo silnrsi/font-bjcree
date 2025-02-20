@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twoo-cans" format="2">
-  <advance width="1588"/>
+  <advance width="1514"/>
   <unicode hex="145F"/>
+  <anchor x="580" y="1391" name="2dotsleft"/>
+  <anchor x="580" y="1393" name="_dot2"/>
+  <anchor x="580" y="1391" name="_dot3"/>
+  <anchor x="580" y="1393" name="ring"/>
   <outline>
-    <component base="to-cans" xOffset="435"/>
-    <component base="finalmiddledot-cans" xOffset="41"/>
-    <component base="finalmiddledot-cans" xOffset="413" yOffset="976"/>
+    <component base="two-cans"/>
+    <component base="_dotabove" xOffset="580"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

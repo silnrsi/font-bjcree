@@ -2,6 +2,8 @@
 <glyph name="ti-cans" format="2">
   <advance width="1591"/>
   <unicode hex="144E"/>
+  <anchor x="795" y="1395" name="dot"/>
+  <anchor x="795" y="1393" name="ring"/>
   <outline>
     <contour>
       <point x="190" y="0" type="line"/>

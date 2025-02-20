@@ -65,3 +65,31 @@ pwooWestCree-cans= poo-cans & _dotright
 poy-cans        = po-cans + _ring@ring
 pwoy-cans       = pwo-cans + _ring@ring
 
+### ta-cans based
+taa-cans        = ta-cans + _dotabove@dot
+twa-cans        = _dotleft & ta-cans
+twaWestCree-cans= ta-cans & _dotright
+twaa-cans       = twa-cans + _dotabove@dot
+twaaWestCree-cans= taa-cans & _dotright
+twaaNaskapi-cans= _dot2vclose & ta-cans
+tay-cans        = ta-cans + _ring@ring
+
+### te-cans based
+twe-cans        = _dotleft & te-cans
+tweWestCree-cans= te-cans & _dotright
+
+### ti-cans based
+tii-cans        = ti-cans + _dotabove@dot
+twi-cans        = _dotleft & ti-cans
+twiWestCree-cans= ti-cans & _dotright
+twii-cans       = twi-cans + _dotabove@dot
+twiiWestCree-cans= tii-cans & _dotright
+taai-cans       = ti-cans + _ring@ring
+
+### to-cans
+too-cans        = to-cans + _dotabove@dot
+tooYCree-cans   = to-cans + _dot2hclose@2dotsleft
+two-cans        = _dotleft & to-cans
+twoWestCree-cans= to-cans & _dotright
+twoo-cans       = two-cans + _dotabove@dot
+twooWestCree-cans= too-cans & _dotright

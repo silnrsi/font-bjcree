@@ -2,8 +2,16 @@
 <glyph name="taai-cans" format="2">
   <advance width="1591"/>
   <unicode hex="144D"/>
+  <anchor x="795" y="1391" name="_ringmiddle"/>
+  <anchor x="795" y="1395" name="dot"/>
   <outline>
     <component base="ti-cans"/>
-    <component base="_ring" xOffset="599" yOffset="3"/>
+    <component base="_ring" xOffset="795" yOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

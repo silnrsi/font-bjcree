@@ -2,6 +2,8 @@
 <glyph name="ta-cans" format="2">
   <advance width="1174"/>
   <unicode hex="1455"/>
+  <anchor x="963" y="1467" name="dot"/>
+  <anchor x="963" y="1465" name="ring"/>
   <outline>
     <component base="to-cans" xScale="-1" yScale="-1" xOffset="1173" yOffset="1467"/>
   </outline>

@@ -2,8 +2,18 @@
 <glyph name="too-cans" format="2">
   <advance width="1153"/>
   <unicode hex="1451"/>
+  <anchor x="219" y="1391" name="2dotsleft"/>
+  <anchor x="219" y="1393" name="_dot2"/>
+  <anchor x="219" y="1391" name="_dot3"/>
+  <anchor x="219" y="1393" name="ring"/>
   <outline>
     <component base="to-cans"/>
-    <component base="finalmiddledot-cans" xOffset="-27" yOffset="976"/>
+    <component base="_dotabove" xOffset="219"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

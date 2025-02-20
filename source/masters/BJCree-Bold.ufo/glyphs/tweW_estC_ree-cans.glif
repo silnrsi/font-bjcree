@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tweWestCree-cans" format="2">
-  <advance width="2121"/>
+  <advance width="2149"/>
   <unicode hex="1458"/>
   <outline>
     <component base="te-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1624"/>
+    <component base="_dotright" xOffset="1718"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

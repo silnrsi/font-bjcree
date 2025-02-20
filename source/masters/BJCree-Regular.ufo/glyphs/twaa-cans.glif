@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twaa-cans" format="2">
-  <advance width="1588"/>
+  <advance width="1514"/>
   <unicode hex="1463"/>
+  <anchor x="1307" y="1393" name="_dot2"/>
+  <anchor x="1307" y="1391" name="_dot3"/>
+  <anchor x="1307" y="1393" name="ring"/>
   <outline>
-    <component base="ta-cans" xOffset="430"/>
-    <component base="finalmiddledot-cans" xOffset="41"/>
-    <component base="finalmiddledot-cans" xOffset="1113" yOffset="976"/>
+    <component base="twa-cans"/>
+    <component base="_dotabove" xOffset="1307"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

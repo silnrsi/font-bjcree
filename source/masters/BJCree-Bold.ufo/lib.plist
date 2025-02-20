@@ -41,7 +41,9 @@
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/a-cans/e-cans/i-cans/o-cans/pa-cans/pe-cans/pi-cans/po-cans/ta-cans/te-cans/ti-cans/to-cans/ka-cans/ke-cans/ki-cans/ko-cans/na-cans/ne-cans/ni-cans/no-cans/ca-cans/ce-cans/ci-cans/co-cans/la-cans/le-cans/li-cans/lo-cans/ma-cans/me-cans/mi-cans/mo-cans/sa-cans/se-cans/si-cans/so-cans/sha-cans/she-cans/shi-cans/sho-cans/ya-cans/thaThCree-cans/ye-cans/theThCree-cans/yi-cans/thiThCree-cans/yo-cans/thoThCree-cans/ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans/fa-cans/fe-cans/fi-cans/fo-cans/tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/po-cans/poo-cans/pooYCree-cans/pwo-cans/pwoWestCree-cans/pwoo-cans/pwooWestCree-cans/poy-cans/pwoy-cans</string>
+    <string>/ta-cans/taa-cans/twa-cans/twaWestCree-cans/twaa-cans/twaaWestCree-cans/_dot2vclose/twaaNaskapi-cans/tay-cans</string>
+    <string>/ti-cans/tii-cans/twi-cans/twiWestCree-cans/twii-cans/twiiWestCree-cans/taai-cans</string>
+    <string>/to-cans/too-cans/_dot2hclose/tooYCree-cans/two-cans/twoWestCree-cans/twoo-cans/twooWestCree-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

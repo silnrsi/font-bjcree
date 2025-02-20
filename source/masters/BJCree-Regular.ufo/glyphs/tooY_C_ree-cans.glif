@@ -2,8 +2,18 @@
 <glyph name="tooYCree-cans" format="2">
   <advance width="1153"/>
   <unicode hex="1452"/>
+  <anchor x="454" y="1391" name="_2dotsmiddle"/>
+  <anchor x="688" y="1391" name="_2dotsright"/>
+  <anchor x="219" y="1395" name="dot"/>
+  <anchor x="219" y="1393" name="ring"/>
   <outline>
     <component base="to-cans"/>
-    <component base="_dot2hclose" xOffset="-180"/>
+    <component base="_dot2hclose" xOffset="-180" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

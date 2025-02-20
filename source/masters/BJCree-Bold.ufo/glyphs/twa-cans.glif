@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twa-cans" format="2">
-  <advance width="1588"/>
+  <advance width="1605"/>
   <unicode hex="1461"/>
+  <anchor x="1394" y="1467" name="dot"/>
+  <anchor x="1394" y="1465" name="ring"/>
   <outline>
-    <component base="ta-cans" xOffset="430"/>
-    <component base="finalmiddledot-cans" xOffset="41"/>
+    <component base="_dotleft"/>
+    <component base="ta-cans" xOffset="431"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
