@@ -41,11 +41,9 @@ build_one() {
 		--noflatten \
 		--colors="leave,g_purple,g_red" \
 		-i "$COMP_DEFS" "$SOURCE_UFO" "$TARGET_UFO"
-	echo
 
-	message "--- Removing key: com.schriftgestaltung.Glyphs.shapeOrder..."
-	psfremovegliflibkeys BJCree-Regular.ufo com.schriftgestaltung.Glyphs.shapeOrder
-	psfremovegliflibkeys BJCree-Bold.ufo    com.schriftgestaltung.Glyphs.shapeOrder
+	message "Removing key: com.schriftgestaltung.Glyphs.shapeOrder..."
+	psfremovegliflibkeys "$TARGET_UFO" com.schriftgestaltung.Glyphs.shapeOrder
 
 }
 

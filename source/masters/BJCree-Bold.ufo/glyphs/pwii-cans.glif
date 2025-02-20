@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwii-cans" format="2">
-  <advance width="1760"/>
+  <advance width="2015"/>
   <unicode hex="143E"/>
+  <anchor x="1223" y="1465" name="_dot2"/>
+  <anchor x="1223" y="1463" name="_dot3"/>
+  <anchor x="1223" y="1465" name="ring"/>
   <outline>
-    <component base="pi-cans" xOffset="190"/>
-    <component base="finalmiddledot-cans"/>
-    <component base="finalmiddledot-cans" xOffset="735" yOffset="1033"/>
+    <component base="pwi-cans"/>
+    <component base="_dotabove" xOffset="1223" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

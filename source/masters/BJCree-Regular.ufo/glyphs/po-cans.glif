@@ -2,6 +2,9 @@
 <glyph name="po-cans" format="2">
   <advance width="1594"/>
   <unicode hex="1433"/>
+  <anchor x="756" y="1395" name="2dotsmiddle"/>
+  <anchor x="195" y="1395" name="dot"/>
+  <anchor x="195" y="1392" name="ring"/>
   <outline>
     <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1594" yOffset="1392"/>
   </outline>

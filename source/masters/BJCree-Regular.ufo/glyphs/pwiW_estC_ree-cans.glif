@@ -2,8 +2,16 @@
 <glyph name="pwiWestCree-cans" format="2">
   <advance width="1760"/>
   <unicode hex="143D"/>
+  <anchor x="795" y="1395" name="dot"/>
+  <anchor x="795" y="1393" name="ring"/>
   <outline>
-    <component base="pi-cans" xOffset="-1"/>
-    <component base="finalmiddledot-cans" xOffset="1290"/>
+    <component base="pi-cans"/>
+    <component base="_dotrightclose" xOffset="1579"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

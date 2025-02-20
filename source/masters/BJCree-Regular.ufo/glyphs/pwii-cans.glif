@@ -2,9 +2,17 @@
 <glyph name="pwii-cans" format="2">
   <advance width="1760"/>
   <unicode hex="143E"/>
+  <anchor x="976" y="1393" name="_dot2"/>
+  <anchor x="976" y="1391" name="_dot3"/>
+  <anchor x="976" y="1393" name="ring"/>
   <outline>
-    <component base="pi-cans" xOffset="190"/>
-    <component base="finalmiddledot-cans"/>
-    <component base="finalmiddledot-cans" xOffset="733" yOffset="978"/>
+    <component base="pwi-cans"/>
+    <component base="_dotabove" xOffset="976"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

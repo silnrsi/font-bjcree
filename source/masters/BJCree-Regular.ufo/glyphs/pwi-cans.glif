@@ -2,8 +2,16 @@
 <glyph name="pwi-cans" format="2">
   <advance width="1760"/>
   <unicode hex="143C"/>
+  <anchor x="976" y="1395" name="dot"/>
+  <anchor x="976" y="1393" name="ring"/>
   <outline>
-    <component base="pi-cans" xOffset="190"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="_dotleftclose"/>
+    <component base="pi-cans" xOffset="181"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

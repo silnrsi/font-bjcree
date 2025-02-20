@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwoy-cans" format="2">
-  <advance width="2261"/>
+  <advance width="2162"/>
   <unicode hex="18B6"/>
+  <anchor x="1304" y="1467" name="2dotsmiddle"/>
+  <anchor x="763" y="1463" name="_ringmiddle"/>
+  <anchor x="763" y="1467" name="dot"/>
   <outline>
-    <component base="_ring" xScale="-1" xOffset="994"/>
-    <component base="po-cans" xOffset="469" yOffset="-1"/>
-    <component base="finalmiddledot-cans" xOffset="27"/>
+    <component base="pwo-cans"/>
+    <component base="_ring" xOffset="763" yOffset="-2"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

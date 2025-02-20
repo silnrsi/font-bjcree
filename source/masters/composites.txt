@@ -42,3 +42,26 @@ pwaa-cans       = pwa-cans + _dotabove@dot
 pwaaWestCree-cans= paa-cans & _dotright
 pwaYCree-cans   = pa-cans + _dotabove@dot2 + _dotabove@dot3
 pay-cans        = pa-cans + _ring@ring
+
+### pe-cans based
+pwe-cans        = _dotleftclose & pe-cans
+pweWestCree-cans= pe-cans & _dotrightclose
+
+### pi-cans based
+pii-cans        = pi-cans + _dotabove@dot
+pwi-cans        = _dotleftclose & pi-cans
+pwiWestCree-cans= pi-cans & _dotrightclose
+pwii-cans       = pwi-cans + _dotabove@dot
+pwiiWestCree-cans= pii-cans & _dotrightclose
+paai-cans       = pi-cans + _ring@ring
+
+### po-cans based
+poo-cans        = po-cans + _dotabove@dot
+pooYCree-cans   = po-cans + _dot2hclose@2dotsmiddle
+pwo-cans        = _dotleft & po-cans
+pwoWestCree-cans= po-cans & _dotright
+pwoo-cans       = pwo-cans + _dotabove@dot
+pwooWestCree-cans= poo-cans & _dotright
+poy-cans        = po-cans + _ring@ring
+pwoy-cans       = pwo-cans + _ring@ring
+

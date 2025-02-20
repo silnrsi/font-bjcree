@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwooWestCree-cans" format="2">
-  <advance width="2183"/>
+  <advance width="2162"/>
   <unicode hex="1443"/>
+  <anchor x="873" y="1467" name="2dotsmiddle"/>
+  <anchor x="332" y="1465" name="_dot2"/>
+  <anchor x="332" y="1463" name="_dot3"/>
+  <anchor x="332" y="1465" name="ring"/>
   <outline>
-    <component base="po-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1686" yOffset="-2"/>
-    <component base="finalmiddledot-cans" xOffset="59" yOffset="1035"/>
+    <component base="poo-cans"/>
+    <component base="_dotright" xOffset="1731"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

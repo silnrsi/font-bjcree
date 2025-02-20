@@ -3,14 +3,14 @@
   <advance width="1642"/>
   <unicode hex="18B0"/>
   <anchor x="738" y="1395" name="2dotsmiddle"/>
-  <anchor x="255" y="1391" name="_ringmiddle"/>
+  <anchor x="255" y="1390" name="_ringmiddle"/>
   <anchor x="255" y="1395" name="dot"/>
   <anchor x="617" y="1263" name="dot2"/>
   <anchor x="1302" y="939" name="dot3"/>
   <anchor x="888" y="1395" name="ringmiddle"/>
   <outline>
     <component base="o-cans"/>
-    <component base="_ring" xOffset="255" yOffset="-2"/>
+    <component base="_ring" xOffset="255" yOffset="-3"/>
   </outline>
   <lib>
     <dict>

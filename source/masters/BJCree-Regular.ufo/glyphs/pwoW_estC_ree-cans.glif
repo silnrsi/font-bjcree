@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwoWestCree-cans" format="2">
-  <advance width="2025"/>
+  <advance width="1955"/>
   <unicode hex="1441"/>
+  <anchor x="756" y="1395" name="2dotsmiddle"/>
+  <anchor x="195" y="1395" name="dot"/>
+  <anchor x="195" y="1392" name="ring"/>
   <outline>
     <component base="po-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1552" yOffset="-2"/>
+    <component base="_dotright" xOffset="1594"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

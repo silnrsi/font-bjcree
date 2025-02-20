@@ -1,3 +1,4 @@
 #!/bin/sh
 
+echo "--- Converting UFOs to Glyphs file..."
 psfufo2glyphs source/BJCree.designspace source/masters/BJCree.glyphs
