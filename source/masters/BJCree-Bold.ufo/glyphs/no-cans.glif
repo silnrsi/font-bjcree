@@ -2,8 +2,11 @@
 <glyph name="no-cans" format="2">
   <advance width="1724"/>
   <unicode hex="14C4"/>
+  <anchor x="1131" y="929" name="2dotsmiddle"/>
+  <anchor x="1131" y="927" name="dot"/>
+  <anchor x="1131" y="925" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-190"/>
+    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-121"/>
   </outline>
   <lib>
     <dict>

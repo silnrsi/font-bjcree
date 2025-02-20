@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwo-cans" format="2">
-  <advance width="1834"/>
+  <advance width="1876"/>
   <unicode hex="18CA"/>
+  <anchor x="1283" y="929" name="2dotsmiddle"/>
+  <anchor x="1283" y="927" name="dot"/>
+  <anchor x="1283" y="925" name="ring"/>
   <outline>
-    <component base="nwaWestCree-cans" xScale="-1" xOffset="1828"/>
+    <component base="_dotleftcloser"/>
+    <component base="no-cans" xOffset="152"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

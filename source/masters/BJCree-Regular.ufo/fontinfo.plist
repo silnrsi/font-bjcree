@@ -30,7 +30,7 @@
       <key>name</key>
       <string>HalfHeight dot base</string>
       <key>y</key>
-      <integer>960</integer>
+      <integer>973</integer>
     </dict>
     <dict>
       <key>angle</key>
@@ -72,7 +72,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/02/20 12:41:21</string>
+  <string>2025/02/20 17:11:30</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

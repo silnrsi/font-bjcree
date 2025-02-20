@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="koo-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1184"/>
   <unicode hex="1470"/>
+  <anchor x="933" y="1469" name="2dotsright"/>
+  <anchor x="933" y="1465" name="_dot2"/>
+  <anchor x="933" y="1463" name="_dot3"/>
+  <anchor x="933" y="1465" name="ring"/>
   <outline>
     <component base="ko-cans"/>
-    <component base="_dotabove" xOffset="931"/>
+    <component base="_dotabove" xOffset="933" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

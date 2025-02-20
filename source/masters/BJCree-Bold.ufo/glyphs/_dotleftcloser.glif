@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="_dotleftclose" format="2">
-  <advance width="181"/>
+<glyph name="_dotleftcloser" format="2">
+  <advance width="152"/>
   <outline>
-    <component base="_dotleftcloser"/>
+    <component base="finalmiddledot-cans"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

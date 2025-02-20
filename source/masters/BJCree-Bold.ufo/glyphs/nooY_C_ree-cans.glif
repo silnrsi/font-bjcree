@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nooYCree-cans" format="2">
-  <advance width="1720"/>
+  <advance width="1724"/>
   <unicode hex="14C6"/>
+  <anchor x="896" y="929" name="_2dotsleft"/>
+  <anchor x="1366" y="929" name="_2dotsright"/>
+  <anchor x="1131" y="927" name="dot"/>
+  <anchor x="1131" y="925" name="ring"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_dot2hclose" xOffset="431" yOffset="-548"/>
+    <component base="_dot2hclose" xOffset="435" yOffset="-538"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

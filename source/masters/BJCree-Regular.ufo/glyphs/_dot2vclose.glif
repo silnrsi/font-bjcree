@@ -2,13 +2,12 @@
 <glyph name="_dot2vclose" format="2">
   <advance width="317"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="-2" yOffset="-420"/>
-    <component base="finalmiddledot-cans" xOffset="-2" yOffset="420"/>
+    <component base="_dot2v"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
     </dict>
   </lib>
 </glyph>

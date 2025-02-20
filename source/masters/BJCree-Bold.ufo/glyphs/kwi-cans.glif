@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwi-cans" format="2">
-  <advance width="1655"/>
+  <advance width="1615"/>
   <unicode hex="1476"/>
+  <anchor x="1021" y="1467" name="dot"/>
+  <anchor x="1021" y="1465" name="ring"/>
   <outline>
-    <component base="ki-cans" xOffset="403"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="_dotleft"/>
+    <component base="ki-cans" xOffset="431"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

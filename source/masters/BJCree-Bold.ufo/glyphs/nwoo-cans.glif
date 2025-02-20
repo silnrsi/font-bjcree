@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwoo-cans" format="2">
-  <advance width="1828"/>
+  <advance width="1876"/>
   <unicode hex="18CC"/>
+  <anchor x="1283" y="929" name="2dotsmiddle"/>
+  <anchor x="1283" y="925" name="_dot2"/>
+  <anchor x="1283" y="923" name="_dot3"/>
+  <anchor x="1283" y="925" name="ring"/>
   <outline>
-    <component base="_dotabove" xOffset="1237" yOffset="-594"/>
     <component base="nwo-cans"/>
+    <component base="_dotabove" xOffset="1283" yOffset="-541"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

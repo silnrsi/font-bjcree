@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaaNaskapi-cans" format="2">
-  <advance width="1720"/>
+  <advance width="2155"/>
   <unicode hex="14CF"/>
+  <anchor x="787" y="929" name="_2dotsleft"/>
+  <anchor x="1257" y="929" name="_2dotsright"/>
+  <anchor x="1022" y="927" name="dot"/>
+  <anchor x="1022" y="925" name="ring"/>
   <outline>
-    <component base="na-cans"/>
-    <component base="_dot2hclose" xOffset="-128" yOffset="-548"/>
+    <component base="nwa-cans"/>
+    <component base="_dot2hclose" xOffset="326" yOffset="-538"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

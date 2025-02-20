@@ -2,8 +2,17 @@
 <glyph name="noy-cans" format="2">
   <advance width="1663"/>
   <unicode hex="18BB"/>
+  <anchor x="1136" y="815" name="2dotsmiddle"/>
+  <anchor x="1136" y="809" name="_ringmiddle"/>
+  <anchor x="1136" y="813" name="dot"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_ring" xOffset="939" yOffset="-594"/>
+    <component base="_ring" xOffset="1136" yOffset="-584"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

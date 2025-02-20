@@ -2,7 +2,7 @@
 <glyph name="_dotrightclose" format="2">
   <advance width="431"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="-121"/>
+    <component base="_dotrightcloser"/>
   </outline>
   <lib>
     <dict>

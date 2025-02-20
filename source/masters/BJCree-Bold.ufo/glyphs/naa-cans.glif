@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naa-cans" format="2">
-  <advance width="1720"/>
+  <advance width="1724"/>
   <unicode hex="14C8"/>
+  <anchor x="591" y="929" name="2dotsmiddle"/>
+  <anchor x="591" y="925" name="_dot2"/>
+  <anchor x="591" y="923" name="_dot3"/>
+  <anchor x="591" y="925" name="ring"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_dotabove" xOffset="600" yOffset="-548"/>
+    <component base="_dotabove" xOffset="591" yOffset="-541"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,6 +2,8 @@
 <glyph name="ka-cans" format="2">
   <advance width="1184"/>
   <unicode hex="1472"/>
+  <anchor x="251" y="1467" name="dot"/>
+  <anchor x="251" y="1465" name="ring"/>
   <outline>
     <contour>
       <point x="590" y="-15" type="curve" smooth="yes"/>

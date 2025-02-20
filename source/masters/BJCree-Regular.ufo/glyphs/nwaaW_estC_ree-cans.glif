@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaaWestCree-cans" format="2">
-  <advance width="1810"/>
+  <advance width="1774"/>
   <unicode hex="14CE"/>
+  <anchor x="524" y="815" name="2dotsmiddle"/>
+  <anchor x="524" y="811" name="_dot2"/>
+  <anchor x="524" y="809" name="_dot3"/>
+  <anchor x="524" y="811" name="ring"/>
   <outline>
-    <component base="na-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1303"/>
-    <component base="finalmiddledot-cans" xOffset="1303"/>
-    <component base="_dotabove" xOffset="530" yOffset="-594"/>
+    <component base="naa-cans"/>
+    <component base="_dotrightcloser" xOffset="1661"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

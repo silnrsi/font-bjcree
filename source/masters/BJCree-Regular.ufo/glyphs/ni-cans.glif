@@ -2,8 +2,10 @@
 <glyph name="ni-cans" format="2">
   <advance width="1661"/>
   <unicode hex="14C2"/>
+  <anchor x="526" y="814" name="dot"/>
+  <anchor x="526" y="812" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="141" yOffset="989"/>
+    <component base="ka-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="141" yOffset="1003"/>
   </outline>
   <lib>
     <dict>

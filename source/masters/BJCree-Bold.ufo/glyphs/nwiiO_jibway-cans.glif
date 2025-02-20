@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwiiOjibway-cans" format="2">
-  <advance width="2185"/>
+  <advance width="2155"/>
   <unicode hex="18C9"/>
+  <anchor x="588" y="932" name="_dot2"/>
+  <anchor x="588" y="930" name="_dot3"/>
+  <anchor x="588" y="932" name="ring"/>
   <outline>
-    <component base="_dotabove" xOffset="569" yOffset="-594"/>
-    <component base="nwiOjibway-cans"/>
+    <component base="nii-cans"/>
+    <component base="_dotright" xOffset="1724"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

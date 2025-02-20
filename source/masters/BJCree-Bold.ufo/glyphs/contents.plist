@@ -146,6 +146,8 @@
   <string>_dot2h.glif</string>
   <key>_dot2hclose</key>
   <string>_dot2hclose.glif</string>
+  <key>_dot2v</key>
+  <string>_dot2v.glif</string>
   <key>_dot2vclose</key>
   <string>_dot2vclose.glif</string>
   <key>_dotabove</key>
@@ -154,10 +156,14 @@
   <string>_dotleft.glif</string>
   <key>_dotleftclose</key>
   <string>_dotleftclose.glif</string>
+  <key>_dotleftcloser</key>
+  <string>_dotleftcloser.glif</string>
   <key>_dotright</key>
   <string>_dotright.glif</string>
   <key>_dotrightclose</key>
   <string>_dotrightclose.glif</string>
+  <key>_dotrightcloser</key>
+  <string>_dotrightcloser.glif</string>
   <key>_dotsmall</key>
   <string>_dotsmall.glif</string>
   <key>_fe-ring</key>

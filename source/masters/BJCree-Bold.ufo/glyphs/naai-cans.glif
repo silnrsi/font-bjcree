@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naai-cans" format="2">
-  <advance width="1720"/>
+  <advance width="1724"/>
   <unicode hex="14C1"/>
+  <anchor x="588" y="930" name="_ringmiddle"/>
+  <anchor x="588" y="934" name="dot"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_ring" xOffset="398" yOffset="-502"/>
+    <component base="_ring" xOffset="588" yOffset="-535"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
