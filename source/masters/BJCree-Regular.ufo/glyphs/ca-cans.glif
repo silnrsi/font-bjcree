@@ -2,6 +2,7 @@
 <glyph name="ca-cans" format="2">
   <advance width="1130"/>
   <unicode hex="1490"/>
+  <anchor x="253" y="1395" name="dot"/>
   <outline>
     <contour>
       <point x="596" y="-16" type="curve" smooth="yes"/>

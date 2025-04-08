@@ -3,8 +3,28 @@
   <advance width="629"/>
   <unicode hex="150B"/>
   <outline>
-    <component base="s-cans" xScale="0.66406" yScale="0.66406" xOffset="41" yOffset="17"/>
-    <component base="_dotsmall" xOffset="-20" yOffset="-14"/>
-    <component base="_dotsmall" xOffset="-20" yOffset="-893"/>
+    <component base="_dotsmall" xOffset="-80" yOffset="-14"/>
+    <component base="_dotsmall" xOffset="-80" yOffset="-893"/>
+    <contour>
+      <point x="542" y="449" type="line"/>
+      <point x="542" y="523" type="line" smooth="yes"/>
+      <point x="542" y="679"/>
+      <point x="427" y="806"/>
+      <point x="271" y="806" type="curve"/>
+      <point x="271" y="981" type="line"/>
+      <point x="121" y="981" type="line"/>
+      <point x="121" y="656" type="line"/>
+      <point x="271" y="656" type="line" smooth="yes"/>
+      <point x="337" y="656"/>
+      <point x="392" y="601"/>
+      <point x="392" y="535" type="curve" smooth="yes"/>
+      <point x="392" y="449" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CCP</string>
+    </dict>
+  </lib>
 </glyph>

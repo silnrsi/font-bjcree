@@ -37,12 +37,20 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3343</string>
+  <string>3410</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
-    <string>/a-cans/e-cans/i-cans/o-cans/pa-cans/pe-cans/pi-cans/po-cans/ta-cans/te-cans/ti-cans/to-cans/ka-cans/ke-cans/ki-cans/ko-cans/na-cans/ne-cans/ni-cans/no-cans/ca-cans/ce-cans/ci-cans/co-cans/la-cans/le-cans/li-cans/lo-cans/ma-cans/me-cans/mi-cans/mo-cans/sa-cans/se-cans/si-cans/so-cans/sha-cans/she-cans/shi-cans/sho-cans/ya-cans/thaThCree-cans/ye-cans/theThCree-cans/yi-cans/thiThCree-cans/yo-cans/thoThCree-cans/ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans/fa-cans/fe-cans/fi-cans/fo-cans/tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/no-cans/noo-cans/nooYCree-cans/_dotleftclose/nwaWestCree-cans/nwo-cans/nwoOjibway-cans/nwoo-cans/nwooOjibway-cans/noy-cans</string>
-    <string>/na-cans</string>
+    <string>/a-cans/e-cans/i-cans/o-cans/pa-cans/pe-cans/pi-cans/po-cans/ta-cans/te-cans/ti-cans/to-cans 
+/ka-cans/ke-cans/ki-cans/ko-cans/na-cans/ne-cans/ni-cans/no-cans 
+/ca-cans/ce-cans/ci-cans/co-cans/la-cans/le-cans/li-cans/lo-cans 
+/ma-cans/me-cans/mi-cans/mo-cans/sa-cans/se-cans/si-cans/so-cans 
+/sha-cans/she-cans/shi-cans/sho-cans 
+/ya-cans/thaThCree-cans/ye-cans/theThCree-cans/yi-cans/thiThCree-cans/yo-cans/thoThCree-cans 
+/ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
+/fa-cans/fe-cans/fi-cans/fo-cans 
+/tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
+    <string>/ca-cans/caa-cans/cwa-cans/cwaWestCree-cans/cwaa-cans/cwaaWestCree-cans/_dot2v/cwaaNaskapi-cans/s-cans/swNaskapi-cans/_dot2vsa/ca-cans/scwaNaskapi-cans/c-cans</string>
+    <string>/_dot2vsa</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

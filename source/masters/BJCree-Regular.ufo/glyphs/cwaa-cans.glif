@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwaa-cans" format="2">
-  <advance width="1508"/>
+  <advance width="1491"/>
   <unicode hex="149E"/>
+  <anchor x="614" y="1393" name="_dot2"/>
+  <anchor x="614" y="1391" name="_dot3"/>
   <outline>
-    <component base="ca-cans" xOffset="360"/>
-    <component base="finalmiddledot-cans"/>
-    <component base="_dotabove" xOffset="612"/>
+    <component base="_dotleft"/>
+    <component base="caa-cans" xOffset="361"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

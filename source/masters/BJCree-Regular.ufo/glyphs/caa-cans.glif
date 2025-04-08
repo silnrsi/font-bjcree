@@ -2,8 +2,16 @@
 <glyph name="caa-cans" format="2">
   <advance width="1130"/>
   <unicode hex="1491"/>
+  <anchor x="253" y="1393" name="_dot2"/>
+  <anchor x="253" y="1391" name="_dot3"/>
   <outline>
-    <component base="ca-cans" xOffset="41"/>
-    <component base="_dotabove" xOffset="289"/>
+    <component base="ca-cans"/>
+    <component base="_dotabove" xOffset="253"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>

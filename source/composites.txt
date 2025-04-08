@@ -1,7 +1,7 @@
 # Composites for BJCree project
 # https://github.com/silnrsi/pysilfont/blob/master/docs/composite.md
 
-### a-cans based
+### ᐊ a-cans based
 aa-cans             = a-cans + _dotabove@dot
 wa-cans             = _dotleft & a-cans
 waWestCree-cans     = a-cans & _dotright
@@ -12,11 +12,11 @@ ayNaskapi-cans      = a-cans + _ring@ring
 aayaNaskapi-cans    = aa-cans + _ring@ringmiddle
 wayNaskapi-cans     = wa-cans + _ring@ring
 
-### e-cans based
+### ᐁ e-cans based
 we-cans             = _dotleftclose & e-cans
 weWestCree-cans     = e-cans & _dotrightclose
 
-### i-cans based
+### ᐃ i-cans based
 ii-cans             = i-cans + _dotabove@dot
 wi-cans             = _dotleftclose & i-cans
 wiWestCree-cans     = i-cans & _dotrightclose
@@ -24,7 +24,7 @@ wii-cans            = wi-cans + _dotabove@dot
 wiiWestCree-cans    = ii-cans & _dotrightclose
 aai-cans            = i-cans + _ring@ring
 
-### o-cans based
+### ᐅ o-cans based
 oo-cans             = o-cans + _dotabove@dot
 ooYCree-cans        = o-cans + _dot2hclose@2dotsmiddle
 wo-cans             = _dotleft & o-cans
@@ -34,7 +34,7 @@ wooWestCree-cans    = oo-cans & _dotright
 wooNaskapi-cans     = o-cans + _dotabove@dot2 + _dotabove@dot3
 oY-cans             = o-cans + _ring@ring
 
-### pa-cans based
+### ᐸ pa-cans based
 paa-cans            = pa-cans + _dotabove@dot
 pwa-cans            = _dotleft & pa-cans
 pwaWestCree-cans    = pa-cans & _dotright
@@ -43,11 +43,11 @@ pwaaWestCree-cans   = paa-cans & _dotright
 pwaYCree-cans       = pa-cans + _dotabove@dot2 + _dotabove@dot3
 pay-cans            = pa-cans + _ring@ring
 
-### pe-cans based
+### ᐯ pe-cans based
 pwe-cans            = _dotleftclose & pe-cans
 pweWestCree-cans    = pe-cans & _dotrightclose
 
-### pi-cans based
+### ᐱ pi-cans based
 pii-cans            = pi-cans + _dotabove@dot
 pwi-cans            = _dotleftclose & pi-cans
 pwiWestCree-cans    = pi-cans & _dotrightclose
@@ -55,7 +55,7 @@ pwii-cans           = pwi-cans + _dotabove@dot
 pwiiWestCree-cans   = pii-cans & _dotrightclose
 paai-cans           = pi-cans + _ring@ring
 
-### po-cans based
+### ᐳ po-cans based
 poo-cans            = po-cans + _dotabove@dot
 pooYCree-cans       = po-cans + _dot2hclose@2dotsmiddle
 pwo-cans            = _dotleft & po-cans
@@ -65,7 +65,7 @@ pwooWestCree-cans   = poo-cans & _dotright
 poy-cans            = po-cans + _ring@ring
 pwoy-cans           = pwo-cans + _ring@ring
 
-### ta-cans based
+### ᑕ ta-cans based
 taa-cans            = ta-cans + _dotabove@dot
 twa-cans            = _dotleft & ta-cans
 twaWestCree-cans    = ta-cans & _dotright
@@ -74,11 +74,11 @@ twaaWestCree-cans   = taa-cans & _dotright
 twaaNaskapi-cans    = _dot2vclose & ta-cans
 tay-cans            = ta-cans + _ring@ring
 
-### te-cans based
+### ᑌ te-cans based
 twe-cans            = _dotleft & te-cans
 tweWestCree-cans    = te-cans & _dotright
 
-### ti-cans based
+### ᑎ ti-cans based
 tii-cans            = ti-cans + _dotabove@dot
 twi-cans            = _dotleft & ti-cans
 twiWestCree-cans    = ti-cans & _dotright
@@ -86,7 +86,7 @@ twii-cans           = twi-cans + _dotabove@dot
 twiiWestCree-cans   = tii-cans & _dotright
 taai-cans           = ti-cans + _ring@ring
 
-### to-cans
+### ᑐ to-cans
 too-cans            = to-cans + _dotabove@dot
 tooYCree-cans       = to-cans + _dot2hclose@2dotsleft
 two-cans            = _dotleft & to-cans
@@ -94,7 +94,7 @@ twoWestCree-cans    = to-cans & _dotright
 twoo-cans           = two-cans + _dotabove@dot
 twooWestCree-cans  = too-cans & _dotright
 
-### ka-cans based
+### ᑲ ka-cans based
 kaa-cans            = ka-cans + _dotabove@dot
 kwa-cans            = _dotleft & ka-cans
 kwaWestCree-cans    = ka-cans & _dotright
@@ -104,11 +104,11 @@ kwaaNaskapi-cans    = _dot2v & ka-cans
 kayNaskapi-cans     = ka-cans + _ring@ring
 kwayNaskapi-cans    = kwa-cans + _ring@ring
 
-### ke-cans based
+### ᑫ ke-cans based
 kwe-cans            = _dotleft & ke-cans
 kweWestCree-cans    = ke-cans & _dotright
 
-### ki-cans based
+### ᑭ ki-cans based
 kii-cans            = ki-cans + _dotabove@dot
 kwi-cans            = _dotleft & ki-cans
 kwiWestCree-cans    = ki-cans & _dotright
@@ -116,7 +116,7 @@ kwii-cans           = kwi-cans + _dotabove@dot
 kwiiWestCree-cans   = kii-cans & _dotright
 kaai-cans           = ki-cans + _ring@ring
 
-### ko-cans
+### ᑯ ko-cans
 koo-cans            = ko-cans + _dotabove@dot
 kooYCree-cans       = ko-cans + _dot2hclose@2dotsright
 kwo-cans            = _dotleft & ko-cans
@@ -124,7 +124,7 @@ kwoWestCree-cans    = ko-cans & _dotright
 kwoo-cans           = kwo-cans + _dotabove@dot
 kwooWestCree-cans   = koo-cans & _dotright
 
-### na-cans based
+### ᓇ na-cans based
 naa-cans            = na-cans + _dotabove@dot
 nwa-cans            = _dotleft & na-cans
 nwaWestCree-cans    = na-cans & _dotrightcloser
@@ -133,11 +133,11 @@ nwaaWestCree-cans   = naa-cans & _dotrightcloser
 nwaaNaskapi-cans    = nwa-cans + _dot2hclose@2dotsmiddle
 nay-cans            = na-cans + _ring@ring
 
-### ne-cans based
+### ᓀ ne-cans based
 nwe-cans            = _dotleft & ne-cans
 nweWestCree-cans    = ne-cans & _dotright
 
-### ni-cans based
+### ᓂ ni-cans based
 nii-cans            = ni-cans + _dotabove@dot
 nwi-cans            = _dotleft & ni-cans
 nwiOjibway-cans     = ni-cans & _dotright
@@ -145,7 +145,7 @@ nwii-cans           = nwi-cans + _dotabove@dot
 nwiiOjibway-cans    = nii-cans & _dotright
 naai-cans           = ni-cans + _ring@ring
 
-### no-cans based
+### ᓄ no-cans based
 noo-cans            = no-cans + _dotabove@dot
 nooYCree-cans       = no-cans + _dot2hclose@2dotsmiddle
 nwo-cans            = _dotleftcloser & no-cans
@@ -153,3 +153,104 @@ nwoOjibway-cans     = no-cans & _dotright
 nwoo-cans           = nwo-cans + _dotabove@dot
 nwooOjibway-cans    = noo-cans & _dotright
 noy-cans            = no-cans + _ring@ring
+
+### ᒐ ca-cans based
+caa-cans            = ca-cans + _dotabove@dot
+cwa-cans            = _dotleft & ca-cans
+cwaWestCree-cans    = ca-cans & _dotright 
+cwaa-cans           = _dotleft & caa-cans
+cwaaWestCree-cans   = caa-cans & _dotright
+cwaaNaskapi-cans    = _dot2v & ca-cans
+scwaNaskapi-cans    = _dot2vsa & ca-cans
+
+### ᒉ ce-cans based
+
+### ᒋ ci-cans based
+
+### ᒍ co-cans based
+
+### ᓚ la-cans based
+
+### ᓓ le-cans based
+
+### ᓕ li-cans based
+
+### ᓗ lo-cans based
+
+### ᒪ ma-cans based
+
+### ᒣ me-cans based
+
+### ᒥ mi-cans based
+
+### ᒧ mo-cans based
+
+### ᓴ sa-cans based
+
+### ᓭ se-cans based
+
+### ᓯ si-cans based
+
+### ᓱ so-cans based
+
+### ᔕ sha-cans based
+
+### ᔐ she-cans based
+
+### ᔑ shi-cans based
+
+### ᔓ sho-cans based
+
+### ᔭ ya-cans based
+
+### ᖬ thaThCree-cans based
+
+### ᔦ ye-cans based
+
+### ᖧ theThCree-cans based
+
+### ᔨ yi-cans based
+
+### ᖨ thiThCree-cans based
+
+### ᔪ yo-cans based
+
+### ᖪ thoThCree-cans based
+
+### ᕋ ra-cans based
+
+### ᕂ re-cans based
+
+### ᕃ reRCree-cans based
+
+### ᕄ leWestCree-cans based
+
+### ᕆ ri-cans based
+
+### ᕈ ro-cans based
+
+### ᕊ loWestCree-cans based
+
+### ᕍ laWestCree-cans based
+
+### ᕙ fa-cans based
+
+### ᕓ fe-cans based
+
+### ᕕ fi-cans based
+
+### ᕗ fo-cans based
+
+### ᕦ tha-cans based
+
+### ᕞ the-cans based
+
+### ᕟ theNCree-cans based
+
+### ᕠ thi-cans based
+
+### ᕡ thiNCree-cans based
+
+### ᕤ tho-cans based
+
+

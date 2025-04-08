@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scwaNaskapi-cans" format="2">
-  <advance width="1712"/>
+  <advance width="1689"/>
   <unicode hex="150F"/>
+  <anchor x="757" y="1458" name="dot"/>
   <outline>
-    <component base="cwaaNaskapi-cans" xOffset="52" yOffset="1"/>
-    <component base="s-cans.small" xOffset="-334" yOffset="-737"/>
+    <component base="_dot2vsa"/>
+    <component base="ca-cans" xOffset="437"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
 </glyph>
