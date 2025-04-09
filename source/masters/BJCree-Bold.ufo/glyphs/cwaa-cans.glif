@@ -2,8 +2,8 @@
 <glyph name="cwaa-cans" format="2">
   <advance width="1683"/>
   <unicode hex="149E"/>
-  <anchor x="751" y="1456" name="_dot2"/>
-  <anchor x="751" y="1454" name="_dot3"/>
+  <anchor x="751" y="1465" name="_dot2"/>
+  <anchor x="751" y="1463" name="_dot3"/>
   <outline>
     <component base="_dotleft"/>
     <component base="caa-cans" xOffset="431"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

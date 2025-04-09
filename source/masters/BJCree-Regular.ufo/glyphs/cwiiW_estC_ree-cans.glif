@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwiiWestCree-cans" format="2">
-  <advance width="1508"/>
+  <advance width="1491"/>
   <unicode hex="1497"/>
+  <anchor x="596" y="1393" name="_dot2"/>
+  <anchor x="596" y="1391" name="_dot3"/>
+  <anchor x="596" y="1391" name="ring"/>
   <outline>
-    <component base="ci-cans" xOffset="1"/>
-    <component base="finalmiddledot-cans" xOffset="1002"/>
-    <component base="_dotabove" xOffset="589"/>
+    <component base="cii-cans"/>
+    <component base="_dotright" xOffset="1130"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,8 +2,16 @@
 <glyph name="caai-cans" format="2">
   <advance width="1130"/>
   <unicode hex="148A"/>
+  <anchor x="596" y="1389" name="_ringmiddle"/>
+  <anchor x="596" y="1395" name="dot"/>
   <outline>
     <component base="ci-cans"/>
-    <component base="_ring" xOffset="405" yOffset="3"/>
+    <component base="_ring" xOffset="596" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

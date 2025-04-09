@@ -157,17 +157,31 @@ noy-cans            = no-cans + _ring@ring
 ### ᒐ ca-cans based
 caa-cans            = ca-cans + _dotabove@dot
 cwa-cans            = _dotleft & ca-cans
-cwaWestCree-cans    = ca-cans & _dotright 
+cwaWestCree-cans    = ca-cans & _dotright
 cwaa-cans           = _dotleft & caa-cans
 cwaaWestCree-cans   = caa-cans & _dotright
 cwaaNaskapi-cans    = _dot2v & ca-cans
 scwaNaskapi-cans    = _dot2vsa & ca-cans
 
 ### ᒉ ce-cans based
+cwe-cans            = _dotleft & ce-cans
+cweWestCree-cans    = ce-cans & _dotright
 
 ### ᒋ ci-cans based
+cii-cans            = ci-cans + _dotabove@dot
+cwi-cans            = _dotleft & ci-cans
+cwiWestCree-cans    = ci-cans & _dotright
+cwii-cans           = cwi-cans + _dotabove@dot
+cwiiWestCree-cans   = cii-cans & _dotright
+caai-cans           = ci-cans + _ring@ring
 
 ### ᒍ co-cans based
+coo-cans            = co-cans + _dotabove@dot
+cooYCree-cans       = co-cans + _dot2hclose@2dotsright
+cwo-cans            = _dotleft & co-cans
+cwoWestCree-cans    = co-cans & _dotright
+cwoo-cans           = cwo-cans + _dotabove@dot
+cwooWestCree-cans   = coo-cans & _dotright
 
 ### ᓚ la-cans based
 

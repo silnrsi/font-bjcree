@@ -2,15 +2,15 @@
 <glyph name="ca-cans" format="2">
   <advance width="1252"/>
   <unicode hex="1490"/>
-  <anchor x="320" y="1458" name="dot"/>
+  <anchor x="320" y="1467" name="dot"/>
   <outline>
     <contour>
       <point x="661" y="-15" type="curve" smooth="yes"/>
       <point x="912" y="-15"/>
       <point x="1132" y="200"/>
       <point x="1132" y="458" type="curve" smooth="yes"/>
-      <point x="1132" y="579" type="line"/>
-      <point x="872" y="579" type="line"/>
+      <point x="1132" y="575" type="line"/>
+      <point x="872" y="575" type="line"/>
       <point x="872" y="458" type="line" smooth="yes"/>
       <point x="872" y="347"/>
       <point x="772" y="233"/>
@@ -18,8 +18,8 @@
       <point x="550" y="233"/>
       <point x="450" y="343"/>
       <point x="450" y="458" type="curve" smooth="yes"/>
-      <point x="450" y="1458" type="line"/>
-      <point x="190" y="1458" type="line"/>
+      <point x="450" y="1467" type="line"/>
+      <point x="190" y="1467" type="line"/>
       <point x="190" y="458" type="line" smooth="yes"/>
       <point x="190" y="208"/>
       <point x="419" y="-15"/>

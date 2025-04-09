@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwo-cans" format="2">
-  <advance width="1624"/>
+  <advance width="1683"/>
   <unicode hex="1498"/>
+  <anchor x="1363" y="1455" name="2dotsright"/>
+  <anchor x="1363" y="1459" name="dot"/>
   <outline>
-    <component base="co-cans" xOffset="370"/>
-    <component base="finalmiddledot-cans" xOffset="-7"/>
+    <component base="_dotleft"/>
+    <component base="co-cans" xOffset="431"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwoo-cans" format="2">
-  <advance width="1508"/>
+  <advance width="1491"/>
   <unicode hex="149A"/>
+  <anchor x="1239" y="1391" name="2dotsright"/>
+  <anchor x="1239" y="1393" name="_dot2"/>
+  <anchor x="1239" y="1391" name="_dot3"/>
   <outline>
-    <component base="_dotabove" xOffset="1306"/>
     <component base="cwo-cans"/>
+    <component base="_dotabove" xOffset="1239"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

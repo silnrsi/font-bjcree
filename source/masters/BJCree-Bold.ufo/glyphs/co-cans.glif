@@ -2,6 +2,8 @@
 <glyph name="co-cans" format="2">
   <advance width="1252"/>
   <unicode hex="148D"/>
+  <anchor x="932" y="1455" name="2dotsright"/>
+  <anchor x="932" y="1459" name="dot"/>
   <outline>
     <contour>
       <point x="591" y="-14" type="curve" smooth="yes"/>

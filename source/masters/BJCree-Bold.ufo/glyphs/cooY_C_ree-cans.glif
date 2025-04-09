@@ -2,8 +2,17 @@
 <glyph name="cooYCree-cans" format="2">
   <advance width="1252"/>
   <unicode hex="148F"/>
+  <anchor x="462" y="1455" name="_2dotsleft"/>
+  <anchor x="697" y="1455" name="_2dotsmiddle"/>
+  <anchor x="932" y="1459" name="dot"/>
   <outline>
     <component base="co-cans"/>
-    <component base="_dot2hclose"/>
+    <component base="_dot2hclose" xOffset="1" yOffset="-12"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
