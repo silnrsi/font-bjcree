@@ -47,7 +47,7 @@ build_one() {
 
 }
 
-message "Rebuilding composites..."
+message "Rebuilding composites in the UFOs..."
 
 # Build each master
 build_one "BJCree-Regular.ufo"

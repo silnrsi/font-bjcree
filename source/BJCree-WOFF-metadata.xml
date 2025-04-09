@@ -5,24 +5,60 @@
   <credits>
     <credit
       name="Bill Jancewicz"
-      role="Cree glyph design and development"
-    />
-    <credit
-      name="Peter Martin"
-      url="https://software.sil.org/wstech/"
-      role="Design and engineering"
+      role="Original designer of the BJCree fonts"
     />
   </credits>
-  <description url="https://software.sil.org/bjcree/">
+  <description url="https://software.sil.org/">
     <text lang="en">
-      BJCree is a Canadian Syllabics font for the Algonquian family of languages.
+      The BJCree typeface was originally designed in conjunction with the Naskapi
+      community in the 1990s. When it was subsequently re-encoded for Unicode,
+      coverage was extended for all the Cree (and Ojibwa) languages. Thus all the
+      “Algonquian” language family languages that use Unified Canadian Aboriginal
+      Syllabics are covered by the BJCree glyph inventory. That is,
+      Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm],
+      East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk],
+      Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
+      
+      
+      ChangeLog
+      ---------
+      (This should list both major and minor changes, most recent first.)
+      
+      ### 2024-xx-xx (SIL WSTech team) BJCree version 6.000
+      - Renamed font
+      - Changed to use Open Font License
+      - Replaced Century Schoolbook Latin glyphs with new design based loosely on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
+      - Added new characters:
+      
+      ### April 2022
+      - Added new characters: U+15A7 .. U+167E, U+18B0 .. U+18B5
+      
+      ### 26-Mar-2007 v 2.2
+      - Update
+      
+      ### 13-May-2005 v 2.0
+      - Update
+      
+      ### 2002
+      - “BJCree UNI” widely released
+      
+      ### Jan-2000 v2.00
+      - BJECree and BJWCree released
+      
+      ### Approximately 1999
+      - Converted the font to Unicode
+      - Renamed the new font “BJCree UNI” (bjcrus.ttf and bjcrusb.ttf)
+      - Released as ‘shareware’ under copyright by Bill Jancewicz
+      
+      ### 1990s
+      - BJCree (Baye-James Cree) font created by Bill Jancewicz to serve the Eastern Cree communities.
     </text>
   </description>
   <license url="https://openfontlicense.org" id="org.openfontlicense.1.1">
     <text lang="en">
-      Copyright (c) 2019-2023 SIL International.
+      Copyright (c) 2019-2024 SIL Global.
       
-      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://scripts.sil.org/OFL
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is copied below, and is also available with a FAQ at: https://openfontlicense.org
       
       
       -----------------------------------------------------------
@@ -67,7 +103,10 @@
   </license>
   <copyright>
     <text lang="en">
-      Copyright (c) 2000-2023 SIL International.
+      Copyright (c) 2000-2024 SIL Global.
     </text>
   </copyright>
   <trademark>
+    <text lang="en">BJCree</text>
+  </trademark>
+</metadata>
