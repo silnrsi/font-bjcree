@@ -184,6 +184,12 @@ cwoo-cans           = cwo-cans + _dotabove@dot
 cwooWestCree-cans   = coo-cans & _dotright
 
 ### ᓚ la-cans based
+laa-cans            = la-cans + _dotabove@dot
+lwa-cans            = _dotleft & la-cans
+lwaWestCree-cans    = la-cans & _dotrightcloser
+lwaa-cans           = lwa-cans + _dotabove@dot
+lwaaWestCree-cans   = laa-cans & _dotrightcloser
+layWestCree-cans    = la-cans + _ring@ring
 
 ### ᓓ le-cans based
 

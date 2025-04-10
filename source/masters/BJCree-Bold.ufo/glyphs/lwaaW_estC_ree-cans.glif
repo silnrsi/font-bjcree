@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwaaWestCree-cans" format="2">
-  <advance width="1810"/>
+  <advance width="1877"/>
   <unicode hex="14E9"/>
+  <anchor x="612" y="925" name="_dot2"/>
+  <anchor x="612" y="923" name="_dot3"/>
+  <anchor x="612" y="923" name="ring"/>
   <outline>
-    <component base="la-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1279"/>
-    <component base="_dotabove" xOffset="599" yOffset="-548"/>
+    <component base="laa-cans"/>
+    <component base="_dotrightcloser" xOffset="1720"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

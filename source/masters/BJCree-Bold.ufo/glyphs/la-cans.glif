@@ -2,6 +2,8 @@
 <glyph name="la-cans" format="2">
   <advance width="1720"/>
   <unicode hex="14DA"/>
+  <anchor x="612" y="927" name="dot"/>
+  <anchor x="612" y="923" name="ring"/>
   <outline>
     <contour>
       <point x="590" y="0" type="curve" smooth="yes"/>
