@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mi-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1196"/>
   <unicode hex="14A5"/>
   <outline>
-    <contour>
-      <point x="1132" y="1198" type="line"/>
-      <point x="450" y="1198" type="line"/>
-      <point x="450" y="0" type="line"/>
-      <point x="190" y="0" type="line"/>
-      <point x="190" y="1458" type="line"/>
-      <point x="1132" y="1458" type="line"/>
-    </contour>
+    <component base="ma-cans" yScale="-1" xOffset="6" yOffset="1467"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

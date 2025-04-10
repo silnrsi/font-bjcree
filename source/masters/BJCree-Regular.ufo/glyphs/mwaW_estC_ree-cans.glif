@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwaWestCree-cans" format="2">
-  <advance width="1500"/>
+  <advance width="1240"/>
   <unicode hex="14B7"/>
+  <anchor x="190" y="1395" name="dot"/>
+  <anchor x="190" y="1391" name="ring"/>
   <outline>
-    <component base="ma-cans" xOffset="8"/>
-    <component base="finalmiddledot-cans" xOffset="1010"/>
+    <component base="ma-cans"/>
+    <component base="_dotrightclose" xOffset="1059"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

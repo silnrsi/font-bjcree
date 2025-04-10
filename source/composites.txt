@@ -212,6 +212,13 @@ lwoo-cans           = lwo-cans + _dotabove@dot
 lwooWestCree-cans   = loo-cans & _dotright
 
 ### ᒪ ma-cans based
+maa-cans            = ma-cans + _dotabove@dot
+mwa-cans            = _dotleft & ma-cans
+mwaWestCree-cans    = ma-cans & _dotrightclose
+mwaa-cans           = mwa-cans + _dotabove@dot
+mwaaWestCree-cans   = maa-cans & _dotrightclose
+mwaaNaskapi-cans    = _dot2v & ma-cans
+mayNaskapi-cans     = ma-cans + _ring@ring
 
 ### ᒣ me-cans based
 
