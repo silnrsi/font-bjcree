@@ -3,7 +3,7 @@
   <advance width="1664"/>
   <unicode hex="14D3"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1522" yOffset="941"/>
+    <component base="ca-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1522" yOffset="940"/>
   </outline>
   <lib>
     <dict>

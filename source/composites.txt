@@ -204,6 +204,12 @@ lwiiWestCree-cans   = lii-cans & _dotright
 laai-cans           = li-cans + _ring@ring
 
 ### ᓗ lo-cans based
+loo-cans            = lo-cans + _dotabove@dot
+looYCree-cans       = lo-cans + _dot2hclose@2dotsmiddle
+lwo-cans            = _dotleftcloser & lo-cans
+lwoWestCree-cans    = lo-cans & _dotright
+lwoo-cans           = lwo-cans + _dotabove@dot
+lwooWestCree-cans   = loo-cans & _dotright
 
 ### ᒪ ma-cans based
 

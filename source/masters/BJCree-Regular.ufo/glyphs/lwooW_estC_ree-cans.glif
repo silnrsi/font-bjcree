@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwooWestCree-cans" format="2">
-  <advance width="2125"/>
+  <advance width="2025"/>
   <unicode hex="14E5"/>
+  <anchor x="1189" y="813" name="2dotsmiddle"/>
+  <anchor x="1133" y="811" name="_dot2"/>
+  <anchor x="1133" y="809" name="_dot3"/>
   <outline>
-    <component base="lo-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1595"/>
-    <component base="_dotabove" xOffset="1089" yOffset="-594"/>
+    <component base="loo-cans"/>
+    <component base="_dotright" xOffset="1664"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

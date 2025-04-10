@@ -7,12 +7,12 @@
     <contour>
       <point x="533" y="-15" type="curve" smooth="yes"/>
       <point x="756" y="-15"/>
-      <point x="941" y="161"/>
-      <point x="941" y="386" type="curve" smooth="yes"/>
-      <point x="941" y="556" type="line"/>
-      <point x="809" y="556" type="line"/>
-      <point x="809" y="386" type="line" smooth="yes"/>
-      <point x="809" y="234"/>
+      <point x="940" y="161"/>
+      <point x="940" y="386" type="curve" smooth="yes"/>
+      <point x="940" y="556" type="line"/>
+      <point x="808" y="556" type="line"/>
+      <point x="808" y="386" type="line" smooth="yes"/>
+      <point x="808" y="234"/>
       <point x="686" y="107"/>
       <point x="533" y="107" type="curve" smooth="yes"/>
       <point x="378" y="107"/>

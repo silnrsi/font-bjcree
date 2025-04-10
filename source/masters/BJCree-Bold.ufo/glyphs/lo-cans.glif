@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lo-cans" format="2">
-  <advance width="1720"/>
+  <advance width="1715"/>
   <unicode hex="14D7"/>
+  <anchor x="1183" y="927" name="2dotsmiddle"/>
+  <anchor x="1133" y="927" name="dot"/>
   <outline>
-    <contour>
-      <point x="120" y="0" type="line"/>
-      <point x="1130" y="0" type="line" smooth="yes"/>
-      <point x="1386" y="0"/>
-      <point x="1599" y="217"/>
-      <point x="1600" y="464" type="curve" smooth="yes"/>
-      <point x="1601" y="712"/>
-      <point x="1401" y="927"/>
-      <point x="1142" y="927" type="curve" smooth="yes"/>
-      <point x="998" y="927" type="line"/>
-      <point x="998" y="667" type="line"/>
-      <point x="1142" y="667" type="line" smooth="yes"/>
-      <point x="1256" y="667"/>
-      <point x="1340" y="579"/>
-      <point x="1340" y="464" type="curve" smooth="yes"/>
-      <point x="1340" y="351"/>
-      <point x="1265" y="260"/>
-      <point x="1130" y="260" type="curve" smooth="yes"/>
-      <point x="120" y="260" type="line"/>
-    </contour>
+    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-121"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

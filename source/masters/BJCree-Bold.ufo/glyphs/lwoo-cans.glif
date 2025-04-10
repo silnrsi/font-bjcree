@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwoo-cans" format="2">
-  <advance width="1810"/>
+  <advance width="1867"/>
   <unicode hex="14E4"/>
+  <anchor x="1335" y="927" name="2dotsmiddle"/>
+  <anchor x="1285" y="925" name="_dot2"/>
+  <anchor x="1285" y="923" name="_dot3"/>
   <outline>
-    <component base="lo-cans" xOffset="137"/>
-    <component base="finalmiddledot-cans" xOffset="10"/>
-    <component base="_dotabove" xOffset="1258" yOffset="-548"/>
+    <component base="lwo-cans"/>
+    <component base="_dotabove" xOffset="1285" yOffset="-541"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
