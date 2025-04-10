@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cooYCree-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1169"/>
   <unicode hex="148F"/>
-  <anchor x="462" y="1455" name="_2dotsleft"/>
-  <anchor x="697" y="1455" name="_2dotsmiddle"/>
-  <anchor x="932" y="1459" name="dot"/>
+  <anchor x="448" y="1463" name="_2dotsleft"/>
+  <anchor x="683" y="1463" name="_2dotsmiddle"/>
+  <anchor x="918" y="1467" name="dot"/>
   <outline>
     <component base="co-cans"/>
-    <component base="_dot2hclose" xOffset="1" yOffset="-12"/>
+    <component base="_dot2hclose" xOffset="-13" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwi-cans" format="2">
-  <advance width="1683"/>
+  <advance width="1600"/>
   <unicode hex="1494"/>
-  <anchor x="1092" y="1467" name="dot"/>
-  <anchor x="1092" y="1463" name="ring"/>
+  <anchor x="1016" y="1467" name="dot"/>
+  <anchor x="1016" y="1463" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ci-cans" xOffset="431"/>

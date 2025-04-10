@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwa-cans" format="2">
-  <advance width="2024"/>
+  <advance width="2025"/>
   <unicode hex="14E6"/>
-  <anchor x="879" y="813" name="dot"/>
-  <anchor x="879" y="809" name="ring"/>
+  <anchor x="880" y="813" name="dot"/>
+  <anchor x="880" y="809" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="la-cans" xOffset="361"/>

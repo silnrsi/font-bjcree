@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="coo-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1169"/>
   <unicode hex="148E"/>
-  <anchor x="932" y="1455" name="2dotsright"/>
-  <anchor x="932" y="1457" name="_dot2"/>
-  <anchor x="932" y="1455" name="_dot3"/>
+  <anchor x="918" y="1463" name="2dotsright"/>
+  <anchor x="918" y="1465" name="_dot2"/>
+  <anchor x="918" y="1463" name="_dot3"/>
   <outline>
     <component base="co-cans"/>
-    <component base="_dotabove" xOffset="932" yOffset="-9"/>
+    <component base="_dotabove" xOffset="918" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

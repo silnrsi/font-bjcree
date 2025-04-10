@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="layWestCree-cans" format="2">
-  <advance width="1663"/>
+  <advance width="1664"/>
   <unicode hex="18BD"/>
-  <anchor x="518" y="807" name="_ringmiddle"/>
-  <anchor x="518" y="813" name="dot"/>
+  <anchor x="519" y="807" name="_ringmiddle"/>
+  <anchor x="519" y="813" name="dot"/>
   <outline>
     <component base="la-cans"/>
-    <component base="_ring" xOffset="518" yOffset="-586"/>
+    <component base="_ring" xOffset="519" yOffset="-586"/>
   </outline>
   <lib>
     <dict>

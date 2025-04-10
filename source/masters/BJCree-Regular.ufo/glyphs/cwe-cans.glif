@@ -2,7 +2,7 @@
 <glyph name="cwe-cans" format="2">
   <advance width="1429"/>
   <unicode hex="1492"/>
-  <anchor x="899" y="1395" name="dot"/>
+  <anchor x="895" y="1395" name="dot"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ce-cans" xOffset="361"/>

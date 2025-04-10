@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caa-cans" format="2">
-  <advance width="1130"/>
+  <advance width="1068"/>
   <unicode hex="1491"/>
-  <anchor x="253" y="1393" name="_dot2"/>
-  <anchor x="253" y="1391" name="_dot3"/>
+  <anchor x="190" y="1393" name="_dot2"/>
+  <anchor x="190" y="1391" name="_dot3"/>
   <outline>
     <component base="ca-cans"/>
-    <component base="_dotabove" xOffset="253"/>
+    <component base="_dotabove" xOffset="190"/>
   </outline>
   <lib>
     <dict>

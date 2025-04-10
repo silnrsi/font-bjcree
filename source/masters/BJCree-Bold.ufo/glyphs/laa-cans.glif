@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="laa-cans" format="2">
-  <advance width="1720"/>
+  <advance width="1715"/>
   <unicode hex="14DB"/>
-  <anchor x="612" y="925" name="_dot2"/>
-  <anchor x="612" y="923" name="_dot3"/>
-  <anchor x="612" y="923" name="ring"/>
+  <anchor x="606" y="925" name="_dot2"/>
+  <anchor x="606" y="923" name="_dot3"/>
+  <anchor x="606" y="923" name="ring"/>
   <outline>
     <component base="la-cans"/>
-    <component base="_dotabove" xOffset="612" yOffset="-541"/>
+    <component base="_dotabove" xOffset="606" yOffset="-541"/>
   </outline>
   <lib>
     <dict>

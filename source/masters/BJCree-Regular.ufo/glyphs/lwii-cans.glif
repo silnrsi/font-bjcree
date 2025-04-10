@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwii-cans" format="2">
-  <advance width="2125"/>
+  <advance width="2025"/>
   <unicode hex="14E0"/>
+  <anchor x="881" y="811" name="_dot2"/>
+  <anchor x="881" y="809" name="_dot3"/>
+  <anchor x="881" y="809" name="ring"/>
   <outline>
-    <component base="li-cans" xOffset="410"/>
-    <component base="finalmiddledot-cans" xOffset="27"/>
-    <component base="_dotabove" xOffset="942" yOffset="-594"/>
+    <component base="lwi-cans"/>
+    <component base="_dotabove" xOffset="881" yOffset="-582"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

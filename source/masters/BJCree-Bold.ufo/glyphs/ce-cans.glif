@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ce-cans" format="2">
-  <advance width="1184"/>
+  <advance width="1169"/>
   <unicode hex="1489"/>
-  <anchor x="592" y="1467" name="dot"/>
+  <anchor x="584" y="1467" name="dot"/>
   <outline>
-    <component base="ca-cans" xScale="-1" yScale="-1" xOffset="1253" yOffset="1467"/>
+    <component base="ca-cans" xScale="-1" yScale="-1" xOffset="1169" yOffset="1467"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

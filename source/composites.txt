@@ -192,8 +192,16 @@ lwaaWestCree-cans   = laa-cans & _dotrightcloser
 layWestCree-cans    = la-cans + _ring@ring
 
 ### ᓓ le-cans based
+lwe-cans            = _dotleft & le-cans
+lweWestCree-cans    = le-cans & _dotright
 
 ### ᓕ li-cans based
+lii-cans            = li-cans + _dotabove@dot
+lwi-cans            = _dotleft & li-cans
+lwiWestCree-cans    = li-cans & _dotright
+lwii-cans           = lwi-cans + _dotabove@dot
+lwiiWestCree-cans   = lii-cans & _dotright
+laai-cans           = li-cans + _ring@ring
 
 ### ᓗ lo-cans based
 

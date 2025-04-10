@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwaWestCree-cans" format="2">
-  <advance width="1491"/>
+  <advance width="1429"/>
   <unicode hex="149D"/>
-  <anchor x="253" y="1395" name="dot"/>
+  <anchor x="190" y="1395" name="dot"/>
   <outline>
     <component base="ca-cans"/>
-    <component base="_dotright" xOffset="1130"/>
+    <component base="_dotright" xOffset="1068"/>
   </outline>
   <lib>
     <dict>

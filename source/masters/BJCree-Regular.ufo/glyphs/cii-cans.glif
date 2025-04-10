@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cii-cans" format="2">
-  <advance width="1130"/>
+  <advance width="1068"/>
   <unicode hex="148C"/>
-  <anchor x="596" y="1393" name="_dot2"/>
-  <anchor x="596" y="1391" name="_dot3"/>
-  <anchor x="596" y="1391" name="ring"/>
+  <anchor x="534" y="1393" name="_dot2"/>
+  <anchor x="534" y="1391" name="_dot3"/>
+  <anchor x="534" y="1391" name="ring"/>
   <outline>
     <component base="ci-cans"/>
-    <component base="_dotabove" xOffset="596"/>
+    <component base="_dotabove" xOffset="534"/>
   </outline>
   <lib>
     <dict>
