@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="moo-cans" format="2">
-  <advance width="1122"/>
+  <advance width="1059"/>
   <unicode hex="14A8"/>
+  <anchor x="870" y="1391" name="2dotsright"/>
+  <anchor x="870" y="1393" name="_dot2"/>
+  <anchor x="870" y="1391" name="_dot3"/>
   <outline>
     <component base="mo-cans"/>
-    <component base="_dotabove" xOffset="865"/>
+    <component base="_dotabove" xOffset="870"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

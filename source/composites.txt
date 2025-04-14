@@ -221,10 +221,24 @@ mwaaNaskapi-cans    = _dot2v & ma-cans
 mayNaskapi-cans     = ma-cans + _ring@ring
 
 ### ᒣ me-cans based
+mwe-cans            = _dotleft & me-cans
+mweWestCree-cans    = me-cans & _dotright
 
 ### ᒥ mi-cans based
+mii-cans            = mi-cans + _dotabove@dot
+mwi-cans            = _dotleft & mi-cans
+mwiWestCree-cans    = mi-cans & _dotright
+mwii-cans           = mwi-cans + _dotabove@dot
+mwiiWestCree-cans   = mii-cans & _dotright
+maai-cans           = mi-cans + _ring@ring
 
 ### ᒧ mo-cans based
+moo-cans            = mo-cans + _dotabove@dot
+mooYCree-cans       = mo-cans + _dot2hclose@2dotsright
+mwo-cans            = _dotleftcloser & mo-cans
+mwoWestCree-cans    = mo-cans & _dotright
+mwoo-cans           = mwo-cans + _dotabove@dot
+mwooWestCree-cans   = moo-cans & _dotright
 
 ### ᓴ sa-cans based
 

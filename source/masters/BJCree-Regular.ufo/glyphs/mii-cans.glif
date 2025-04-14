@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mii-cans" format="2">
-  <advance width="1122"/>
+  <advance width="1059"/>
   <unicode hex="14A6"/>
+  <anchor x="530" y="1393" name="_dot2"/>
+  <anchor x="530" y="1391" name="_dot3"/>
+  <anchor x="530" y="1391" name="ring"/>
   <outline>
     <component base="mi-cans"/>
-    <component base="_dotabove" xOffset="605"/>
+    <component base="_dotabove" xOffset="530"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

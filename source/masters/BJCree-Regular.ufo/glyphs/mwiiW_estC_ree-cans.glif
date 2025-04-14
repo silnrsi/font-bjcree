@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwiiWestCree-cans" format="2">
-  <advance width="1500"/>
+  <advance width="1420"/>
   <unicode hex="14B1"/>
+  <anchor x="530" y="1393" name="_dot2"/>
+  <anchor x="530" y="1391" name="_dot3"/>
+  <anchor x="530" y="1391" name="ring"/>
   <outline>
-    <component base="mi-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1010"/>
-    <component base="_dotabove" xOffset="614"/>
+    <component base="mii-cans"/>
+    <component base="_dotright" xOffset="1059"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

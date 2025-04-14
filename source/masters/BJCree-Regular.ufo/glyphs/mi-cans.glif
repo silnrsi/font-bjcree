@@ -2,6 +2,8 @@
 <glyph name="mi-cans" format="2">
   <advance width="1059"/>
   <unicode hex="14A5"/>
+  <anchor x="530" y="1395" name="dot"/>
+  <anchor x="530" y="1391" name="ring"/>
   <outline>
     <component base="ma-cans" yScale="-1" yOffset="1395"/>
   </outline>

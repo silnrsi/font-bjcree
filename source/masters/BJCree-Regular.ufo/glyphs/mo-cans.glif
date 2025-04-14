@@ -2,6 +2,8 @@
 <glyph name="mo-cans" format="2">
   <advance width="1059"/>
   <unicode hex="14A7"/>
+  <anchor x="870" y="1391" name="2dotsright"/>
+  <anchor x="870" y="1395" name="dot"/>
   <outline>
     <component base="ma-cans" xScale="-1" xOffset="1059"/>
   </outline>
