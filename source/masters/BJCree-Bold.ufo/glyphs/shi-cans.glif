@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shi-cans" format="2">
-  <advance width="1717"/>
+  <advance width="1748"/>
   <unicode hex="1511"/>
+  <anchor x="1234" y="1467" name="dot"/>
   <outline>
-    <component base="she-cans" xScale="-1" xOffset="1717"/>
+    <component base="she-cans" xScale="-1" xOffset="1733"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

@@ -49,10 +49,11 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/so-cans/soo-cans/sooYCree-cans/swo-cans/swoWestCree-cans/swoo-cans/swooWestCree-cans/soy-cans/sw-cans/skwNaskapi-cans 
-/si-cans/sii-cans/swi-cans/swiWestCree-cans/swii-cans/swiiWestCree-cans/saai-cans/sOjibway-cans 
-/se-cans/swe-cans/sweWestCree-cans 
-/se-cans/sa-cans/saa-cans/swa-cans/swaWestCree-cans/swaa-cans/swaaWestCree-cans/swaaNaskapi-cans/say-cans/s-cans/swNaskapi-cans/skMooseCree-cans/s-cans.small</string>
+    <string>/sho-cans/shoo-cans/shwo-cans/shwoWestCree-cans/shwoo-cans/shwooWestCree-cans/shoy-cans/shwoy-cans 
+/shi-cans/shii-cans/shwi-cans/shwiWestCree-cans/shwii-cans/shwiiWestCree-cans/shOjibway-cans 
+/she-cans/shwe-cans/shweWestCree-cans 
+/sha-cans/_dotabove/shaa-cans/shwa-cans/shwaWestCree-cans/shwaa-cans/shwaaWestCree-cans/shay-cans/sh-cans</string>
+    <string>/she-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

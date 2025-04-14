@@ -2,7 +2,16 @@
 <glyph name="shay-cans" format="2">
   <advance width="2046"/>
   <unicode hex="18C1"/>
+  <anchor x="1023" y="921" name="_ringmiddle"/>
+  <anchor x="1023" y="927" name="dot"/>
   <outline>
-    <component base="shoy-cans" xScale="-1" xOffset="2046"/>
+    <component base="sha-cans"/>
+    <component base="_ring" xOffset="1023" yOffset="-544"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

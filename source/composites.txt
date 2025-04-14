@@ -271,12 +271,32 @@ swooWestCree-cans   = soo-cans & _dotright
 soy-cans            = so-cans + _ring@ring
 
 ### ᔕ sha-cans based
+shaa-cans           = sha-cans + _dotabove@dot
+shwa-cans           = _dotleft & sha-cans
+shwaWestCree-cans   = sha-cans & _dotright
+shwaa-cans          = shwa-cans + _dotabove@dot
+shwaaWestCree-cans  = shaa-cans & _dotright
+shay-cans           = sha-cans + _ring@ring
 
 ### ᔐ she-cans based
+shwe-cans           = _dotleft & she-cans
+shweWestCree-cans   = she-cans & _dotright
 
 ### ᔑ shi-cans based
+shii-cans           = shi-cans + _dotabove@dot
+shwi-cans           = _dotleft & shi-cans
+shwiWestCree-cans   = shi-cans & _dotright
+shwii-cans          = shwi-cans + _dotabove@dot
+shwiiWestCree-cans  = shii-cans & _dotright
 
 ### ᔓ sho-cans based
+shoo-cans           = sho-cans + _dotabove@dot
+shwo-cans           = _dotleft & sho-cans
+shwoWestCree-cans   = sho-cans & _dotright
+shwoo-cans          = shwo-cans + _dotabove@dot
+shwooWestCree-cans  = shoo-cans & _dotright
+shoy-cans           = sho-cans + _ring@ring
+shwoy-cans          = shwo-cans + _ring@ring
 
 ### ᔭ ya-cans based
 

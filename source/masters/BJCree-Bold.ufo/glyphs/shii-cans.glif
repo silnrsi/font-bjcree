@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shii-cans" format="2">
-  <advance width="1717"/>
+  <advance width="1748"/>
   <unicode hex="1512"/>
+  <anchor x="1234" y="1465" name="_dot2"/>
+  <anchor x="1234" y="1463" name="_dot3"/>
   <outline>
     <component base="shi-cans"/>
-    <component base="_dotabove" xOffset="1218"/>
+    <component base="_dotabove" xOffset="1234" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

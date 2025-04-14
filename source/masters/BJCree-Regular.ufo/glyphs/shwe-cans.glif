@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwe-cans" format="2">
-  <advance width="2012"/>
+  <advance width="1986"/>
   <unicode hex="1517"/>
   <outline>
-    <component base="she-cans" xOffset="400"/>
-    <component base="finalmiddledot-cans" xOffset="10"/>
+    <component base="_dotleft"/>
+    <component base="she-cans" xOffset="361"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwa-cans" format="2">
-  <advance width="2378"/>
+  <advance width="2477"/>
   <unicode hex="1521"/>
+  <anchor x="1454" y="927" name="dot"/>
+  <anchor x="1454" y="923" name="ring"/>
   <outline>
-    <component base="sha-cans" xOffset="377" yOffset="-8"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="_dotleft"/>
+    <component base="sha-cans" xOffset="431"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

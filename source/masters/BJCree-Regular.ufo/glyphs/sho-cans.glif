@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sho-cans" format="2">
-  <advance width="1933"/>
+  <advance width="1946"/>
   <unicode hex="1513"/>
+  <anchor x="963" y="813" name="dot"/>
+  <anchor x="963" y="809" name="ring"/>
   <outline>
-    <component base="she-cans" xScale="0.72023" xyScale="0.69373" yxScale="-0.69373" yScale="0.72023" xOffset="866" yOffset="-695"/>
+    <component base="sha-cans" yScale="-1" yOffset="738"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>
