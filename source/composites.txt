@@ -241,12 +241,34 @@ mwoo-cans           = mwo-cans + _dotabove@dot
 mwooWestCree-cans   = moo-cans & _dotright
 
 ### ᓴ sa-cans based
+saa-cans            = sa-cans + _dotabove@dot
+swa-cans            = _dotleft & sa-cans
+swaWestCree-cans    = sa-cans & _dotright
+swaa-cans           = swa-cans + _dotabove@dot
+swaaWestCree-cans   = saa-cans & _dotright
+swaaNaskapi-cans    = swa-cans & _dot2vclose
+say-cans            = sa-cans + _ring@ring
 
 ### ᓭ se-cans based
+swe-cans            = _dotleft & se-cans
+sweWestCree-cans    = se-cans & _dotright
 
 ### ᓯ si-cans based
+sii-cans            = si-cans + _dotabove@dot
+swi-cans            = _dotleft & si-cans
+swiWestCree-cans    = si-cans & _dotrightcloser
+swii-cans           = swi-cans + _dotabove@dot
+swiiWestCree-cans   = sii-cans & _dotrightcloser
+saai-cans           = si-cans + _ring@ring
 
 ### ᓱ so-cans based
+soo-cans            = so-cans + _dotabove@dot
+sooYCree-cans       = so-cans + _dot2hclose@2dotsright
+swo-cans            = _dotleftcloser & so-cans
+swoWestCree-cans    = so-cans & _dotright
+swoo-cans           = swo-cans + _dotabove@dot
+swooWestCree-cans   = soo-cans & _dotright
+soy-cans            = so-cans + _ring@ring
 
 ### ᔕ sha-cans based
 

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="saai-cans" format="2">
-  <advance width="1310"/>
+  <advance width="1242"/>
   <unicode hex="14EE"/>
+  <anchor x="991" y="1461" name="_ringmiddle"/>
+  <anchor x="991" y="1467" name="dot"/>
   <outline>
     <component base="si-cans"/>
-    <component base="_ring" xOffset="864" yOffset="46"/>
+    <component base="_ring" xOffset="991" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

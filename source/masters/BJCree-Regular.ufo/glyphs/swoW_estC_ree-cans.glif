@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swoWestCree-cans" format="2">
-  <advance width="1500"/>
+  <advance width="1420"/>
   <unicode hex="14FD"/>
+  <anchor x="866" y="1391" name="2dotsright"/>
+  <anchor x="870" y="1395" name="dot"/>
+  <anchor x="870" y="1391" name="ring"/>
   <outline>
     <component base="so-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1034"/>
+    <component base="_dotright" xOffset="1059"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

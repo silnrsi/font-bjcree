@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="moo-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1184"/>
   <unicode hex="14A8"/>
   <anchor x="933" y="1463" name="2dotsright"/>
   <anchor x="933" y="1465" name="_dot2"/>

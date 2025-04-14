@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sii-cans" format="2">
-  <advance width="1310"/>
+  <advance width="1242"/>
   <unicode hex="14F0"/>
+  <anchor x="991" y="1465" name="_dot2"/>
+  <anchor x="991" y="1463" name="_dot3"/>
+  <anchor x="991" y="1463" name="ring"/>
   <outline>
     <component base="si-cans"/>
-    <component base="finalmiddledot-cans" xOffset="810" yOffset="1022"/>
+    <component base="_dotabove" xOffset="991" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

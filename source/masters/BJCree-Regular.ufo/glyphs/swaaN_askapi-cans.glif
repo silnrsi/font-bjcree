@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swaaNaskapi-cans" format="2">
-  <advance width="1500"/>
+  <advance width="1737"/>
   <unicode hex="1504"/>
+  <anchor x="551" y="1395" name="dot"/>
+  <anchor x="551" y="1391" name="ring"/>
   <outline>
-    <component base="sa-cans" xOffset="348"/>
-    <component base="finalmiddledot-cans" yOffset="-420"/>
-    <component base="finalmiddledot-cans" yOffset="420"/>
+    <component base="swa-cans"/>
+    <component base="_dot2vclose" xOffset="1420"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

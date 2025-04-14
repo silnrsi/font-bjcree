@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swooWestCree-cans" format="2">
-  <advance width="1713"/>
+  <advance width="1673"/>
   <unicode hex="14FF"/>
+  <anchor x="987" y="1463" name="2dotsright"/>
+  <anchor x="991" y="1465" name="_dot2"/>
+  <anchor x="991" y="1463" name="_dot3"/>
+  <anchor x="991" y="1463" name="ring"/>
   <outline>
-    <component base="so-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1216"/>
-    <component base="finalmiddledot-cans" xOffset="750" yOffset="1022"/>
+    <component base="soo-cans"/>
+    <component base="_dotright" xOffset="1242"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
