@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywaa-cans" format="2">
-  <advance width="1580"/>
+  <advance width="1576"/>
   <unicode hex="153B"/>
+  <anchor x="551" y="1393" name="_dot2"/>
+  <anchor x="551" y="1391" name="_dot3"/>
+  <anchor x="551" y="1391" name="ring"/>
   <outline>
-    <component base="finalmiddledot-cans"/>
-    <component base="yaa-cans" xOffset="369"/>
+    <component base="ywa-cans"/>
+    <component base="_dotabove" xOffset="551"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ya-cans" format="2">
-  <advance width="1217"/>
+  <advance width="1215"/>
   <unicode hex="152D"/>
+  <anchor x="190" y="1395" name="dot"/>
+  <anchor x="190" y="1391" name="ring"/>
   <outline>
-    <component base="ye-cans" xScale="-1" yScale="-1" xOffset="1214" yOffset="1393"/>
+    <contour>
+      <point x="252" y="1393" type="line"/>
+      <point x="127" y="1393" type="line"/>
+      <point x="127" y="635" type="line"/>
+      <point x="813" y="635" type="line"/>
+      <point x="260" y="0" type="line"/>
+      <point x="426" y="0" type="line"/>
+      <point x="1088" y="760" type="line"/>
+      <point x="252" y="760" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

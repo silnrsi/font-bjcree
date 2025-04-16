@@ -299,6 +299,13 @@ shoy-cans           = sho-cans + _ring@ring
 shwoy-cans          = shwo-cans + _ring@ring
 
 ### ᔭ ya-cans based
+yaa-cans            = ya-cans + _dotabove@dot
+ywa-cans            = _dotleft & ya-cans
+ywaWestCree-cans    = ya-cans & _dotright
+ywaa-cans           = ywa-cans + _dotabove@dot
+ywaaWestCree-cans   = yaa-cans & _dotright
+ywaaNaskapi-cans    = _dot2v & ya-cans
+yay-cans            = ya-cans + _ring@ring
 
 ### ᖬ thaThCree-cans based
 
