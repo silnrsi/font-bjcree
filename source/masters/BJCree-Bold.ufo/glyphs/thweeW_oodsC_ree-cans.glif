@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thweeWoodsCree-cans" format="2">
-  <advance width="1814"/>
+  <advance width="1886"/>
   <unicode hex="1677"/>
   <outline>
     <component base="theThCree-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1350"/>
+    <component base="_dotright" xOffset="1455"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

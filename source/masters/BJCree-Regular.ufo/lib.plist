@@ -49,7 +49,11 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/yay-cans</string>
+    <string>/yi-cans/yii-cans/ywi-cans/ywiWestCree-cans/ywii-cans/ywiiWestCree-cans/yaai-cans 
+/theThCree-cans/thweeWoodsCree-cans 
+/ye-cans/ywe-cans/yweWestCree-cans 
+/thoThCree-cans/thaThCree-cans/thaaThCree-cans/thwaWoodsCree-cans/thwaaWoodsCree-cans 
+/ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/yay-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -800,11 +804,11 @@
     <string>ywaaWestCree-cans</string>
     <string>ywaaNaskapi-cans</string>
     <string>yay-cans</string>
+    <string>y-cans</string>
     <string>thaThCree-cans</string>
     <string>thaaThCree-cans</string>
     <string>thwaWoodsCree-cans</string>
     <string>thwaaWoodsCree-cans</string>
-    <string>y-cans</string>
     <string>thThCree-cans</string>
     <string>ye-cans</string>
     <string>ywe-cans</string>

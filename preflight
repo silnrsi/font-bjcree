@@ -18,7 +18,7 @@ psfbuildcomp -p backup=False --force --noflatten --colors="leave,g_purple,g_red"
     -i source/composites.txt source/masters/BJCree-Bold.ufo
 
 echo "--- Syncing glyph orders, psnames, and other metadata to other UFOs..."
-psfsyncmasters source/BJCree.designspace
+psfsyncmasters -p scrlevel=w source/BJCree.designspace
 
 # echo "--- Updating WOFF metadata..."
 # psfmakewoffmetadata -p scrlevel=w -n "BJCree" -i "org.sil.fonts" \

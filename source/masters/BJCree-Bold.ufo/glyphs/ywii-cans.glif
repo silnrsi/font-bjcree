@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywii-cans" format="2">
-  <advance width="1784"/>
+  <advance width="1846"/>
   <unicode hex="1533"/>
+  <anchor x="814" y="1465" name="_dot2"/>
+  <anchor x="814" y="1463" name="_dot3"/>
+  <anchor x="814" y="1463" name="ring"/>
   <outline>
-    <component base="finalmiddledot-cans"/>
-    <component base="yii-cans" xOffset="369"/>
+    <component base="ywi-cans"/>
+    <component base="_dotabove" xOffset="814" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

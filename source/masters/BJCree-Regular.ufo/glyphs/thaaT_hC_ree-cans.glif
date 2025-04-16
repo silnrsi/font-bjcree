@@ -2,7 +2,16 @@
 <glyph name="thaaThCree-cans" format="2">
   <advance width="1380"/>
   <unicode hex="15AD"/>
+  <anchor x="355" y="1393" name="_dot2"/>
+  <anchor x="355" y="1391" name="_dot3"/>
   <outline>
-    <component base="thooThCree-cans" xScale="-1" xOffset="1380"/>
+    <component base="thaThCree-cans"/>
+    <component base="_dotabove" xOffset="355"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

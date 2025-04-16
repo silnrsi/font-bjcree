@@ -308,12 +308,24 @@ ywaaNaskapi-cans    = _dot2v & ya-cans
 yay-cans            = ya-cans + _ring@ring
 
 ### ᖬ thaThCree-cans based
+thaaThCree-cans     = thaThCree-cans + _dotabove@dot
+thwaWoodsCree-cans  = thaThCree-cans & _dotright
+thwaaWoodsCree-cans = thwaWoodsCree-cans + _dotabove@dot
 
 ### ᔦ ye-cans based
+ywe-cans            = _dotleft & ye-cans
+yweWestCree-cans    = ye-cans & _dotright
 
 ### ᖧ theThCree-cans based
+thweeWoodsCree-cans  = theThCree-cans & _dotright
 
 ### ᔨ yi-cans based
+yii-cans            = yi-cans + _dotabove@dot
+ywi-cans            = _dotleft & yi-cans
+ywiWestCree-cans    = yi-cans & _dotright
+ywii-cans           = ywi-cans + _dotabove@dot
+ywiiWestCree-cans   = yii-cans & _dotright
+yaai-cans           = yi-cans + _ring@ring
 
 ### ᖨ thiThCree-cans based
 

@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thaThCree-cans" format="2">
-  <advance width="1555"/>
+  <advance width="1494"/>
   <unicode hex="15AC"/>
+  <anchor x="338" y="1467" name="dot"/>
   <outline>
-    <component base="thoThCree-cans" xScale="-1" xOffset="1555"/>
+    <component base="_barStemH" xScale="-1" xOffset="1556" yOffset="863"/>
+    <contour>
+      <point x="468" y="1467" type="line"/>
+      <point x="208" y="1467" type="line"/>
+      <point x="208" y="608" type="line"/>
+      <point x="809" y="608" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="1373" y="868" type="line"/>
+      <point x="468" y="868" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>
