@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fwaaWestCree-cans" format="2">
-  <advance width="2025"/>
+  <advance width="1941"/>
   <unicode hex="155C"/>
+  <anchor x="1268" y="1393" name="_dot2"/>
+  <anchor x="1268" y="1391" name="_dot3"/>
   <outline>
-    <component base="fa-cans"/>
-    <component base="finalmiddledot-cans" xOffset="1552" yOffset="-2"/>
-    <component base="finalmiddledot-cans" xOffset="1030" yOffset="976"/>
+    <component base="faa-cans"/>
+    <component base="_dotright" xOffset="1580"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

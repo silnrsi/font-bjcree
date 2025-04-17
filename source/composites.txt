@@ -375,18 +375,25 @@ rwo-cans            = _dotleft & ro-cans
 rwoo-cans           = rwo-cans + _dotabove@dot
 
 ### ᕊ loWestCree-cans based
-looWestCree-cans       = loWestCree-cans + _dotabove@dot
+looWestCree-cans    = loWestCree-cans + _dotabove@dot
 
 ### ᕍ laWestCree-cans based
-laaWestCree-cans       = laWestCree-cans + _dotabove@dot
+laaWestCree-cans    = laWestCree-cans + _dotabove@dot
 
 ### ᕙ fa-cans based
+faa-cans            = fa-cans + _dotabove@dot
+fwaa-cans           = _dotleft & faa-cans
+fwaaWestCree-cans   = faa-cans & _dotright
 
 ### ᕓ fe-cans based
+# None
 
 ### ᕕ fi-cans based
+fii-cans            = fi-cans + _dotabove@dot
+faai-cans           = fi-cans + _ring@ring
 
 ### ᕗ fo-cans based
+foo-cans            = fo-cans + _dotabove@dot
 
 ### ᕦ tha-cans based
 

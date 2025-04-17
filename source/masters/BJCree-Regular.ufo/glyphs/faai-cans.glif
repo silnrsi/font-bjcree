@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="faai-cans" format="2">
-  <advance width="1438"/>
+  <advance width="1535"/>
   <unicode hex="1554"/>
+  <anchor x="717" y="1389" name="_ringmiddle"/>
+  <anchor x="717" y="1395" name="dot"/>
   <outline>
     <component base="fi-cans"/>
-    <component base="_ring" xOffset="481" yOffset="3"/>
+    <component base="_ring" xOffset="717" yOffset="-4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

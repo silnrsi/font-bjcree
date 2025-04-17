@@ -2,11 +2,22 @@
 <glyph name="fa-cans" format="2">
   <advance width="1580"/>
   <unicode hex="1559"/>
+  <anchor x="1268" y="1395" name="dot"/>
   <outline>
-    <component base="fo-cans" xScale="-1" xOffset="1579"/>
+    <component base="_fe-ring" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="1034" yOffset="1442"/>
+    <contour>
+      <point x="82" y="696" type="line"/>
+      <point x="1498" y="-30" type="line"/>
+      <point x="1498" y="111" type="line"/>
+      <point x="340" y="705" type="line"/>
+      <point x="1060" y="1135" type="line"/>
+      <point x="1135" y="1326" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
+      <string>CP</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

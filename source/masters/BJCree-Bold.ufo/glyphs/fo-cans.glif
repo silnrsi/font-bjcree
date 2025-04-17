@@ -1,22 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fo-cans" format="2">
-  <advance width="1829"/>
+  <advance width="1892"/>
   <unicode hex="1557"/>
+  <anchor x="471" y="1467" name="dot"/>
   <outline>
-    <component base="_fe-ring" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="659" yOffset="1554"/>
-    <contour>
-      <point x="1769" y="777" type="line"/>
-      <point x="635" y="1392" type="line"/>
-      <point x="755" y="1029" type="line"/>
-      <point x="1219" y="779" type="line"/>
-      <point x="278" y="277" type="line"/>
-      <point x="278" y="-15" type="line"/>
-    </contour>
+    <component base="fa-cans" xScale="-1" xOffset="1890"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>
