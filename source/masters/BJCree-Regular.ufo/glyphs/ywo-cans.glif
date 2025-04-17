@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywo-cans" format="2">
-  <advance width="1650"/>
+  <advance width="1576"/>
   <unicode hex="1535"/>
+  <anchor x="1383" y="1391" name="2dotsright"/>
+  <anchor x="1387" y="1395" name="dot"/>
+  <anchor x="1387" y="1391" name="ring"/>
   <outline>
-    <component base="yo-cans" xOffset="427"/>
-    <component base="finalmiddledot-cans"/>
+    <component base="_dotleft"/>
+    <component base="yo-cans" xOffset="361"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

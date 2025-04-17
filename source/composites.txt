@@ -317,7 +317,7 @@ ywe-cans            = _dotleft & ye-cans
 yweWestCree-cans    = ye-cans & _dotright
 
 ### ᖧ theThCree-cans based
-thweeWoodsCree-cans  = theThCree-cans & _dotright
+thweeWoodsCree-cans = theThCree-cans & _dotright
 
 ### ᔨ yi-cans based
 yii-cans            = yi-cans + _dotabove@dot
@@ -328,10 +328,23 @@ ywiiWestCree-cans   = yii-cans & _dotright
 yaai-cans           = yi-cans + _ring@ring
 
 ### ᖨ thiThCree-cans based
+thiiThCree-cans     = thiThCree-cans + _dotabove@dot
+thwiWoodsCree-cans  = thiThCree-cans & _dotright
+thwiiWoodsCree-cans = thwiWoodsCree-cans + _dotabove@dot
 
 ### ᔪ yo-cans based
+yoo-cans            = yo-cans + _dotabove@dot
+yooYCree-cans       = yo-cans + _dot2hclose@2dotsright
+ywo-cans            = _dotleft & yo-cans
+ywoWestCree-cans    = yo-cans & _dotright
+ywoo-cans           = ywo-cans + _dotabove@dot
+ywooWestCree-cans   = yoo-cans & _dotright
+yoy-cans            = yo-cans + _ring@ring
 
 ### ᖪ thoThCree-cans based
+thooThCree-cans     = thoThCree-cans + _dotabove@dot
+thwoWoodsCree-cans  = thoThCree-cans & _dotright
+thwooWoodsCree-cans = thwoWoodsCree-cans + _dotabove@dot
 
 ### ᕋ ra-cans based
 

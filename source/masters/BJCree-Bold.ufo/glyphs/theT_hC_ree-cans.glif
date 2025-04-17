@@ -3,8 +3,8 @@
   <advance width="1455"/>
   <unicode hex="15A7"/>
   <outline>
-    <component base="ye-cans" xOffset="61"/>
-    <component base="_barStemH"/>
+    <component base="ye-cans"/>
+    <component base="_barStemH" xOffset="-1"/>
   </outline>
   <lib>
     <dict>

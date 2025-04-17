@@ -2,15 +2,12 @@
 <glyph name="thoThCree-cans" format="2">
   <advance width="1494"/>
   <unicode hex="15AA"/>
-  <anchor x="1217" y="1467" name="dot"/>
-  <anchor x="1217" y="1463" name="ring"/>
+  <anchor x="1156" y="1467" name="dot"/>
   <outline>
     <component base="thaThCree-cans" xScale="-1" xOffset="1494"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

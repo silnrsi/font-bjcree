@@ -2,8 +2,9 @@
 <glyph name="thiThCree-cans" format="2">
   <advance width="1281"/>
   <unicode hex="15A8"/>
+  <anchor x="409" y="1395" name="dot"/>
   <outline>
-    <component base="theThCree-cans" xScale="-1" xOffset="1281"/>
+    <component base="theThCree-cans" xScale="-1" xOffset="1281" yOffset="2"/>
   </outline>
   <lib>
     <dict>

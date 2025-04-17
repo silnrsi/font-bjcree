@@ -1,9 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywooWestCree-cans" format="2">
-  <advance width="1845"/>
+  <advance width="1838"/>
   <unicode hex="1538"/>
+  <anchor x="1152" y="1463" name="2dotsright"/>
+  <anchor x="1156" y="1465" name="_dot2"/>
+  <anchor x="1156" y="1463" name="_dot3"/>
+  <anchor x="1156" y="1463" name="ring"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="1321"/>
     <component base="yoo-cans"/>
+    <component base="_dotright" xOffset="1407"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

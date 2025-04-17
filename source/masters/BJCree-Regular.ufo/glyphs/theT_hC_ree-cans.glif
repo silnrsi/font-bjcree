@@ -3,7 +3,7 @@
   <advance width="1281"/>
   <unicode hex="15A7"/>
   <outline>
-    <component base="ye-cans" xOffset="64"/>
+    <component base="ye-cans"/>
     <component base="_barStemH"/>
   </outline>
   <lib>

@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwooWoodsCree-cans" format="2">
-  <advance width="1600"/>
+  <advance width="1644"/>
   <unicode hex="167B"/>
+  <anchor x="1025" y="1393" name="_dot2"/>
+  <anchor x="1025" y="1391" name="_dot3"/>
   <outline>
     <component base="thwoWoodsCree-cans"/>
-    <component base="_dotabove" xOffset="1030"/>
+    <component base="_dotabove" xOffset="1025"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>
