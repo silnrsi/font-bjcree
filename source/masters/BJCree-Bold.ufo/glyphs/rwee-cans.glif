@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwee-cans" format="2">
-  <advance width="2148"/>
+  <advance width="2140"/>
   <unicode hex="18CE"/>
   <outline>
-    <component base="reRCree-cans" xOffset="443"/>
-    <component base="finalmiddledot-cans" xOffset="6"/>
+    <component base="_dotleft"/>
+    <component base="reRCree-cans" xOffset="431"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

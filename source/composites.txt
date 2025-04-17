@@ -347,20 +347,38 @@ thwoWoodsCree-cans  = thoThCree-cans & _dotright
 thwooWoodsCree-cans = thwoWoodsCree-cans + _dotabove@dot
 
 ### ᕋ ra-cans based
+raa-cans            = ra-cans + _dotabove@dot
+rwa-cans            = _dotleft & ra-cans
+rwaa-cans           = rwa-cans + _dotabove@dot
+rwaaWestCree-cans   = raa-cans & _dotright
+ray-cans            = ra-cans + _ring@ring
 
 ### ᕂ re-cans based
+# None
 
 ### ᕃ reRCree-cans based
+rwee-cans           = _dotleft & reRCree-cans
+rweRCree-cans       = reRCree-cans & _dotright
 
 ### ᕄ leWestCree-cans based
+# None
 
 ### ᕆ ri-cans based
+rii-cans            = ri-cans + _dotabove@dot
+rwi-cans            = _dotleft & ri-cans
+rwii-cans           = rwi-cans + _dotabove@dot
+raai-cans           = ri-cans + _ring@ring
 
 ### ᕈ ro-cans based
+roo-cans            = ro-cans + _dotabove@dot
+rwo-cans            = _dotleft & ro-cans
+rwoo-cans           = rwo-cans + _dotabove@dot
 
 ### ᕊ loWestCree-cans based
+looWestCree-cans       = loWestCree-cans + _dotabove@dot
 
 ### ᕍ laWestCree-cans based
+laaWestCree-cans       = laWestCree-cans + _dotabove@dot
 
 ### ᕙ fa-cans based
 

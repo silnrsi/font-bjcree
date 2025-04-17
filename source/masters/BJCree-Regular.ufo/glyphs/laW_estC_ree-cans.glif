@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="laWestCree-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1082"/>
   <unicode hex="154D"/>
+  <anchor x="893" y="1395" name="dot"/>
   <outline>
-    <component base=".notdef"/>
+    <component base="ra-cans" yScale="-1" yOffset="1395"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

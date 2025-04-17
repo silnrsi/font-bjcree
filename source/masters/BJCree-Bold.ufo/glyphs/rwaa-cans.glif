@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwaa-cans" format="2">
-  <advance width="1633"/>
+  <advance width="1612"/>
   <unicode hex="154E"/>
+  <anchor x="1401" y="1465" name="_dot2"/>
+  <anchor x="1401" y="1463" name="_dot3"/>
+  <anchor x="1401" y="1463" name="ring"/>
   <outline>
-    <component base="ra-cans" xOffset="381"/>
-    <component base="finalmiddledot-cans" xOffset="1065" yOffset="1023"/>
-    <component base="finalmiddledot-cans" xOffset="-7"/>
+    <component base="rwa-cans"/>
+    <component base="_dotabove" xOffset="1401" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

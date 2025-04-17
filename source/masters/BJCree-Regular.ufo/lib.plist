@@ -49,14 +49,12 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/thoThCree-cans/thooThCree-cans/thwoWoodsCree-cans/thwooWoodsCree-cans 
-/yo-cans/yoo-cans/yooYCree-cans/ywo-cans/ywoWestCree-cans/ywoo-cans/ywooWestCree-cans/yoy-cans 
-/thiThCree-cans/thiiThCree-cans/thwiWoodsCree-cans/thwiiWoodsCree-cans 
-/yi-cans/yii-cans/ywi-cans/ywiWestCree-cans/ywii-cans/ywiiWestCree-cans/yaai-cans 
-/theThCree-cans/thweeWoodsCree-cans 
-/ye-cans/ywe-cans/yweWestCree-cans 
-/thoThCree-cans/thaThCree-cans/thaaThCree-cans/thwaWoodsCree-cans/thwaaWoodsCree-cans 
-/ya-cans/yaa-cans/ywa-cans/ywaWestCree-cans/ywaa-cans/ywaaWestCree-cans/ywaaNaskapi-cans/yay-cans</string>
+    <string>/laWestCree-cans/laaWestCree-cans 
+/loWestCree-cans/looWestCree-cans 
+/ro-cans/roo-cans/rwo-cans/rwoo-cans 
+/ri-cans/rii-cans/rwi-cans/rwii-cans/raai-cans 
+/reRCree-cans/rwee-cans/rweRCree-cans 
+/ra-cans/raa-cans/rwa-cans/rwaa-cans/rwaaWestCree-cans/ray-cans/r-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

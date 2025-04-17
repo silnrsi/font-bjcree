@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwoo-cans" format="2">
-  <advance width="1477"/>
+  <advance width="1443"/>
   <unicode hex="18D2"/>
+  <anchor x="569" y="1392" name="_dot2"/>
+  <anchor x="569" y="1390" name="_dot3"/>
   <outline>
-    <component base="ra-cans" xScale="-1" xOffset="1477"/>
-    <component base="finalmiddledot-cans" xOffset="-29"/>
-    <component base="_dotabove" xOffset="609"/>
+    <component base="rwo-cans"/>
+    <component base="_dotabove" xOffset="569" yOffset="-1"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

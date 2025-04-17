@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwii-cans" format="2">
-  <advance width="2143"/>
+  <advance width="2140"/>
   <unicode hex="18D0"/>
+  <anchor x="1015" y="925" name="_dot2"/>
+  <anchor x="1015" y="923" name="_dot3"/>
+  <anchor x="1015" y="923" name="ring"/>
   <outline>
-    <component base="rwi-cans" yOffset="-3"/>
-    <component base="_dotabove" xOffset="1022" yOffset="-548"/>
+    <component base="rwi-cans"/>
+    <component base="_dotabove" xOffset="1015" yOffset="-541"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

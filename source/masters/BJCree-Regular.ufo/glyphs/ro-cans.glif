@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ro-cans" format="2">
-  <advance width="1128"/>
+  <advance width="1082"/>
   <unicode hex="1548"/>
+  <anchor x="208" y="1394" name="dot"/>
   <outline>
-    <component base="ra-cans" xScale="-1" xOffset="1128"/>
+    <component base="ra-cans" xScale="-1" xOffset="1082"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

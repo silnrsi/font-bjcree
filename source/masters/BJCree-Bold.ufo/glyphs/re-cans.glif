@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="re-cans" format="2">
-  <advance width="1790"/>
+  <advance width="1709"/>
   <unicode hex="1542"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1648" yOffset="-135"/>
+    <component base="ra-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-135"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

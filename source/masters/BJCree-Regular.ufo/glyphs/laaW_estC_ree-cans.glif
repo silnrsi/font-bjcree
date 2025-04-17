@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="laaWestCree-cans" format="2">
-  <advance width="1077"/>
+  <advance width="1082"/>
   <unicode hex="18E2"/>
+  <anchor x="893" y="1393" name="_dot2"/>
+  <anchor x="893" y="1391" name="_dot3"/>
   <outline>
-    <component base="looWestCree-cans" xScale="-1" xOffset="1022"/>
+    <component base="laWestCree-cans"/>
+    <component base="_dotabove" xOffset="893"/>
   </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
 </glyph>

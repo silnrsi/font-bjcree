@@ -3,7 +3,7 @@
 # Rebuild composites in UFOs
 # 2025-02-13 pm
 
-COMP_DEFS=composites.txt
+COMP_DEFS=../composites.txt
 
 message() {
 	echo "--- $1"
@@ -26,6 +26,20 @@ build_one() {
 	if [ ! -d "$SOURCE_UFO" ]
 	then
 		message "Error: Please run this script from the source directory containing '$SOURCE_UFO'"
+		exit 1
+	fi
+
+	# Check the source UFO exists
+	if [ ! -d "$SOURCE_UFO" ]
+	then
+		message "Error: Source UFO '$SOURCE_UFO' does not exist."
+		exit 1
+	fi
+
+	# Check the composite definitions file exists
+	if [ ! -f "$COMP_DEFS" ]
+	then
+		message "Error: Composite definitions file '$COMP_DEFS' does not exist."
 		exit 1
 	fi
 
