@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theNCree-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1586"/>
   <unicode hex="155F"/>
   <outline>
-    <component base=".notdef"/>
+    <component base="the-cans" xScale="-1" xOffset="1655"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

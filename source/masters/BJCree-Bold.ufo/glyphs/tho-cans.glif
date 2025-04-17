@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tho-cans" format="2">
-  <advance width="1418"/>
+  <advance width="1440"/>
   <unicode hex="1564"/>
+  <anchor x="471" y="1467" name="dot"/>
   <outline>
-    <component base="_fe-ring" xOffset="-19" yOffset="924"/>
-    <contour>
-      <point x="367" y="0" type="line"/>
-      <point x="590" y="0" type="line" smooth="yes"/>
-      <point x="988" y="0"/>
-      <point x="1299" y="340"/>
-      <point x="1299" y="729" type="curve" smooth="yes"/>
-      <point x="1299" y="1116"/>
-      <point x="984" y="1464"/>
-      <point x="590" y="1464" type="curve"/>
-      <point x="451" y="1464" type="line"/>
-      <point x="788" y="1153" type="line"/>
-      <point x="944" y="1072"/>
-      <point x="1037" y="901"/>
-      <point x="1037" y="727" type="curve" smooth="yes"/>
-      <point x="1037" y="471"/>
-      <point x="854" y="260"/>
-      <point x="590" y="260" type="curve" smooth="yes"/>
-      <point x="367" y="260" type="line"/>
-    </contour>
+    <component base="tha-cans" xScale="-1" xOffset="1440"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CP</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

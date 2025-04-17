@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thiNCree-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1586"/>
   <unicode hex="1561"/>
+  <anchor x="791" y="1467" name="dot"/>
   <outline>
-    <component base=".notdef"/>
+    <component base="thi-cans" xScale="-1" xOffset="1586"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

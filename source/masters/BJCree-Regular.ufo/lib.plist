@@ -49,9 +49,11 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/fo-cans/foo-cans 
-/fi-cans/fii-cans/faai-cans 
-/fa-cans/faa-cans/fwaa-cans/fwaaWestCree-cans/f-cans</string>
+    <string>/tho-cans/thoo-cans 
+/thiNCree-cans/thiiNCree-cans 
+/thi-cans/thii-cans 
+/the-cans/thwe-cans 
+/tha-cans/thaa-cans/thwa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

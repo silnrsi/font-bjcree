@@ -396,15 +396,22 @@ faai-cans           = fi-cans + _ring@ring
 foo-cans            = fo-cans + _dotabove@dot
 
 ### ᕦ tha-cans based
+thaa-cans           = tha-cans + _dotabove@dot
+thwa-cans           = tha-cans & _dotrightclose
+thwaa-cans          = _dotleft & thaa-cans
+thwaaWestCree-cans  = thaa-cans & _dotrightclose
 
 ### ᕞ the-cans based
+thwe-cans           = the-cans & _dotright
 
 ### ᕟ theNCree-cans based
+# None
 
 ### ᕠ thi-cans based
+thii-cans           = thi-cans + _dotabove@dot
 
 ### ᕡ thiNCree-cans based
+thiiNCree-cans      = thiNCree-cans + _dotabove@dot
 
 ### ᕤ tho-cans based
-
-
+thoo-cans           = tho-cans + _dotabove@dot
