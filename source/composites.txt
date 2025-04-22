@@ -256,15 +256,15 @@ sweWestCree-cans    = se-cans & _dotright
 ### ᓯ si-cans based
 sii-cans            = si-cans + _dotabove@dot
 swi-cans            = _dotleft & si-cans
-swiWestCree-cans    = si-cans & _dotrightcloser
+swiWestCree-cans    = si-cans & _dotrightclose
 swii-cans           = swi-cans + _dotabove@dot
-swiiWestCree-cans   = sii-cans & _dotrightcloser
+swiiWestCree-cans   = sii-cans & _dotrightclose
 saai-cans           = si-cans + _ring@ring
 
 ### ᓱ so-cans based
 soo-cans            = so-cans + _dotabove@dot
 sooYCree-cans       = so-cans + _dot2hclose@2dotsright
-swo-cans            = _dotleftcloser & so-cans
+swo-cans            = _dotleftclose & so-cans
 swoWestCree-cans    = so-cans & _dotright
 swoo-cans           = swo-cans + _dotabove@dot
 swooWestCree-cans   = soo-cans & _dotright

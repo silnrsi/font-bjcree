@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_dotrightclose" format="2">
-  <advance width="431"/>
+  <advance width="251"/>
   <outline>
-    <component base="_dotrightcloser"/>
+    <component base="_dotrightcloser" xOffset="94"/>
   </outline>
   <lib>
     <dict>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wii-cans" format="2">
-  <advance width="1741"/>
+  <advance width="1901"/>
   <unicode hex="1410"/>
-  <anchor x="961" y="1393" name="_dot2"/>
-  <anchor x="961" y="1391" name="_dot3"/>
-  <anchor x="961" y="1393" name="ring"/>
+  <anchor x="1041" y="1393" name="_dot2"/>
+  <anchor x="1041" y="1391" name="_dot3"/>
+  <anchor x="1041" y="1393" name="ring"/>
   <outline>
     <component base="wi-cans"/>
-    <component base="_dotabove" xOffset="961"/>
+    <component base="_dotabove" xOffset="1041"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

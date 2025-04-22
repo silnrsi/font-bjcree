@@ -49,11 +49,26 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/tho-cans/thoo-cans 
-/thiNCree-cans/thiiNCree-cans 
-/thi-cans/thii-cans 
-/the-cans/thwe-cans 
-/tha-cans/thaa-cans/thwa-cans/thwaa-cans/thwaaWestCree-cans/th-cans</string>
+    <string>/fullstop-cans/e-cans/we-cans/weWestCree-cans/yiSayisi-cans/en-cans/in-cans/eCarrier-cans/iCarrier-cans/rWestCree-cans/rMedial-cans/lMedial-cans/lWestCree-cans</string>
+    <string>/_dot2h/space/_dot2hclose/space/_dot2v/space/_dot2vclose/space/_dotabove/space/_dotsmall 
+/_dotleft/space/_dotleftclose/space/_dotleftcloser/space/_dotrightcloser/space/_dotrightclose/space/_dotright 
+/_dotleft/space/_dotleftclose/space/_dotleftcloser/space/_dotrightcloser/space/_dotrightclose/space/_dotright 
+
+/_dotleft/space/wa-cans/wo-cans/pwa-cans/pwo-cans/twa-cans/twe-cans/twi-cans/two-cans/kwa-cans/kwe-cans/kwi-cans/kwo-cans/nwa-cans/nwe-cans/nwi-cans 
+/cwa-cans/cwaa-cans/cwe-cans/cwi-cans/cwo-cans/lwa-cans/lwe-cans/lwi-cans/mwa-cans/mwe-cans/mwi-cans/swa-cans/swe-cans/swi-cans 
+/shwa-cans/shwe-cans/shwi-cans/shwo-cans/ywa-cans/ywe-cans/ywi-cans/ywo-cans/rwa-cans/rwee-cans/rwi-cans/rwo-cans/fwaa-cans/thwaa-cans 
+/_dotright/space/waWestCree-cans/waaWestCree-cans/woWestCree-cans/wooWestCree-cans/pwaWestCree-cans/pwaaWestCree-cans/pwoWestCree-cans/pwooWestCree-cans/twaWestCree-cans/twaaWestCree-cans/tweWestCree-cans/twiWestCree-cans/twiiWestCree-cans/twoWestCree-cans/twooWestCree-cans 
+/kwaWestCree-cans/kwaaWestCree-cans/kweWestCree-cans/kwiWestCree-cans/kwiiWestCree-cans/kwoWestCree-cans/kwooWestCree-cans/nweWestCree-cans/nwiOjibway-cans/nwiiOjibway-cans/nwoOjibway-cans/nwooOjibway-cans 
+/cwaWestCree-cans/cwaaWestCree-cans/cweWestCree-cans/cwiWestCree-cans/cwiiWestCree-cans/cwoWestCree-cans/cwooWestCree-cans/lweWestCree-cans/lwiWestCree-cans/lwiiWestCree-cans/lwoWestCree-cans/lwooWestCree-cans 
+/mweWestCree-cans/mwiWestCree-cans/mwiiWestCree-cans/mwoWestCree-cans/mwooWestCree-cans/swaWestCree-cans/swaaWestCree-cans/sweWestCree-cans/swoWestCree-cans/swooWestCree-cans/shwaWestCree-cans/shwaaWestCree-cans/shweWestCree-cans/shwiWestCree-cans/shwiiWestCree-cans/shwoWestCree-cans/shwooWestCree-cans 
+/ywaWestCree-cans/ywaaWestCree-cans/thwaWoodsCree-cans/yweWestCree-cans/thweeWoodsCree-cans/ywiWestCree-cans/ywiiWestCree-cans/thwiWoodsCree-cans/ywoWestCree-cans/ywooWestCree-cans/thwoWoodsCree-cans/rwaaWestCree-cans/rweRCree-cans/fwaaWestCree-cans/thwe-cans/space 
+
+/_dotleftclose/space/we-cans/wi-cans/pwe-cans/pwi-cans 
+/_dotrightclose/weWestCree-cans/wiWestCree-cans/wiiWestCree-cans/pweWestCree-cans/pwiWestCree-cans/pwiiWestCree-cans/mwaWestCree-cans/mwaaWestCree-cans/thwa-cans/thwaaWestCree-cans/space 
+
+/_dotleftcloser/space/nwo-cans/lwo-cans/mwo-cans/swo-cans/space/_dotleftclose 
+/_dotrightcloser/nwaWestCree-cans/nwaaWestCree-cans/lwaWestCree-cans/lwaaWestCree-cans/swiWestCree-cans/swiiWestCree-cans/space/_dotrightclose/space 
+</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

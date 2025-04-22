@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaWestCree-cans" format="2">
-  <advance width="1881"/>
+  <advance width="1835"/>
   <unicode hex="14CC"/>
   <anchor x="591" y="929" name="2dotsmiddle"/>
   <anchor x="591" y="927" name="dot"/>
@@ -12,7 +12,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

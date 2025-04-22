@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yiSayisi-cans" format="2">
-  <advance width="1251"/>
+  <advance width="690"/>
   <unicode hex="1541"/>
   <outline>
-    <component base=".notdef"/>
+    <component base="fullstop-cans" yOffset="777"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
 </glyph>

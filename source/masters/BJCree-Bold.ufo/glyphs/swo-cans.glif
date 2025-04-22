@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swo-cans" format="2">
-  <advance width="1394"/>
+  <advance width="1493"/>
   <unicode hex="14FC"/>
-  <anchor x="1139" y="1463" name="2dotsright"/>
-  <anchor x="1143" y="1467" name="dot"/>
-  <anchor x="1143" y="1463" name="ring"/>
+  <anchor x="1238" y="1463" name="2dotsright"/>
+  <anchor x="1242" y="1467" name="dot"/>
+  <anchor x="1242" y="1463" name="ring"/>
   <outline>
-    <component base="_dotleftcloser"/>
-    <component base="so-cans" xOffset="152"/>
+    <component base="_dotleftclose"/>
+    <component base="so-cans" xOffset="251"/>
   </outline>
   <lib>
     <dict>

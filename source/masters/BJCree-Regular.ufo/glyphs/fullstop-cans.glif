@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fullstop-cans" format="2">
-  <advance width="684"/>
+  <advance width="690"/>
   <unicode hex="166E"/>
   <outline>
     <contour>
@@ -20,4 +20,10 @@
       <point x="63" y="492" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
 </glyph>

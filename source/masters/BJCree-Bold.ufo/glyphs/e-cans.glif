@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-cans" format="2">
-  <advance width="1584"/>
+  <advance width="1706"/>
   <unicode hex="1401"/>
   <outline>
     <contour>
-      <point x="792" y="-30" type="line"/>
-      <point x="1524" y="1458" type="line"/>
-      <point x="60" y="1458" type="line"/>
+      <point x="853" y="-30" type="line"/>
+      <point x="1585" y="1467" type="line"/>
+      <point x="121" y="1467" type="line"/>
     </contour>
     <contour>
-      <point x="792" y="567" type="line"/>
-      <point x="480" y="1198" type="line"/>
-      <point x="1104" y="1198" type="line"/>
+      <point x="853" y="563" type="line"/>
+      <point x="538" y="1207" type="line"/>
+      <point x="1168" y="1207" type="line"/>
     </contour>
   </outline>
   <lib>

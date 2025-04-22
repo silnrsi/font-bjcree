@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwaWestCree-cans" format="2">
-  <advance width="1615"/>
+  <advance width="1435"/>
   <unicode hex="14B7"/>
   <anchor x="251" y="1467" name="dot"/>
   <anchor x="251" y="1463" name="ring"/>

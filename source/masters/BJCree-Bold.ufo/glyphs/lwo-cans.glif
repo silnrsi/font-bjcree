@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwo-cans" format="2">
-  <advance width="1867"/>
+  <advance width="1826"/>
   <unicode hex="14E2"/>
-  <anchor x="1335" y="927" name="2dotsmiddle"/>
-  <anchor x="1285" y="927" name="dot"/>
+  <anchor x="1294" y="927" name="2dotsmiddle"/>
+  <anchor x="1244" y="927" name="dot"/>
   <outline>
     <component base="_dotleftcloser"/>
-    <component base="lo-cans" xOffset="152"/>
+    <component base="lo-cans" xOffset="111"/>
   </outline>
   <lib>
     <dict>
