@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lMedial-cans" format="2">
+  <outline>
+    <contour>
+      <point x="1094" y="1233" type="line"/>
+      <point x="1094" y="1540" type="line"/>
+      <point x="221" y="1007" type="line"/>
+      <point x="668" y="738" type="line"/>
+      <point x="221" y="469" type="line"/>
+      <point x="1092" y="-66" type="line"/>
+      <point x="1092" y="242" type="line"/>
+      <point x="734" y="462" type="line"/>
+      <point x="1189" y="738" type="line"/>
+      <point x="734" y="1014" type="line"/>
+    </contour>
+    <contour>
+      <point x="1002" y="57" type="move"/>
+      <point x="354" y="429" type="line"/>
+      <point x="883" y="735" type="line"/>
+      <point x="354" y="1041" type="line"/>
+      <point x="1002" y="1415" type="line"/>
+    </contour>
+  </outline>
+</glyph>
