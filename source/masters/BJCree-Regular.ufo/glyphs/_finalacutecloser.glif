@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_finalacutecloser" format="2">
+  <advance width="214"/>
+  <outline>
+    <component base="_finalgravecloser" xScale="-1" xOffset="-43"/>
+  </outline>
+</glyph>

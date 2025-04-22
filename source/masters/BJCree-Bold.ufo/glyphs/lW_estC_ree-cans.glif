@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lWestCree-cans" format="2">
-  <advance width="1251"/>
+  <advance width="833"/>
   <unicode hex="14EB"/>
   <outline>
-    <component base=".notdef"/>
+    <contour>
+      <point x="704" y="431" type="line"/>
+      <point x="704" y="671" type="line"/>
+      <point x="453" y="825" type="line"/>
+      <point x="771" y="994" type="line"/>
+      <point x="453" y="1163" type="line"/>
+      <point x="704" y="1317" type="line"/>
+      <point x="704" y="1557" type="line"/>
+      <point x="62" y="1163" type="line"/>
+      <point x="382" y="994" type="line"/>
+      <point x="62" y="825" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

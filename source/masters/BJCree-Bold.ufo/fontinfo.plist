@@ -68,16 +68,6 @@
       <key>angle</key>
       <integer>0</integer>
       <key>name</key>
-      <string>Raised Small Mark base</string>
-      <key>x</key>
-      <integer>-32</integer>
-      <key>y</key>
-      <integer>808</integer>
-    </dict>
-    <dict>
-      <key>angle</key>
-      <integer>0</integer>
-      <key>name</key>
       <string>HalfHeight top</string>
       <key>x</key>
       <integer>-34</integer>
@@ -96,7 +86,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/04/22 11:33:33</string>
+  <string>2025/04/22 14:17:03</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

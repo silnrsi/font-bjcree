@@ -2,12 +2,14 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>GSOffsetCapStyle</key>
+  <integer>4</integer>
   <key>GSOffsetHorizontal</key>
-  <integer>62</integer>
+  <real>62.5</real>
   <key>GSOffsetMakeStroke</key>
   <integer>1</integer>
   <key>GSOffsetVertical</key>
-  <integer>62</integer>
+  <real>62.5</real>
   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
   <array>
     <dict>
@@ -49,7 +51,7 @@
 /ra-cans/re-cans/reRCree-cans/leWestCree-cans/ri-cans/ro-cans/loWestCree-cans/laWestCree-cans 
 /fa-cans/fe-cans/fi-cans/fo-cans 
 /tha-cans/the-cans/theNCree-cans/thi-cans/thiNCree-cans/tho-cans</string>
-    <string>/fullstop-cans/e-cans/we-cans/weWestCree-cans/yiSayisi-cans/en-cans/in-cans/eCarrier-cans/iCarrier-cans/rWestCree-cans/rMedial-cans/lMedial-cans/lWestCree-cans</string>
+    <string>/fullstop-cans/e-cans/we-cans/weWestCree-cans/yiSayisi-cans/e-cans/_finalgravecloser/e-cans/_finalacutecloser/en-cans/in-cans/eCarrier-cans/iCarrier-cans/lMedial-cans/lWestCree-cans/rWestCree-cans/rMedial-cans</string>
     <string>/_dot2h/space/_dot2hclose/space/_dot2v/space/_dot2vclose/space/_dotabove/space/_dotsmall 
 /_dotleft/space/_dotleftclose/space/_dotleftcloser/space/_dotrightcloser/space/_dotrightclose/space/_dotright 
 /_dotleft/space/_dotleftclose/space/_dotleftcloser/space/_dotrightcloser/space/_dotrightclose/space/_dotright 
@@ -69,6 +71,7 @@
 /_dotleftcloser/space/nwo-cans/lwo-cans/mwo-cans/swo-cans/space/_dotleftclose 
 /_dotrightcloser/nwaWestCree-cans/nwaaWestCree-cans/lwaWestCree-cans/lwaaWestCree-cans/swiWestCree-cans/swiiWestCree-cans/space/_dotrightclose/space 
 </string>
+    <string>/ai-cans/wYCree-cans/finalacute-cans/finalgrave-cans/finalbottom-cans/finaltophalfring-cans/finalrighthalfring-cans/finalring-cans/finalsmallring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalraiseddot-cans/finalshorthstroke-cans/pWestCree-cans/finalplus-cans/finaldowntack-cans/hk-cans/yiSayisi-cans/thFinalWoodsCree-cans/wBlackfoot-cans/lWestCree-cans/rWestCree-cans/glottalstop-cans/wECree-cans/wWCree-cans/pOjibway-cans/p-cans/ngCarrier-cans/tOjibway-cans/t-cans/mWestCree-cans/kOjibway-cans/kw-cans/k-cans/nOjibway-cans/nh-cans/n-cans/cOjibway-cans/thSayisi-cans/c-cans/l-cans/mOjibway-cans/mh-cans/m-cans/sOjibway-cans/sw-cans/skwNaskapi-cans/s-cans/skMooseCree-cans/s-cans.small/shOjibway-cans/sh-cans/y-cans/thThCree-cans/r-cans/f-cans/th-cans</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

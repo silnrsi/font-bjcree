@@ -59,10 +59,14 @@
       <integer>1450</integer>
     </dict>
     <dict>
+      <key>angle</key>
+      <integer>0</integer>
       <key>name</key>
       <string>Raised halfHeight base</string>
+      <key>x</key>
+      <integer>-640</integer>
       <key>y</key>
-      <integer>760</integer>
+      <integer>763</integer>
     </dict>
     <dict>
       <key>name</key>
@@ -72,7 +76,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/04/22 11:33:34</string>
+  <string>2025/04/22 14:17:02</string>
   <key>openTypeHheaAscender</key>
   <integer>1825</integer>
   <key>openTypeHheaDescender</key>

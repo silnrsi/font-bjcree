@@ -170,6 +170,10 @@
   <string>_dotsmall.glif</string>
   <key>_fe-ring</key>
   <string>_fe-ring.glif</string>
+  <key>_finalacutecloser</key>
+  <string>_finalacutecloser.glif</string>
+  <key>_finalgravecloser</key>
+  <string>_finalgravecloser.glif</string>
   <key>_heightcontrol</key>
   <string>_heightcontrol.glif</string>
   <key>_raisedTriangle</key>

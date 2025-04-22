@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rMedial-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1037"/>
   <unicode hex="1552"/>
   <outline>
-    <component base=".notdef"/>
+    <component base="lMedial-cans" xScale="-1" xOffset="1049"/>
   </outline>
   <lib>
     <dict>

@@ -15,6 +15,8 @@ wayNaskapi-cans     = wa-cans + _ring@ring
 ### ᐁ e-cans based
 we-cans             = _dotleftclose & e-cans
 weWestCree-cans     = e-cans & _dotrightclose
+en-cans             = e-cans & _finalgravecloser
+in-cans             = e-cans & _finalacutecloser
 
 ### ᐃ i-cans based
 ii-cans             = i-cans + _dotabove@dot

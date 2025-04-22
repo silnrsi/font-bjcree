@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lWestCree-cans" format="2">
+  <outline>
+    <contour>
+      <point x="658" y="554" type="move"/>
+      <point x="275" y="770" type="line"/>
+    </contour>
+  </outline>
+</glyph>

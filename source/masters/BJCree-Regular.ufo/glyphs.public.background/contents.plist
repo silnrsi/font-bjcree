@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+  <key>_finalgravecloser</key>
+  <string>_finalgravecloser.glif</string>
   <key>ai-cans</key>
   <string>ai-cans.glif</string>
   <key>c-cans</key>
@@ -50,6 +52,10 @@
   <string>kw-cans.glif</string>
   <key>l-cans</key>
   <string>l-cans.glif</string>
+  <key>lMedial-cans</key>
+  <string>lM_edial-cans.glif</string>
+  <key>lWestCree-cans</key>
+  <string>lW_estC_ree-cans.glif</string>
   <key>mWestCree-cans</key>
   <string>mW_estC_ree-cans.glif</string>
   <key>mh-cans</key>

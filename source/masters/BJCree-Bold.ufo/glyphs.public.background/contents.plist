@@ -6,6 +6,10 @@
   <string>_dot2vsa.glif</string>
   <key>_fe-ring</key>
   <string>_fe-ring.glif</string>
+  <key>_finalacutecloser</key>
+  <string>_finalacutecloser.glif</string>
+  <key>_finalgravecloser</key>
+  <string>_finalgravecloser.glif</string>
   <key>_raisedTriangle</key>
   <string>_raisedT_riangle.glif</string>
   <key>_ring</key>
@@ -56,6 +60,10 @@
   <string>kw-cans.glif</string>
   <key>l-cans</key>
   <string>l-cans.glif</string>
+  <key>lMedial-cans</key>
+  <string>lM_edial-cans.glif</string>
+  <key>lWestCree-cans</key>
+  <string>lW_estC_ree-cans.glif</string>
   <key>m-cans</key>
   <string>m-cans.glif</string>
   <key>mWestCree-cans</key>
