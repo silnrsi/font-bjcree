@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="say-cans" format="2">
-  <advance width="1242"/>
+  <advance width="1380"/>
   <unicode hex="18BF"/>
-  <anchor x="121" y="1389" name="_ringmiddle"/>
-  <anchor x="121" y="1395" name="dot"/>
+  <anchor x="320" y="1452" name="_ringmiddle"/>
+  <anchor x="320" y="1458" name="dot"/>
   <outline>
     <component base="sa-cans"/>
-    <component base="_ring" xOffset="121" yOffset="-76"/>
+    <component base="_ring" xOffset="320" yOffset="-13"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

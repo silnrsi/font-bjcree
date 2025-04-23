@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si-cans" format="2">
-  <advance width="1242"/>
+  <advance width="1380"/>
   <unicode hex="14EF"/>
-  <anchor x="991" y="1467" name="dot"/>
-  <anchor x="991" y="1463" name="ring"/>
+  <anchor x="1060" y="1467" name="dot"/>
+  <anchor x="1060" y="1463" name="ring"/>
   <outline>
     <component base="se-cans" xScale="-1" xOffset="1242"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

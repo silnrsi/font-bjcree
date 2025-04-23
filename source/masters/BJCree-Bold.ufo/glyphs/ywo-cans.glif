@@ -2,15 +2,17 @@
 <glyph name="ywo-cans" format="2">
   <advance width="1838"/>
   <unicode hex="1535"/>
-  <anchor x="1583" y="1463" name="2dotsright"/>
-  <anchor x="1587" y="1467" name="dot"/>
-  <anchor x="1587" y="1463" name="ring"/>
+  <anchor x="1524" y="1463" name="2dotsright"/>
+  <anchor x="1528" y="1467" name="dot"/>
+  <anchor x="1528" y="1463" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="yo-cans" xOffset="431"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

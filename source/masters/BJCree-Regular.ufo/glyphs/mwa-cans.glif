@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwa-cans" format="2">
-  <advance width="1420"/>
+  <advance width="1546"/>
   <unicode hex="14B6"/>
-  <anchor x="551" y="1395" name="dot"/>
-  <anchor x="551" y="1391" name="ring"/>
+  <anchor x="614" y="1395" name="dot"/>
+  <anchor x="614" y="1391" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ma-cans" xOffset="361"/>

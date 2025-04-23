@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="layWestCree-cans" format="2">
-  <advance width="1715"/>
+  <advance width="1714"/>
   <unicode hex="18BD"/>
-  <anchor x="606" y="921" name="_ringmiddle"/>
-  <anchor x="606" y="927" name="dot"/>
+  <anchor x="605" y="921" name="_ringmiddle"/>
+  <anchor x="605" y="927" name="dot"/>
   <outline>
     <component base="la-cans"/>
-    <component base="_ring" xOffset="606" yOffset="-544"/>
+    <component base="_ring" xOffset="605" yOffset="-544"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

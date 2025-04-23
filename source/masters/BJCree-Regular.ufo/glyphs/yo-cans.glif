@@ -2,16 +2,16 @@
 <glyph name="yo-cans" format="2">
   <advance width="1215"/>
   <unicode hex="152A"/>
-  <anchor x="1022" y="1391" name="2dotsright"/>
-  <anchor x="1026" y="1395" name="dot"/>
-  <anchor x="1026" y="1391" name="ring"/>
+  <anchor x="959" y="1391" name="2dotsright"/>
+  <anchor x="963" y="1395" name="dot"/>
+  <anchor x="963" y="1391" name="ring"/>
   <outline>
     <component base="ya-cans" xScale="-1" xOffset="1215"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

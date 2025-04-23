@@ -2,15 +2,17 @@
 <glyph name="mwoo-cans" format="2">
   <advance width="1295"/>
   <unicode hex="14B4"/>
-  <anchor x="1044" y="1463" name="2dotsright"/>
-  <anchor x="1044" y="1465" name="_dot2"/>
-  <anchor x="1044" y="1463" name="_dot3"/>
+  <anchor x="975" y="1463" name="2dotsright"/>
+  <anchor x="975" y="1465" name="_dot2"/>
+  <anchor x="975" y="1463" name="_dot3"/>
   <outline>
     <component base="mwo-cans"/>
-    <component base="_dotabove" xOffset="1044" yOffset="-1"/>
+    <component base="_dotabove" xOffset="975" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

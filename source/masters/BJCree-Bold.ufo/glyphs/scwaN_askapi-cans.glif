@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="scwaNaskapi-cans" format="2">
-  <advance width="1606"/>
+  <advance width="1744"/>
   <unicode hex="150F"/>
-  <anchor x="688" y="1467" name="dot"/>
+  <anchor x="757" y="1467" name="dot"/>
   <outline>
     <component base="_dot2vsa"/>
     <component base="ca-cans" xOffset="437"/>

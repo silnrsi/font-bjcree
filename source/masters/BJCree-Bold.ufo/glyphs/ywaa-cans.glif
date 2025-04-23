@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywaa-cans" format="2">
-  <advance width="1838"/>
+  <advance width="1976"/>
   <unicode hex="153B"/>
-  <anchor x="682" y="1465" name="_dot2"/>
-  <anchor x="682" y="1463" name="_dot3"/>
-  <anchor x="682" y="1463" name="ring"/>
+  <anchor x="751" y="1465" name="_dot2"/>
+  <anchor x="751" y="1463" name="_dot3"/>
+  <anchor x="751" y="1463" name="ring"/>
   <outline>
     <component base="ywa-cans"/>
-    <component base="_dotabove" xOffset="682" yOffset="-1"/>
+    <component base="_dotabove" xOffset="751" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

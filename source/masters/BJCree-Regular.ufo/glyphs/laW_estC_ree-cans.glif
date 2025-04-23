@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="laWestCree-cans" format="2">
-  <advance width="1082"/>
+  <advance width="1145"/>
   <unicode hex="154D"/>
   <anchor x="893" y="1395" name="dot"/>
   <outline>
@@ -8,8 +8,10 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

@@ -2,15 +2,17 @@
 <glyph name="cooYCree-cans" format="2">
   <advance width="1169"/>
   <unicode hex="148F"/>
-  <anchor x="448" y="1463" name="_2dotsleft"/>
-  <anchor x="683" y="1463" name="_2dotsmiddle"/>
-  <anchor x="918" y="1467" name="dot"/>
+  <anchor x="379" y="1463" name="_2dotsleft"/>
+  <anchor x="614" y="1463" name="_2dotsmiddle"/>
+  <anchor x="849" y="1467" name="dot"/>
   <outline>
     <component base="co-cans"/>
-    <component base="_dot2hclose" xOffset="-13" yOffset="-4"/>
+    <component base="_dot2hclose" xOffset="-82" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

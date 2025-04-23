@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="theNCree-cans" format="2">
-  <advance width="1586"/>
+  <advance width="1724"/>
   <unicode hex="155F"/>
   <outline>
-    <component base="the-cans" xScale="-1" xOffset="1655"/>
+    <component base="the-cans" xScale="-1" xOffset="1724"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

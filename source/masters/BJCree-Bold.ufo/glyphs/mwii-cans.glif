@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwii-cans" format="2">
-  <advance width="1627"/>
+  <advance width="1753"/>
   <unicode hex="14B0"/>
-  <anchor x="1029" y="1465" name="_dot2"/>
-  <anchor x="1029" y="1463" name="_dot3"/>
-  <anchor x="1029" y="1463" name="ring"/>
+  <anchor x="1102" y="1465" name="_dot2"/>
+  <anchor x="1102" y="1463" name="_dot3"/>
+  <anchor x="1102" y="1463" name="ring"/>
   <outline>
     <component base="mwi-cans"/>
-    <component base="_dotabove" xOffset="1029" yOffset="-1"/>
+    <component base="_dotabove" xOffset="1102" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

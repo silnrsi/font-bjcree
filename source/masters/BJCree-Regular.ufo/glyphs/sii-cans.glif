@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sii-cans" format="2">
-  <advance width="1059"/>
+  <advance width="1185"/>
   <unicode hex="14F0"/>
-  <anchor x="870" y="1393" name="_dot2"/>
-  <anchor x="870" y="1391" name="_dot3"/>
-  <anchor x="870" y="1391" name="ring"/>
+  <anchor x="932" y="1393" name="_dot2"/>
+  <anchor x="932" y="1391" name="_dot3"/>
+  <anchor x="932" y="1391" name="ring"/>
   <outline>
     <component base="si-cans"/>
-    <component base="_dotabove" xOffset="870"/>
+    <component base="_dotabove" xOffset="932"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

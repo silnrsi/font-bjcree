@@ -2,16 +2,18 @@
 <glyph name="so-cans" format="2">
   <advance width="1242"/>
   <unicode hex="14F1"/>
-  <anchor x="987" y="1463" name="2dotsright"/>
-  <anchor x="991" y="1467" name="dot"/>
-  <anchor x="991" y="1463" name="ring"/>
+  <anchor x="986" y="1463" name="2dotsright"/>
+  <anchor x="990" y="1467" name="dot"/>
+  <anchor x="990" y="1463" name="ring"/>
   <outline>
     <component base="se-cans" yScale="-1" yOffset="1467"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

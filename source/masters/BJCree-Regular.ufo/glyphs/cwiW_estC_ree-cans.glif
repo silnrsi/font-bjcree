@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwiWestCree-cans" format="2">
-  <advance width="1428"/>
+  <advance width="1554"/>
   <unicode hex="1495"/>
-  <anchor x="534" y="1395" name="dot"/>
-  <anchor x="534" y="1391" name="ring"/>
+  <anchor x="596" y="1395" name="dot"/>
+  <anchor x="596" y="1391" name="ring"/>
   <outline>
     <component base="ci-cans"/>
-    <component base="_dotright" xOffset="1067"/>
+    <component base="_dotright" xOffset="1193"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

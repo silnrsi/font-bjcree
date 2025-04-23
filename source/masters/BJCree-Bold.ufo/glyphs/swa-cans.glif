@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swa-cans" format="2">
-  <advance width="1673"/>
+  <advance width="1811"/>
   <unicode hex="1500"/>
-  <anchor x="552" y="1395" name="dot"/>
-  <anchor x="552" y="1391" name="ring"/>
+  <anchor x="751" y="1458" name="dot"/>
+  <anchor x="751" y="1454" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="sa-cans" xOffset="431"/>

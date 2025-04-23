@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ko-cans" format="2">
-  <advance width="1130"/>
+  <advance width="1132"/>
   <unicode hex="146F"/>
   <anchor x="880" y="1397" name="2dotsright"/>
   <anchor x="880" y="1395" name="dot"/>
@@ -10,6 +10,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

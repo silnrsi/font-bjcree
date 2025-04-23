@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mii-cans" format="2">
-  <advance width="1196"/>
+  <advance width="1322"/>
   <unicode hex="14A6"/>
-  <anchor x="598" y="1465" name="_dot2"/>
-  <anchor x="598" y="1463" name="_dot3"/>
-  <anchor x="598" y="1463" name="ring"/>
+  <anchor x="671" y="1465" name="_dot2"/>
+  <anchor x="671" y="1463" name="_dot3"/>
+  <anchor x="671" y="1463" name="ring"/>
   <outline>
     <component base="mi-cans"/>
-    <component base="_dotabove" xOffset="598" yOffset="-1"/>
+    <component base="_dotabove" xOffset="671" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

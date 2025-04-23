@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="caa-cans" format="2">
-  <advance width="1067"/>
+  <advance width="1193"/>
   <unicode hex="1491"/>
-  <anchor x="190" y="1393" name="_dot2"/>
-  <anchor x="190" y="1391" name="_dot3"/>
+  <anchor x="253" y="1393" name="_dot2"/>
+  <anchor x="253" y="1391" name="_dot3"/>
   <outline>
     <component base="ca-cans"/>
-    <component base="_dotabove" xOffset="190"/>
+    <component base="_dotabove" xOffset="253"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -2,16 +2,20 @@
 <glyph name="sooYCree-cans" format="2">
   <advance width="1242"/>
   <unicode hex="14F3"/>
-  <anchor x="517" y="1463" name="_2dotsleft"/>
-  <anchor x="752" y="1463" name="_2dotsmiddle"/>
-  <anchor x="991" y="1467" name="dot"/>
-  <anchor x="991" y="1463" name="ring"/>
+  <anchor x="516" y="1463" name="_2dotsleft"/>
+  <anchor x="751" y="1463" name="_2dotsmiddle"/>
+  <anchor x="990" y="1467" name="dot"/>
+  <anchor x="990" y="1463" name="ring"/>
   <outline>
     <component base="so-cans"/>
-    <component base="_dot2hclose" xOffset="56" yOffset="-4"/>
+    <component base="_dot2hclose" xOffset="55" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

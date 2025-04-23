@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwe-cans" format="2">
-  <advance width="1826"/>
+  <advance width="1952"/>
   <unicode hex="18E3"/>
   <outline>
     <component base="the-cans"/>
-    <component base="_dotright" xOffset="1465"/>
+    <component base="_dotright" xOffset="1591"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -2,9 +2,9 @@
 <glyph name="ywoWestCree-cans" format="2">
   <advance width="1576"/>
   <unicode hex="1536"/>
-  <anchor x="1022" y="1391" name="2dotsright"/>
-  <anchor x="1026" y="1395" name="dot"/>
-  <anchor x="1026" y="1391" name="ring"/>
+  <anchor x="959" y="1391" name="2dotsright"/>
+  <anchor x="963" y="1395" name="dot"/>
+  <anchor x="963" y="1391" name="ring"/>
   <outline>
     <component base="yo-cans"/>
     <component base="_dotright" xOffset="1215"/>

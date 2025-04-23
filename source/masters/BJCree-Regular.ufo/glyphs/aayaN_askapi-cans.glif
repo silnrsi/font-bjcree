@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aayaNaskapi-cans" format="2">
-  <advance width="1721"/>
+  <advance width="1642"/>
   <unicode hex="18B2"/>
-  <anchor x="1463" y="1393" name="_dot2"/>
-  <anchor x="1463" y="1391" name="_dot3"/>
-  <anchor x="888" y="1397" name="_ring"/>
-  <anchor x="920" y="1263" name="dot2"/>
-  <anchor x="287" y="939" name="dot3"/>
-  <anchor x="1463" y="1393" name="ring"/>
+  <anchor x="1384" y="1393" name="_dot2"/>
+  <anchor x="1384" y="1391" name="_dot3"/>
+  <anchor x="809" y="1397" name="_ring"/>
+  <anchor x="841" y="1263" name="dot2"/>
+  <anchor x="208" y="939" name="dot3"/>
+  <anchor x="1384" y="1393" name="ring"/>
   <outline>
     <component base="aa-cans"/>
-    <component base="_ring" xOffset="888" yOffset="2"/>
+    <component base="_ring" xOffset="809" yOffset="2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

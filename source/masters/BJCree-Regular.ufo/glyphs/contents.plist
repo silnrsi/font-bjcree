@@ -180,6 +180,14 @@
   <string>_raisedT_riangle.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
+  <key>_sb.curve</key>
+  <string>_sb.curve.glif</string>
+  <key>_sb.dot</key>
+  <string>_sb.dot.glif</string>
+  <key>_sb.point</key>
+  <string>_sb.point.glif</string>
+  <key>_sb.vertical</key>
+  <string>_sb.vertical.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>a-cans</key>

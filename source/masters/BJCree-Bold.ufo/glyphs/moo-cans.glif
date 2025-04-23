@@ -2,15 +2,17 @@
 <glyph name="moo-cans" format="2">
   <advance width="1184"/>
   <unicode hex="14A8"/>
-  <anchor x="933" y="1463" name="2dotsright"/>
-  <anchor x="933" y="1465" name="_dot2"/>
-  <anchor x="933" y="1463" name="_dot3"/>
+  <anchor x="864" y="1463" name="2dotsright"/>
+  <anchor x="864" y="1465" name="_dot2"/>
+  <anchor x="864" y="1463" name="_dot3"/>
   <outline>
     <component base="mo-cans"/>
-    <component base="_dotabove" xOffset="933" yOffset="-1"/>
+    <component base="_dotabove" xOffset="864" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

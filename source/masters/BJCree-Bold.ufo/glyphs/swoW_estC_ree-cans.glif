@@ -2,15 +2,17 @@
 <glyph name="swoWestCree-cans" format="2">
   <advance width="1673"/>
   <unicode hex="14FD"/>
-  <anchor x="987" y="1463" name="2dotsright"/>
-  <anchor x="991" y="1467" name="dot"/>
-  <anchor x="991" y="1463" name="ring"/>
+  <anchor x="986" y="1463" name="2dotsright"/>
+  <anchor x="990" y="1467" name="dot"/>
+  <anchor x="990" y="1463" name="ring"/>
   <outline>
     <component base="so-cans"/>
     <component base="_dotright" xOffset="1242"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

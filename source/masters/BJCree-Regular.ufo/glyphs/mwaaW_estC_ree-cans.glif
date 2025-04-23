@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwaaWestCree-cans" format="2">
-  <advance width="1240"/>
+  <advance width="1366"/>
   <unicode hex="14B9"/>
-  <anchor x="190" y="1393" name="_dot2"/>
-  <anchor x="190" y="1391" name="_dot3"/>
-  <anchor x="190" y="1391" name="ring"/>
+  <anchor x="253" y="1393" name="_dot2"/>
+  <anchor x="253" y="1391" name="_dot3"/>
+  <anchor x="253" y="1391" name="ring"/>
   <outline>
     <component base="maa-cans"/>
-    <component base="_dotrightclose" xOffset="1059"/>
+    <component base="_dotrightclose" xOffset="1185"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

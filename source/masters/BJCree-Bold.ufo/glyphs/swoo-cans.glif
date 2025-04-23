@@ -2,16 +2,18 @@
 <glyph name="swoo-cans" format="2">
   <advance width="1493"/>
   <unicode hex="14FE"/>
-  <anchor x="1238" y="1463" name="2dotsright"/>
-  <anchor x="1242" y="1465" name="_dot2"/>
-  <anchor x="1242" y="1463" name="_dot3"/>
-  <anchor x="1242" y="1463" name="ring"/>
+  <anchor x="1237" y="1463" name="2dotsright"/>
+  <anchor x="1241" y="1465" name="_dot2"/>
+  <anchor x="1241" y="1463" name="_dot3"/>
+  <anchor x="1241" y="1463" name="ring"/>
   <outline>
     <component base="swo-cans"/>
-    <component base="_dotabove" xOffset="1242" yOffset="-1"/>
+    <component base="_dotabove" xOffset="1241" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

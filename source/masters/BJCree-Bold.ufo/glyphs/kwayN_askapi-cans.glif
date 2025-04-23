@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwayNaskapi-cans" format="2">
-  <advance width="1615"/>
+  <advance width="1684"/>
   <unicode hex="18B9"/>
-  <anchor x="682" y="1463" name="_ringmiddle"/>
-  <anchor x="682" y="1467" name="dot"/>
+  <anchor x="751" y="1463" name="_ringmiddle"/>
+  <anchor x="751" y="1467" name="dot"/>
   <outline>
     <component base="kwa-cans"/>
-    <component base="_ring" xOffset="682" yOffset="-2"/>
+    <component base="_ring" xOffset="751" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

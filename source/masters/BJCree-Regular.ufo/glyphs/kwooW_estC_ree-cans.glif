@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwooWestCree-cans" format="2">
-  <advance width="1491"/>
+  <advance width="1493"/>
   <unicode hex="147D"/>
   <anchor x="880" y="1397" name="2dotsright"/>
   <anchor x="880" y="1393" name="_dot2"/>
@@ -8,7 +8,7 @@
   <anchor x="880" y="1393" name="ring"/>
   <outline>
     <component base="koo-cans"/>
-    <component base="_dotright" xOffset="1130"/>
+    <component base="_dotright" xOffset="1132"/>
   </outline>
   <lib>
     <dict>

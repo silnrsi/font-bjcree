@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ya-cans" format="2">
-  <advance width="1407"/>
+  <advance width="1545"/>
   <unicode hex="152D"/>
-  <anchor x="251" y="1467" name="dot"/>
-  <anchor x="251" y="1463" name="ring"/>
+  <anchor x="320" y="1467" name="dot"/>
+  <anchor x="320" y="1463" name="ring"/>
   <outline>
     <contour>
-      <point x="381" y="1467" type="line"/>
-      <point x="121" y="1467" type="line"/>
-      <point x="121" y="608" type="line"/>
-      <point x="722" y="608" type="line"/>
-      <point x="205" y="0" type="line"/>
-      <point x="546" y="0" type="line"/>
-      <point x="1286" y="868" type="line"/>
-      <point x="381" y="868" type="line"/>
+      <point x="450" y="1467" type="line"/>
+      <point x="190" y="1467" type="line"/>
+      <point x="190" y="608" type="line"/>
+      <point x="791" y="608" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="615" y="0" type="line"/>
+      <point x="1355" y="868" type="line"/>
+      <point x="450" y="868" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

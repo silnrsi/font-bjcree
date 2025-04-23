@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwi-cans" format="2">
-  <advance width="1420"/>
+  <advance width="1546"/>
   <unicode hex="14AE"/>
-  <anchor x="891" y="1395" name="dot"/>
-  <anchor x="891" y="1391" name="ring"/>
+  <anchor x="953" y="1395" name="dot"/>
+  <anchor x="953" y="1391" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="mi-cans" xOffset="361"/>

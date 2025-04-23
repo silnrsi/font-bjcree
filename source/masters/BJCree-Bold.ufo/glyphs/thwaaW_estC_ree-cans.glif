@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwaaWestCree-cans" format="2">
-  <advance width="1691"/>
+  <advance width="1690"/>
   <unicode hex="1569"/>
-  <anchor x="969" y="1465" name="_dot2"/>
-  <anchor x="969" y="1463" name="_dot3"/>
+  <anchor x="968" y="1465" name="_dot2"/>
+  <anchor x="968" y="1463" name="_dot3"/>
   <outline>
     <component base="thaa-cans"/>
-    <component base="_dotrightclose" xOffset="1440"/>
+    <component base="_dotrightclose" xOffset="1439"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

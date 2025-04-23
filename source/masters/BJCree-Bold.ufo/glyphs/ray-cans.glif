@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ray-cans" format="2">
-  <advance width="1181"/>
+  <advance width="1180"/>
   <unicode hex="18C5"/>
-  <anchor x="970" y="1461" name="_ringmiddle"/>
-  <anchor x="970" y="1467" name="dot"/>
+  <anchor x="969" y="1461" name="_ringmiddle"/>
+  <anchor x="969" y="1467" name="dot"/>
   <outline>
     <component base="ra-cans"/>
-    <component base="_ring" xOffset="970" yOffset="-4"/>
+    <component base="_ring" xOffset="969" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

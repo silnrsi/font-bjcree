@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ma-cans" format="2">
-  <advance width="1059"/>
+  <advance width="1185"/>
   <unicode hex="14AA"/>
-  <anchor x="190" y="1395" name="dot"/>
-  <anchor x="190" y="1391" name="ring"/>
+  <anchor x="253" y="1395" name="dot"/>
+  <anchor x="253" y="1391" name="ring"/>
   <outline>
     <contour>
-      <point x="127" y="0" type="line"/>
-      <point x="932" y="0" type="line"/>
-      <point x="932" y="125" type="line"/>
-      <point x="252" y="125" type="line"/>
-      <point x="252" y="1395" type="line"/>
-      <point x="127" y="1395" type="line"/>
+      <point x="190" y="0" type="line"/>
+      <point x="995" y="0" type="line"/>
+      <point x="995" y="125" type="line"/>
+      <point x="315" y="125" type="line"/>
+      <point x="315" y="1395" type="line"/>
+      <point x="190" y="1395" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

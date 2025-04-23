@@ -2,15 +2,15 @@
 <glyph name="co-cans" format="2">
   <advance width="1169"/>
   <unicode hex="148D"/>
-  <anchor x="918" y="1463" name="2dotsright"/>
-  <anchor x="918" y="1467" name="dot"/>
+  <anchor x="849" y="1463" name="2dotsright"/>
+  <anchor x="849" y="1467" name="dot"/>
   <outline>
     <component base="ca-cans" xScale="-1" xOffset="1169"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

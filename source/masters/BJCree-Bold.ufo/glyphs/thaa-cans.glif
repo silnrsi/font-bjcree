@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thaa-cans" format="2">
-  <advance width="1440"/>
+  <advance width="1439"/>
   <unicode hex="1567"/>
-  <anchor x="969" y="1465" name="_dot2"/>
-  <anchor x="969" y="1463" name="_dot3"/>
+  <anchor x="968" y="1465" name="_dot2"/>
+  <anchor x="968" y="1463" name="_dot3"/>
   <outline>
     <component base="tha-cans"/>
-    <component base="_dotabove" xOffset="969" yOffset="-1"/>
+    <component base="_dotabove" xOffset="968" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

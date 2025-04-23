@@ -5,10 +5,12 @@
   <anchor x="519" y="813" name="dot"/>
   <anchor x="519" y="809" name="ring"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="142" yOffset="-127"/>
+    <component base="ca-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="142" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

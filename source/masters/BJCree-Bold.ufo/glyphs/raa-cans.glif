@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="raa-cans" format="2">
-  <advance width="1181"/>
+  <advance width="1180"/>
   <unicode hex="154C"/>
-  <anchor x="970" y="1465" name="_dot2"/>
-  <anchor x="970" y="1463" name="_dot3"/>
-  <anchor x="970" y="1463" name="ring"/>
+  <anchor x="969" y="1465" name="_dot2"/>
+  <anchor x="969" y="1463" name="_dot3"/>
+  <anchor x="969" y="1463" name="ring"/>
   <outline>
     <component base="ra-cans"/>
-    <component base="_dotabove" xOffset="970" yOffset="-1"/>
+    <component base="_dotabove" xOffset="969" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

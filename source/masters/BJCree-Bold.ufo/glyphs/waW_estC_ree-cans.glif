@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waWestCree-cans" format="2">
   <advance width="2162"/>
+  <unicode hex="1418"/>
   <anchor x="1384" y="1467" name="dot"/>
   <anchor x="950" y="1280" name="dot2"/>
   <anchor x="317" y="966" name="dot3"/>
@@ -12,6 +13,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

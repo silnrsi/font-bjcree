@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sweWestCree-cans" format="2">
-  <advance width="1420"/>
+  <advance width="1483"/>
   <unicode hex="14F7"/>
   <outline>
     <component base="se-cans"/>
-    <component base="_dotright" xOffset="1059"/>
+    <component base="_dotright" xOffset="1122"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywaaNaskapi-cans" format="2">
-  <advance width="1838"/>
+  <advance width="1976"/>
   <unicode hex="153D"/>
-  <anchor x="682" y="1467" name="dot"/>
-  <anchor x="682" y="1463" name="ring"/>
+  <anchor x="751" y="1467" name="dot"/>
+  <anchor x="751" y="1463" name="ring"/>
   <outline>
     <component base="_dot2v"/>
     <component base="ya-cans" xOffset="431"/>

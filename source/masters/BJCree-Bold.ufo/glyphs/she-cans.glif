@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="she-cans" format="2">
-  <advance width="1718"/>
+  <advance width="1726"/>
   <unicode hex="1510"/>
   <outline>
-    <component base="sha-cans" xScale="0.75451" xyScale="-0.65629" yxScale="-0.65629" yScale="-0.75451" xOffset="363" yOffset="1713"/>
+    <component base="sha-cans" xScale="0.75451" xyScale="-0.65629" yxScale="-0.65629" yScale="-0.75451" xOffset="371" yOffset="1713"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>
