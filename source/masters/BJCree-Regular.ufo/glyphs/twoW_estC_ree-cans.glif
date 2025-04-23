@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twoWestCree-cans" format="2">
-  <advance width="1514"/>
+  <advance width="1516"/>
   <unicode hex="145E"/>
   <anchor x="219" y="1391" name="2dotsleft"/>
   <anchor x="219" y="1395" name="dot"/>
   <anchor x="219" y="1393" name="ring"/>
   <outline>
     <component base="to-cans"/>
-    <component base="_dotright" xOffset="1153"/>
+    <component base="_dotright" xOffset="1155"/>
   </outline>
   <lib>
     <dict>

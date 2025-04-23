@@ -5,7 +5,7 @@
   <anchor x="588" y="934" name="dot"/>
   <anchor x="588" y="932" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="136" yOffset="1048"/>
+    <component base="ka-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="136" yOffset="1117"/>
   </outline>
   <lib>
     <dict>

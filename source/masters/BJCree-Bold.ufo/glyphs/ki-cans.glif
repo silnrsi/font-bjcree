@@ -3,7 +3,7 @@
   <advance width="1184"/>
   <unicode hex="146D"/>
   <anchor x="660" y="1467" name="dot"/>
-  <anchor x="590" y="1465" name="ring"/>
+  <anchor x="660" y="1463" name="ring"/>
   <outline>
     <component base="ka-cans" yScale="-1" yOffset="1467"/>
   </outline>
@@ -11,6 +11,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

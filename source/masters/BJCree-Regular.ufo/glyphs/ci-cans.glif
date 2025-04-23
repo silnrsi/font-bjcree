@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ci-cans" format="2">
-  <advance width="1193"/>
+  <advance width="1130"/>
   <unicode hex="148B"/>
   <anchor x="596" y="1395" name="dot"/>
   <anchor x="596" y="1391" name="ring"/>
@@ -12,7 +12,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

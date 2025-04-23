@@ -4,7 +4,7 @@
   <unicode hex="1479"/>
   <anchor x="660" y="1465" name="_dot2"/>
   <anchor x="660" y="1463" name="_dot3"/>
-  <anchor x="590" y="1465" name="ring"/>
+  <anchor x="660" y="1463" name="ring"/>
   <outline>
     <component base="kii-cans"/>
     <component base="_dotright" xOffset="1184"/>

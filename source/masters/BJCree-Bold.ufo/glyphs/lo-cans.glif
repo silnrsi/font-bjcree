@@ -5,12 +5,12 @@
   <anchor x="1183" y="927" name="2dotsmiddle"/>
   <anchor x="1133" y="927" name="dot"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-121"/>
+    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

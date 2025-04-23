@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwa-cans" format="2">
-  <advance width="1554"/>
+  <advance width="1491"/>
   <unicode hex="149C"/>
   <anchor x="614" y="1395" name="dot"/>
   <outline>
@@ -9,6 +9,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

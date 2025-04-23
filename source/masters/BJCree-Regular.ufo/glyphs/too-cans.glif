@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="too-cans" format="2">
-  <advance width="1153"/>
+  <advance width="1155"/>
   <unicode hex="1451"/>
   <anchor x="219" y="1391" name="2dotsleft"/>
   <anchor x="219" y="1393" name="_dot2"/>
@@ -12,6 +12,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

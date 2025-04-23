@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swaa-cans" format="2">
-  <advance width="1546"/>
+  <advance width="1483"/>
   <unicode hex="1502"/>
   <anchor x="614" y="1393" name="_dot2"/>
   <anchor x="614" y="1391" name="_dot3"/>
@@ -11,6 +11,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -4,13 +4,15 @@
   <unicode hex="1478"/>
   <anchor x="1091" y="1465" name="_dot2"/>
   <anchor x="1091" y="1463" name="_dot3"/>
-  <anchor x="1021" y="1465" name="ring"/>
+  <anchor x="1091" y="1463" name="ring"/>
   <outline>
     <component base="kwi-cans"/>
     <component base="_dotabove" xOffset="1091" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>
