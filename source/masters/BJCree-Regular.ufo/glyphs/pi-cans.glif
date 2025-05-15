@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi-cans" format="2">
-  <advance width="1579"/>
+  <advance width="1568"/>
   <unicode hex="1431"/>
-  <anchor x="795" y="1395" name="dot"/>
-  <anchor x="795" y="1393" name="ring"/>
+  <anchor x="784" y="1395" name="dot"/>
+  <anchor x="784" y="1393" name="ring"/>
   <outline>
     <contour>
-      <point x="61" y="0" type="line"/>
-      <point x="202" y="0" type="line"/>
-      <point x="794" y="1134" type="line"/>
-      <point x="1379" y="0" type="line"/>
-      <point x="1520" y="0" type="line"/>
-      <point x="795" y="1405" type="line"/>
+      <point x="50" y="0" type="line"/>
+      <point x="191" y="0" type="line"/>
+      <point x="783" y="1134" type="line"/>
+      <point x="1368" y="0" type="line"/>
+      <point x="1509" y="0" type="line"/>
+      <point x="784" y="1405" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

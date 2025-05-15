@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lo-cans" format="2">
-  <advance width="1664"/>
+  <advance width="1587"/>
   <unicode hex="14D7"/>
-  <anchor x="1189" y="813" name="2dotsmiddle"/>
-  <anchor x="1133" y="813" name="dot"/>
+  <anchor x="1112" y="813" name="2dotsmiddle"/>
+  <anchor x="1056" y="813" name="dot"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1522" yOffset="-190"/>
+    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1445" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

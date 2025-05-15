@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twoo-cans" format="2">
-  <advance width="1605"/>
+  <advance width="1603"/>
   <unicode hex="145F"/>
   <anchor x="709" y="1463" name="2dotsleft"/>
   <anchor x="709" y="1465" name="_dot2"/>

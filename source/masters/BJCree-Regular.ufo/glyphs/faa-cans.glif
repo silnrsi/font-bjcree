@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="faa-cans" format="2">
-  <advance width="1580"/>
+  <advance width="1548"/>
   <unicode hex="155A"/>
-  <anchor x="1268" y="1393" name="_dot2"/>
-  <anchor x="1268" y="1391" name="_dot3"/>
+  <anchor x="1236" y="1393" name="_dot2"/>
+  <anchor x="1236" y="1391" name="_dot3"/>
   <outline>
     <component base="fa-cans"/>
-    <component base="_dotabove" xOffset="1268"/>
+    <component base="_dotabove" xOffset="1236"/>
   </outline>
   <lib>
     <dict>

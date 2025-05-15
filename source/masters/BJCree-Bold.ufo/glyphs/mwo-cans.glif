@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwo-cans" format="2">
-  <advance width="1295"/>
+  <advance width="1303"/>
   <unicode hex="14B2"/>
-  <anchor x="975" y="1463" name="2dotsright"/>
-  <anchor x="975" y="1467" name="dot"/>
+  <anchor x="983" y="1463" name="2dotsright"/>
+  <anchor x="983" y="1467" name="dot"/>
   <outline>
     <component base="_dotleftcloser"/>
     <component base="mo-cans" xOffset="111"/>

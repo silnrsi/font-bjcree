@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="soo-cans" format="2">
-  <advance width="1242"/>
+  <advance width="1310"/>
   <unicode hex="14F2"/>
   <anchor x="986" y="1463" name="2dotsright"/>
   <anchor x="990" y="1465" name="_dot2"/>

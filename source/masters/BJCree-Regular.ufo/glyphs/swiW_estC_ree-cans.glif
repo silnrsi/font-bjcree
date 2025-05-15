@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swiWestCree-cans" format="2">
-  <advance width="1240"/>
+  <advance width="1303"/>
   <unicode hex="14F9"/>
-  <anchor x="870" y="1395" name="dot"/>
-  <anchor x="870" y="1391" name="ring"/>
+  <anchor x="933" y="1395" name="dot"/>
+  <anchor x="933" y="1391" name="ring"/>
   <outline>
     <component base="si-cans"/>
-    <component base="_dotrightclose" xOffset="1059"/>
+    <component base="_dotrightclose" xOffset="1122"/>
   </outline>
   <lib>
     <dict>

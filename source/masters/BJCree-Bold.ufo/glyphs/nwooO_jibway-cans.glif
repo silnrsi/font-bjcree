@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwooOjibway-cans" format="2">
-  <advance width="2155"/>
+  <advance width="2154"/>
   <unicode hex="18CD"/>
   <anchor x="1131" y="929" name="2dotsmiddle"/>
   <anchor x="1131" y="925" name="_dot2"/>
@@ -8,12 +8,12 @@
   <anchor x="1131" y="925" name="ring"/>
   <outline>
     <component base="noo-cans"/>
-    <component base="_dotright" xOffset="1724"/>
+    <component base="_dotright" xOffset="1723"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

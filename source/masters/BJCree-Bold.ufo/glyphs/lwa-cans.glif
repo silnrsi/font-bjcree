@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwa-cans" format="2">
-  <advance width="2145"/>
+  <advance width="2144"/>
   <unicode hex="14E6"/>
   <anchor x="1036" y="927" name="dot"/>
   <anchor x="1036" y="923" name="ring"/>

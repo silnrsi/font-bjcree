@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="too-cans" format="2">
-  <advance width="1174"/>
+  <advance width="1172"/>
   <unicode hex="1451"/>
   <anchor x="278" y="1463" name="2dotsleft"/>
   <anchor x="278" y="1465" name="_dot2"/>

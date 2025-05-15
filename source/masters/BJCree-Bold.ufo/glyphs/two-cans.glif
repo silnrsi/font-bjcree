@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two-cans" format="2">
-  <advance width="1605"/>
+  <advance width="1603"/>
   <unicode hex="145D"/>
   <anchor x="709" y="1463" name="2dotsleft"/>
   <anchor x="709" y="1467" name="dot"/>

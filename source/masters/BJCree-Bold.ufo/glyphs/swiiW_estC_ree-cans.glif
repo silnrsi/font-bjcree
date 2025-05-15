@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swiiWestCree-cans" format="2">
-  <advance width="1631"/>
+  <advance width="1561"/>
   <unicode hex="14FB"/>
-  <anchor x="992" y="1465" name="_dot2"/>
-  <anchor x="992" y="1463" name="_dot3"/>
-  <anchor x="992" y="1463" name="ring"/>
+  <anchor x="1060" y="1465" name="_dot2"/>
+  <anchor x="1060" y="1463" name="_dot3"/>
+  <anchor x="1060" y="1463" name="ring"/>
   <outline>
     <component base="sii-cans"/>
-    <component base="_dotrightclose" xOffset="1380"/>
+    <component base="_dotrightclose" xOffset="1310"/>
   </outline>
   <lib>
     <dict>

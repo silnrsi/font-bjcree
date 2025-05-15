@@ -15,10 +15,4 @@ onequarter
       <point x="563" y="-40" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.shapeOrder</key>
-      <string>CCP</string>
-    </dict>
-  </lib>
 </glyph>

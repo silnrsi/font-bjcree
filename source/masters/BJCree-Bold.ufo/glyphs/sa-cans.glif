@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="sa-cans" format="2">
-  <advance width="1380"/>
+  <advance width="1310"/>
   <unicode hex="14F4"/>
   <anchor x="320" y="1458" name="dot"/>
   <anchor x="320" y="1454" name="ring"/>

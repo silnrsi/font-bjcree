@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pooYCree-cans" format="2">
-  <advance width="1594"/>
+  <advance width="1518"/>
   <unicode hex="1435"/>
-  <anchor x="521" y="1395" name="_2dotsleft"/>
-  <anchor x="990" y="1395" name="_2dotsright"/>
-  <anchor x="195" y="1395" name="dot"/>
-  <anchor x="195" y="1392" name="ring"/>
+  <anchor x="445" y="1395" name="_2dotsleft"/>
+  <anchor x="914" y="1395" name="_2dotsright"/>
+  <anchor x="119" y="1395" name="dot"/>
+  <anchor x="119" y="1392" name="ring"/>
   <outline>
     <component base="po-cans"/>
-    <component base="_dot2hclose" xOffset="122"/>
+    <component base="_dot2hclose" xOffset="46"/>
   </outline>
   <lib>
     <dict>

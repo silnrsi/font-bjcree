@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shay-cans" format="2">
-  <advance width="2045"/>
+  <advance width="2044"/>
   <unicode hex="18C1"/>
   <anchor x="1022" y="921" name="_ringmiddle"/>
   <anchor x="1022" y="927" name="dot"/>

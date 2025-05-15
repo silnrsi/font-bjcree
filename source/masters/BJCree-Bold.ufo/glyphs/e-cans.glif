@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="e-cans" format="2">
-  <advance width="1706"/>
+  <advance width="1645"/>
   <unicode hex="1401"/>
   <outline>
     <contour>
-      <point x="853" y="-30" type="line"/>
-      <point x="1585" y="1467" type="line"/>
-      <point x="121" y="1467" type="line"/>
+      <point x="792" y="-30" type="line"/>
+      <point x="1524" y="1467" type="line"/>
+      <point x="60" y="1467" type="line"/>
     </contour>
     <contour>
-      <point x="853" y="563" type="line"/>
-      <point x="538" y="1207" type="line"/>
-      <point x="1168" y="1207" type="line"/>
+      <point x="792" y="563" type="line"/>
+      <point x="477" y="1207" type="line"/>
+      <point x="1107" y="1207" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

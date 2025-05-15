@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fo-cans" format="2">
-  <advance width="1678"/>
+  <advance width="1524"/>
   <unicode hex="1557"/>
-  <anchor x="375" y="1395" name="dot"/>
+  <anchor x="266" y="1395" name="dot"/>
   <outline>
-    <component base="fa-cans" xScale="-1" xOffset="1633"/>
+    <component base="fa-cans" xScale="-1" xOffset="1524"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

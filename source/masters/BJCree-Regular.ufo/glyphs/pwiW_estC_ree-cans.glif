@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwiWestCree-cans" format="2">
-  <advance width="1760"/>
+  <advance width="1749"/>
   <unicode hex="143D"/>
-  <anchor x="795" y="1395" name="dot"/>
-  <anchor x="795" y="1393" name="ring"/>
+  <anchor x="784" y="1395" name="dot"/>
+  <anchor x="784" y="1393" name="ring"/>
   <outline>
     <component base="pi-cans"/>
-    <component base="_dotrightclose" xOffset="1579"/>
+    <component base="_dotrightclose" xOffset="1568"/>
   </outline>
   <lib>
     <dict>

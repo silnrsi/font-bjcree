@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tho-cans" format="2">
-  <advance width="1440"/>
+  <advance width="1378"/>
   <unicode hex="1564"/>
-  <anchor x="471" y="1467" name="dot"/>
+  <anchor x="409" y="1467" name="dot"/>
   <outline>
-    <component base="tha-cans" xScale="-1" xOffset="1440"/>
+    <component base="tha-cans" xScale="-1" xOffset="1378"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

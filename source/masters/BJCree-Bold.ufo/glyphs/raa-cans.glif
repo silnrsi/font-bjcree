@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="raa-cans" format="2">
-  <advance width="1180"/>
+  <advance width="1179"/>
   <unicode hex="154C"/>
   <anchor x="969" y="1465" name="_dot2"/>
   <anchor x="969" y="1463" name="_dot3"/>
