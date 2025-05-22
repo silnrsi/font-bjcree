@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a-cans" format="2">
-  <advance width="1642"/>
+  <advance width="1662"/>
   <unicode hex="140A"/>
-  <anchor x="1384" y="1395" name="dot"/>
-  <anchor x="841" y="1263" name="dot2"/>
-  <anchor x="208" y="939" name="dot3"/>
-  <anchor x="1384" y="1393" name="ring"/>
-  <anchor x="809" y="1395" name="ringmiddle"/>
+  <anchor x="1404" y="1395" name="dot"/>
+  <anchor x="861" y="1263" name="dot2"/>
+  <anchor x="228" y="939" name="dot3"/>
+  <anchor x="1404" y="1393" name="ring"/>
+  <anchor x="829" y="1395" name="ringmiddle"/>
   <outline>
     <contour>
-      <point x="1452" y="-30" type="line"/>
-      <point x="1452" y="1423" type="line"/>
-      <point x="50" y="696" type="line"/>
+      <point x="1472" y="-30" type="line"/>
+      <point x="1472" y="1423" type="line"/>
+      <point x="70" y="696" type="line"/>
     </contour>
     <contour>
-      <point x="1323" y="180" type="line"/>
-      <point x="323" y="696" type="line"/>
-      <point x="1323" y="1213" type="line"/>
+      <point x="1343" y="180" type="line"/>
+      <point x="343" y="696" type="line"/>
+      <point x="1343" y="1213" type="line"/>
     </contour>
   </outline>
   <lib>

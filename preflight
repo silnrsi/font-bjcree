@@ -6,6 +6,10 @@
 echo "--- Updating glyph orders in Regular..."
 psfsetglyphorder --header sort_final -i source/glyph_data.csv source/masters/BJCree-Regular.ufo
 
+echo "--- Removing shapeOrder keys..."
+psfremovegliflibkeys source/masters/BJCree-Regular.ufo com.schriftgestaltung.Glyphs.shapeOrder
+psfremovegliflibkeys source/masters/BJCree-Bold.ufo    com.schriftgestaltung.Glyphs.shapeOrder
+
 echo "--- Normalizing Regular..."
 psfnormalize -p scrlevel=w -p checkfix=fix source/masters/BJCree-Regular.ufo
 echo "--- Normalizing Bold..."

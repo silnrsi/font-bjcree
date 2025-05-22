@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waaNaskapi-cans" format="2">
-  <advance width="1731"/>
+  <advance width="1741"/>
   <unicode hex="141B"/>
-  <anchor x="317" y="970" name="_dot"/>
-  <anchor x="317" y="968" name="_dot2"/>
-  <anchor x="950" y="1278" name="_dot3"/>
-  <anchor x="1384" y="1467" name="dot"/>
-  <anchor x="1384" y="1465" name="ring"/>
-  <anchor x="888" y="1467" name="ringmiddle"/>
+  <anchor x="327" y="970" name="_dot"/>
+  <anchor x="327" y="968" name="_dot2"/>
+  <anchor x="960" y="1278" name="_dot3"/>
+  <anchor x="1394" y="1467" name="dot"/>
+  <anchor x="1394" y="1465" name="ring"/>
+  <anchor x="898" y="1467" name="ringmiddle"/>
   <outline>
     <component base="a-cans"/>
-    <component base="_dotabove" xOffset="950" yOffset="-186"/>
-    <component base="_dotabove" xOffset="317" yOffset="-498"/>
+    <component base="_dotabove" xOffset="960" yOffset="-186"/>
+    <component base="_dotabove" xOffset="327" yOffset="-498"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +20,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertical</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

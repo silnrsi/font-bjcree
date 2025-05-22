@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwiiWestCree-cans" format="2">
-  <advance width="1749"/>
+  <advance width="1769"/>
   <unicode hex="143F"/>
-  <anchor x="784" y="1393" name="_dot2"/>
-  <anchor x="784" y="1391" name="_dot3"/>
-  <anchor x="784" y="1393" name="ring"/>
+  <anchor x="804" y="1393" name="_dot2"/>
+  <anchor x="804" y="1391" name="_dot3"/>
+  <anchor x="804" y="1393" name="ring"/>
   <outline>
     <component base="pii-cans"/>
-    <component base="_dotrightclose" xOffset="1568"/>
+    <component base="_dotrightclose" xOffset="1588"/>
   </outline>
   <lib>
     <dict>

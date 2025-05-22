@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="in-cans" format="2">
-  <advance width="2015"/>
+  <advance width="2025"/>
   <unicode hex="142C"/>
   <outline>
     <component base="e-cans"/>
-    <component base="_finalacutecloser" xOffset="1645"/>
+    <component base="_finalacutecloser" xOffset="1655"/>
   </outline>
   <lib>
     <dict>

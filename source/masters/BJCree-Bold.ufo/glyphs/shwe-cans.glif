@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwe-cans" format="2">
-  <advance width="2164"/>
+  <advance width="2178"/>
   <unicode hex="1517"/>
   <outline>
     <component base="_dotleft"/>

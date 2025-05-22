@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwee-cans" format="2">
-  <advance width="2010"/>
+  <advance width="1976"/>
   <unicode hex="18CE"/>
   <outline>
-    <component base="_dotleft"/>
-    <component base="reRCree-cans" xOffset="361"/>
+    <component base="_dotleftfar"/>
+    <component base="reRCree-cans" xOffset="441"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="looYCree-cans" format="2">
-  <advance width="1587"/>
+  <advance width="1607"/>
   <unicode hex="14D9"/>
-  <anchor x="877" y="813" name="_2dotsleft"/>
-  <anchor x="1346" y="813" name="_2dotsright"/>
-  <anchor x="1056" y="813" name="dot"/>
+  <anchor x="897" y="813" name="_2dotsleft"/>
+  <anchor x="1366" y="813" name="_2dotsright"/>
+  <anchor x="1076" y="813" name="dot"/>
   <outline>
     <component base="lo-cans"/>
-    <component base="_dot2hclose" xOffset="478" yOffset="-582"/>
+    <component base="_dot2hclose" xOffset="498" yOffset="-582"/>
   </outline>
   <lib>
     <dict>

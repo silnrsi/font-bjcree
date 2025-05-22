@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwi-cans" format="2">
-  <advance width="1749"/>
+  <advance width="1769"/>
   <unicode hex="143C"/>
-  <anchor x="965" y="1395" name="dot"/>
-  <anchor x="965" y="1393" name="ring"/>
+  <anchor x="985" y="1395" name="dot"/>
+  <anchor x="985" y="1393" name="ring"/>
   <outline>
     <component base="_dotleftclose"/>
     <component base="pi-cans" xOffset="181"/>

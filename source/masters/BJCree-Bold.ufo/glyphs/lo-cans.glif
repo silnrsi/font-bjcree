@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lo-cans" format="2">
-  <advance width="1653"/>
+  <advance width="1670"/>
   <unicode hex="14D7"/>
-  <anchor x="1122" y="927" name="2dotsmiddle"/>
-  <anchor x="1072" y="927" name="dot"/>
+  <anchor x="1132" y="927" name="2dotsmiddle"/>
+  <anchor x="1082" y="927" name="dot"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1527" yOffset="-190"/>
+    <component base="ca-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1537" yOffset="-190"/>
   </outline>
   <lib>
     <dict>

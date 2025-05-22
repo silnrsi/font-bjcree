@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="po-cans" format="2">
-  <advance width="1518"/>
+  <advance width="1538"/>
   <unicode hex="1433"/>
-  <anchor x="680" y="1395" name="2dotsmiddle"/>
-  <anchor x="119" y="1395" name="dot"/>
-  <anchor x="119" y="1392" name="ring"/>
+  <anchor x="700" y="1395" name="2dotsmiddle"/>
+  <anchor x="139" y="1395" name="dot"/>
+  <anchor x="139" y="1392" name="ring"/>
   <outline>
-    <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1518" yOffset="1392"/>
+    <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1538" yOffset="1392"/>
   </outline>
   <lib>
     <dict>

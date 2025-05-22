@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="soy-cans" format="2">
-  <advance width="1310"/>
+  <advance width="1317"/>
   <unicode hex="18BE"/>
   <anchor x="986" y="1463" name="2dotsright"/>
   <anchor x="990" y="1461" name="_ringmiddle"/>

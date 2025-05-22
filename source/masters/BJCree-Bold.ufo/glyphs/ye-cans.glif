@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ye-cans" format="2">
-  <advance width="1285"/>
+  <advance width="1425"/>
   <unicode hex="1526"/>
   <outline>
-    <component base="ya-cans" xScale="-1" yScale="-1" xOffset="1415" yOffset="1467"/>
+    <component base="ya-cans" xScale="-1" yScale="-1" xOffset="1425" yOffset="1467"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

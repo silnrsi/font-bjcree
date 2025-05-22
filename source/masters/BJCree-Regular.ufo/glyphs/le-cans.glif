@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="le-cans" format="2">
-  <advance width="1587"/>
+  <advance width="1607"/>
   <unicode hex="14D3"/>
   <outline>
-    <component base="ca-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1445" yOffset="940"/>
+    <component base="ca-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1465" yOffset="940"/>
   </outline>
   <lib>
     <dict>

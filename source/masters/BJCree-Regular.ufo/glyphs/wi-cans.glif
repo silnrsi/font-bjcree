@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wi-cans" format="2">
-  <advance width="1821"/>
+  <advance width="1841"/>
   <unicode hex="140E"/>
-  <anchor x="961" y="1395" name="dot"/>
-  <anchor x="961" y="1393" name="ring"/>
+  <anchor x="981" y="1395" name="dot"/>
+  <anchor x="981" y="1393" name="ring"/>
   <outline>
     <component base="_dotleftclose"/>
     <component base="i-cans" xOffset="181"/>

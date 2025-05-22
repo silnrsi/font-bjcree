@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwoy-cans" format="2">
-  <advance width="2033"/>
+  <advance width="2043"/>
   <unicode hex="18B6"/>
-  <anchor x="1175" y="1467" name="2dotsmiddle"/>
-  <anchor x="634" y="1463" name="_ringmiddle"/>
-  <anchor x="634" y="1467" name="dot"/>
+  <anchor x="1185" y="1467" name="2dotsmiddle"/>
+  <anchor x="644" y="1463" name="_ringmiddle"/>
+  <anchor x="644" y="1467" name="dot"/>
   <outline>
     <component base="pwo-cans"/>
-    <component base="_ring" xOffset="634" yOffset="-2"/>
+    <component base="_ring" xOffset="644" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

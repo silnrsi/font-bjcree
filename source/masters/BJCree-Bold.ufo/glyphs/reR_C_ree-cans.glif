@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reRCree-cans" format="2">
-  <advance width="1709"/>
+  <advance width="1607"/>
   <unicode hex="1543"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="121" yOffset="-135"/>
+    <component base="ra-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="70" yOffset="-135"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

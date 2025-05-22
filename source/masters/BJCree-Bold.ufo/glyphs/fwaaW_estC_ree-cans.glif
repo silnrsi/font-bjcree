@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fwaaWestCree-cans" format="2">
-  <advance width="2201"/>
+  <advance width="2211"/>
   <unicode hex="155C"/>
-  <anchor x="1360" y="1465" name="_dot2"/>
-  <anchor x="1360" y="1463" name="_dot3"/>
+  <anchor x="1370" y="1465" name="_dot2"/>
+  <anchor x="1370" y="1463" name="_dot3"/>
   <outline>
     <component base="faa-cans"/>
-    <component base="_dotright" xOffset="1770"/>
+    <component base="_dotright" xOffset="1780"/>
   </outline>
   <lib>
     <dict>

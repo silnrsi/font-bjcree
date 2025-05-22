@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwiWoodsCree-cans" format="2">
-  <advance width="1642"/>
+  <advance width="1610"/>
   <unicode hex="1678"/>
-  <anchor x="409" y="1395" name="dot"/>
+  <anchor x="377" y="1395" name="dot"/>
   <outline>
     <component base="thiThCree-cans"/>
-    <component base="_dotright" xOffset="1281"/>
+    <component base="_dotright" xOffset="1249"/>
   </outline>
   <lib>
     <dict>

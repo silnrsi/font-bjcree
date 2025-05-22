@@ -160,6 +160,8 @@
   <string>_dotleftclose.glif</string>
   <key>_dotleftcloser</key>
   <string>_dotleftcloser.glif</string>
+  <key>_dotleftfar</key>
+  <string>_dotleftfar.glif</string>
   <key>_dotright</key>
   <string>_dotright.glif</string>
   <key>_dotrightclose</key>

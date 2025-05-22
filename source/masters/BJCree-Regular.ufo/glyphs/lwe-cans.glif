@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwe-cans" format="2">
-  <advance width="1948"/>
+  <advance width="2048"/>
   <unicode hex="14DC"/>
   <outline>
-    <component base="_dotleft"/>
-    <component base="le-cans" xOffset="361"/>
+    <component base="_dotleftfar"/>
+    <component base="le-cans" xOffset="441"/>
   </outline>
   <lib>
     <dict>

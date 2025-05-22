@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thaaThCree-cans" format="2">
-  <advance width="1380"/>
+  <advance width="1323"/>
   <unicode hex="15AD"/>
-  <anchor x="355" y="1393" name="_dot2"/>
-  <anchor x="355" y="1391" name="_dot3"/>
+  <anchor x="298" y="1393" name="_dot2"/>
+  <anchor x="298" y="1391" name="_dot3"/>
   <outline>
     <component base="thaThCree-cans"/>
-    <component base="_dotabove" xOffset="355"/>
+    <component base="_dotabove" xOffset="298"/>
   </outline>
   <lib>
     <dict>

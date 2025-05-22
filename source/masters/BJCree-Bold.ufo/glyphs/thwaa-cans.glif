@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwaa-cans" format="2">
-  <advance width="1869"/>
+  <advance width="1883"/>
   <unicode hex="1568"/>
-  <anchor x="1399" y="1465" name="_dot2"/>
-  <anchor x="1399" y="1463" name="_dot3"/>
+  <anchor x="1406" y="1465" name="_dot2"/>
+  <anchor x="1406" y="1463" name="_dot3"/>
   <outline>
     <component base="_dotleft"/>
     <component base="thaa-cans" xOffset="431"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ray-cans" format="2">
-  <advance width="1179"/>
+  <advance width="1193"/>
   <unicode hex="18C5"/>
-  <anchor x="969" y="1461" name="_ringmiddle"/>
-  <anchor x="969" y="1467" name="dot"/>
+  <anchor x="976" y="1461" name="_ringmiddle"/>
+  <anchor x="976" y="1467" name="dot"/>
   <outline>
     <component base="ra-cans"/>
-    <component base="_ring" xOffset="969" yOffset="-4"/>
+    <component base="_ring" xOffset="976" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

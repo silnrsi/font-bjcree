@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twaaNaskapi-cans" format="2">
-  <advance width="1492"/>
+  <advance width="1449"/>
   <unicode hex="1465"/>
-  <anchor x="1281" y="1467" name="dot"/>
-  <anchor x="1281" y="1465" name="ring"/>
+  <anchor x="1238" y="1467" name="dot"/>
+  <anchor x="1238" y="1465" name="ring"/>
   <outline>
     <component base="_dot2vclose"/>
     <component base="ta-cans" xOffset="319"/>

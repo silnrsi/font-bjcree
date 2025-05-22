@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwooOjibway-cans" format="2">
-  <advance width="2154"/>
+  <advance width="2110"/>
   <unicode hex="18CD"/>
-  <anchor x="1131" y="929" name="2dotsmiddle"/>
-  <anchor x="1131" y="925" name="_dot2"/>
-  <anchor x="1131" y="923" name="_dot3"/>
-  <anchor x="1131" y="925" name="ring"/>
+  <anchor x="1080" y="929" name="2dotsmiddle"/>
+  <anchor x="1080" y="925" name="_dot2"/>
+  <anchor x="1080" y="923" name="_dot3"/>
+  <anchor x="1080" y="925" name="ring"/>
   <outline>
     <component base="noo-cans"/>
-    <component base="_dotright" xOffset="1723"/>
+    <component base="_dotright" xOffset="1679"/>
   </outline>
   <lib>
     <dict>

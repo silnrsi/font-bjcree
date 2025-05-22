@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waa-cans" format="2">
-  <advance width="2162"/>
+  <advance width="2232"/>
   <unicode hex="1419"/>
-  <anchor x="1815" y="1465" name="_dot2"/>
-  <anchor x="1815" y="1463" name="_dot3"/>
-  <anchor x="1381" y="1280" name="dot2"/>
-  <anchor x="748" y="966" name="dot3"/>
-  <anchor x="1815" y="1465" name="ring"/>
-  <anchor x="1319" y="1467" name="ringmiddle"/>
+  <anchor x="1885" y="1465" name="_dot2"/>
+  <anchor x="1885" y="1463" name="_dot3"/>
+  <anchor x="1451" y="1280" name="dot2"/>
+  <anchor x="818" y="966" name="dot3"/>
+  <anchor x="1885" y="1465" name="ring"/>
+  <anchor x="1389" y="1467" name="ringmiddle"/>
   <outline>
     <component base="wa-cans"/>
-    <component base="_dotabove" xOffset="1815" yOffset="-1"/>
+    <component base="_dotabove" xOffset="1885" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertical</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

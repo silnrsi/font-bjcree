@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thiThCree-cans" format="2">
-  <advance width="1455"/>
+  <advance width="1504"/>
   <unicode hex="15A8"/>
-  <anchor x="423" y="1467" name="dot"/>
+  <anchor x="472" y="1467" name="dot"/>
   <outline>
-    <component base="theThCree-cans" xScale="-1" xOffset="1455"/>
+    <component base="theThCree-cans" xScale="-1" xOffset="1504"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

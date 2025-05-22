@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwo-cans" format="2">
-  <advance width="2475"/>
+  <advance width="2489"/>
   <unicode hex="151D"/>
   <anchor x="1451" y="813" name="dot"/>
   <anchor x="1451" y="809" name="ring"/>
