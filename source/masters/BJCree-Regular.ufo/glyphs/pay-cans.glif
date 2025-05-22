@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pay-cans" format="2">
-  <advance width="1595"/>
+  <advance width="1602"/>
   <unicode hex="18B5"/>
-  <anchor x="1379" y="1391" name="_ringmiddle"/>
-  <anchor x="1379" y="1395" name="dot"/>
-  <anchor x="920" y="1263" name="dot2"/>
-  <anchor x="287" y="939" name="dot3"/>
-  <anchor x="888" y="1405" name="ringmiddle"/>
+  <anchor x="1386" y="1391" name="_ringmiddle"/>
+  <anchor x="1386" y="1395" name="dot"/>
+  <anchor x="927" y="1263" name="dot2"/>
+  <anchor x="294" y="939" name="dot3"/>
+  <anchor x="895" y="1405" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="_ring" xOffset="1379" yOffset="-2"/>
+    <component base="_ring" xOffset="1386" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

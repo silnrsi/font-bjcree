@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwoo-cans" format="2">
-  <advance width="2043"/>
+  <advance width="2053"/>
   <unicode hex="1442"/>
-  <anchor x="1185" y="1467" name="2dotsmiddle"/>
-  <anchor x="644" y="1465" name="_dot2"/>
-  <anchor x="644" y="1463" name="_dot3"/>
-  <anchor x="644" y="1465" name="ring"/>
+  <anchor x="1195" y="1467" name="2dotsmiddle"/>
+  <anchor x="654" y="1465" name="_dot2"/>
+  <anchor x="654" y="1463" name="_dot3"/>
+  <anchor x="654" y="1465" name="ring"/>
   <outline>
     <component base="pwo-cans"/>
-    <component base="_dotabove" xOffset="644" yOffset="-1"/>
+    <component base="_dotabove" xOffset="654" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.dot</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwoWestCree-cans" format="2">
-  <advance width="2043"/>
+  <advance width="2053"/>
   <unicode hex="1441"/>
-  <anchor x="754" y="1467" name="2dotsmiddle"/>
-  <anchor x="213" y="1467" name="dot"/>
-  <anchor x="213" y="1465" name="ring"/>
+  <anchor x="764" y="1467" name="2dotsmiddle"/>
+  <anchor x="223" y="1467" name="dot"/>
+  <anchor x="223" y="1465" name="ring"/>
   <outline>
     <component base="po-cans"/>
-    <component base="_dotright" xOffset="1612"/>
+    <component base="_dotright" xOffset="1622"/>
   </outline>
   <lib>
     <dict>

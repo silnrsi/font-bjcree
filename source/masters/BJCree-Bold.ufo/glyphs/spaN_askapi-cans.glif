@@ -4,8 +4,8 @@
   <unicode hex="150C"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="finalmiddledot-cans" xOffset="28" yOffset="452"/>
-    <component base="finalmiddledot-cans" xOffset="824" yOffset="847"/>
-    <component base="s-cans.small"/>
+    <component base="s-cans.small" yOffset="50"/>
+    <component base="_dotabove" xOffset="1100" yOffset="-156"/>
+    <component base="_dotabove" xOffset="304" yOffset="-550"/>
   </outline>
 </glyph>

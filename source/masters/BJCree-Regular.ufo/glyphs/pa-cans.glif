@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pa-cans" format="2">
-  <advance width="1595"/>
+  <advance width="1602"/>
   <unicode hex="1438"/>
-  <anchor x="1379" y="1395" name="dot"/>
-  <anchor x="920" y="1263" name="dot2"/>
-  <anchor x="287" y="939" name="dot3"/>
-  <anchor x="1379" y="1393" name="ring"/>
-  <anchor x="888" y="1405" name="ringmiddle"/>
+  <anchor x="1386" y="1395" name="dot"/>
+  <anchor x="927" y="1263" name="dot2"/>
+  <anchor x="294" y="939" name="dot3"/>
+  <anchor x="1386" y="1393" name="ring"/>
+  <anchor x="895" y="1405" name="ringmiddle"/>
   <outline>
     <contour>
-      <point x="1468" y="-39" type="line"/>
-      <point x="1468" y="111" type="line"/>
-      <point x="336" y="694" type="line"/>
-      <point x="1468" y="1276" type="line"/>
-      <point x="1468" y="1421" type="line"/>
-      <point x="63" y="696" type="line"/>
+      <point x="1475" y="-39" type="line"/>
+      <point x="1475" y="111" type="line"/>
+      <point x="343" y="694" type="line"/>
+      <point x="1475" y="1276" type="line"/>
+      <point x="1475" y="1421" type="line"/>
+      <point x="70" y="696" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>
