@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwo-cans" format="2">
-  <advance width="1705"/>
+  <advance width="1773"/>
   <unicode hex="18CA"/>
-  <anchor x="1178" y="815" name="2dotsmiddle"/>
-  <anchor x="1178" y="813" name="dot"/>
-  <anchor x="1178" y="811" name="ring"/>
+  <anchor x="1246" y="815" name="2dotsmiddle"/>
+  <anchor x="1246" y="813" name="dot"/>
+  <anchor x="1246" y="811" name="ring"/>
   <outline>
-    <component base="_dotleftcloser"/>
-    <component base="no-cans" xOffset="113"/>
+    <component base="_dotleftclose"/>
+    <component base="no-cans" xOffset="181"/>
   </outline>
   <lib>
     <dict>

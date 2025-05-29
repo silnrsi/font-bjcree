@@ -150,7 +150,7 @@ naai-cans           = ni-cans + _ring@ring
 ### ᓄ no-cans based
 noo-cans            = no-cans + _dotabove@dot
 nooYCree-cans       = no-cans + _dot2hclose@2dotsmiddle
-nwo-cans            = _dotleftcloser & no-cans
+nwo-cans            = _dotleftclose & no-cans
 nwoOjibway-cans     = no-cans & _dotright
 nwoo-cans           = nwo-cans + _dotabove@dot
 nwooOjibway-cans    = noo-cans & _dotright
@@ -208,7 +208,7 @@ laai-cans           = li-cans + _ring@ring
 ### ᓗ lo-cans based
 loo-cans            = lo-cans + _dotabove@dot
 looYCree-cans       = lo-cans + _dot2hclose@2dotsmiddle
-lwo-cans            = _dotleftcloser & lo-cans
+lwo-cans            = _dotleftclose & lo-cans
 lwoWestCree-cans    = lo-cans & _dotright
 lwoo-cans           = lwo-cans + _dotabove@dot
 lwooWestCree-cans   = loo-cans & _dotright
@@ -237,7 +237,7 @@ maai-cans           = mi-cans + _ring@ring
 ### ᒧ mo-cans based
 moo-cans            = mo-cans + _dotabove@dot
 mooYCree-cans       = mo-cans + _dot2hclose@2dotsright
-mwo-cans            = _dotleftcloser & mo-cans
+mwo-cans            = _dotleftclose & mo-cans
 mwoWestCree-cans    = mo-cans & _dotright
 mwoo-cans           = mwo-cans + _dotabove@dot
 mwooWestCree-cans   = moo-cans & _dotright
