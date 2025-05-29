@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="moo-cans" format="2">
-  <advance width="1065"/>
+  <advance width="1051"/>
   <unicode hex="14A8"/>
-  <anchor x="812" y="1391" name="2dotsright"/>
-  <anchor x="812" y="1393" name="_dot2"/>
-  <anchor x="812" y="1391" name="_dot3"/>
+  <anchor x="798" y="1391" name="2dotsright"/>
+  <anchor x="798" y="1393" name="_dot2"/>
+  <anchor x="798" y="1391" name="_dot3"/>
   <outline>
     <component base="mo-cans"/>
-    <component base="_dotabove" xOffset="812"/>
+    <component base="_dotabove" xOffset="798"/>
   </outline>
   <lib>
     <dict>

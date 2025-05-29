@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nweWestCree-cans" format="2">
-  <advance width="1963"/>
+  <advance width="1949"/>
   <unicode hex="14CA"/>
   <outline>
     <component base="ne-cans"/>
-    <component base="_dotright" xOffset="1602"/>
+    <component base="_dotright" xOffset="1588"/>
   </outline>
   <lib>
     <dict>

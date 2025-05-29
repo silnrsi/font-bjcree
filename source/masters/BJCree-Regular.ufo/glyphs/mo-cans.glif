@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mo-cans" format="2">
-  <advance width="1065"/>
+  <advance width="1051"/>
   <unicode hex="14A7"/>
-  <anchor x="812" y="1391" name="2dotsright"/>
-  <anchor x="812" y="1395" name="dot"/>
+  <anchor x="798" y="1391" name="2dotsright"/>
+  <anchor x="798" y="1395" name="dot"/>
   <outline>
-    <component base="ma-cans" xScale="-1" xOffset="1065"/>
+    <component base="ma-cans" xScale="-1" xOffset="1051"/>
   </outline>
   <lib>
     <dict>

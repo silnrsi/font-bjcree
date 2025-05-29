@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="no-cans" format="2">
-  <advance width="1606"/>
+  <advance width="1592"/>
   <unicode hex="14C4"/>
-  <anchor x="1079" y="815" name="2dotsmiddle"/>
-  <anchor x="1079" y="813" name="dot"/>
-  <anchor x="1079" y="811" name="ring"/>
+  <anchor x="1065" y="815" name="2dotsmiddle"/>
+  <anchor x="1065" y="813" name="dot"/>
+  <anchor x="1065" y="811" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1465" yOffset="-190"/>
+    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1451" yOffset="-190"/>
   </outline>
   <lib>
     <dict>

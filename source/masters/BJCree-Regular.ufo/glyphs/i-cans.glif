@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i-cans" format="2">
-  <advance width="1660"/>
+  <advance width="1646"/>
   <unicode hex="1403"/>
-  <anchor x="800" y="1395" name="dot"/>
-  <anchor x="800" y="1393" name="ring"/>
+  <anchor x="786" y="1395" name="dot"/>
+  <anchor x="786" y="1393" name="ring"/>
   <outline>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="1530" y="0" type="line"/>
-      <point x="800" y="1423" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="1516" y="0" type="line"/>
+      <point x="786" y="1423" type="line"/>
     </contour>
     <contour>
-      <point x="276" y="125" type="line"/>
-      <point x="821" y="1186" type="line"/>
-      <point x="779" y="1186" type="line"/>
-      <point x="1324" y="125" type="line"/>
+      <point x="262" y="125" type="line"/>
+      <point x="807" y="1186" type="line"/>
+      <point x="765" y="1186" type="line"/>
+      <point x="1310" y="125" type="line"/>
     </contour>
   </outline>
   <lib>

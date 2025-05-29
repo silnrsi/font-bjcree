@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aa-cans" format="2">
-  <advance width="1662"/>
+  <advance width="1648"/>
   <unicode hex="140B"/>
-  <anchor x="1404" y="1393" name="_dot2"/>
-  <anchor x="1404" y="1391" name="_dot3"/>
-  <anchor x="861" y="1263" name="dot2"/>
-  <anchor x="228" y="939" name="dot3"/>
-  <anchor x="1404" y="1393" name="ring"/>
-  <anchor x="829" y="1395" name="ringmiddle"/>
+  <anchor x="1390" y="1393" name="_dot2"/>
+  <anchor x="1390" y="1391" name="_dot3"/>
+  <anchor x="847" y="1263" name="dot2"/>
+  <anchor x="214" y="939" name="dot3"/>
+  <anchor x="1390" y="1393" name="ring"/>
+  <anchor x="815" y="1395" name="ringmiddle"/>
   <outline>
     <component base="a-cans"/>
-    <component base="_dotabove" xOffset="1404"/>
+    <component base="_dotabove" xOffset="1390"/>
   </outline>
   <lib>
     <dict>

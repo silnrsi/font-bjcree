@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ayNaskapi-cans" format="2">
-  <advance width="1662"/>
+  <advance width="1648"/>
   <unicode hex="18B1"/>
-  <anchor x="1404" y="1391" name="_ringmiddle"/>
-  <anchor x="1404" y="1395" name="dot"/>
-  <anchor x="861" y="1263" name="dot2"/>
-  <anchor x="228" y="939" name="dot3"/>
-  <anchor x="829" y="1395" name="ringmiddle"/>
+  <anchor x="1390" y="1391" name="_ringmiddle"/>
+  <anchor x="1390" y="1395" name="dot"/>
+  <anchor x="847" y="1263" name="dot2"/>
+  <anchor x="214" y="939" name="dot3"/>
+  <anchor x="815" y="1395" name="ringmiddle"/>
   <outline>
     <component base="a-cans"/>
-    <component base="_ring" xOffset="1404" yOffset="-2"/>
+    <component base="_ring" xOffset="1390" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

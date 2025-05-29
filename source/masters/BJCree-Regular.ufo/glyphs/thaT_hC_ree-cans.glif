@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thaThCree-cans" format="2">
-  <advance width="1323"/>
+  <advance width="1309"/>
   <unicode hex="15AC"/>
-  <anchor x="298" y="1395" name="dot"/>
+  <anchor x="284" y="1395" name="dot"/>
   <outline>
-    <component base="_barStemH" xScale="-1" xOffset="1321" yOffset="749"/>
+    <component base="_barStemH" xScale="-1" xOffset="1307" yOffset="749"/>
     <contour>
-      <point x="360" y="1395" type="line"/>
-      <point x="235" y="1395" type="line"/>
-      <point x="235" y="635" type="line"/>
-      <point x="921" y="635" type="line"/>
-      <point x="368" y="0" type="line"/>
-      <point x="534" y="0" type="line"/>
-      <point x="1196" y="760" type="line"/>
-      <point x="360" y="760" type="line"/>
+      <point x="346" y="1395" type="line"/>
+      <point x="221" y="1395" type="line"/>
+      <point x="221" y="635" type="line"/>
+      <point x="907" y="635" type="line"/>
+      <point x="354" y="0" type="line"/>
+      <point x="520" y="0" type="line"/>
+      <point x="1182" y="760" type="line"/>
+      <point x="346" y="760" type="line"/>
     </contour>
   </outline>
   <lib>

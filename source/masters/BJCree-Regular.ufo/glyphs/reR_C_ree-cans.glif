@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="reRCree-cans" format="2">
-  <advance width="1535"/>
+  <advance width="1507"/>
   <unicode hex="1543"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="70" yOffset="-137"/>
+    <component base="ra-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="56" yOffset="-137"/>
   </outline>
   <lib>
     <dict>

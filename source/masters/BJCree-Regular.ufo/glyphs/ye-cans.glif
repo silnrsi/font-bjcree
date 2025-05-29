@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ye-cans" format="2">
-  <advance width="1221"/>
+  <advance width="1207"/>
   <unicode hex="1526"/>
   <outline>
-    <component base="ya-cans" xScale="-1" yScale="-1" xOffset="1221" yOffset="1393"/>
+    <component base="ya-cans" xScale="-1" yScale="-1" xOffset="1207" yOffset="1393"/>
   </outline>
   <lib>
     <dict>
