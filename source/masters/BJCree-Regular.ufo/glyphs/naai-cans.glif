@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naai-cans" format="2">
-  <advance width="1661"/>
+  <advance width="1592"/>
   <unicode hex="14C1"/>
   <anchor x="526" y="810" name="_ringmiddle"/>
   <anchor x="526" y="814" name="dot"/>
@@ -10,6 +10,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.18,0.16,0.78,1</string>
     </dict>

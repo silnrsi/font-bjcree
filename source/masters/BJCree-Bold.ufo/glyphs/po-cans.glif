@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="po-cans" format="2">
-  <advance width="1622"/>
+  <advance width="1621"/>
   <unicode hex="1433"/>
   <anchor x="764" y="1467" name="2dotsmiddle"/>
   <anchor x="223" y="1467" name="dot"/>
@@ -11,6 +11,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>

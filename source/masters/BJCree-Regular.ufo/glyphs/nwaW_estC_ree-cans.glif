@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaWestCree-cans" format="2">
-  <advance width="1774"/>
+  <advance width="1703"/>
   <unicode hex="14CC"/>
   <anchor x="524" y="815" name="2dotsmiddle"/>
   <anchor x="524" y="813" name="dot"/>
   <anchor x="524" y="811" name="ring"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_dotrightcloser" xOffset="1661"/>
+    <component base="_dotrightcloser" xOffset="1590"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twaaNaskapi-cans" format="2">
-  <advance width="1397"/>
+  <advance width="1399"/>
   <unicode hex="1465"/>
   <anchor x="1190" y="1395" name="dot"/>
   <anchor x="1190" y="1393" name="ring"/>
@@ -12,6 +12,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

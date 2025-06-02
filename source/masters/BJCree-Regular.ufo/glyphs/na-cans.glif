@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="na-cans" format="2">
-  <advance width="1661"/>
+  <advance width="1590"/>
   <unicode hex="14C7"/>
   <anchor x="524" y="815" name="2dotsmiddle"/>
   <anchor x="524" y="813" name="dot"/>
@@ -10,6 +10,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

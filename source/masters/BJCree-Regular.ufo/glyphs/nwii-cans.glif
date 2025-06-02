@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwii-cans" format="2">
-  <advance width="2022"/>
+  <advance width="1953"/>
   <unicode hex="18C8"/>
   <anchor x="887" y="812" name="_dot2"/>
   <anchor x="887" y="810" name="_dot3"/>
@@ -13,8 +13,10 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

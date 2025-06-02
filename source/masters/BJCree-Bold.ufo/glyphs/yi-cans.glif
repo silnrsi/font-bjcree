@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yi-cans" format="2">
-  <advance width="1509"/>
+  <advance width="1407"/>
   <unicode hex="1528"/>
   <anchor x="375" y="1467" name="dot"/>
   <anchor x="375" y="1463" name="ring"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

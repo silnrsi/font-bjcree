@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mii-cans" format="2">
-  <advance width="1185"/>
+  <advance width="1051"/>
   <unicode hex="14A6"/>
   <anchor x="592" y="1393" name="_dot2"/>
   <anchor x="592" y="1391" name="_dot3"/>
@@ -13,6 +13,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oY-cans" format="2">
-  <advance width="1642"/>
+  <advance width="1648"/>
   <unicode hex="18B0"/>
   <anchor x="738" y="1395" name="2dotsmiddle"/>
   <anchor x="255" y="1390" name="_ringmiddle"/>
@@ -16,6 +16,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

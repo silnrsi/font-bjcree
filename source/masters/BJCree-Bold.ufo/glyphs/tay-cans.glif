@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tay-cans" format="2">
-  <advance width="1130"/>
+  <advance width="1129"/>
   <unicode hex="18B7"/>
   <anchor x="919" y="1463" name="_ringmiddle"/>
   <anchor x="919" y="1467" name="dot"/>

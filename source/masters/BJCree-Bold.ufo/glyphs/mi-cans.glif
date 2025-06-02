@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mi-cans" format="2">
-  <advance width="1322"/>
+  <advance width="1202"/>
   <unicode hex="14A5"/>
   <anchor x="671" y="1467" name="dot"/>
   <anchor x="671" y="1463" name="ring"/>
@@ -12,7 +12,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

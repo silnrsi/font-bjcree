@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ni-cans" format="2">
-  <advance width="1724"/>
+  <advance width="1673"/>
   <unicode hex="14C2"/>
   <anchor x="588" y="934" name="dot"/>
   <anchor x="588" y="932" name="ring"/>
@@ -9,6 +9,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

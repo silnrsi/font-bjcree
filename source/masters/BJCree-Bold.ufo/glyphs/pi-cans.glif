@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi-cans" format="2">
-  <advance width="1594"/>
+  <advance width="1604"/>
   <unicode hex="1431"/>
   <anchor x="802" y="1467" name="dot"/>
   <anchor x="802" y="1465" name="ring"/>
@@ -17,6 +17,8 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>

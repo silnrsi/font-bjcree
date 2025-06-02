@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chisign-cans" format="2">
-  <advance width="1301"/>
+  <advance width="1341"/>
   <unicode hex="166D"/>
   <outline>
     <contour>
@@ -18,4 +18,10 @@
       <point x="495" y="737" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
+    </dict>
+  </lib>
 </glyph>

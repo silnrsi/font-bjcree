@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi-cans" format="2">
-  <advance width="1535"/>
+  <advance width="1464"/>
   <unicode hex="1555"/>
   <anchor x="717" y="1395" name="dot"/>
   <anchor x="717" y="1391" name="ring"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwiOjibway-cans" format="2">
-  <advance width="2022"/>
+  <advance width="1953"/>
   <unicode hex="18C7"/>
   <anchor x="526" y="814" name="dot"/>
   <anchor x="526" y="812" name="ring"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_dotright" xOffset="1661"/>
+    <component base="_dotright" xOffset="1592"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

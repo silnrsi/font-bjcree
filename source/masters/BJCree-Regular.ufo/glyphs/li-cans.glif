@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="li-cans" format="2">
-  <advance width="1664"/>
+  <advance width="1593"/>
   <unicode hex="14D5"/>
   <anchor x="520" y="813" name="dot"/>
   <anchor x="520" y="809" name="ring"/>
@@ -10,7 +10,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

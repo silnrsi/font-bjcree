@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pay-cans" format="2">
-  <advance width="1741"/>
+  <advance width="1621"/>
   <unicode hex="18B5"/>
   <anchor x="1421" y="1463" name="_ringmiddle"/>
   <anchor x="1421" y="1467" name="dot"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fe-cans" format="2">
-  <advance width="1438"/>
+  <advance width="1419"/>
   <unicode hex="1553"/>
   <outline>
     <component base="_fe-ring" yOffset="921"/>
@@ -15,6 +15,8 @@
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

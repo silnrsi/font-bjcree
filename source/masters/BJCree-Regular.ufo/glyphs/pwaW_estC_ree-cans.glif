@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwaWestCree-cans" format="2">
-  <advance width="1949"/>
+  <advance width="1878"/>
   <unicode hex="1445"/>
   <anchor x="1372" y="1395" name="dot"/>
   <anchor x="913" y="1263" name="dot2"/>
@@ -9,7 +9,7 @@
   <anchor x="881" y="1405" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="_dotright" xOffset="1588"/>
+    <component base="_dotright" xOffset="1517"/>
   </outline>
   <lib>
     <dict>

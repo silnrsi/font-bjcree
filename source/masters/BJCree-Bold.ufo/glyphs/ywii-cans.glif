@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywii-cans" format="2">
-  <advance width="1940"/>
+  <advance width="1838"/>
   <unicode hex="1533"/>
   <anchor x="806" y="1465" name="_dot2"/>
   <anchor x="806" y="1463" name="_dot3"/>
@@ -13,6 +13,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>
