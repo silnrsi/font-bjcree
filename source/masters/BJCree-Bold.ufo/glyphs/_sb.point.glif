@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_sb.point" format="2">
-  <advance width="997"/>
+  <advance width="977"/>
   <outline>
-    <component base=".notdef" xOffset="-80"/>
+    <component base=".notdef" xOffset="-90"/>
   </outline>
   <lib>
     <dict>

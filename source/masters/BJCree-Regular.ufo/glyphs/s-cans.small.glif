@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="s-cans.small" format="2">
-  <advance width="1595"/>
+  <advance width="581"/>
   <outline>
-    <component base="s-cans" xScale="0.59837" yScale="0.59837" xOffset="410" yOffset="821"/>
+    <component base="s-cans" xScale="0.59837" yScale="0.59837" xOffset="51" yOffset="821"/>
   </outline>
 </glyph>
