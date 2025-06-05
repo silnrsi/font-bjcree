@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwo-cans" format="2">
-  <advance width="1428"/>
+  <advance width="1491"/>
   <unicode hex="1498"/>
-  <anchor x="1175" y="1391" name="2dotsright"/>
-  <anchor x="1175" y="1395" name="dot"/>
+  <anchor x="1238" y="1391" name="2dotsright"/>
+  <anchor x="1238" y="1395" name="dot"/>
   <outline>
     <component base="_dotleft"/>
     <component base="co-cans" xOffset="361"/>

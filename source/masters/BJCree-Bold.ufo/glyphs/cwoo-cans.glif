@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwoo-cans" format="2">
-  <advance width="1600"/>
+  <advance width="1668"/>
   <unicode hex="149A"/>
-  <anchor x="1280" y="1463" name="2dotsright"/>
-  <anchor x="1280" y="1465" name="_dot2"/>
-  <anchor x="1280" y="1463" name="_dot3"/>
+  <anchor x="1348" y="1463" name="2dotsright"/>
+  <anchor x="1348" y="1465" name="_dot2"/>
+  <anchor x="1348" y="1463" name="_dot3"/>
   <outline>
     <component base="cwo-cans"/>
-    <component base="_dotabove" xOffset="1280" yOffset="-1"/>
+    <component base="_dotabove" xOffset="1348" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

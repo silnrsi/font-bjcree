@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwiOjibway-cans" format="2">
-  <advance width="1960"/>
+  <advance width="2060"/>
   <unicode hex="18C7"/>
   <anchor x="526" y="814" name="dot"/>
   <anchor x="526" y="812" name="ring"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_dotright" xOffset="1599"/>
+    <component base="_dotrightfar" xOffset="1599"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

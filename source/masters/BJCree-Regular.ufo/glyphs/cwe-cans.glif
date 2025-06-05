@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwe-cans" format="2">
-  <advance width="1428"/>
+  <advance width="1491"/>
   <unicode hex="1492"/>
-  <anchor x="894" y="1395" name="dot"/>
+  <anchor x="957" y="1395" name="dot"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ce-cans" xOffset="361"/>

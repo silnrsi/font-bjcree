@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fwaa-cans" format="2">
-  <advance width="1922"/>
+  <advance width="2002"/>
   <unicode hex="155B"/>
-  <anchor x="1610" y="1393" name="_dot2"/>
-  <anchor x="1610" y="1391" name="_dot3"/>
+  <anchor x="1690" y="1393" name="_dot2"/>
+  <anchor x="1690" y="1391" name="_dot3"/>
   <outline>
-    <component base="_dotleft"/>
-    <component base="faa-cans" xOffset="361"/>
+    <component base="_dotleftfar"/>
+    <component base="faa-cans" xOffset="441"/>
   </outline>
   <lib>
     <dict>

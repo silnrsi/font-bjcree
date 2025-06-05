@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nay-cans" format="2">
-  <advance width="1663"/>
+  <advance width="1662"/>
   <unicode hex="18BC"/>
-  <anchor x="591" y="929" name="2dotsmiddle"/>
-  <anchor x="591" y="923" name="_ringmiddle"/>
-  <anchor x="591" y="927" name="dot"/>
+  <anchor x="590" y="929" name="2dotsmiddle"/>
+  <anchor x="590" y="923" name="_ringmiddle"/>
+  <anchor x="590" y="927" name="dot"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_ring" xOffset="591" yOffset="-542"/>
+    <component base="_ring" xOffset="590" yOffset="-542"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

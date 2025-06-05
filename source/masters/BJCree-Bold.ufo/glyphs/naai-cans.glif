@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naai-cans" format="2">
-  <advance width="1663"/>
+  <advance width="1662"/>
   <unicode hex="14C1"/>
-  <anchor x="588" y="930" name="_ringmiddle"/>
-  <anchor x="588" y="934" name="dot"/>
+  <anchor x="587" y="930" name="_ringmiddle"/>
+  <anchor x="587" y="934" name="dot"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_ring" xOffset="588" yOffset="-535"/>
+    <component base="_ring" xOffset="587" yOffset="-535"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

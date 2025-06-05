@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="cwooWestCree-cans" format="2">
-  <advance width="1600"/>
+  <advance width="1668"/>
   <unicode hex="149B"/>
-  <anchor x="849" y="1463" name="2dotsright"/>
-  <anchor x="849" y="1465" name="_dot2"/>
-  <anchor x="849" y="1463" name="_dot3"/>
+  <anchor x="917" y="1463" name="2dotsright"/>
+  <anchor x="917" y="1465" name="_dot2"/>
+  <anchor x="917" y="1463" name="_dot3"/>
   <outline>
     <component base="coo-cans"/>
-    <component base="_dotright" xOffset="1169"/>
+    <component base="_dotright" xOffset="1237"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwi-cans" format="2">
-  <advance width="2094"/>
+  <advance width="2093"/>
   <unicode hex="18C6"/>
-  <anchor x="1019" y="934" name="dot"/>
-  <anchor x="1019" y="932" name="ring"/>
+  <anchor x="1018" y="934" name="dot"/>
+  <anchor x="1018" y="932" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ni-cans" xOffset="431"/>

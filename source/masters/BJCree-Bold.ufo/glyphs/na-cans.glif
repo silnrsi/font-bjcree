@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="na-cans" format="2">
-  <advance width="1663"/>
+  <advance width="1662"/>
   <unicode hex="14C7"/>
-  <anchor x="591" y="929" name="2dotsmiddle"/>
-  <anchor x="591" y="927" name="dot"/>
-  <anchor x="591" y="925" name="ring"/>
+  <anchor x="590" y="929" name="2dotsmiddle"/>
+  <anchor x="590" y="927" name="dot"/>
+  <anchor x="590" y="925" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="136" yOffset="-190"/>
+    <component base="ka-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="135" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>

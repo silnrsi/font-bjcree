@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaaNaskapi-cans" format="2">
-  <advance width="1958"/>
+  <advance width="1960"/>
   <unicode hex="14CF"/>
-  <anchor x="650" y="815" name="_2dotsleft"/>
-  <anchor x="1119" y="815" name="_2dotsright"/>
-  <anchor x="885" y="813" name="dot"/>
-  <anchor x="885" y="811" name="ring"/>
+  <anchor x="652" y="815" name="_2dotsleft"/>
+  <anchor x="1121" y="815" name="_2dotsright"/>
+  <anchor x="887" y="813" name="dot"/>
+  <anchor x="887" y="811" name="ring"/>
   <outline>
     <component base="nwa-cans"/>
-    <component base="_dot2hclose" xOffset="251" yOffset="-580"/>
+    <component base="_dot2hclose" xOffset="253" yOffset="-580"/>
   </outline>
   <lib>
     <dict>
