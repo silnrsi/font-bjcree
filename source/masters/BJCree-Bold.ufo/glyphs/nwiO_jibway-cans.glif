@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwiOjibway-cans" format="2">
-  <advance width="2104"/>
+  <advance width="2094"/>
   <unicode hex="18C7"/>
   <anchor x="588" y="934" name="dot"/>
   <anchor x="588" y="932" name="ring"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_dotright" xOffset="1673"/>
+    <component base="_dotright" xOffset="1663"/>
   </outline>
   <lib>
     <dict>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aai-cans" format="2">
-  <advance width="1604"/>
+  <advance width="1584"/>
   <unicode hex="1402"/>
-  <anchor x="802" y="1465" name="_ringmiddle"/>
-  <anchor x="802" y="1469" name="dot"/>
+  <anchor x="792" y="1465" name="_ringmiddle"/>
+  <anchor x="792" y="1469" name="dot"/>
   <outline>
     <component base="i-cans"/>
-    <component base="_ring" xOffset="802"/>
+    <component base="_ring" xOffset="792"/>
   </outline>
   <lib>
     <dict>

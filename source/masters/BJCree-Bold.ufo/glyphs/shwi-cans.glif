@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwi-cans" format="2">
-  <advance width="2178"/>
+  <advance width="2164"/>
   <unicode hex="1519"/>
-  <anchor x="1679" y="1467" name="dot"/>
+  <anchor x="1665" y="1467" name="dot"/>
   <outline>
     <component base="_dotleft"/>
     <component base="shi-cans" xOffset="431"/>

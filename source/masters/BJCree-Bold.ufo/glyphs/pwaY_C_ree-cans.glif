@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwaYCree-cans" format="2">
-  <advance width="1621"/>
+  <advance width="1601"/>
   <unicode hex="1448"/>
-  <anchor x="327" y="970" name="_dot"/>
-  <anchor x="327" y="968" name="_dot2"/>
-  <anchor x="960" y="1278" name="_dot3"/>
-  <anchor x="1421" y="1467" name="dot"/>
-  <anchor x="1421" y="1465" name="ring"/>
-  <anchor x="898" y="1467" name="ringmiddle"/>
+  <anchor x="317" y="970" name="_dot"/>
+  <anchor x="317" y="968" name="_dot2"/>
+  <anchor x="950" y="1278" name="_dot3"/>
+  <anchor x="1411" y="1467" name="dot"/>
+  <anchor x="1411" y="1465" name="ring"/>
+  <anchor x="888" y="1467" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="_dotabove" xOffset="960" yOffset="-186"/>
-    <component base="_dotabove" xOffset="327" yOffset="-498"/>
+    <component base="_dotabove" xOffset="950" yOffset="-186"/>
+    <component base="_dotabove" xOffset="317" yOffset="-498"/>
   </outline>
   <lib>
     <dict>

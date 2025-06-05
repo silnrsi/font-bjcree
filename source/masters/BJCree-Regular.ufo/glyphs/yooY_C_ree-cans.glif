@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yooYCree-cans" format="2">
-  <advance width="1207"/>
+  <advance width="1214"/>
   <unicode hex="152C"/>
-  <anchor x="482" y="1391" name="_2dotsleft"/>
-  <anchor x="717" y="1391" name="_2dotsmiddle"/>
-  <anchor x="955" y="1395" name="dot"/>
-  <anchor x="955" y="1391" name="ring"/>
+  <anchor x="489" y="1391" name="_2dotsleft"/>
+  <anchor x="724" y="1391" name="_2dotsmiddle"/>
+  <anchor x="962" y="1395" name="dot"/>
+  <anchor x="962" y="1391" name="ring"/>
   <outline>
     <component base="yo-cans"/>
-    <component base="_dot2hclose" xOffset="83" yOffset="-4"/>
+    <component base="_dot2hclose" xOffset="90" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

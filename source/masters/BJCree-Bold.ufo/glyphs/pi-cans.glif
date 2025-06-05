@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi-cans" format="2">
-  <advance width="1604"/>
+  <advance width="1584"/>
   <unicode hex="1431"/>
-  <anchor x="802" y="1467" name="dot"/>
-  <anchor x="802" y="1465" name="ring"/>
+  <anchor x="792" y="1467" name="dot"/>
+  <anchor x="792" y="1465" name="ring"/>
   <outline>
     <contour>
-      <point x="70" y="0" type="line"/>
-      <point x="360" y="0" type="line"/>
-      <point x="802" y="891" type="line"/>
-      <point x="1244" y="0" type="line"/>
-      <point x="1534" y="0" type="line"/>
-      <point x="802" y="1488" type="line"/>
+      <point x="60" y="0" type="line"/>
+      <point x="350" y="0" type="line"/>
+      <point x="792" y="891" type="line"/>
+      <point x="1234" y="0" type="line"/>
+      <point x="1524" y="0" type="line"/>
+      <point x="792" y="1488" type="line"/>
     </contour>
   </outline>
   <lib>

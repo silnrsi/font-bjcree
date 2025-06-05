@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywoo-cans" format="2">
-  <advance width="1916"/>
+  <advance width="1906"/>
   <unicode hex="1537"/>
-  <anchor x="1602" y="1463" name="2dotsright"/>
-  <anchor x="1606" y="1465" name="_dot2"/>
-  <anchor x="1606" y="1463" name="_dot3"/>
-  <anchor x="1606" y="1463" name="ring"/>
+  <anchor x="1592" y="1463" name="2dotsright"/>
+  <anchor x="1596" y="1465" name="_dot2"/>
+  <anchor x="1596" y="1463" name="_dot3"/>
+  <anchor x="1596" y="1463" name="ring"/>
   <outline>
     <component base="ywo-cans"/>
-    <component base="_dotabove" xOffset="1606" yOffset="-1"/>
+    <component base="_dotabove" xOffset="1596" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

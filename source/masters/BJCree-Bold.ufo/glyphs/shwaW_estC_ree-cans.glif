@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwaWestCree-cans" format="2">
-  <advance width="2489"/>
+  <advance width="2475"/>
   <unicode hex="1522"/>
-  <anchor x="1029" y="927" name="dot"/>
-  <anchor x="1029" y="923" name="ring"/>
+  <anchor x="1022" y="927" name="dot"/>
+  <anchor x="1022" y="923" name="ring"/>
   <outline>
     <component base="sha-cans"/>
-    <component base="_dotright" xOffset="2058"/>
+    <component base="_dotright" xOffset="2044"/>
   </outline>
   <lib>
     <dict>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pe-cans" format="2">
-  <advance width="1572"/>
+  <advance width="1586"/>
   <unicode hex="142F"/>
   <outline>
     <contour>
-      <point x="781" y="-30" type="line"/>
-      <point x="1516" y="1393" type="line"/>
-      <point x="1368" y="1393" type="line"/>
-      <point x="783" y="240" type="line"/>
-      <point x="199" y="1393" type="line"/>
-      <point x="56" y="1393" type="line"/>
+      <point x="788" y="-30" type="line"/>
+      <point x="1523" y="1393" type="line"/>
+      <point x="1375" y="1393" type="line"/>
+      <point x="790" y="240" type="line"/>
+      <point x="206" y="1393" type="line"/>
+      <point x="63" y="1393" type="line"/>
     </contour>
   </outline>
   <lib>

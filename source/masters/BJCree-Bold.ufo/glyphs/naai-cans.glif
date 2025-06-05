@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="naai-cans" format="2">
-  <advance width="1673"/>
+  <advance width="1663"/>
   <unicode hex="14C1"/>
   <anchor x="588" y="930" name="_ringmiddle"/>
   <anchor x="588" y="934" name="dot"/>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwaa-cans" format="2">
-  <advance width="2489"/>
+  <advance width="2475"/>
   <unicode hex="1523"/>
-  <anchor x="1460" y="925" name="_dot2"/>
-  <anchor x="1460" y="923" name="_dot3"/>
-  <anchor x="1460" y="923" name="ring"/>
+  <anchor x="1453" y="925" name="_dot2"/>
+  <anchor x="1453" y="923" name="_dot3"/>
+  <anchor x="1453" y="923" name="ring"/>
   <outline>
     <component base="shwa-cans"/>
-    <component base="_dotabove" xOffset="1460" yOffset="-541"/>
+    <component base="_dotabove" xOffset="1453" yOffset="-541"/>
   </outline>
   <lib>
     <dict>

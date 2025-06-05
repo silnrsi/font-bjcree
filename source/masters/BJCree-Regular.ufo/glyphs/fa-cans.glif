@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fa-cans" format="2">
-  <advance width="1554"/>
+  <advance width="1561"/>
   <unicode hex="1559"/>
-  <anchor x="1242" y="1395" name="dot"/>
+  <anchor x="1249" y="1395" name="dot"/>
   <outline>
-    <component base="_fe-ring" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="1008" yOffset="1442"/>
+    <component base="_fe-ring" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="1015" yOffset="1442"/>
     <contour>
-      <point x="56" y="696" type="line"/>
-      <point x="1472" y="-30" type="line"/>
-      <point x="1472" y="111" type="line"/>
-      <point x="314" y="705" type="line"/>
-      <point x="1034" y="1135" type="line"/>
-      <point x="1109" y="1326" type="line"/>
+      <point x="63" y="696" type="line"/>
+      <point x="1479" y="-30" type="line"/>
+      <point x="1479" y="111" type="line"/>
+      <point x="321" y="705" type="line"/>
+      <point x="1041" y="1135" type="line"/>
+      <point x="1116" y="1326" type="line"/>
     </contour>
   </outline>
   <lib>

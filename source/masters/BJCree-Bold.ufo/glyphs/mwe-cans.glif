@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwe-cans" format="2">
-  <advance width="1633"/>
+  <advance width="1623"/>
   <unicode hex="14AC"/>
   <outline>
     <component base="_dotleft"/>

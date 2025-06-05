@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nay-cans" format="2">
-  <advance width="1673"/>
+  <advance width="1663"/>
   <unicode hex="18BC"/>
   <anchor x="591" y="929" name="2dotsmiddle"/>
   <anchor x="591" y="923" name="_ringmiddle"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwaaWestCree-cans" format="2">
-  <advance width="1703"/>
+  <advance width="1689"/>
   <unicode hex="1569"/>
-  <anchor x="975" y="1465" name="_dot2"/>
-  <anchor x="975" y="1463" name="_dot3"/>
+  <anchor x="968" y="1465" name="_dot2"/>
+  <anchor x="968" y="1463" name="_dot3"/>
   <outline>
     <component base="thaa-cans"/>
-    <component base="_dotrightclose" xOffset="1452"/>
+    <component base="_dotrightclose" xOffset="1438"/>
   </outline>
   <lib>
     <dict>

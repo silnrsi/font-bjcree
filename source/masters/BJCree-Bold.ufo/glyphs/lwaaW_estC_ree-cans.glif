@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwaaWestCree-cans" format="2">
-  <advance width="1781"/>
+  <advance width="1764"/>
   <unicode hex="14E9"/>
-  <anchor x="612" y="925" name="_dot2"/>
-  <anchor x="612" y="923" name="_dot3"/>
-  <anchor x="612" y="923" name="ring"/>
+  <anchor x="605" y="925" name="_dot2"/>
+  <anchor x="605" y="923" name="_dot3"/>
+  <anchor x="605" y="923" name="ring"/>
   <outline>
     <component base="laa-cans"/>
-    <component base="_dotrightcloser" xOffset="1670"/>
+    <component base="_dotrightcloser" xOffset="1653"/>
   </outline>
   <lib>
     <dict>

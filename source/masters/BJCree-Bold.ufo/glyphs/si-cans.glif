@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="si-cans" format="2">
-  <advance width="1317"/>
+  <advance width="1310"/>
   <unicode hex="14EF"/>
-  <anchor x="1067" y="1467" name="dot"/>
-  <anchor x="1067" y="1463" name="ring"/>
+  <anchor x="1060" y="1467" name="dot"/>
+  <anchor x="1060" y="1463" name="ring"/>
   <outline>
-    <component base="se-cans" xScale="-1" xOffset="1317"/>
+    <component base="se-cans" xScale="-1" xOffset="1310"/>
   </outline>
   <lib>
     <dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="she-cans" format="2">
-  <advance width="1747"/>
+  <advance width="1733"/>
   <unicode hex="1510"/>
   <outline>
-    <component base="sha-cans" xScale="0.75451" xyScale="-0.65629" yxScale="-0.65629" yScale="-0.75451" xOffset="373" yOffset="1713"/>
+    <component base="sha-cans" xScale="0.75451" xyScale="-0.65629" yxScale="-0.65629" yScale="-0.75451" xOffset="371" yOffset="1713"/>
   </outline>
   <lib>
     <dict>

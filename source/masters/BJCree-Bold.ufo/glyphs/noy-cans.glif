@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noy-cans" format="2">
-  <advance width="1679"/>
+  <advance width="1662"/>
   <unicode hex="18BB"/>
-  <anchor x="1080" y="929" name="2dotsmiddle"/>
-  <anchor x="1080" y="923" name="_ringmiddle"/>
-  <anchor x="1080" y="927" name="dot"/>
+  <anchor x="1070" y="929" name="2dotsmiddle"/>
+  <anchor x="1070" y="923" name="_ringmiddle"/>
+  <anchor x="1070" y="927" name="dot"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_ring" xOffset="1080" yOffset="-542"/>
+    <component base="_ring" xOffset="1070" yOffset="-542"/>
   </outline>
   <lib>
     <dict>

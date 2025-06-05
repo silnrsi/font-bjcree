@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwa-cans" format="2">
-  <advance width="2104"/>
+  <advance width="2094"/>
   <unicode hex="14CB"/>
   <anchor x="1022" y="929" name="2dotsmiddle"/>
   <anchor x="1022" y="927" name="dot"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wa-cans" format="2">
-  <advance width="2232"/>
+  <advance width="2222"/>
   <unicode hex="1417"/>
-  <anchor x="1885" y="1467" name="dot"/>
-  <anchor x="1451" y="1280" name="dot2"/>
-  <anchor x="818" y="966" name="dot3"/>
-  <anchor x="1885" y="1465" name="ring"/>
-  <anchor x="1389" y="1467" name="ringmiddle"/>
+  <anchor x="1875" y="1467" name="dot"/>
+  <anchor x="1441" y="1280" name="dot2"/>
+  <anchor x="808" y="966" name="dot3"/>
+  <anchor x="1875" y="1465" name="ring"/>
+  <anchor x="1379" y="1467" name="ringmiddle"/>
   <outline>
     <component base="_dotleftfar"/>
     <component base="a-cans" xOffset="491"/>

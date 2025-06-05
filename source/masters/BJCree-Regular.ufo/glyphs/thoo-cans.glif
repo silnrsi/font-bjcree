@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thoo-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1258"/>
   <unicode hex="1565"/>
-  <anchor x="302" y="1393" name="_dot2"/>
-  <anchor x="302" y="1391" name="_dot3"/>
+  <anchor x="309" y="1393" name="_dot2"/>
+  <anchor x="309" y="1391" name="_dot3"/>
   <outline>
     <component base="tho-cans"/>
-    <component base="_dotabove" xOffset="302"/>
+    <component base="_dotabove" xOffset="309"/>
   </outline>
   <lib>
     <dict>

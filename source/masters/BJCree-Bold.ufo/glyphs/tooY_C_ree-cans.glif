@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tooYCree-cans" format="2">
-  <advance width="1129"/>
+  <advance width="1112"/>
   <unicode hex="1452"/>
-  <anchor x="463" y="1463" name="_2dotsmiddle"/>
-  <anchor x="698" y="1463" name="_2dotsright"/>
-  <anchor x="228" y="1467" name="dot"/>
-  <anchor x="228" y="1465" name="ring"/>
+  <anchor x="453" y="1463" name="_2dotsmiddle"/>
+  <anchor x="688" y="1463" name="_2dotsright"/>
+  <anchor x="218" y="1467" name="dot"/>
+  <anchor x="218" y="1465" name="ring"/>
   <outline>
     <component base="to-cans"/>
-    <component base="_dot2hclose" xOffset="-233" yOffset="-4"/>
+    <component base="_dot2hclose" xOffset="-243" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

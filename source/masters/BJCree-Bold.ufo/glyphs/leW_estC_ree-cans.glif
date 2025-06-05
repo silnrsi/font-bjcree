@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leWestCree-cans" format="2">
-  <advance width="1607"/>
+  <advance width="1587"/>
   <unicode hex="1544"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="70" yOffset="1060"/>
+    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="60" yOffset="1060"/>
   </outline>
   <lib>
     <dict>

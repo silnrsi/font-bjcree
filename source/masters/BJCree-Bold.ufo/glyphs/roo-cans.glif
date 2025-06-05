@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="roo-cans" format="2">
-  <advance width="1181"/>
+  <advance width="1249"/>
   <unicode hex="1549"/>
-  <anchor x="211" y="1465" name="_dot2"/>
-  <anchor x="211" y="1463" name="_dot3"/>
+  <anchor x="279" y="1465" name="_dot2"/>
+  <anchor x="279" y="1463" name="_dot3"/>
   <outline>
     <component base="ro-cans"/>
-    <component base="_dotabove" xOffset="211" yOffset="-1"/>
+    <component base="_dotabove" xOffset="279" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

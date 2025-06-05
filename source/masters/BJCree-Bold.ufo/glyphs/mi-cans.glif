@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mi-cans" format="2">
-  <advance width="1202"/>
+  <advance width="1192"/>
   <unicode hex="14A5"/>
   <anchor x="671" y="1467" name="dot"/>
   <anchor x="671" y="1463" name="ring"/>

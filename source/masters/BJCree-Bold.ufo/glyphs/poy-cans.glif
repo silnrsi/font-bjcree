@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="poy-cans" format="2">
-  <advance width="1621"/>
+  <advance width="1601"/>
   <unicode hex="18B4"/>
-  <anchor x="764" y="1467" name="2dotsmiddle"/>
-  <anchor x="223" y="1463" name="_ringmiddle"/>
-  <anchor x="223" y="1467" name="dot"/>
+  <anchor x="744" y="1467" name="2dotsmiddle"/>
+  <anchor x="203" y="1463" name="_ringmiddle"/>
+  <anchor x="203" y="1467" name="dot"/>
   <outline>
     <component base="po-cans"/>
-    <component base="_ring" xOffset="223" yOffset="-2"/>
+    <component base="_ring" xOffset="203" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

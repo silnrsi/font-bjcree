@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwaaWestCree-cans" format="2">
-  <advance width="1703"/>
+  <advance width="1710"/>
   <unicode hex="14CE"/>
   <anchor x="524" y="815" name="2dotsmiddle"/>
   <anchor x="524" y="811" name="_dot2"/>
@@ -8,7 +8,7 @@
   <anchor x="524" y="811" name="ring"/>
   <outline>
     <component base="naa-cans"/>
-    <component base="_dotrightcloser" xOffset="1590"/>
+    <component base="_dotrightcloser" xOffset="1597"/>
   </outline>
   <lib>
     <dict>

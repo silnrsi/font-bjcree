@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="spaNaskapi-cans" format="2">
-  <advance width="1621"/>
+  <advance width="1601"/>
   <unicode hex="150C"/>
   <outline>
     <component base="pa-cans"/>

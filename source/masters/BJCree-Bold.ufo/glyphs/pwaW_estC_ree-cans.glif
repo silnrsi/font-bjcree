@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwaWestCree-cans" format="2">
-  <advance width="2052"/>
+  <advance width="2032"/>
   <unicode hex="1445"/>
-  <anchor x="1421" y="1467" name="dot"/>
-  <anchor x="960" y="1280" name="dot2"/>
-  <anchor x="327" y="966" name="dot3"/>
-  <anchor x="1421" y="1465" name="ring"/>
-  <anchor x="898" y="1467" name="ringmiddle"/>
+  <anchor x="1411" y="1467" name="dot"/>
+  <anchor x="950" y="1280" name="dot2"/>
+  <anchor x="317" y="966" name="dot3"/>
+  <anchor x="1411" y="1465" name="ring"/>
+  <anchor x="888" y="1467" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="_dotright" xOffset="1621"/>
+    <component base="_dotright" xOffset="1601"/>
   </outline>
   <lib>
     <dict>

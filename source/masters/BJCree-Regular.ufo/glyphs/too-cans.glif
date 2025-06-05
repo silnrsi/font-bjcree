@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="too-cans" format="2">
-  <advance width="1082"/>
+  <advance width="1089"/>
   <unicode hex="1451"/>
-  <anchor x="146" y="1391" name="2dotsleft"/>
-  <anchor x="146" y="1393" name="_dot2"/>
-  <anchor x="146" y="1391" name="_dot3"/>
-  <anchor x="146" y="1393" name="ring"/>
+  <anchor x="153" y="1391" name="2dotsleft"/>
+  <anchor x="153" y="1393" name="_dot2"/>
+  <anchor x="153" y="1391" name="_dot3"/>
+  <anchor x="153" y="1393" name="ring"/>
   <outline>
     <component base="to-cans"/>
-    <component base="_dotabove" xOffset="146"/>
+    <component base="_dotabove" xOffset="153"/>
   </outline>
   <lib>
     <dict>

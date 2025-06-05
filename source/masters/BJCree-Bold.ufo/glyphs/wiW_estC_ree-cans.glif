@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wiWestCree-cans" format="2">
-  <advance width="1855"/>
-  <anchor x="802" y="1469" name="dot"/>
-  <anchor x="802" y="1467" name="ring"/>
+  <advance width="1835"/>
+  <anchor x="792" y="1469" name="dot"/>
+  <anchor x="792" y="1467" name="ring"/>
   <outline>
     <component base="i-cans"/>
-    <component base="_dotrightclose" xOffset="1604"/>
+    <component base="_dotrightclose" xOffset="1584"/>
   </outline>
   <lib>
     <dict>

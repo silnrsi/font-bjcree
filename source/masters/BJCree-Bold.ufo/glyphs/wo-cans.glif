@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wo-cans" format="2">
-  <advance width="2172"/>
+  <advance width="2162"/>
   <unicode hex="1412"/>
   <anchor x="1200" y="1467" name="2dotsmiddle"/>
   <anchor x="751" y="1467" name="dot"/>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swoWestCree-cans" format="2">
-  <advance width="1748"/>
+  <advance width="1741"/>
   <unicode hex="14FD"/>
   <anchor x="986" y="1463" name="2dotsright"/>
   <anchor x="990" y="1467" name="dot"/>
   <anchor x="990" y="1463" name="ring"/>
   <outline>
     <component base="so-cans"/>
-    <component base="_dotright" xOffset="1317"/>
+    <component base="_dotright" xOffset="1310"/>
   </outline>
   <lib>
     <dict>

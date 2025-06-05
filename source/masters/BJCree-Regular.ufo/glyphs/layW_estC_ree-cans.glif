@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="layWestCree-cans" format="2">
-  <advance width="1593"/>
+  <advance width="1600"/>
   <unicode hex="18BD"/>
   <anchor x="519" y="807" name="_ringmiddle"/>
   <anchor x="519" y="813" name="dot"/>

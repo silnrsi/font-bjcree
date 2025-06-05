@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywo-cans" format="2">
-  <advance width="1648"/>
+  <advance width="1655"/>
   <unicode hex="1535"/>
-  <anchor x="1392" y="1391" name="2dotsright"/>
-  <anchor x="1396" y="1395" name="dot"/>
-  <anchor x="1396" y="1391" name="ring"/>
+  <anchor x="1399" y="1391" name="2dotsright"/>
+  <anchor x="1403" y="1395" name="dot"/>
+  <anchor x="1403" y="1391" name="ring"/>
   <outline>
     <component base="_dotleftfar"/>
     <component base="yo-cans" xOffset="441"/>

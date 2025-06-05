@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kaa-cans" format="2">
-  <advance width="1259"/>
+  <advance width="1252"/>
   <unicode hex="1473"/>
   <anchor x="320" y="1465" name="_dot2"/>
   <anchor x="320" y="1463" name="_dot3"/>

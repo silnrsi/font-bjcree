@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tho-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1258"/>
   <unicode hex="1564"/>
-  <anchor x="302" y="1395" name="dot"/>
+  <anchor x="309" y="1395" name="dot"/>
   <outline>
-    <component base="tha-cans" xScale="-1" xOffset="1251"/>
+    <component base="tha-cans" xScale="-1" xOffset="1258"/>
   </outline>
   <lib>
     <dict>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pa-cans" format="2">
-  <advance width="1517"/>
+  <advance width="1531"/>
   <unicode hex="1438"/>
-  <anchor x="1372" y="1395" name="dot"/>
-  <anchor x="913" y="1263" name="dot2"/>
-  <anchor x="280" y="939" name="dot3"/>
-  <anchor x="1372" y="1393" name="ring"/>
-  <anchor x="881" y="1405" name="ringmiddle"/>
+  <anchor x="1379" y="1395" name="dot"/>
+  <anchor x="920" y="1263" name="dot2"/>
+  <anchor x="287" y="939" name="dot3"/>
+  <anchor x="1379" y="1393" name="ring"/>
+  <anchor x="888" y="1405" name="ringmiddle"/>
   <outline>
     <contour>
-      <point x="1461" y="-39" type="line"/>
-      <point x="1461" y="111" type="line"/>
-      <point x="329" y="694" type="line"/>
-      <point x="1461" y="1276" type="line"/>
-      <point x="1461" y="1421" type="line"/>
-      <point x="56" y="696" type="line"/>
+      <point x="1468" y="-39" type="line"/>
+      <point x="1468" y="111" type="line"/>
+      <point x="336" y="694" type="line"/>
+      <point x="1468" y="1276" type="line"/>
+      <point x="1468" y="1421" type="line"/>
+      <point x="63" y="696" type="line"/>
     </contour>
   </outline>
   <lib>

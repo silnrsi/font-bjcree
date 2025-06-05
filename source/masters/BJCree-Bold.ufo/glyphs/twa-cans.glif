@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twa-cans" format="2">
-  <advance width="1560"/>
+  <advance width="1543"/>
   <unicode hex="1461"/>
-  <anchor x="1350" y="1467" name="dot"/>
-  <anchor x="1350" y="1465" name="ring"/>
+  <anchor x="1333" y="1467" name="dot"/>
+  <anchor x="1333" y="1465" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ta-cans" xOffset="431"/>

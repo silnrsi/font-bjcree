@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yoy-cans" format="2">
-  <advance width="1207"/>
+  <advance width="1214"/>
   <unicode hex="18C3"/>
-  <anchor x="951" y="1391" name="2dotsright"/>
-  <anchor x="955" y="1389" name="_ringmiddle"/>
-  <anchor x="955" y="1395" name="dot"/>
+  <anchor x="958" y="1391" name="2dotsright"/>
+  <anchor x="962" y="1389" name="_ringmiddle"/>
+  <anchor x="962" y="1395" name="dot"/>
   <outline>
     <component base="yo-cans"/>
-    <component base="_ring" xOffset="955" yOffset="-4"/>
+    <component base="_ring" xOffset="962" yOffset="-4"/>
   </outline>
   <lib>
     <dict>

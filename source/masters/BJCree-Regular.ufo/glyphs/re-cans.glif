@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="re-cans" format="2">
-  <advance width="1578"/>
+  <advance width="1585"/>
   <unicode hex="1542"/>
   <outline>
     <component base="ra-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1522" yOffset="-137"/>

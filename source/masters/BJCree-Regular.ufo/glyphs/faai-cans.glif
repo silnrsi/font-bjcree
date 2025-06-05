@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="faai-cans" format="2">
-  <advance width="1464"/>
+  <advance width="1471"/>
   <unicode hex="1554"/>
   <anchor x="717" y="1389" name="_ringmiddle"/>
   <anchor x="717" y="1395" name="dot"/>

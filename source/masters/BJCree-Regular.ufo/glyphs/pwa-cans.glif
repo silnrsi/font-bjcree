@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwa-cans" format="2">
-  <advance width="1878"/>
+  <advance width="1892"/>
   <unicode hex="1444"/>
-  <anchor x="1733" y="1395" name="dot"/>
-  <anchor x="1274" y="1263" name="dot2"/>
-  <anchor x="641" y="939" name="dot3"/>
-  <anchor x="1733" y="1393" name="ring"/>
-  <anchor x="1242" y="1405" name="ringmiddle"/>
+  <anchor x="1740" y="1395" name="dot"/>
+  <anchor x="1281" y="1263" name="dot2"/>
+  <anchor x="648" y="939" name="dot3"/>
+  <anchor x="1740" y="1393" name="ring"/>
+  <anchor x="1249" y="1405" name="ringmiddle"/>
   <outline>
     <component base="_dotleft"/>
     <component base="pa-cans" xOffset="361"/>

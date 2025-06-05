@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwa-cans" format="2">
-  <advance width="1703"/>
+  <advance width="1689"/>
   <unicode hex="18E4"/>
-  <anchor x="975" y="1467" name="dot"/>
+  <anchor x="968" y="1467" name="dot"/>
   <outline>
     <component base="tha-cans"/>
-    <component base="_dotrightclose" xOffset="1452"/>
+    <component base="_dotrightclose" xOffset="1438"/>
   </outline>
   <lib>
     <dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="woo-cans" format="2">
-  <advance width="2009"/>
+  <advance width="2016"/>
   <unicode hex="1414"/>
   <anchor x="1099" y="1395" name="2dotsmiddle"/>
   <anchor x="616" y="1393" name="_dot2"/>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fe-cans" format="2">
-  <advance width="1520"/>
+  <advance width="1510"/>
   <unicode hex="1553"/>
   <outline>
     <component base="_fe-ring" yOffset="1077"/>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwaWestCree-cans" format="2">
-  <advance width="1232"/>
+  <advance width="1239"/>
   <unicode hex="14B7"/>
   <anchor x="253" y="1395" name="dot"/>
   <anchor x="253" y="1391" name="ring"/>
   <outline>
     <component base="ma-cans"/>
-    <component base="_dotrightclose" xOffset="1051"/>
+    <component base="_dotrightclose" xOffset="1058"/>
   </outline>
   <lib>
     <dict>

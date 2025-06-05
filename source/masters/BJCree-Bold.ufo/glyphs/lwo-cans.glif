@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwo-cans" format="2">
-  <advance width="1921"/>
+  <advance width="1904"/>
   <unicode hex="14E2"/>
-  <anchor x="1383" y="927" name="2dotsmiddle"/>
-  <anchor x="1333" y="927" name="dot"/>
+  <anchor x="1373" y="927" name="2dotsmiddle"/>
+  <anchor x="1323" y="927" name="dot"/>
   <outline>
     <component base="_dotleftclose"/>
     <component base="lo-cans" xOffset="251"/>

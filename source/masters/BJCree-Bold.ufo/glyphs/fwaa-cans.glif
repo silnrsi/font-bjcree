@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fwaa-cans" format="2">
-  <advance width="2211"/>
+  <advance width="2201"/>
   <unicode hex="155B"/>
-  <anchor x="1801" y="1465" name="_dot2"/>
-  <anchor x="1801" y="1463" name="_dot3"/>
+  <anchor x="1791" y="1465" name="_dot2"/>
+  <anchor x="1791" y="1463" name="_dot3"/>
   <outline>
     <component base="_dotleft"/>
     <component base="faa-cans" xOffset="431"/>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="waaNaskapi-cans" format="2">
-  <advance width="1648"/>
+  <advance width="1655"/>
   <unicode hex="141B"/>
-  <anchor x="214" y="943" name="_dot"/>
-  <anchor x="214" y="941" name="_dot2"/>
-  <anchor x="847" y="1261" name="_dot3"/>
-  <anchor x="1390" y="1395" name="dot"/>
-  <anchor x="1390" y="1393" name="ring"/>
-  <anchor x="815" y="1395" name="ringmiddle"/>
+  <anchor x="221" y="943" name="_dot"/>
+  <anchor x="221" y="941" name="_dot2"/>
+  <anchor x="854" y="1261" name="_dot3"/>
+  <anchor x="1397" y="1395" name="dot"/>
+  <anchor x="1397" y="1393" name="ring"/>
+  <anchor x="822" y="1395" name="ringmiddle"/>
   <outline>
     <component base="a-cans"/>
-    <component base="_dotabove" xOffset="847" yOffset="-130"/>
-    <component base="_dotabove" xOffset="214" yOffset="-452"/>
+    <component base="_dotabove" xOffset="854" yOffset="-130"/>
+    <component base="_dotabove" xOffset="221" yOffset="-452"/>
   </outline>
   <lib>
     <dict>

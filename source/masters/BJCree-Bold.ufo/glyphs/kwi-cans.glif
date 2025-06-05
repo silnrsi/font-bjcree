@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwi-cans" format="2">
-  <advance width="1690"/>
+  <advance width="1683"/>
   <unicode hex="1476"/>
   <anchor x="1091" y="1467" name="dot"/>
   <anchor x="1091" y="1463" name="ring"/>

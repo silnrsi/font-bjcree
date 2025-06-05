@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fo-cans" format="2">
-  <advance width="1536"/>
+  <advance width="1550"/>
   <unicode hex="1557"/>
-  <anchor x="278" y="1395" name="dot"/>
+  <anchor x="292" y="1395" name="dot"/>
   <outline>
-    <component base="fa-cans" xScale="-1" xOffset="1536"/>
+    <component base="fa-cans" xScale="-1" xOffset="1550"/>
   </outline>
   <lib>
     <dict>

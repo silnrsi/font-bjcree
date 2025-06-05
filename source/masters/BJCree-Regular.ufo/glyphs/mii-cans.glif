@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mii-cans" format="2">
-  <advance width="1051"/>
+  <advance width="1058"/>
   <unicode hex="14A6"/>
   <anchor x="592" y="1393" name="_dot2"/>
   <anchor x="592" y="1391" name="_dot3"/>

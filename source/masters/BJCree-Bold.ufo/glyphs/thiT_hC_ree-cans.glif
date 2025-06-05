@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thiThCree-cans" format="2">
-  <advance width="1504"/>
+  <advance width="1494"/>
   <unicode hex="15A8"/>
-  <anchor x="472" y="1467" name="dot"/>
+  <anchor x="462" y="1467" name="dot"/>
   <outline>
-    <component base="theThCree-cans" xScale="-1" xOffset="1504"/>
+    <component base="theThCree-cans" xScale="-1" xOffset="1494"/>
   </outline>
   <lib>
     <dict>

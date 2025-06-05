@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwiWestCree-cans" format="2">
-  <advance width="2178"/>
+  <advance width="2164"/>
   <unicode hex="151A"/>
-  <anchor x="1248" y="1467" name="dot"/>
+  <anchor x="1234" y="1467" name="dot"/>
   <outline>
     <component base="shi-cans"/>
-    <component base="_dotright" xOffset="1747"/>
+    <component base="_dotright" xOffset="1733"/>
   </outline>
   <lib>
     <dict>

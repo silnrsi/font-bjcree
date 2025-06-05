@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oo-cans" format="2">
-  <advance width="1648"/>
+  <advance width="1655"/>
   <unicode hex="1406"/>
   <anchor x="738" y="1395" name="2dotsmiddle"/>
   <anchor x="255" y="1393" name="_dot2"/>
@@ -15,8 +15,6 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>

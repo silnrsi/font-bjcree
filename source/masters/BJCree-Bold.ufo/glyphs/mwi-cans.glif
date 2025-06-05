@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwi-cans" format="2">
-  <advance width="1633"/>
+  <advance width="1623"/>
   <unicode hex="14AE"/>
   <anchor x="1102" y="1467" name="dot"/>
   <anchor x="1102" y="1463" name="ring"/>

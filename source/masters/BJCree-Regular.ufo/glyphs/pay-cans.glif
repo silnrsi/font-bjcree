@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pay-cans" format="2">
-  <advance width="1517"/>
+  <advance width="1531"/>
   <unicode hex="18B5"/>
-  <anchor x="1372" y="1391" name="_ringmiddle"/>
-  <anchor x="1372" y="1395" name="dot"/>
-  <anchor x="913" y="1263" name="dot2"/>
-  <anchor x="280" y="939" name="dot3"/>
-  <anchor x="881" y="1405" name="ringmiddle"/>
+  <anchor x="1379" y="1391" name="_ringmiddle"/>
+  <anchor x="1379" y="1395" name="dot"/>
+  <anchor x="920" y="1263" name="dot2"/>
+  <anchor x="287" y="939" name="dot3"/>
+  <anchor x="888" y="1405" name="ringmiddle"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="_ring" xOffset="1372" yOffset="-2"/>
+    <component base="_ring" xOffset="1379" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
