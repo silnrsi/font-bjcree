@@ -190,8 +190,12 @@
   <string>_sb.dot.glif</string>
   <key>_sb.point</key>
   <string>_sb.point.glif</string>
+  <key>_sb.vertdotabove</key>
+  <string>_sb.vertdotabove.glif</string>
   <key>_sb.vertical</key>
   <string>_sb.vertical.glif</string>
+  <key>_sb.vertringabove</key>
+  <string>_sb.vertringabove.glif</string>
   <key>a</key>
   <string>a.glif</string>
   <key>a-cans</key>
