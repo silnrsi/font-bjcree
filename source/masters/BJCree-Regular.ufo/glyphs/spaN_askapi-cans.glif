@@ -4,7 +4,7 @@
   <unicode hex="150C"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="s-cans.small" xOffset="-40" yOffset="-10"/>
+    <component base="s-cans.small" xOffset="328" yOffset="-10"/>
     <component base="_dotabove" xOffset="920" yOffset="-130"/>
     <component base="_dotabove" xOffset="287" yOffset="-452"/>
   </outline>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwii-cans" format="2">
-  <advance width="2140"/>
+  <advance width="2278"/>
   <unicode hex="18D0"/>
-  <anchor x="1015" y="925" name="_dot2"/>
-  <anchor x="1015" y="923" name="_dot3"/>
-  <anchor x="1015" y="923" name="ring"/>
+  <anchor x="1084" y="925" name="_dot2"/>
+  <anchor x="1084" y="923" name="_dot3"/>
+  <anchor x="1084" y="923" name="ring"/>
   <outline>
     <component base="rwi-cans"/>
-    <component base="_dotabove" xOffset="1015" yOffset="-541"/>
+    <component base="_dotabove" xOffset="1084" yOffset="-541"/>
   </outline>
   <lib>
     <dict>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rii-cans" format="2">
-  <advance width="1649"/>
+  <advance width="1775"/>
   <unicode hex="1547"/>
-  <anchor x="516" y="811" name="_dot2"/>
-  <anchor x="516" y="809" name="_dot3"/>
-  <anchor x="516" y="809" name="ring"/>
+  <anchor x="579" y="811" name="_dot2"/>
+  <anchor x="579" y="809" name="_dot3"/>
+  <anchor x="579" y="809" name="ring"/>
   <outline>
     <component base="ri-cans"/>
-    <component base="_dotabove" xOffset="516" yOffset="-582"/>
+    <component base="_dotabove" xOffset="579" yOffset="-582"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>
