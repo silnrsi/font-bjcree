@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.vertical</string>
+      <string>_sb.vertringabove</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
