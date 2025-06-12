@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thaThCree-cans" format="2">
-  <advance width="1252"/>
+  <advance width="1299"/>
   <unicode hex="15AC"/>
-  <anchor x="291" y="1395" name="dot"/>
+  <anchor x="337" y="1395" name="dot"/>
   <outline>
-    <component base="_barStemH" xScale="-1" xOffset="1314" yOffset="749"/>
-    <contour>
-      <point x="353" y="1395" type="line"/>
-      <point x="228" y="1395" type="line"/>
-      <point x="228" y="635" type="line"/>
-      <point x="914" y="635" type="line"/>
-      <point x="361" y="0" type="line"/>
-      <point x="527" y="0" type="line"/>
-      <point x="1189" y="760" type="line"/>
-      <point x="353" y="760" type="line"/>
-    </contour>
+    <component base="theThCree-cans" xScale="-1" yScale="-1" xOffset="1299" yOffset="1393"/>
   </outline>
   <lib>
     <dict>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_barStemH2" format="2">
+  <advance width="1281"/>
+  <anchor x="961" y="2" name="_ring"/>
+  <outline>
+    <contour>
+      <point x="665" y="277" type="line"/>
+      <point x="665" y="152" type="line"/>
+      <point x="1236" y="152" type="line"/>
+      <point x="1236" y="277" type="line"/>
+    </contour>
+    <contour>
+      <point x="665" y="459" type="line"/>
+      <point x="665" y="334" type="line"/>
+      <point x="1236" y="334" type="line"/>
+      <point x="1236" y="459" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

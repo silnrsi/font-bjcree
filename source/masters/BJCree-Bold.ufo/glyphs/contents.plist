@@ -142,6 +142,8 @@
   <string>_barH_.glif</string>
   <key>_barStemH</key>
   <string>_barS_temH_.glif</string>
+  <key>_barStemH2</key>
+  <string>_barS_temH_2.glif</string>
   <key>_dot2h</key>
   <string>_dot2h.glif</string>
   <key>_dot2hclose</key>
