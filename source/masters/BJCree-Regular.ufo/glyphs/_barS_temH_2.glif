@@ -5,21 +5,15 @@
   <outline>
     <contour>
       <point x="665" y="277" type="line"/>
-      <point x="665" y="152" type="line"/>
-      <point x="1236" y="152" type="line"/>
+      <point x="665" y="172" type="line"/>
+      <point x="1236" y="172" type="line"/>
       <point x="1236" y="277" type="line"/>
     </contour>
     <contour>
-      <point x="665" y="459" type="line"/>
-      <point x="665" y="334" type="line"/>
-      <point x="1236" y="334" type="line"/>
-      <point x="1236" y="459" type="line"/>
+      <point x="665" y="479" type="line"/>
+      <point x="665" y="374" type="line"/>
+      <point x="1236" y="374" type="line"/>
+      <point x="1236" y="479" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-    </dict>
-  </lib>
 </glyph>

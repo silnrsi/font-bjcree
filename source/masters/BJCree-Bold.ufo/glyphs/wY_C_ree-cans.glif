@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wYCree-cans" format="2">
-  <advance width="783"/>
+  <advance width="852"/>
   <unicode hex="141D"/>
   <outline>
     <component base="finalmiddledot-cans" xOffset="-61" yOffset="-78"/>
-    <component base="_ring" xOffset="347" yOffset="-798"/>
+    <component base="_ring" xOffset="552" yOffset="-798"/>
   </outline>
 </glyph>
