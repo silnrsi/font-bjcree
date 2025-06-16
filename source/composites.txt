@@ -248,7 +248,7 @@ swa-cans            = _dotleft & sa-cans
 swaWestCree-cans    = sa-cans & _dotright
 swaa-cans           = swa-cans + _dotabove@dot
 swaaWestCree-cans   = saa-cans & _dotright
-swaaNaskapi-cans    = swa-cans & _dot2vclose
+swaaNaskapi-cans    = _dot2vclose & sa-cans
 say-cans            = sa-cans + _ring@ring
 
 ### ᓭ se-cans based
