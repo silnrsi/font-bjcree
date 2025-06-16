@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s-cans.small.short" format="2">
+  <advance width="785"/>
+  <anchor x="1253" y="1393" name="_ring"/>
+  <outline>
+    <contour>
+      <point x="481" y="454" type="line"/>
+      <point x="556" y="454" type="line"/>
+      <point x="556" y="516" type="line" smooth="yes"/>
+      <point x="556" y="636"/>
+      <point x="481" y="743"/>
+      <point x="303" y="743" type="curve"/>
+      <point x="303" y="962" type="line"/>
+      <point x="229" y="962" type="line"/>
+      <point x="229" y="668" type="line"/>
+      <point x="325" y="668" type="line" smooth="yes"/>
+      <point x="414" y="668"/>
+      <point x="481" y="603"/>
+      <point x="481" y="514" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

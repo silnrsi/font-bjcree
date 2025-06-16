@@ -4,6 +4,6 @@
   <unicode hex="150D"/>
   <outline>
     <component base="twaaNaskapi-cans" xOffset="142"/>
-    <component base="s-cans.small" xOffset="102" yOffset="-727"/>
+    <component base="s-cans.small.short"/>
   </outline>
 </glyph>

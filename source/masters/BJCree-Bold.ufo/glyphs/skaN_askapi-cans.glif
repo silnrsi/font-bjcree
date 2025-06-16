@@ -4,7 +4,7 @@
   <unicode hex="150E"/>
   <outline>
     <component base="kwaaNaskapi-cans" xOffset="49"/>
-    <component base="s-cans.small" xOffset="24" yOffset="-687"/>
+    <component base="s-cans.small.short" xOffset="-46" yOffset="-17"/>
   </outline>
   <lib>
     <dict>

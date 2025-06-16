@@ -1074,6 +1074,8 @@
   <string>s-cans.glif</string>
   <key>s-cans.small</key>
   <string>s-cans.small.glif</string>
+  <key>s-cans.small.short</key>
+  <string>s-cans.small.short.glif</string>
   <key>sAthapaskan-cans</key>
   <string>sA_thapaskan-cans.glif</string>
   <key>sBlackfoot-cans</key>
