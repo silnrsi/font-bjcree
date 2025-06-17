@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wiWestCree-cans" format="2">
   <advance width="1835"/>
+  <unicode hex="140F"/>
   <anchor x="792" y="1469" name="dot"/>
   <anchor x="792" y="1467" name="ring"/>
   <outline>
