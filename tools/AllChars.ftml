@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="ftml.xsl" type="text/xsl"?>
+<ftml version="1.0">
+  <head>
+    <fontsrc>url(/Users/martinpk/Documents/github/font-bjcree/local/Original Sources/BJCree Original Materials/Fonts/v2.000 created 2005-05-13; used daily by Bill/bjcrus.ttf)</fontsrc>
+    <title>AllChars</title>
+  </head>
+  <testgroup background="#f0f0f0" label="Rendering Check">
+    <test label="check">
+      <string>RenderingUnknown</string>
+    </test>
+  </testgroup>
+  <testgroup label="Encoded characters">
+    <test label="U+0020">
+      <comment>space</comment>
+      <string>\u00F130 \u00F131</string>
+    </test>
+    <test label="U+0022">
+      <comment>quotedbl</comment>
+      <string>" # $ % &amp; '</string>
+    </test>
+    <test label="U+0028">
+      <comment>parenleft</comment>
+      <string>( LTR: \u00202A(\u00202C RTL: \u00202B(\u00202C</string>
+    </test>
+    <test label="U+0029">
+      <comment>parenright</comment>
+      <string>) LTR: \u00202A)\u00202C RTL: \u00202B)\u00202C</string>
+    </test>
+    <test label="U+002A">
+      <comment>asterisk</comment>
+      <string>* + , - . / 0 1 2 3 4 5 6 7 8 9 : ;</string>
+    </test>
+    <test label="U+003C">
+      <comment>less</comment>
+      <string>&lt; LTR: \u00202A&lt;\u00202C RTL: \u00202B&lt;\u00202C</string>
+    </test>
+    <test label="U+003D">
+      <comment>equal</comment>
+      <string>=</string>
+    </test>
+    <test label="U+003E">
+      <comment>greater</comment>
+      <string>&gt; LTR: \u00202A&gt;\u00202C RTL: \u00202B&gt;\u00202C</string>
+    </test>
+    <test label="U+0040">
+      <comment>at</comment>
+      <string>@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z</string>
+    </test>
+    <test label="U+005B">
+      <comment>bracketleft</comment>
+      <string>[ LTR: \u00202A[\u00202C RTL: \u00202B[\u00202C</string>
+    </test>
+    <test label="U+005C">
+      <comment>backslash</comment>
+      <string>\</string>
+    </test>
+    <test label="U+005D">
+      <comment>bracketright</comment>
+      <string>] LTR: \u00202A]\u00202C RTL: \u00202B]\u00202C</string>
+    </test>
+    <test label="U+005E">
+      <comment>asciicircum</comment>
+      <string>^ _ ` a b c d e f g h i j k l m n o p q r s t u v w x y z</string>
+    </test>
+    <test label="U+007B">
+      <comment>braceleft</comment>
+      <string>{ LTR: \u00202A{\u00202C RTL: \u00202B{\u00202C</string>
+    </test>
+    <test label="U+007C">
+      <comment>bar</comment>
+      <string>|</string>
+    </test>
+    <test label="U+007D">
+      <comment>braceright</comment>
+      <string>} LTR: \u00202A}\u00202C RTL: \u00202B}\u00202C</string>
+    </test>
+    <test label="U+007E">
+      <comment>asciitilde</comment>
+      <string>~</string>
+    </test>
+    <test label="U+00A0">
+      <comment>nbspace</comment>
+      <string>\u00F130\u0000A0\u00F131 \u0000A1 \u0000A2 \u0000A3 \u0000A4 \u0000A5 \u0000A6 \u0000A7 \u0000A8 \u0000A9 \u0000AA</string>
+    </test>
+    <test label="U+00AB">
+      <comment>guillemotleft</comment>
+      <string>\u0000AB LTR: \u00202A\u0000AB\u00202C RTL: \u00202B\u0000AB\u00202C</string>
+    </test>
+    <test label="U+00AC">
+      <comment>logicalnot</comment>
+      <string>\u0000AC \u0000AD \u0000AE \u0000AF \u0000B0 \u0000B1 \u0000B2 \u0000B3 \u0000B4 \u0000B5 \u0000B6 \u0000B7 \u0000B8 \u0000B9 \u0000BA</string>
+    </test>
+    <test label="U+00BB">
+      <comment>guillemotright</comment>
+      <string>\u0000BB LTR: \u00202A\u0000BB\u00202C RTL: \u00202B\u0000BB\u00202C</string>
+    </test>
+    <test label="U+00BC">
+      <comment>onequarter</comment>
+      <string>\u0000BC \u0000BD \u0000BE \u0000BF \u0000C0 \u0000C1 \u0000C2 \u0000C3 \u0000C4 \u0000C5 \u0000C6 \u0000C7 \u0000C8 \u0000C9 \u0000CA \u0000CB \u0000CC \u0000CD \u0000CE \u0000CF \u0000D0 \u0000D1 \u0000D2 \u0000D3 \u0000D4 \u0000D5 \u0000D6 \u0000D7 \u0000D8 \u0000D9 \u0000DA \u0000DB \u0000DC \u0000DD \u0000DE \u0000DF \u0000E0 \u0000E1 \u0000E2 \u0000E3 \u0000E4 \u0000E5 \u0000E6 \u0000E7 \u0000E8 \u0000E9 \u0000EA \u0000EB \u0000EC \u0000ED \u0000EE \u0000EF \u0000F0 \u0000F1 \u0000F2 \u0000F3 \u0000F4 \u0000F5 \u0000F6 \u0000F7 \u0000F8 \u0000F9 \u0000FA \u0000FB \u0000FC \u0000FD \u0000FE \u0000FF \u000100 \u000101 \u000102 \u000103</string>
+    </test>
+    <test label="U+0110">
+      <comment>uni0110</comment>
+      <string>\u000110 \u000111 \u000112 \u000113</string>
+    </test>
+    <test label="U+0128">
+      <comment>uni0128</comment>
+      <string>\u000128 \u000129 \u00012A \u00012B</string>
+    </test>
+    <test label="U+0131">
+      <comment>dotlessi</comment>
+      <string>\u000131</string>
+    </test>
+    <test label="U+014C">
+      <comment>Omacron</comment>
+      <string>\u00014C \u00014D</string>
+    </test>
+    <test label="U+0152">
+      <comment>OE</comment>
+      <string>\u000152 \u000153</string>
+    </test>
+    <test label="U+0160">
+      <comment>Scaron</comment>
+      <string>\u000160 \u000161</string>
+    </test>
+    <test label="U+0168">
+      <comment>uni0168</comment>
+      <string>\u000168 \u000169</string>
+    </test>
+    <test label="U+0178">
+      <comment>Ydieresis</comment>
+      <string>\u000178</string>
+    </test>
+    <test label="U+017D">
+      <comment>Zcaron</comment>
+      <string>\u00017D \u00017E</string>
+    </test>
+    <test label="U+0192">
+      <comment>florin</comment>
+      <string>\u000192</string>
+    </test>
+    <test label="U+01A0">
+      <comment>uni01A0</comment>
+      <string>\u0001A0 \u0001A1</string>
+    </test>
+    <test label="U+01AF">
+      <comment>uni01AF</comment>
+      <string>\u0001AF \u0001B0</string>
+    </test>
+    <test label="U+02C6">
+      <comment>circumflex</comment>
+      <string>\u0002C6 \u0002C7</string>
+    </test>
+    <test label="U+02D8">
+      <comment>breve</comment>
+      <string>\u0002D8 \u0002D9 \u0002DA \u0002DB \u0002DC \u0002DD</string>
+    </test>
+    <test label="U+0300">
+      <comment>gravecomb</comment>
+      <string>\u000628\u000300 \u000628\u000301 \u000628\u000302 \u000628\u000303 \u000628\u000304</string>
+    </test>
+    <test label="U+0306">
+      <comment>uni0306</comment>
+      <string>\u000628\u000306 \u000628\u000307 \u000628\u000308 \u000628\u000309 \u000628\u00030A</string>
+    </test>
+    <test label="U+030C">
+      <comment>caroncomb</comment>
+      <string>\u000628\u00030C</string>
+    </test>
+    <test label="U+031B">
+      <comment>uni031B</comment>
+      <string>\u000628\u00031B</string>
+    </test>
+    <test label="U+0323">
+      <comment>uni0323</comment>
+      <string>\u000628\u000323</string>
+    </test>
+    <test label="U+0327">
+      <comment>cedillacomb</comment>
+      <string>\u000628\u000327</string>
+    </test>
+    <test label="U+034F">
+      <comment>graphemejoinercomb</comment>
+      <string>\u000628\u00034F</string>
+    </test>
+    <test label="U+03C0">
+      <comment>pi</comment>
+      <string>\u0003C0</string>
+    </test>
+    <test label="U+1401">
+      <comment>e-cans</comment>
+      <string>\u001401 \u001402 \u001403 \u001404 \u001405 \u001406 \u001407 \u001408 \u001409 \u00140A \u00140B \u00140C \u00140D \u00140E \u00140F \u001410 \u001411 \u001412 \u001413 \u001414 \u001415 \u001416 \u001417 \u001418 \u001419 \u00141A \u00141B \u00141C \u00141D \u00141E \u00141F \u001420 \u001421 \u001422 \u001423 \u001424 \u001425 \u001426 \u001427 \u001428 \u001429 \u00142A \u00142B \u00142C \u00142D \u00142E \u00142F \u001430 \u001431 \u001432 \u001433 \u001434 \u001435 \u001436 \u001437 \u001438 \u001439 \u00143A \u00143B \u00143C \u00143D \u00143E \u00143F \u001440 \u001441 \u001442 \u001443 \u001444 \u001445 \u001446 \u001447 \u001448 \u001449 \u00144A \u00144B \u00144C \u00144D \u00144E \u00144F \u001450 \u001451 \u001452 \u001453 \u001454 \u001455 \u001456 \u001457 \u001458 \u001459 \u00145A \u00145B \u00145C \u00145D \u00145E \u00145F \u001460 \u001461 \u001462 \u001463 \u001464 \u001465 \u001466 \u001467 \u001468 \u001469 \u00146A \u00146B \u00146C \u00146D \u00146E \u00146F \u001470 \u001471 \u001472 \u001473 \u001474 \u001475 \u001476 \u001477 \u001478 \u001479 \u00147A \u00147B \u00147C \u00147D \u00147E \u00147F \u001480 \u001481 \u001482 \u001483 \u001484 \u001485 \u001486 \u001487 \u001488 \u001489 \u00148A \u00148B \u00148C \u00148D \u00148E \u00148F \u001490 \u001491 \u001492 \u001493 \u001494 \u001495 \u001496 \u001497 \u001498 \u001499 \u00149A \u00149B \u00149C \u00149D \u00149E \u00149F \u0014A0 \u0014A1 \u0014A2 \u0014A3 \u0014A4 \u0014A5 \u0014A6 \u0014A7 \u0014A8 \u0014A9 \u0014AA \u0014AB \u0014AC \u0014AD \u0014AE \u0014AF \u0014B0 \u0014B1 \u0014B2 \u0014B3 \u0014B4 \u0014B5 \u0014B6 \u0014B7 \u0014B8 \u0014B9 \u0014BA \u0014BB \u0014BC \u0014BD \u0014BE \u0014BF \u0014C0 \u0014C1 \u0014C2 \u0014C3 \u0014C4 \u0014C5 \u0014C6 \u0014C7 \u0014C8 \u0014C9 \u0014CA \u0014CB \u0014CC \u0014CD \u0014CE \u0014CF \u0014D0 \u0014D1 \u0014D2 \u0014D3 \u0014D4 \u0014D5 \u0014D6 \u0014D7 \u0014D8 \u0014D9 \u0014DA \u0014DB \u0014DC \u0014DD \u0014DE \u0014DF \u0014E0 \u0014E1 \u0014E2 \u0014E3 \u0014E4 \u0014E5 \u0014E6 \u0014E7 \u0014E8 \u0014E9 \u0014EA \u0014EB \u0014EC \u0014ED \u0014EE \u0014EF \u0014F0 \u0014F1 \u0014F2 \u0014F3 \u0014F4 \u0014F5 \u0014F6 \u0014F7 \u0014F8 \u0014F9 \u0014FA \u0014FB \u0014FC \u0014FD \u0014FE \u0014FF \u001500 \u001501 \u001502 \u001503 \u001504 \u001505 \u001506 \u001507 \u001508 \u001509 \u00150A \u00150B \u00150C \u00150D \u00150E \u00150F \u001510 \u001511 \u001512 \u001513 \u001514 \u001515 \u001516 \u001517 \u001518 \u001519 \u00151A \u00151B \u00151C \u00151D \u00151E \u00151F \u001520 \u001521 \u001522 \u001523 \u001524 \u001525 \u001526 \u001527 \u001528 \u001529 \u00152A \u00152B \u00152C \u00152D \u00152E \u00152F \u001530 \u001531 \u001532 \u001533 \u001534 \u001535 \u001536 \u001537 \u001538 \u001539 \u00153A \u00153B \u00153C \u00153D \u00153E \u00153F \u001540 \u001541 \u001542 \u001543 \u001544 \u001545 \u001546 \u001547 \u001548 \u001549 \u00154A \u00154B \u00154C \u00154D \u00154E \u00154F \u001550 \u001551 \u001552 \u001553 \u001554 \u001555 \u001556 \u001557 \u001558 \u001559 \u00155A \u00155B \u00155C \u00155D \u00155E \u00155F \u001560 \u001561 \u001562 \u001563 \u001564 \u001565 \u001566 \u001567 \u001568 \u001569 \u00156A \u00156B \u00156C \u00156D \u00156E \u00156F</string>
+    </test>
+    <test label="U+157D">
+      <comment>hk-cans</comment>
+      <string>\u00157D</string>
+    </test>
+    <test label="U+15A7">
+      <comment>theThCree-cans</comment>
+      <string>\u0015A7 \u0015A8 \u0015A9 \u0015AA \u0015AB \u0015AC \u0015AD \u0015AE</string>
+    </test>
+    <test label="U+1660">
+      <comment>tsaCarrier-cans</comment>
+      <string>\u001660 \u001661 \u001662 \u001663 \u001664 \u001665 \u001666 \u001667 \u001668 \u001669 \u00166A \u00166B \u00166C \u00166D \u00166E \u00166F</string>
+    </test>
+    <test label="U+1677">
+      <comment>thweeWoodsCree-cans</comment>
+      <string>\u001677 \u001678 \u001679 \u00167A \u00167B \u00167C \u00167D \u00167E \u00167F</string>
+    </test>
+    <test label="U+18B0">
+      <comment>oY-cans</comment>
+      <string>\u0018B0 \u0018B1 \u0018B2 \u0018B3 \u0018B4 \u0018B5 \u0018B6 \u0018B7 \u0018B8 \u0018B9 \u0018BA \u0018BB</string>
+    </test>
+    <test label="U+18BD">
+      <comment>layWestCree-cans</comment>
+      <string>\u0018BD \u0018BE \u0018BF \u0018C0 \u0018C1 \u0018C2 \u0018C3</string>
+    </test>
+    <test label="U+18C5">
+      <comment>ray-cans</comment>
+      <string>\u0018C5 \u0018C6 \u0018C7 \u0018C8 \u0018C9 \u0018CA \u0018CB \u0018CC \u0018CD \u0018CE \u0018CF \u0018D0 \u0018D1 \u0018D2 \u0018D3 \u0018D4 \u0018D5 \u0018D6 \u0018D7 \u0018D8 \u0018D9 \u0018DA \u0018DB \u0018DC \u0018DD \u0018DE \u0018DF \u0018E0 \u0018E1 \u0018E2 \u0018E3 \u0018E4</string>
+    </test>
+    <test label="U+1EA0">
+      <comment>uni1EA0</comment>
+      <string>\u001EA0 \u001EA1 \u001EA2 \u001EA3 \u001EA4 \u001EA5 \u001EA6 \u001EA7 \u001EA8 \u001EA9 \u001EAA \u001EAB \u001EAC \u001EAD \u001EAE \u001EAF \u001EB0 \u001EB1 \u001EB2 \u001EB3 \u001EB4 \u001EB5 \u001EB6 \u001EB7 \u001EB8 \u001EB9 \u001EBA \u001EBB \u001EBC \u001EBD \u001EBE \u001EBF \u001EC0 \u001EC1 \u001EC2 \u001EC3 \u001EC4 \u001EC5 \u001EC6 \u001EC7 \u001EC8 \u001EC9 \u001ECA \u001ECB \u001ECC \u001ECD \u001ECE \u001ECF \u001ED0 \u001ED1 \u001ED2 \u001ED3 \u001ED4 \u001ED5 \u001ED6 \u001ED7 \u001ED8 \u001ED9 \u001EDA \u001EDB \u001EDC \u001EDD \u001EDE \u001EDF \u001EE0 \u001EE1 \u001EE2 \u001EE3 \u001EE4 \u001EE5 \u001EE6 \u001EE7 \u001EE8 \u001EE9 \u001EEA \u001EEB \u001EEC \u001EED \u001EEE \u001EEF \u001EF0 \u001EF1 \u001EF2 \u001EF3 \u001EF4 \u001EF5 \u001EF6 \u001EF7 \u001EF8 \u001EF9</string>
+    </test>
+    <test label="U+2000">
+      <comment>enquad</comment>
+      <string>\u00F130\u002000\u00F131 \u00F130\u002001\u00F131 \u00F130\u002002\u00F131 \u00F130\u002003\u00F131 \u00F130\u002004\u00F131 \u00F130\u002005\u00F131 \u00F130\u002006\u00F131 \u00F130\u002007\u00F131 \u00F130\u002008\u00F131 \u00F130\u002009\u00F131 \u00F130\u00200A\u00F131 \u00200B \u00200C \u00200D</string>
+    </test>
+    <test label="U+2010">
+      <comment>hyphentwo</comment>
+      <string>\u002010 \u002011 \u002012 \u002013 \u002014 \u002015</string>
+    </test>
+    <test label="U+2018">
+      <comment>quoteleft</comment>
+      <string>\u002018 \u002019 \u00201A</string>
+    </test>
+    <test label="U+201C">
+      <comment>quotedblleft</comment>
+      <string>\u00201C \u00201D \u00201E</string>
+    </test>
+    <test label="U+2020">
+      <comment>dagger</comment>
+      <string>\u002020 \u002021 \u002022</string>
+    </test>
+    <test label="U+2026">
+      <comment>ellipsis</comment>
+      <string>\u002026 \u002027 \u00F130\u002028\u00F131 \u00F130\u002029\u00F131</string>
+    </test>
+    <test label="U+202F">
+      <comment>narrownbspace</comment>
+      <string>\u00F130\u00202F\u00F131 \u002030</string>
+    </test>
+    <test label="U+2039">
+      <comment>guilsinglleft</comment>
+      <string>\u002039 LTR: \u00202A\u002039\u00202C RTL: \u00202B\u002039\u00202C</string>
+    </test>
+    <test label="U+203A">
+      <comment>guilsinglright</comment>
+      <string>\u00203A LTR: \u00202A\u00203A\u00202C RTL: \u00202B\u00203A\u00202C</string>
+    </test>
+    <test label="U+2044">
+      <comment>fraction</comment>
+      <string>\u002044</string>
+    </test>
+    <test label="U+2060">
+      <comment>wordjoiner</comment>
+      <string>\u002060</string>
+    </test>
+    <test label="U+2074">
+      <comment>foursuperior</comment>
+      <string>\u002074</string>
+    </test>
+    <test label="U+20AB">
+      <comment>uni20AB</comment>
+      <string>\u0020AB \u0020AC</string>
+    </test>
+    <test label="U+2122">
+      <comment>trademark</comment>
+      <string>\u002122</string>
+    </test>
+    <test label="U+2126">
+      <comment>Omega</comment>
+      <string>\u002126</string>
+    </test>
+    <test label="U+2202">
+      <comment>partialdiff</comment>
+      <string>\u002202 LTR: \u00202A\u002202\u00202C RTL: \u00202B\u002202\u00202C</string>
+    </test>
+    <test label="U+2206">
+      <comment>Delta</comment>
+      <string>\u002206</string>
+    </test>
+    <test label="U+220F">
+      <comment>product</comment>
+      <string>\u00220F</string>
+    </test>
+    <test label="U+2211">
+      <comment>summation</comment>
+      <string>\u002211 LTR: \u00202A\u002211\u00202C RTL: \u00202B\u002211\u00202C</string>
+    </test>
+    <test label="U+2212">
+      <comment>minus</comment>
+      <string>\u002212</string>
+    </test>
+    <test label="U+2215">
+      <comment>divisionslash</comment>
+      <string>\u002215 LTR: \u00202A\u002215\u00202C RTL: \u00202B\u002215\u00202C</string>
+    </test>
+    <test label="U+2219">
+      <comment>bulletoperator</comment>
+      <string>\u002219</string>
+    </test>
+    <test label="U+221A">
+      <comment>radical</comment>
+      <string>\u00221A LTR: \u00202A\u00221A\u00202C RTL: \u00202B\u00221A\u00202C</string>
+    </test>
+    <test label="U+221E">
+      <comment>infinity</comment>
+      <string>\u00221E</string>
+    </test>
+    <test label="U+222B">
+      <comment>integral</comment>
+      <string>\u00222B LTR: \u00202A\u00222B\u00202C RTL: \u00202B\u00222B\u00202C</string>
+    </test>
+    <test label="U+2248">
+      <comment>approxequal</comment>
+      <string>\u002248 LTR: \u00202A\u002248\u00202C RTL: \u00202B\u002248\u00202C</string>
+    </test>
+    <test label="U+2260">
+      <comment>notequal</comment>
+      <string>\u002260 LTR: \u00202A\u002260\u00202C RTL: \u00202B\u002260\u00202C</string>
+    </test>
+    <test label="U+2264">
+      <comment>lessequal</comment>
+      <string>\u002264 LTR: \u00202A\u002264\u00202C RTL: \u00202B\u002264\u00202C</string>
+    </test>
+    <test label="U+2265">
+      <comment>greaterequal</comment>
+      <string>\u002265 LTR: \u00202A\u002265\u00202C RTL: \u00202B\u002265\u00202C</string>
+    </test>
+    <test label="U+2308">
+      <comment>uni2308</comment>
+      <string>\u002308 LTR: \u00202A\u002308\u00202C RTL: \u00202B\u002308\u00202C</string>
+    </test>
+    <test label="U+2309">
+      <comment>uni2309</comment>
+      <string>\u002309 LTR: \u00202A\u002309\u00202C RTL: \u00202B\u002309\u00202C</string>
+    </test>
+    <test label="U+2423">
+      <comment>blank</comment>
+      <string>\u002423</string>
+    </test>
+    <test label="U+25CA">
+      <comment>lozenge</comment>
+      <string>\u0025CA</string>
+    </test>
+    <test label="U+25CC">
+      <comment>dottedcircle</comment>
+      <string>\u0025CC</string>
+    </test>
+    <test label="U+F130">
+      <comment>sidebearingleft</comment>
+      <string>\u00F130 \u00F131</string>
+    </test>
+    <test label="U+FB01">
+      <comment>fi</comment>
+      <string>\u00FB01 \u00FB02</string>
+    </test>
+    <test label="U+FE00">
+      <comment>VS1</comment>
+      <string>\u000628\u00FE00 \u000628\u00FE01 \u000628\u00FE02 \u000628\u00FE03 \u000628\u00FE04 \u000628\u00FE05 \u000628\u00FE06 \u000628\u00FE07 \u000628\u00FE08 \u000628\u00FE09 \u000628\u00FE0A \u000628\u00FE0B \u000628\u00FE0C \u000628\u00FE0D \u000628\u00FE0E \u000628\u00FE0F</string>
+    </test>
+    <test label="U+FEFF">
+      <comment>zeroWidthNoBreakSpace</comment>
+      <string>\u00FEFF</string>
+    </test>
+    <test label="U+FFFC">
+      <comment>objectReplacementCharacter</comment>
+      <string>\u00FFFC \u00FFFD</string>
+    </test>
+  </testgroup>
+  <testgroup label="Specials &amp; ligatures from glyph_data"/>
+  <testgroup label="Lam-Alef"/>
+</ftml>
