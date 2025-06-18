@@ -2,8 +2,10 @@
 <glyph name="in-cans" format="2">
   <advance width="1800"/>
   <unicode hex="142C"/>
+  <anchor x="793" y="1395" name="dot"/>
+  <anchor x="793" y="1393" name="ring"/>
   <outline>
-    <component base="e-cans"/>
+    <component base="i-cans"/>
     <component base="_finalacutecloser" xOffset="1586"/>
   </outline>
   <lib>

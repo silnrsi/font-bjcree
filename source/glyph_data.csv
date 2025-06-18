@@ -1,4 +1,4 @@
-glyph_name,ps_name,sort_design,sort_final,USV
+glyph_name,ps_name,sort_design,sort_final,usv
 A,A,10036,36,0041
 B,B,10037,37,0042
 C,C,10038,38,0043
@@ -291,8 +291,8 @@ hyphentwo,uni2010,15670.1,15670.1,2010
 hyphenationpoint,uni2027,15390.2,15390.2,2027
 fi,fi,11073.1,192,FB01
 fl,fl,11073.2,193,FB02
-space,uni0020,,,0020
-nbspace,uni00A0,,,00A0
+space,uni0020,10003,3,0020
+nbspace,uni00A0,10172,172,00A0
 softhyphen,uni00AD,15680.6,15680.6,00AD
 uni0102,Abreve,11036.12,11036.12,0102
 uni0103,abreve,11068.12,11068.12,0103

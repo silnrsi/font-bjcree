@@ -11,12 +11,12 @@ waaNaskapi-cans     = a-cans + _dotabove@dot2 + _dotabove@dot3
 ayNaskapi-cans      = a-cans + _ring@ring
 aayaNaskapi-cans    = aa-cans + _ring@ringmiddle
 wayNaskapi-cans     = wa-cans + _ring@ring
+an-cans             = a-cans & _finalgravecloser
 
 ### ᐁ e-cans based
 we-cans             = _dotleftclose & e-cans
 weWestCree-cans     = e-cans & _dotrightclose
 en-cans             = e-cans & _finalgravecloser
-in-cans             = e-cans & _finalacutecloser
 
 ### ᐃ i-cans based
 ii-cans             = i-cans + _dotabove@dot
@@ -25,6 +25,7 @@ wiWestCree-cans     = i-cans & _dotrightclose
 wii-cans            = wi-cans + _dotabove@dot
 wiiWestCree-cans    = ii-cans & _dotrightclose
 aai-cans            = i-cans + _ring@ring
+in-cans             = i-cans & _finalacutecloser
 
 ### ᐅ o-cans based
 oo-cans             = o-cans + _dotabove@dot
@@ -35,6 +36,7 @@ woo-cans            = wo-cans + _dotabove@dot
 wooWestCree-cans    = oo-cans & _dotrightfar
 wooNaskapi-cans     = o-cans + _dotabove@dot2 + _dotabove@dot3
 oY-cans             = o-cans + _ring@ring
+on-cans             = o-cans & _finalgravecloser
 
 ### ᐸ pa-cans based
 paa-cans            = pa-cans + _dotabove@dot

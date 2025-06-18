@@ -36,13 +36,6 @@ build_one() {
 		exit 1
 	fi
 
-	# Check the composite definitions file exists
-	if [ ! -f "$COMP_DEFS" ]
-	then
-		message "Error: Composite definitions file '$COMP_DEFS' does not exist."
-		exit 1
-	fi
-
 	# docs: https://github.com/silnrsi/pysilfont/blob/master/docs/scripts.md#psfbuildcomp
 	# colors: unchanged, changed, new glyphs
 		# We're not using color specifications since the defaults are now in line with
@@ -62,6 +55,13 @@ build_one() {
 }
 
 message "Rebuilding composites in the UFOs..."
+
+# Check the composite definitions file exists
+if [ ! -f "$COMP_DEFS" ]
+then
+	message "Error: Composite definitions file '$COMP_DEFS' does not exist."
+	exit 1
+fi
 
 # Build each master
 build_one "BJCree-Regular.ufo"
