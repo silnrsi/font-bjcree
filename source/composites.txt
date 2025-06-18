@@ -107,6 +107,7 @@ kwaaWestCree-cans   = kaa-cans & _dotright
 kwaaNaskapi-cans    = _dot2v & ka-cans
 kayNaskapi-cans     = ka-cans + _ring@ring
 kwayNaskapi-cans    = kwa-cans + _ring@ring
+skaNaskapi-cans     = _dot2vsa & ka-cans
 
 ### ᑫ ke-cans based
 kwe-cans            = _dotleft & ke-cans

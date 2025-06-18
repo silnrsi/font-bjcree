@@ -5,6 +5,23 @@
 %%%%% TESTS
 
 
+\proof[size="8,9,10,11,12,13,14,24"]{ᐊᐋᐗᐘᐙᐚᐛᢱᢲᢳᐮ ᐁᐌᐍᐫ ᐃᐄᐎᐏᐐᐑᐂᐬᐞᣜᣝ ᐅᐆᐇᐒᐓᐔᐕᐖᢰᐭᐈᐉ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᐸᐹᑄᑅᑆᑇᑈᢵᔌᑉ ᐯᐺᐻ ᐱᐲᐼᐽᐾᐿᐰᣔ ᐳᐴᐵᑀᑁᑂᑃᢴᢶ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᑕᑖᑡᑢᑣᑤᑥᢷᑪᔍᑦᒼ ᑌᑗᑘᑧᓑ ᑎᑏᑙᑚᑛᑜᑍᑨᣕ ᑐᑑᑒᑝᑞᑟᑠ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᑲᑳᑾᑿᒀᒁᒂᢸᢹᒈᔎᒃ ᑫᑴᑵᙯᒅ ᑭᑮᑶᑷᑸᑹᑬᒆᣖ ᑯᑰᑱᑺᑻᑼᑽᒇᒄ ᓇᓈᓋᓌᓍᓎᓏᢼᓐ ᓀᓉᓊᓂᣆᣇᓃᣈᣉᓁᣙ ᓄᓅᓆᣊᣋᣌᣍᢻᓒ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᒍᒎᒏᒘᒙᒢᒚᒛ ᒡᒐᒑᒜᒝᒞᒠᒟ ᒊᒋᒌᒔᒕᒖᒗ ᒉᒒᒓ ᓚᓛᓦᓧᓨᓩᓪ ᓔᓕᓖᓞᓟᓠᓡ ᓗᓘᓙᓢᓣᓤᓥ ᓓᓜᓝ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᒪᒫᒶᒷᒸᒹᒺᢺᒻ ᒣᒬᒭ ᒥᒦᒮᒯᒰᒱᒤᣘ ᒧᒨᒩᒲᒳᒴᒵᒽ}
+\proof[size="8,9,10,11,12,13,14,24"]{ᓴᓵᔀᔁᔂᔃᔄᢿᔅᔋ/_dot2vsa ᔉ/s-cans.small ᓭᓶᓷᓯᓰᓸᓹᓺᓻᓮᣚᓱᓲᓳᓼᓽᓾᓿᢾᔇᔊ}
+\proof[size="8,9,10,11,12,13,14,24"]{}
+
+\proof[size="8,9,10,11,12,13,14,24"]{ᕝᕙᕚᕔᕓᕕᕖᕗᕘᕛᕜ}
+% \proof{}
+
+% \unicharchart[type="all",columns="12",rows="16"]
+
+\end{document}
+
+
 \proof{This is basic proof text using the test font}
 
 % \proof[family="Gentium Plus",heading=A basic family test]{This is basic text with a font defined by family}
@@ -36,5 +53,4 @@
 \repertoire{filename="../results/BJCree-SemiBold.ttf",size="10pt"}
 \repertoire{filename="../results/BJCree-Bold.ttf",size="10pt"}
 
-\end{document}
 

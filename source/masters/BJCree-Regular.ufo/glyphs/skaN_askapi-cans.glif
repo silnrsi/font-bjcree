@@ -1,15 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="skaNaskapi-cans" format="2">
-  <advance width="1544"/>
+  <advance width="1594"/>
   <unicode hex="150E"/>
+  <anchor x="717" y="1395" name="dot"/>
+  <anchor x="717" y="1393" name="ring"/>
   <outline>
-    <component base="kwaaNaskapi-cans" xOffset="51"/>
-    <component base="s-cans.small.short" xOffset="-54" yOffset="-26"/>
+    <component base="_dot2vsa"/>
+    <component base="ka-cans" xOffset="464"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
