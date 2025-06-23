@@ -2,7 +2,7 @@
 <glyph name="_finalacutecloser" format="2">
   <advance width="370"/>
   <outline>
-    <component base="_finalgravecloser" xScale="-1" xOffset="149"/>
+    <component base="_finalgravecloser" xScale="-1" xOffset="259"/>
   </outline>
   <lib>
     <dict>
