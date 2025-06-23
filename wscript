@@ -4,18 +4,19 @@
 # set the default output folders for release docs
 DOCDIR = ["documentation", "web"]
 
+# STANDARDS = 'references'
+TESTDIR = ["tests"]
+
 # set the font name and description
 APPNAME = 'BJCree'
 FAMILY = APPNAME
 DESC_SHORT = "A Canadian Syllabics font for the Algonquian family of languages."
 
-# TESTDIR = ["tests", "../font-kayphodu-private/tests"]
-
 # Get version and authorship information from Regular UFO (canonical metadata); must be first function call:
 getufoinfo('source/masters/' + FAMILY  + '-Regular.ufo')
 
 # Set up the FTML tests
-# ftmlTest('tools/ftml-smith.xsl')
+ftmlTest('tools/ftml-smith.xsl')
 
 cmds = []
 cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']))
@@ -31,7 +32,7 @@ designspace('source/' + FAMILY + '.designspace',
         cmd='psfwoffit -m ${SRC[1]} --woff ${TGT} --woff2 ${TGT}2 ${SRC[0]}'
         ),
     pdf = fret(params='-oi'),
-    script = ['DFLT', 'kali'],
+    script = ['DFLT', 'cans'],
 )
 
 #def configure(ctx):
