@@ -114,3 +114,4 @@ $RECYCLE.BIN/
 *.py[co]
 *$py.class
 __pycache__/
+references
