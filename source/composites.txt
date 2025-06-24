@@ -16,7 +16,7 @@ an-cans             = a-cans & _finalgravecloser
 ### ᐁ e-cans based
 we-cans             = _dotleftclose & e-cans
 weWestCree-cans     = e-cans & _dotrightclose
-en-cans             = e-cans & _finalgravecloser
+en-cans             = e-cans & _finalgraveclose
 
 ### ᐃ i-cans based
 ii-cans             = i-cans + _dotabove@dot

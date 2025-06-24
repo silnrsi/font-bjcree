@@ -4,7 +4,7 @@
   <unicode hex="142B"/>
   <outline>
     <component base="e-cans"/>
-    <component base="_finalgravecloser" xOffset="1584"/>
+    <component base="_finalgraveclose" xOffset="1584"/>
   </outline>
   <lib>
     <dict>
