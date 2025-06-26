@@ -1,0 +1,73 @@
+\begin[class=fontproof]{document}
+\bidi-off
+\setTestFont[size="18pt"]
+
+%%%%% GROUPS
+
+% Latin groups
+\patterngroup[name="latincaps"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\patterngroup[name="latinlc"]{abcdefghijklmnopqrstuvwxyz}
+\patterngroup[name="latinext"]{ıßÆæŒœØøÐðÞþﬁﬂ}
+\patterngroup[name="latincombcaps"]{ÄÅÀÃÂÁÇÉÊËÈÍÎÏÌÑÖÕÓÔÒŠÜÚÛÙŸÝŽ}
+\patterngroup[name="latincomblc"]{áàâäãåçéèêëíìîïñóòôöõšúùûüÿýž}
+
+% Math
+\patterngroup[name="numerals"]{1234567890}
+\patterngroup[name="supnumsfracs"]{⁄¹²³⁴½¼¾}
+\patterngroup[name="math"]{+−÷×±<>≤≥=≠≈∞#\%‰°√}
+
+% General
+\patterngroup[name="punctuation"]{.,:;!?¿¡…}
+\patterngroup[name="centers"]{-–—÷‐‑­‒―•·‧∙¬~}
+\patterngroup[name="quotes"]{"'“”‘’‚„`}
+\patterngroup[name="barspairs"]{\\/|¦\{\}[]()‹›«»}
+\patterngroup[name="sym"]{µ∂∑∏π∫Ω∆ƒ$¢£¥¤€¶§&@◊†‡©®*^™ªº_␣}
+\patterngroup[name="spacingdiac"]{ˆ˜¯˘˙˚¸˝˛ˇ}
+\patterngroup[name="spaces"]{            }
+
+%%%%% TESTS
+
+\subsection{UDHR}
+\proof[size="14pt"]{Article 26: Everyone has the right to education. Education shall be free, at least in the elementary and fundamental stages. Elementary education shall be compulsory. Technical and professional education shall be made generally available and higher education shall be equally accessible to all on the basis of merit. Education shall be directed to the full development of the human personality and to the strengthening of respect for human rights and fundamental freedoms. It shall promote understanding, tolerance and friendship among all nations, racial or religious groups, and shall further the activities of the United Nations for the maintenance of peace. Parents have a prior right to choose the kind of education that shall be given to their children.}
+
+\subsection{BASIC LATIN}
+\proof[size="86pt"]{ABCDEFGHI}
+\proof[size="86pt"]{JKLMNOPQ}
+\proof[size="86pt"]{RSTUVWXYZ}
+\proof[size="86pt"]{abcdefghij}
+\proof[size="86pt"]{klmnopq}
+\proof[size="86pt"]{rstuvwxyz}
+\proof[size="28pt"]{ABCDEFGHIJKLMNOPQRSTUVWXYZ}
+\proof[size="28pt"]{abcdefghijklmnopqrstuvwxyz}
+\proof[size="18pt"]{HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH}
+\proof[size="18pt"]{OAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZO}
+\proof[size="18pt"]{nanbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynzn}
+\proof[size="18pt"]{oaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozo}
+\pattern[chars="@",reps="group_latincaps",format="list"]{HHOOHHOHH@HO@OH@O@B@O@N@O@P@HOH}
+\pattern[chars="@",reps="group_latinlc",format="list"]{nnoonnonn@no@oh@o@b@o@n@o@p@non}
+
+\subsection{PUNCTUATION AND SYMBOLS}
+\proof[size="86pt"]{.,:;!?¿¡…}
+\pattern[chars="@",reps="group_punctuation",format="list"]{HO@OH@no@on@ space after@ next}
+\proof[size="18pt"]{n-n–n—n‐n‑n­n‒n―n•n·n‧n∙n¬n~n_n␣n}
+\proof[size="18pt"]{n n n n n n n n n n n n nn}
+\proof[size="18pt"]{hg\\hg/hg|hg¦hg\{hg\}o[hg]o(hg)o‹hg›o«hg»o}
+\proof[size="18pt"]{hg"hg'hg“hg”hg‘hg’hg‚hg„hg`hg}
+\proof[size="18pt"]{πµ∂∑∏Ω∆∫ƒ¢$£¥€¤¶§@&◊^†‡©®*™ªº}
+
+\subsection{EXT LATIN}
+\proof[size="18pt"]{HÄHÅHÀHÃHÂHÁHÇHÉHÊHËHÈHÍHÎHÏHÌH}
+\proof[size="18pt"]{HÑHÖHÕHÓHÔHÒHŠHÜHÚHÛHÙHŸHÝHŽH}
+\proof[size="18pt"]{oáoàoâoäoãoåoçoéoèoêoëoíoìoîoïoñoóoòoôoöoõošoúoùoûoüoÿoýožo}
+\proof[size="18pt"]{oıoßoæoœoøoðoþoﬁoﬂoHÆHŒHØHÐHÞH}
+\proof[size="18pt"]{HˆH˜H¯H˘HˇH˝H˙H˚H¸H˛H}
+\proof[size="18pt"]{◌◌́◌̀◌̂◌̌◌̃◌̈◌̊◌̧◌}
+
+\subsection{NUMERALS AND MATH}
+\proof[size="86pt"]{0123456789}
+\pattern[chars="@",reps="group_numerals",format="list"]{0@0@1@2@3@4@5@6@7@8@9@}
+\pi[digits=500]
+\proof[size="18pt"]{0⁄0¹0²0³0⁴0½0¼0¾0}
+\proof[size="18pt"]{8+8−8÷8×8±8<8>8≤8≥8=8≠8≈8∞8#8\%8‰8°8√8}
+
+\end{document}
