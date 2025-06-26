@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_finalgraveclose" format="2">
-  <advance width="437"/>
+  <advance width="566"/>
   <outline>
-    <contour>
-      <point x="240" y="686" type="line"/>
-      <point x="380" y="686" type="line"/>
-      <point x="80" y="1270" type="line"/>
-      <point x="-60" y="1270" type="line"/>
-    </contour>
+    <component base="finalgrave-cans" xOffset="-63"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

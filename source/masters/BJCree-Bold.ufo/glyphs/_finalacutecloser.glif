@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_finalacutecloser" format="2">
-  <advance width="370"/>
+  <advance width="392"/>
   <outline>
-    <component base="_finalgravecloser" xScale="-1" xOffset="259"/>
+    <component base="finalacute-cans" xOffset="-293"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
       <key>public.markColor</key>
       <string>0,0.67,0.91,1</string>
     </dict>

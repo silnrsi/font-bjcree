@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="en-cans" format="2">
-  <advance width="2224"/>
+  <advance width="2267"/>
   <unicode hex="142B"/>
   <outline>
     <component base="e-cans"/>

@@ -4,7 +4,6 @@
   <unicode hex="15AE"/>
   <outline>
     <component base="y-cans"/>
-    <component base="_barStemH" xScale="0.75857" yScale="0.25" xOffset="-644" yOffset="1158"/>
-    <component base="_barStemH" xScale="0.75857" yScale="0.25" xOffset="-644" yOffset="1282"/>
+    <component base="_barStemH" xScale="0.75857" yScale="0.5" xOffset="-644" yOffset="1130"/>
   </outline>
 </glyph>

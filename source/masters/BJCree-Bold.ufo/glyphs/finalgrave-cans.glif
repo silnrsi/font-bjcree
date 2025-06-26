@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalgrave-cans" format="2">
-  <advance width="895"/>
+  <advance width="773"/>
   <unicode hex="1420"/>
   <outline>
-    <component base="finalacute-cans" xScale="-1" xOffset="895"/>
+    <component base="finalacute-cans" xScale="-1" xOffset="773"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
+    </dict>
+  </lib>
 </glyph>

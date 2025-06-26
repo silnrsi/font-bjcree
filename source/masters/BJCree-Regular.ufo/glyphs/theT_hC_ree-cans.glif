@@ -4,7 +4,7 @@
   <unicode hex="15A7"/>
   <outline>
     <component base="ye-cans"/>
-    <component base="_barStemH2"/>
+    <component base="_barStemH" xOffset="-61" yOffset="-30"/>
   </outline>
   <lib>
     <dict>

@@ -27,5 +27,17 @@
       <point x="-50" y="1300" type="line"/>
       <point x="-50" y="1359" type="line"/>
     </contour>
+    <contour>
+      <point x="19" y="1243" type="line"/>
+      <point x="19" y="1163" type="line"/>
+      <point x="361" y="1163" type="line"/>
+      <point x="361" y="1243" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="1367" type="line"/>
+      <point x="19" y="1287" type="line"/>
+      <point x="361" y="1287" type="line"/>
+      <point x="361" y="1367" type="line"/>
+    </contour>
   </outline>
 </glyph>

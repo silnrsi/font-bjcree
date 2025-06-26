@@ -2,10 +2,10 @@
 <glyph name="finalgrave-cans" format="2">
   <outline>
     <contour>
-      <point x="485" y="874" type="line"/>
-      <point x="127" y="1450" type="line"/>
-      <point x="258" y="1450" type="line"/>
-      <point x="616" y="874" type="line"/>
+      <point x="357" y="874" type="line"/>
+      <point x="-1" y="1450" type="line"/>
+      <point x="130" y="1450" type="line"/>
+      <point x="488" y="874" type="line"/>
     </contour>
   </outline>
 </glyph>

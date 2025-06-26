@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="on-cans" format="2">
-  <advance width="2371"/>
+  <advance width="2344"/>
   <unicode hex="142D"/>
   <anchor x="769" y="1467" name="2dotsmiddle"/>
   <anchor x="320" y="1467" name="dot"/>
