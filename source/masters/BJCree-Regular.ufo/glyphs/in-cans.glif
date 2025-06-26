@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="in-cans" format="2">
-  <advance width="1800"/>
+  <advance width="1586"/>
   <unicode hex="142C"/>
   <anchor x="793" y="1395" name="dot"/>
   <anchor x="793" y="1393" name="ring"/>
   <outline>
     <component base="i-cans"/>
-    <component base="_finalacutecloser" xOffset="1586"/>
+    <component base="finalgrave-cans" xOffset="878" yOffset="-170"/>
   </outline>
   <lib>
     <dict>
