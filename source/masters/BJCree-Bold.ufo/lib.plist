@@ -62,10 +62,10 @@
     <string>/in-cans/an-cans/en-cans</string>
     <string>/ai-cans/wYCree-cans/finalacute-cans/finalgrave-cans/finalbottom-cans/finaltophalfring-cans/finalrighthalfring-cans/finalring-cans/finalsmallring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalraiseddot-cans/finalshorthstroke-cans/pWestCree-cans/finalplus-cans/finaldowntack-cans/hk-cans/yiSayisi-cans/thFinalWoodsCree-cans/wBlackfoot-cans/lWestCree-cans/rWestCree-cans/glottalstop-cans/wECree-cans/wWCree-cans/pOjibway-cans/p-cans/ngCarrier-cans/tOjibway-cans/t-cans/mWestCree-cans/kOjibway-cans/kw-cans/k-cans/nOjibway-cans/nh-cans/n-cans/cOjibway-cans/thSayisi-cans/c-cans/l-cans/mOjibway-cans/mh-cans/m-cans/sOjibway-cans/sw-cans/skwNaskapi-cans/s-cans/skMooseCree-cans/shOjibway-cans/sh-cans/y-cans/thThCree-cans/r-cans/f-cans/th-cans</string>
     <string>/finalacute-cans/space/finalgrave-cans/space/finaldbleacute-cans/space/an-cans/space/e-cans/en-cans/space/on-cans/space/space/space</string>
-    <string>/in-cans/on-cans</string>
     <string>/sha-cans/shwoy-cans.alt/shaa-cans/shoy-cans.alt/shwa-cans/shwooWestCree-cans.alt/shwaWestCree-cans/shwoo-cans.alt/shwaa-cans/shwoWestCree-cans.alt/shwaaWestCree-cans/shwo-cans.alt/shay-cans/shoo-cans.alt/sh-cans/sho-cans.alt 
 /sho-cans/sho-cans.alt/shoo-cans/shoo-cans.alt/shwo-cans/shwo-cans.alt/shwoWestCree-cans/shwoWestCree-cans.alt/shwoo-cans/shwoo-cans.alt/shwooWestCree-cans/shwooWestCree-cans.alt/shoy-cans/shoy-cans.alt/shwoy-cans/shwoy-cans.alt</string>
-    <string>/finalgrave-cans/finalacute-cans/finaldbleacute-cans/an-cans/en-cans/in-cans/on-cans/_finalacuteclose/_finalacutecloser/_finalgraveclose/_finalgravecloser</string>
+    <string>/sha-cans/sha-cans.alt/shaa-cans/shaa-cans.alt/shwa-cans/shwa-cans.alt/shwaWestCree-cans/shwaWestCree-cans.alt/shwaa-cans/shwaa-cans.alt/shwaaWestCree-cans/shwaaWestCree-cans.alt/shay-cans/shay-cans.alt/sh-cans/sh-cans.alt 
+/sho-cans/sho-cans.alt/shoo-cans/shoo-cans.alt/shwo-cans/shwo-cans.alt/shwoWestCree-cans/shwoWestCree-cans.alt/shwoo-cans/shwoo-cans.alt/shwooWestCree-cans/shwooWestCree-cans.alt/shoy-cans/shoy-cans.alt/shwoy-cans/shwoy-cans.alt</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>

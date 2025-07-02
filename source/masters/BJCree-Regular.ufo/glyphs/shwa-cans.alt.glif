@@ -2,7 +2,7 @@
 <glyph name="shwa-cans.alt" format="2">
   <advance width="2154"/>
   <anchor x="904" y="1395" name="dot"/>
-  <anchor x="1263" y="1392" name="ring"/>
+  <anchor x="904" y="1392" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="sha-cans.alt" xOffset="361"/>

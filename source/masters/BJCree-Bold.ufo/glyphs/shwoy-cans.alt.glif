@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="shwoy-cans.alt" format="2">
   <advance width="2303"/>
-  <anchor x="1366" y="1462" name="_ringmiddle"/>
+  <anchor x="1663" y="1462" name="_ringmiddle"/>
   <anchor x="1663" y="1467" name="dot"/>
   <outline>
     <component base="shwo-cans.alt"/>
-    <component base="_ring" xOffset="1366" yOffset="-3"/>
+    <component base="_ring" xOffset="1663" yOffset="-3"/>
   </outline>
   <lib>
     <dict>

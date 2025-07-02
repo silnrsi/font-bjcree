@@ -3,7 +3,7 @@
   <advance width="1872"/>
   <anchor x="585" y="1465" name="_dot2"/>
   <anchor x="585" y="1463" name="_dot3"/>
-  <anchor x="935" y="1464" name="ring"/>
+  <anchor x="585" y="1464" name="ring"/>
   <outline>
     <component base="sha-cans.alt"/>
     <component base="_dotabove" xOffset="585" yOffset="-1"/>
