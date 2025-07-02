@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="in-cans" format="2">
-  <advance width="1746"/>
+  <advance width="1976"/>
   <unicode hex="142C"/>
-  <anchor x="792" y="1469" name="dot"/>
-  <anchor x="792" y="1467" name="ring"/>
   <outline>
-    <component base="i-cans"/>
-    <component base="finalgrave-cans" xOffset="998" yOffset="-261"/>
+    <component base="e-cans"/>
+    <component base="_finalacuteclose" xOffset="1584"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>
