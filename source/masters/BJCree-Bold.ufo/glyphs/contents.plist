@@ -1106,14 +1106,22 @@
   <string>seven.glif</string>
   <key>sh-cans</key>
   <string>sh-cans.glif</string>
+  <key>sh-cans.alt</key>
+  <string>sh-cans.alt.glif</string>
   <key>shOjibway-cans</key>
   <string>shO_jibway-cans.glif</string>
   <key>sha-cans</key>
   <string>sha-cans.glif</string>
+  <key>sha-cans.alt</key>
+  <string>sha-cans.alt.glif</string>
   <key>shaa-cans</key>
   <string>shaa-cans.glif</string>
+  <key>shaa-cans.alt</key>
+  <string>shaa-cans.alt.glif</string>
   <key>shay-cans</key>
   <string>shay-cans.glif</string>
+  <key>shay-cans.alt</key>
+  <string>shay-cans.alt.glif</string>
   <key>she-cans</key>
   <string>she-cans.glif</string>
   <key>shi-cans</key>
@@ -1122,18 +1130,32 @@
   <string>shii-cans.glif</string>
   <key>sho-cans</key>
   <string>sho-cans.glif</string>
+  <key>sho-cans.alt</key>
+  <string>sho-cans.alt.glif</string>
   <key>shoo-cans</key>
   <string>shoo-cans.glif</string>
+  <key>shoo-cans.alt</key>
+  <string>shoo-cans.alt.glif</string>
   <key>shoy-cans</key>
   <string>shoy-cans.glif</string>
+  <key>shoy-cans.alt</key>
+  <string>shoy-cans.alt.glif</string>
   <key>shwa-cans</key>
   <string>shwa-cans.glif</string>
+  <key>shwa-cans.alt</key>
+  <string>shwa-cans.alt.glif</string>
   <key>shwaWestCree-cans</key>
   <string>shwaW_estC_ree-cans.glif</string>
+  <key>shwaWestCree-cans.alt</key>
+  <string>shwaW_estC_ree-cans.alt.glif</string>
   <key>shwaa-cans</key>
   <string>shwaa-cans.glif</string>
+  <key>shwaa-cans.alt</key>
+  <string>shwaa-cans.alt.glif</string>
   <key>shwaaWestCree-cans</key>
   <string>shwaaW_estC_ree-cans.glif</string>
+  <key>shwaaWestCree-cans.alt</key>
+  <string>shwaaW_estC_ree-cans.alt.glif</string>
   <key>shwe-cans</key>
   <string>shwe-cans.glif</string>
   <key>shweWestCree-cans</key>
@@ -1148,14 +1170,24 @@
   <string>shwiiW_estC_ree-cans.glif</string>
   <key>shwo-cans</key>
   <string>shwo-cans.glif</string>
+  <key>shwo-cans.alt</key>
+  <string>shwo-cans.alt.glif</string>
   <key>shwoWestCree-cans</key>
   <string>shwoW_estC_ree-cans.glif</string>
+  <key>shwoWestCree-cans.alt</key>
+  <string>shwoW_estC_ree-cans.alt.glif</string>
   <key>shwoo-cans</key>
   <string>shwoo-cans.glif</string>
+  <key>shwoo-cans.alt</key>
+  <string>shwoo-cans.alt.glif</string>
   <key>shwooWestCree-cans</key>
   <string>shwooW_estC_ree-cans.glif</string>
+  <key>shwooWestCree-cans.alt</key>
+  <string>shwooW_estC_ree-cans.alt.glif</string>
   <key>shwoy-cans</key>
   <string>shwoy-cans.glif</string>
+  <key>shwoy-cans.alt</key>
+  <string>shwoy-cans.alt.glif</string>
   <key>si-cans</key>
   <string>si-cans.glif</string>
   <key>sidebearingleft</key>

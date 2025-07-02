@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shwoo-cans.alt" format="2">
+  <advance width="2154"/>
+  <anchor x="1611" y="1393" name="_dot2"/>
+  <anchor x="1611" y="1391" name="_dot3"/>
+  <anchor x="1263" y="1392" name="ring"/>
+  <outline>
+    <component base="shwo-cans.alt"/>
+    <component base="_dotabove" xOffset="1611"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

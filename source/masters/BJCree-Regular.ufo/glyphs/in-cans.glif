@@ -6,7 +6,7 @@
   <anchor x="793" y="1393" name="ring"/>
   <outline>
     <component base="i-cans"/>
-    <component base="finalgrave-cans" xOffset="878" yOffset="-170"/>
+    <component base="finalgrave-cans" xOffset="944" yOffset="-170"/>
   </outline>
   <lib>
     <dict>

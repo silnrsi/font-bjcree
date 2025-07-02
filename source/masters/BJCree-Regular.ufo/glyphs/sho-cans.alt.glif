@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sho-cans.alt" format="2">
+  <advance width="1793"/>
+  <anchor x="1250" y="1395" name="dot"/>
+  <anchor x="902" y="1392" name="ring"/>
+  <outline>
+    <component base="sha-cans.alt" xScale="-1" xOffset="1793"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.curve</string>
+      <key>public.markColor</key>
+      <string>0.25,0.25,0.25,1</string>
+    </dict>
+  </lib>
+</glyph>

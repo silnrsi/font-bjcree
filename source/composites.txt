@@ -282,6 +282,13 @@ shwaWestCree-cans   = sha-cans & _dotright
 shwaa-cans          = shwa-cans + _dotabove@dot
 shwaaWestCree-cans  = shaa-cans & _dotright
 shay-cans           = sha-cans + _ring@ring
+## sha-cans.alt based
+shaa-cans.alt           = sha-cans.alt + _dotabove@dot
+shwa-cans.alt           = _dotleft & sha-cans.alt
+shwaWestCree-cans.alt   = sha-cans.alt & _dotright
+shwaa-cans.alt          = shwa-cans.alt + _dotabove@dot
+shwaaWestCree-cans.alt  = shaa-cans.alt & _dotright
+shay-cans.alt           = sha-cans.alt + _ring@ring
 
 ### ᔐ she-cans based
 shwe-cans           = _dotleft & she-cans
@@ -302,6 +309,14 @@ shwoo-cans          = shwo-cans + _dotabove@dot
 shwooWestCree-cans  = shoo-cans & _dotright
 shoy-cans           = sho-cans + _ring@ring
 shwoy-cans          = shwo-cans + _ring@ring
+## sho-cans.alt based
+shoo-cans.alt       = sho-cans.alt + _dotabove@dot
+shwo-cans.alt       = _dotleft & sho-cans.alt
+shwoWestCree-cans.alt= sho-cans.alt & _dotright
+shwoo-cans.alt      = shwo-cans.alt + _dotabove@dot
+shwooWestCree-cans.alt= shoo-cans.alt & _dotright
+shoy-cans.alt       = sho-cans.alt + _ring@ring
+shwoy-cans.alt      = shwo-cans.alt + _ring@ring
 
 ### ᔭ ya-cans based
 yaa-cans            = ya-cans + _dotabove@dot
