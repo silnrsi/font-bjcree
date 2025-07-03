@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="staNaskapi-cans" format="2">
-  <advance width="1614"/>
+  <advance width="1511"/>
   <unicode hex="150D"/>
   <outline>
-    <component base="twaaNaskapi-cans" xOffset="142"/>
-    <component base="s-cans.small.short"/>
+    <component base="twaaNaskapi-cans" xOffset="103"/>
+    <component base="s-cans.small.short" xOffset="-39"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
+    </dict>
+  </lib>
 </glyph>

@@ -2,11 +2,11 @@
 <glyph name="thooThCree-cans" format="2">
   <advance width="1240"/>
   <unicode hex="15AB"/>
-  <anchor x="915" y="1393" name="_dot2"/>
-  <anchor x="915" y="1391" name="_dot3"/>
+  <anchor x="962" y="1393" name="_dot2"/>
+  <anchor x="962" y="1391" name="_dot3"/>
   <outline>
     <component base="thoThCree-cans"/>
-    <component base="_dotabove" xOffset="915"/>
+    <component base="_dotabove" xOffset="962"/>
   </outline>
   <lib>
     <dict>
