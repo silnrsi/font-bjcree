@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pa-cans" format="2">
-  <advance width="1531"/>
+  <advance width="1595"/>
   <unicode hex="1438"/>
   <anchor x="1379" y="1395" name="dot"/>
   <anchor x="920" y="1263" name="dot2"/>
@@ -22,7 +22,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.curve</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

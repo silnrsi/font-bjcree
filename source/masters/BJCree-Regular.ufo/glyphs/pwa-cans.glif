@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwa-cans" format="2">
-  <advance width="1972"/>
+  <advance width="2036"/>
   <unicode hex="1444"/>
   <anchor x="1820" y="1395" name="dot"/>
   <anchor x="1361" y="1263" name="dot2"/>
