@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="paai-cans" format="2">
-  <advance width="1585"/>
+  <advance width="1586"/>
   <unicode hex="1430"/>
   <anchor x="797" y="1391" name="_ringmiddle"/>
   <anchor x="797" y="1395" name="dot"/>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pi-cans" format="2">
+  <outline>
+    <contour>
+      <point x="48" y="0" type="line"/>
+      <point x="338" y="0" type="line"/>
+      <point x="780" y="891" type="line"/>
+      <point x="1222" y="0" type="line"/>
+      <point x="1512" y="0" type="line"/>
+      <point x="780" y="1488" type="line"/>
+    </contour>
+  </outline>
+</glyph>

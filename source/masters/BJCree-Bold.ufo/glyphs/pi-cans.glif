@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pi-cans" format="2">
-  <advance width="1584"/>
+  <advance width="1623"/>
   <unicode hex="1431"/>
-  <anchor x="792" y="1467" name="dot"/>
-  <anchor x="792" y="1465" name="ring"/>
+  <anchor x="780" y="1467" name="dot"/>
+  <anchor x="780" y="1465" name="ring"/>
   <outline>
-    <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="350" y="0" type="line"/>
-      <point x="792" y="891" type="line"/>
-      <point x="1234" y="0" type="line"/>
-      <point x="1524" y="0" type="line"/>
-      <point x="792" y="1488" type="line"/>
-    </contour>
+    <component base="pa-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="90" yOffset="1541"/>
   </outline>
   <lib>
     <dict>

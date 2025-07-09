@@ -6,4 +6,10 @@
     <component base="pWestCree-cans"/>
     <component base="pWestCree-cans" xOffset="423"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=|</string>
+    </dict>
+  </lib>
 </glyph>
