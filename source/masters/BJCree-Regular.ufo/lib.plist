@@ -5,11 +5,11 @@
   <key>GSOffsetCapStyle</key>
   <integer>4</integer>
   <key>GSOffsetHorizontal</key>
-  <real>62.5</real>
+  <integer>20</integer>
   <key>GSOffsetMakeStroke</key>
   <integer>1</integer>
   <key>GSOffsetVertical</key>
-  <real>62.5</real>
+  <integer>20</integer>
   <key>com.github.googlei18n.ufo2ft.featureWriters</key>
   <array>
     <dict>
@@ -66,8 +66,9 @@
     <string>/ai-cans/wYCree-cans/finalacute-cans/finalgrave-cans/finalbottom-cans/finaltophalfring-cans/finalrighthalfring-cans/finalring-cans/finalsmallring-cans/finaldbleacute-cans/finaldbleshortvstrokes-cans/finalraiseddot-cans/finalshorthstroke-cans/pWestCree-cans/finalplus-cans/finaldowntack-cans/hk-cans/yiSayisi-cans/thFinalWoodsCree-cans/wBlackfoot-cans/lWestCree-cans/rWestCree-cans/glottalstop-cans/wECree-cans/wWCree-cans/pOjibway-cans/p-cans/ngCarrier-cans/tOjibway-cans/t-cans/mWestCree-cans/kOjibway-cans/kw-cans/k-cans/nOjibway-cans/nh-cans/n-cans/cOjibway-cans/thSayisi-cans/c-cans/l-cans/mOjibway-cans/mh-cans/m-cans/sOjibway-cans/sw-cans/skwNaskapi-cans/s-cans/skMooseCree-cans/shOjibway-cans/sh-cans/y-cans/thThCree-cans/r-cans/f-cans/th-cans</string>
     <string>/finalgrave-cans/finalacute-cans/finaldbleacute-cans/in-cans/an-cans/en-cans/in-cans/on-cans</string>
     <string>/finaldbleshortvstrokes-cans/finaldbleshortvstrokes-cans</string>
-    <string>/ring/_ring/_ring/_heightcontrol</string>
+    <string>/ring</string>
     <string>/pa-cans -/pa-cans</string>
+    <string>/objectReplacementCharacter</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
