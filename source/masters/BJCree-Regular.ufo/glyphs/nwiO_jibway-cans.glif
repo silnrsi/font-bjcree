@@ -2,8 +2,8 @@
 <glyph name="nwiOjibway-cans" format="2">
   <advance width="2060"/>
   <unicode hex="18C7"/>
-  <anchor x="526" y="814" name="dot"/>
-  <anchor x="526" y="812" name="ring"/>
+  <anchor x="526" y="1064" name="dot"/>
+  <anchor x="526" y="1058" name="ring"/>
   <outline>
     <component base="ni-cans"/>
     <component base="_dotrightfar" xOffset="1599"/>

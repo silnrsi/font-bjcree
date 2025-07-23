@@ -2,11 +2,11 @@
 <glyph name="raai-cans" format="2">
   <advance width="1847"/>
   <unicode hex="1545"/>
-  <anchor x="653" y="921" name="_ringmiddle"/>
-  <anchor x="653" y="927" name="dot"/>
+  <anchor x="653" y="1044" name="_ringmiddle"/>
+  <anchor x="653" y="1052" name="dot"/>
   <outline>
     <component base="ri-cans"/>
-    <component base="_ring" xOffset="653" yOffset="-544"/>
+    <component base="_ring" xOffset="653" yOffset="-421"/>
   </outline>
   <lib>
     <dict>

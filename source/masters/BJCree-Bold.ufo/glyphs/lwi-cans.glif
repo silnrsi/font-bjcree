@@ -2,8 +2,8 @@
 <glyph name="lwi-cans" format="2">
   <advance width="2085"/>
   <unicode hex="14DE"/>
-  <anchor x="1044" y="927" name="dot"/>
-  <anchor x="1044" y="923" name="ring"/>
+  <anchor x="1044" y="1052" name="dot"/>
+  <anchor x="1044" y="1046" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="li-cans" xOffset="431"/>

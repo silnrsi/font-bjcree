@@ -2,8 +2,8 @@
 <glyph name="shwaWestCree-cans" format="2">
   <advance width="2307"/>
   <unicode hex="1522"/>
-  <anchor x="972" y="813" name="dot"/>
-  <anchor x="972" y="809" name="ring"/>
+  <anchor x="972" y="1064" name="dot"/>
+  <anchor x="972" y="1058" name="ring"/>
   <outline>
     <component base="sha-cans"/>
     <component base="_dotright" xOffset="1946"/>

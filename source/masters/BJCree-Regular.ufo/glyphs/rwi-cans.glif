@@ -2,8 +2,8 @@
 <glyph name="rwi-cans" format="2">
   <advance width="2136"/>
   <unicode hex="18CF"/>
-  <anchor x="940" y="813" name="dot"/>
-  <anchor x="940" y="809" name="ring"/>
+  <anchor x="940" y="1064" name="dot"/>
+  <anchor x="940" y="1058" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ri-cans" xOffset="361"/>

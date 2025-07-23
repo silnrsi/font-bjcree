@@ -2,10 +2,10 @@
 <glyph name="ri-cans" format="2">
   <advance width="1847"/>
   <unicode hex="1546"/>
-  <anchor x="653" y="927" name="dot"/>
-  <anchor x="653" y="923" name="ring"/>
+  <anchor x="653" y="1052" name="dot"/>
+  <anchor x="653" y="1046" name="ring"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1657" yOffset="1060"/>
+    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="-1" yScale="0" xOffset="1657" yOffset="1059"/>
   </outline>
   <lib>
     <dict>

@@ -2,12 +2,12 @@
 <glyph name="noy-cans" format="2">
   <advance width="1599"/>
   <unicode hex="18BB"/>
-  <anchor x="1072" y="815" name="2dotsmiddle"/>
-  <anchor x="1072" y="809" name="_ringmiddle"/>
-  <anchor x="1072" y="813" name="dot"/>
+  <anchor x="1072" y="1061" name="2dotsmiddle"/>
+  <anchor x="1072" y="1056" name="_ringmiddle"/>
+  <anchor x="1072" y="1064" name="dot"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_ring" xOffset="1072" yOffset="-584"/>
+    <component base="_ring" xOffset="1072" yOffset="-337"/>
   </outline>
   <lib>
     <dict>

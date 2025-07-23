@@ -2,8 +2,8 @@
 <glyph name="lwoWestCree-cans" format="2">
   <advance width="1961"/>
   <unicode hex="14E3"/>
-  <anchor x="1125" y="813" name="2dotsmiddle"/>
-  <anchor x="1069" y="813" name="dot"/>
+  <anchor x="1125" y="1064" name="2dotsmiddle"/>
+  <anchor x="1069" y="1064" name="dot"/>
   <outline>
     <component base="lo-cans"/>
     <component base="_dotright" xOffset="1600"/>

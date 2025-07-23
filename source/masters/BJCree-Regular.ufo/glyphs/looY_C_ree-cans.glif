@@ -2,12 +2,12 @@
 <glyph name="looYCree-cans" format="2">
   <advance width="1600"/>
   <unicode hex="14D9"/>
-  <anchor x="890" y="813" name="_2dotsleft"/>
-  <anchor x="1359" y="813" name="_2dotsright"/>
-  <anchor x="1069" y="813" name="dot"/>
+  <anchor x="890" y="1064" name="_2dotsleft"/>
+  <anchor x="1359" y="1064" name="_2dotsright"/>
+  <anchor x="1069" y="1064" name="dot"/>
   <outline>
     <component base="lo-cans"/>
-    <component base="_dot2hclose" xOffset="491" yOffset="-582"/>
+    <component base="_dot2hclose" xOffset="491" yOffset="-331"/>
   </outline>
   <lib>
     <dict>

@@ -2,11 +2,11 @@
 <glyph name="shoy-cans" format="2">
   <advance width="1946"/>
   <unicode hex="18C0"/>
-  <anchor x="963" y="807" name="_ringmiddle"/>
-  <anchor x="963" y="813" name="dot"/>
+  <anchor x="963" y="1056" name="_ringmiddle"/>
+  <anchor x="963" y="1064" name="dot"/>
   <outline>
     <component base="sho-cans"/>
-    <component base="_ring" xOffset="963" yOffset="-586"/>
+    <component base="_ring" xOffset="963" yOffset="-337"/>
   </outline>
   <lib>
     <dict>

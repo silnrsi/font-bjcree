@@ -2,9 +2,9 @@
 <glyph name="nwo-cans" format="2">
   <advance width="1780"/>
   <unicode hex="18CA"/>
-  <anchor x="1253" y="815" name="2dotsmiddle"/>
-  <anchor x="1253" y="813" name="dot"/>
-  <anchor x="1253" y="811" name="ring"/>
+  <anchor x="1253" y="1061" name="2dotsmiddle"/>
+  <anchor x="1253" y="1064" name="dot"/>
+  <anchor x="1253" y="1058" name="ring"/>
   <outline>
     <component base="_dotleftclose"/>
     <component base="no-cans" xOffset="181"/>

@@ -2,9 +2,9 @@
 <glyph name="nwaWestCree-cans" format="2">
   <advance width="1712"/>
   <unicode hex="14CC"/>
-  <anchor x="526" y="815" name="2dotsmiddle"/>
-  <anchor x="526" y="813" name="dot"/>
-  <anchor x="526" y="811" name="ring"/>
+  <anchor x="526" y="1061" name="2dotsmiddle"/>
+  <anchor x="526" y="1064" name="dot"/>
+  <anchor x="526" y="1058" name="ring"/>
   <outline>
     <component base="na-cans"/>
     <component base="_dotrightcloser" xOffset="1599"/>

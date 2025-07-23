@@ -2,10 +2,10 @@
 <glyph name="nwaaWestCree-cans" format="2">
   <advance width="1712"/>
   <unicode hex="14CE"/>
-  <anchor x="526" y="815" name="2dotsmiddle"/>
-  <anchor x="526" y="811" name="_dot2"/>
-  <anchor x="526" y="809" name="_dot3"/>
-  <anchor x="526" y="811" name="ring"/>
+  <anchor x="526" y="1061" name="2dotsmiddle"/>
+  <anchor x="526" y="1062" name="_dot2"/>
+  <anchor x="526" y="1060" name="_dot3"/>
+  <anchor x="526" y="1058" name="ring"/>
   <outline>
     <component base="naa-cans"/>
     <component base="_dotrightcloser" xOffset="1599"/>

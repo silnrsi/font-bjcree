@@ -2,12 +2,12 @@
 <glyph name="lwaa-cans" format="2">
   <advance width="2084"/>
   <unicode hex="14E8"/>
-  <anchor x="1036" y="925" name="_dot2"/>
-  <anchor x="1036" y="923" name="_dot3"/>
-  <anchor x="1036" y="923" name="ring"/>
+  <anchor x="1036" y="1050" name="_dot2"/>
+  <anchor x="1036" y="1048" name="_dot3"/>
+  <anchor x="1036" y="1046" name="ring"/>
   <outline>
     <component base="lwa-cans"/>
-    <component base="_dotabove" xOffset="1036" yOffset="-541"/>
+    <component base="_dotabove" xOffset="1036" yOffset="-416"/>
   </outline>
   <lib>
     <dict>

@@ -2,13 +2,13 @@
 <glyph name="nooYCree-cans" format="2">
   <advance width="1662"/>
   <unicode hex="14C6"/>
-  <anchor x="835" y="929" name="_2dotsleft"/>
-  <anchor x="1305" y="929" name="_2dotsright"/>
-  <anchor x="1070" y="927" name="dot"/>
-  <anchor x="1070" y="925" name="ring"/>
+  <anchor x="835" y="1049" name="_2dotsleft"/>
+  <anchor x="1305" y="1049" name="_2dotsright"/>
+  <anchor x="1070" y="1052" name="dot"/>
+  <anchor x="1070" y="1046" name="ring"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_dot2hclose" xOffset="374" yOffset="-538"/>
+    <component base="_dot2hclose" xOffset="374" yOffset="-418"/>
   </outline>
   <lib>
     <dict>

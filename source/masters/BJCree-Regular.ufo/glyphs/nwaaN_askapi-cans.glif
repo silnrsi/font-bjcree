@@ -2,13 +2,13 @@
 <glyph name="nwaaNaskapi-cans" format="2">
   <advance width="1599"/>
   <unicode hex="14CF"/>
-  <anchor x="291" y="815" name="_2dotsleft"/>
-  <anchor x="760" y="815" name="_2dotsright"/>
-  <anchor x="526" y="813" name="dot"/>
-  <anchor x="526" y="811" name="ring"/>
+  <anchor x="291" y="1061" name="_2dotsleft"/>
+  <anchor x="760" y="1061" name="_2dotsright"/>
+  <anchor x="526" y="1064" name="dot"/>
+  <anchor x="526" y="1058" name="ring"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_dot2hclose" xOffset="-108" yOffset="-580"/>
+    <component base="_dot2hclose" xOffset="-108" yOffset="-334"/>
   </outline>
   <lib>
     <dict>

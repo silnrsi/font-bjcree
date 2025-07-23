@@ -2,12 +2,12 @@
 <glyph name="nay-cans" format="2">
   <advance width="1662"/>
   <unicode hex="18BC"/>
-  <anchor x="590" y="929" name="2dotsmiddle"/>
-  <anchor x="590" y="923" name="_ringmiddle"/>
-  <anchor x="590" y="927" name="dot"/>
+  <anchor x="590" y="1049" name="2dotsmiddle"/>
+  <anchor x="590" y="1044" name="_ringmiddle"/>
+  <anchor x="590" y="1052" name="dot"/>
   <outline>
     <component base="na-cans"/>
-    <component base="_ring" xOffset="590" yOffset="-542"/>
+    <component base="_ring" xOffset="590" yOffset="-421"/>
   </outline>
   <lib>
     <dict>

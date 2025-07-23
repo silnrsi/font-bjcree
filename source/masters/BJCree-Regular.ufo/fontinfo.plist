@@ -24,21 +24,23 @@
       <key>name</key>
       <string>HalfHeight top</string>
       <key>y</key>
-      <integer>813</integer>
+      <integer>808</integer>
     </dict>
     <dict>
       <key>name</key>
       <string>HalfHeight dot base</string>
       <key>y</key>
-      <integer>973</integer>
+      <integer>1214</integer>
     </dict>
     <dict>
       <key>angle</key>
       <integer>270</integer>
+      <key>name</key>
+      <string>Left edge</string>
       <key>x</key>
       <integer>0</integer>
       <key>y</key>
-      <integer>1067</integer>
+      <integer>1138</integer>
     </dict>
     <dict>
       <key>name</key>
@@ -59,12 +61,8 @@
       <integer>1450</integer>
     </dict>
     <dict>
-      <key>angle</key>
-      <integer>0</integer>
       <key>name</key>
       <string>Raised halfHeight base</string>
-      <key>x</key>
-      <integer>-640</integer>
       <key>y</key>
       <integer>763</integer>
     </dict>
@@ -74,9 +72,15 @@
       <key>y</key>
       <integer>1315</integer>
     </dict>
+    <dict>
+      <key>name</key>
+      <string>HalfHeight dot AP</string>
+      <key>y</key>
+      <integer>1064</integer>
+    </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/07/10 17:34:50</string>
+  <string>2025/07/23 16:08:36</string>
   <key>openTypeHheaAscender</key>
   <integer>2019</integer>
   <key>openTypeHheaDescender</key>

@@ -2,12 +2,12 @@
 <glyph name="shoo-cans" format="2">
   <advance width="1946"/>
   <unicode hex="1514"/>
-  <anchor x="963" y="811" name="_dot2"/>
-  <anchor x="963" y="809" name="_dot3"/>
-  <anchor x="963" y="809" name="ring"/>
+  <anchor x="963" y="1062" name="_dot2"/>
+  <anchor x="963" y="1060" name="_dot3"/>
+  <anchor x="963" y="1058" name="ring"/>
   <outline>
     <component base="sho-cans"/>
-    <component base="_dotabove" xOffset="963" yOffset="-582"/>
+    <component base="_dotabove" xOffset="963" yOffset="-331"/>
   </outline>
   <lib>
     <dict>

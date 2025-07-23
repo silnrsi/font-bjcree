@@ -2,9 +2,9 @@
 <glyph name="shwooWestCree-cans" format="2">
   <advance width="2307"/>
   <unicode hex="1520"/>
-  <anchor x="963" y="811" name="_dot2"/>
-  <anchor x="963" y="809" name="_dot3"/>
-  <anchor x="963" y="809" name="ring"/>
+  <anchor x="963" y="1062" name="_dot2"/>
+  <anchor x="963" y="1060" name="_dot3"/>
+  <anchor x="963" y="1058" name="ring"/>
   <outline>
     <component base="shoo-cans"/>
     <component base="_dotright" xOffset="1946"/>

@@ -2,11 +2,11 @@
 <glyph name="naai-cans" format="2">
   <advance width="1599"/>
   <unicode hex="14C1"/>
-  <anchor x="526" y="810" name="_ringmiddle"/>
-  <anchor x="526" y="814" name="dot"/>
+  <anchor x="526" y="1056" name="_ringmiddle"/>
+  <anchor x="526" y="1064" name="dot"/>
   <outline>
     <component base="ni-cans"/>
-    <component base="_ring" xOffset="526" yOffset="-583"/>
+    <component base="_ring" xOffset="526" yOffset="-337"/>
   </outline>
   <lib>
     <dict>

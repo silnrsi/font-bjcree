@@ -2,9 +2,9 @@
 <glyph name="no-cans" format="2">
   <advance width="1662"/>
   <unicode hex="14C4"/>
-  <anchor x="1070" y="929" name="2dotsmiddle"/>
-  <anchor x="1070" y="927" name="dot"/>
-  <anchor x="1070" y="925" name="ring"/>
+  <anchor x="1070" y="1049" name="2dotsmiddle"/>
+  <anchor x="1070" y="1052" name="dot"/>
+  <anchor x="1070" y="1046" name="ring"/>
   <outline>
     <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1527" yOffset="-190"/>
   </outline>

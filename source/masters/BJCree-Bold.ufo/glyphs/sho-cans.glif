@@ -2,8 +2,8 @@
 <glyph name="sho-cans" format="2">
   <advance width="2044"/>
   <unicode hex="1513"/>
-  <anchor x="1020" y="813" name="dot"/>
-  <anchor x="1020" y="809" name="ring"/>
+  <anchor x="1020" y="1052" name="dot"/>
+  <anchor x="1020" y="1046" name="ring"/>
   <outline>
     <component base="sha-cans" yScale="-1" yOffset="820"/>
   </outline>

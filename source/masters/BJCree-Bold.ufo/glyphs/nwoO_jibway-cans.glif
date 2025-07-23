@@ -2,9 +2,9 @@
 <glyph name="nwoOjibway-cans" format="2">
   <advance width="2093"/>
   <unicode hex="18CB"/>
-  <anchor x="1070" y="929" name="2dotsmiddle"/>
-  <anchor x="1070" y="927" name="dot"/>
-  <anchor x="1070" y="925" name="ring"/>
+  <anchor x="1070" y="1049" name="2dotsmiddle"/>
+  <anchor x="1070" y="1052" name="dot"/>
+  <anchor x="1070" y="1046" name="ring"/>
   <outline>
     <component base="no-cans"/>
     <component base="_dotright" xOffset="1662"/>

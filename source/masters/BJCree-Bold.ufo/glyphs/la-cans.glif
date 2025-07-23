@@ -2,8 +2,8 @@
 <glyph name="la-cans" format="2">
   <advance width="1653"/>
   <unicode hex="14DA"/>
-  <anchor x="605" y="927" name="dot"/>
-  <anchor x="605" y="923" name="ring"/>
+  <anchor x="605" y="1052" name="dot"/>
+  <anchor x="605" y="1046" name="ring"/>
   <outline>
     <component base="ca-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="126" yOffset="-190"/>
   </outline>

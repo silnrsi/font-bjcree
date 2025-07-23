@@ -2,8 +2,8 @@
 <glyph name="sha-cans" format="2">
   <advance width="2044"/>
   <unicode hex="1515"/>
-  <anchor x="1022" y="927" name="dot"/>
-  <anchor x="1022" y="923" name="ring"/>
+  <anchor x="1022" y="1052" name="dot"/>
+  <anchor x="1022" y="1046" name="ring"/>
   <outline>
     <contour>
       <point x="263" y="92" type="curve" smooth="yes"/>
