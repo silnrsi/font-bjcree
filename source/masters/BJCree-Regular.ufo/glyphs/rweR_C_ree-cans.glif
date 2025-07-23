@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rweRCree-cans" format="2">
-  <advance width="2009"/>
+  <advance width="2076"/>
   <unicode hex="18E0"/>
   <outline>
     <component base="reRCree-cans"/>
-    <component base="_dotright" xOffset="1648"/>
+    <component base="_dotright" xOffset="1715"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

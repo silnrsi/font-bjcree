@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thoThCree-cans" format="2">
-  <advance width="1435"/>
+  <advance width="1495"/>
   <unicode hex="15AA"/>
   <anchor x="1053" y="1467" name="dot"/>
   <outline>
@@ -10,6 +10,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.point</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="staNaskapi-cans" format="2">
-  <advance width="1640"/>
+  <advance width="1559"/>
   <unicode hex="150D"/>
   <outline>
-    <component base="twaaNaskapi-cans" xOffset="142"/>
-    <component base="s-cans.small.short"/>
+    <component base="twaaNaskapi-cans" xOffset="155"/>
+    <component base="s-cans.small.short" xOffset="13"/>
   </outline>
   <lib>
     <dict>

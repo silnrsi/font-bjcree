@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ta-cans" format="2">
-  <advance width="1112"/>
+  <advance width="1172"/>
   <unicode hex="1455"/>
-  <anchor x="902" y="1467" name="dot"/>
-  <anchor x="902" y="1465" name="ring"/>
+  <anchor x="962" y="1467" name="dot"/>
+  <anchor x="962" y="1465" name="ring"/>
   <outline>
-    <component base="to-cans" xScale="-1" yScale="-1" xOffset="1112" yOffset="1467"/>
+    <component base="to-cans" xScale="-1" yScale="-1" xOffset="1172" yOffset="1467"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

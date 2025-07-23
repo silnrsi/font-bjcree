@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="loo-cans" format="2">
-  <advance width="1600"/>
+  <advance width="1667"/>
   <unicode hex="14D8"/>
-  <anchor x="1125" y="1064" name="2dotsmiddle"/>
-  <anchor x="1069" y="1062" name="_dot2"/>
-  <anchor x="1069" y="1060" name="_dot3"/>
+  <anchor x="1192" y="1064" name="2dotsmiddle"/>
+  <anchor x="1136" y="1062" name="_dot2"/>
+  <anchor x="1136" y="1060" name="_dot3"/>
   <outline>
     <component base="lo-cans"/>
-    <component base="_dotabove" xOffset="1069" yOffset="-331"/>
+    <component base="_dotabove" xOffset="1136" yOffset="-331"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

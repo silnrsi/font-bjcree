@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noo-cans" format="2">
-  <advance width="1662"/>
+  <advance width="1722"/>
   <unicode hex="14C5"/>
-  <anchor x="1070" y="1049" name="2dotsmiddle"/>
-  <anchor x="1070" y="1050" name="_dot2"/>
-  <anchor x="1070" y="1048" name="_dot3"/>
-  <anchor x="1070" y="1046" name="ring"/>
+  <anchor x="1130" y="1049" name="2dotsmiddle"/>
+  <anchor x="1130" y="1050" name="_dot2"/>
+  <anchor x="1130" y="1048" name="_dot3"/>
+  <anchor x="1130" y="1046" name="ring"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_dotabove" xOffset="1070" yOffset="-416"/>
+    <component base="_dotabove" xOffset="1130" yOffset="-416"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwaaWestCree-cans" format="2">
-  <advance width="1239"/>
+  <advance width="1306"/>
   <unicode hex="14B9"/>
   <anchor x="253" y="1393" name="_dot2"/>
   <anchor x="253" y="1391" name="_dot3"/>
   <anchor x="253" y="1391" name="ring"/>
   <outline>
     <component base="maa-cans"/>
-    <component base="_dotrightclose" xOffset="1058"/>
+    <component base="_dotrightclose" xOffset="1125"/>
   </outline>
   <lib>
     <dict>

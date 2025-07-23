@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwaYCree-cans" format="2">
-  <advance width="1595"/>
+  <advance width="1598"/>
   <unicode hex="1448"/>
   <anchor x="287" y="943" name="_dot"/>
   <anchor x="287" y="941" name="_dot2"/>
@@ -16,7 +16,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

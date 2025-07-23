@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nh-cans" format="2">
-  <advance width="1104"/>
+  <advance width="1107"/>
   <unicode hex="14D2"/>
   <outline>
-    <component base="k-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1577" yOffset="633"/>
+    <component base="k-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1580" yOffset="633"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

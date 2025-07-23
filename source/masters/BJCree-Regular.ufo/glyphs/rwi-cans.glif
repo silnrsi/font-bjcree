@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwi-cans" format="2">
-  <advance width="2136"/>
+  <advance width="2076"/>
   <unicode hex="18CF"/>
   <anchor x="940" y="1064" name="dot"/>
   <anchor x="940" y="1058" name="ring"/>
@@ -12,6 +12,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

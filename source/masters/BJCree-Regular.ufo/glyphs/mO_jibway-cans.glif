@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mOjibway-cans" format="2">
-  <advance width="836"/>
+  <advance width="839"/>
   <unicode hex="18D8"/>
   <outline>
     <component base="m-cans" yScale="-1" yOffset="2051"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leWestCree-cans" format="2">
-  <advance width="1587"/>
+  <advance width="1707"/>
   <unicode hex="1544"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="60" yOffset="1060"/>
+    <component base="ra-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="120" yOffset="1060"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>=|</string>
       <key>public.markColor</key>

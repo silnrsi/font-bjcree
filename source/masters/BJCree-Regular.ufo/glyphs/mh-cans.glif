@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mh-cans" format="2">
-  <advance width="836"/>
+  <advance width="839"/>
   <unicode hex="14BD"/>
   <outline>
-    <component base="m-cans" xScale="-1" xOffset="836"/>
+    <component base="m-cans" xScale="-1" xOffset="839"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

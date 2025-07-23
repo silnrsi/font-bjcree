@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwo-cans" format="2">
-  <advance width="2032"/>
+  <advance width="2092"/>
   <unicode hex="1440"/>
-  <anchor x="1175" y="1467" name="2dotsmiddle"/>
-  <anchor x="634" y="1467" name="dot"/>
-  <anchor x="634" y="1465" name="ring"/>
+  <anchor x="1235" y="1467" name="2dotsmiddle"/>
+  <anchor x="694" y="1467" name="dot"/>
+  <anchor x="694" y="1465" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="po-cans" xOffset="431"/>

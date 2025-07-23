@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tay-cans" format="2">
-  <advance width="1112"/>
+  <advance width="1172"/>
   <unicode hex="18B7"/>
-  <anchor x="902" y="1463" name="_ringmiddle"/>
-  <anchor x="902" y="1467" name="dot"/>
+  <anchor x="962" y="1463" name="_ringmiddle"/>
+  <anchor x="962" y="1467" name="dot"/>
   <outline>
     <component base="ta-cans"/>
-    <component base="_ring" xOffset="902" yOffset="-2"/>
+    <component base="_ring" xOffset="962" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

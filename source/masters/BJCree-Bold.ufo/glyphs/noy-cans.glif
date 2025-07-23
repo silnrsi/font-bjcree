@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="noy-cans" format="2">
-  <advance width="1662"/>
+  <advance width="1722"/>
   <unicode hex="18BB"/>
-  <anchor x="1070" y="1049" name="2dotsmiddle"/>
-  <anchor x="1070" y="1044" name="_ringmiddle"/>
-  <anchor x="1070" y="1052" name="dot"/>
+  <anchor x="1130" y="1049" name="2dotsmiddle"/>
+  <anchor x="1130" y="1044" name="_ringmiddle"/>
+  <anchor x="1130" y="1052" name="dot"/>
   <outline>
     <component base="no-cans"/>
-    <component base="_ring" xOffset="1070" yOffset="-421"/>
+    <component base="_ring" xOffset="1130" yOffset="-421"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

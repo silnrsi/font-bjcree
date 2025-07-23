@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pooYCree-cans" format="2">
-  <advance width="1601"/>
+  <advance width="1661"/>
   <unicode hex="1435"/>
-  <anchor x="509" y="1467" name="_2dotsleft"/>
-  <anchor x="979" y="1467" name="_2dotsright"/>
-  <anchor x="203" y="1467" name="dot"/>
-  <anchor x="203" y="1465" name="ring"/>
+  <anchor x="569" y="1467" name="_2dotsleft"/>
+  <anchor x="1039" y="1467" name="_2dotsright"/>
+  <anchor x="263" y="1467" name="dot"/>
+  <anchor x="263" y="1465" name="ring"/>
   <outline>
     <component base="po-cans"/>
-    <component base="_dot2hclose" xOffset="48"/>
+    <component base="_dot2hclose" xOffset="108"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>

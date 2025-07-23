@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwooOjibway-cans" format="2">
-  <advance width="1960"/>
+  <advance width="2027"/>
   <unicode hex="18CD"/>
-  <anchor x="1072" y="1061" name="2dotsmiddle"/>
-  <anchor x="1072" y="1062" name="_dot2"/>
-  <anchor x="1072" y="1060" name="_dot3"/>
-  <anchor x="1072" y="1058" name="ring"/>
+  <anchor x="1139" y="1061" name="2dotsmiddle"/>
+  <anchor x="1139" y="1062" name="_dot2"/>
+  <anchor x="1139" y="1060" name="_dot3"/>
+  <anchor x="1139" y="1058" name="ring"/>
   <outline>
     <component base="noo-cans"/>
-    <component base="_dotright" xOffset="1599"/>
+    <component base="_dotright" xOffset="1666"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

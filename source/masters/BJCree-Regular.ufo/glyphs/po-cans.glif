@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="po-cans" format="2">
-  <advance width="1531"/>
+  <advance width="1598"/>
   <unicode hex="1433"/>
-  <anchor x="693" y="1395" name="2dotsmiddle"/>
-  <anchor x="132" y="1395" name="dot"/>
-  <anchor x="132" y="1392" name="ring"/>
+  <anchor x="760" y="1395" name="2dotsmiddle"/>
+  <anchor x="199" y="1395" name="dot"/>
+  <anchor x="199" y="1392" name="ring"/>
   <outline>
-    <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1531" yOffset="1392"/>
+    <component base="pa-cans" xScale="-1" yScale="-1" xOffset="1598" yOffset="1392"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>

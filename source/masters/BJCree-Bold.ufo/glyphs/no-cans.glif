@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="no-cans" format="2">
-  <advance width="1662"/>
+  <advance width="1722"/>
   <unicode hex="14C4"/>
-  <anchor x="1070" y="1049" name="2dotsmiddle"/>
-  <anchor x="1070" y="1052" name="dot"/>
-  <anchor x="1070" y="1046" name="ring"/>
+  <anchor x="1130" y="1049" name="2dotsmiddle"/>
+  <anchor x="1130" y="1052" name="dot"/>
+  <anchor x="1130" y="1046" name="ring"/>
   <outline>
-    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1527" yOffset="-190"/>
+    <component base="ka-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1587" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mwooWestCree-cans" format="2">
-  <advance width="1623"/>
+  <advance width="1683"/>
   <unicode hex="14B5"/>
-  <anchor x="872" y="1463" name="2dotsright"/>
-  <anchor x="872" y="1465" name="_dot2"/>
-  <anchor x="872" y="1463" name="_dot3"/>
+  <anchor x="932" y="1463" name="2dotsright"/>
+  <anchor x="932" y="1465" name="_dot2"/>
+  <anchor x="932" y="1463" name="_dot3"/>
   <outline>
     <component base="moo-cans"/>
-    <component base="_dotright" xOffset="1192"/>
+    <component base="_dotright" xOffset="1252"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two-cans" format="2">
-  <advance width="1450"/>
+  <advance width="1517"/>
   <unicode hex="145D"/>
-  <anchor x="514" y="1391" name="2dotsleft"/>
-  <anchor x="514" y="1395" name="dot"/>
-  <anchor x="514" y="1393" name="ring"/>
+  <anchor x="581" y="1391" name="2dotsleft"/>
+  <anchor x="581" y="1395" name="dot"/>
+  <anchor x="581" y="1393" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="to-cans" xOffset="361"/>

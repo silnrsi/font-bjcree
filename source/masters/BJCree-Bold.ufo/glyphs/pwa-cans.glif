@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="pwa-cans" format="2">
-  <advance width="2092"/>
+  <advance width="2152"/>
   <unicode hex="1444"/>
   <anchor x="1902" y="1467" name="dot"/>
   <anchor x="1441" y="1280" name="dot2"/>
@@ -16,7 +16,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

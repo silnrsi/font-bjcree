@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mayNaskapi-cans" format="2">
-  <advance width="1058"/>
+  <advance width="1125"/>
   <unicode hex="18BA"/>
   <anchor x="253" y="1389" name="_ringmiddle"/>
   <anchor x="253" y="1395" name="dot"/>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertringabove</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

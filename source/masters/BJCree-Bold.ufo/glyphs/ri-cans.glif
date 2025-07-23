@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ri-cans" format="2">
-  <advance width="1847"/>
+  <advance width="1777"/>
   <unicode hex="1546"/>
   <anchor x="653" y="1052" name="dot"/>
   <anchor x="653" y="1046" name="ring"/>
@@ -12,7 +12,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

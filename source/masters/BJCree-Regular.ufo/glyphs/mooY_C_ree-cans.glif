@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mooYCree-cans" format="2">
-  <advance width="1058"/>
+  <advance width="1125"/>
   <unicode hex="14A9"/>
-  <anchor x="336" y="1391" name="_2dotsleft"/>
-  <anchor x="571" y="1391" name="_2dotsmiddle"/>
-  <anchor x="805" y="1395" name="dot"/>
+  <anchor x="403" y="1391" name="_2dotsleft"/>
+  <anchor x="638" y="1391" name="_2dotsmiddle"/>
+  <anchor x="872" y="1395" name="dot"/>
   <outline>
     <component base="mo-cans"/>
-    <component base="_dot2hclose" xOffset="-63" yOffset="-4"/>
+    <component base="_dot2hclose" xOffset="4" yOffset="-4"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertdotabove</string>
       <key>public.markColor</key>

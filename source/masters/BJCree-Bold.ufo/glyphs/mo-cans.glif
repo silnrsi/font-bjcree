@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mo-cans" format="2">
-  <advance width="1192"/>
+  <advance width="1252"/>
   <unicode hex="14A7"/>
-  <anchor x="872" y="1463" name="2dotsright"/>
-  <anchor x="872" y="1467" name="dot"/>
+  <anchor x="932" y="1463" name="2dotsright"/>
+  <anchor x="932" y="1467" name="dot"/>
   <outline>
-    <component base="ma-cans" xScale="-1" xOffset="1192"/>
+    <component base="ma-cans" xScale="-1" xOffset="1252"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertical</string>
       <key>public.markColor</key>

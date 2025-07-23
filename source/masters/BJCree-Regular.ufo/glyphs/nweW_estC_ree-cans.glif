@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nweWestCree-cans" format="2">
-  <advance width="1958"/>
+  <advance width="2025"/>
   <unicode hex="14CA"/>
   <outline>
     <component base="ne-cans"/>
-    <component base="_dotright" xOffset="1597"/>
+    <component base="_dotright" xOffset="1664"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>

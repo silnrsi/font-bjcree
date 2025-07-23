@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="p-cans" format="2">
-  <advance width="1026"/>
+  <advance width="1025"/>
   <unicode hex="1449"/>
   <outline>
     <contour>
@@ -12,4 +12,10 @@
       <point x="59" y="1012" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

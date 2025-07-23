@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="taa-cans" format="2">
-  <advance width="1089"/>
+  <advance width="1156"/>
   <unicode hex="1456"/>
-  <anchor x="936" y="1393" name="_dot2"/>
-  <anchor x="936" y="1391" name="_dot3"/>
-  <anchor x="936" y="1393" name="ring"/>
+  <anchor x="1003" y="1393" name="_dot2"/>
+  <anchor x="1003" y="1391" name="_dot3"/>
+  <anchor x="1003" y="1393" name="ring"/>
   <outline>
     <component base="ta-cans"/>
-    <component base="_dotabove" xOffset="936"/>
+    <component base="_dotabove" xOffset="1003"/>
   </outline>
   <lib>
     <dict>

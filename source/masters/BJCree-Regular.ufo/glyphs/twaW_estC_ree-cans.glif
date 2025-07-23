@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twaWestCree-cans" format="2">
-  <advance width="1450"/>
+  <advance width="1517"/>
   <unicode hex="1462"/>
-  <anchor x="936" y="1395" name="dot"/>
-  <anchor x="936" y="1393" name="ring"/>
+  <anchor x="1003" y="1395" name="dot"/>
+  <anchor x="1003" y="1393" name="ring"/>
   <outline>
     <component base="ta-cans"/>
-    <component base="_dotright" xOffset="1089"/>
+    <component base="_dotright" xOffset="1156"/>
   </outline>
   <lib>
     <dict>

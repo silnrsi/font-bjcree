@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="spaNaskapi-cans" format="2">
-  <advance width="1601"/>
+  <advance width="1661"/>
   <unicode hex="150C"/>
   <outline>
     <component base="pa-cans"/>
@@ -13,7 +13,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
+      <string>_sb.1or2stroke</string>
     </dict>
   </lib>
 </glyph>

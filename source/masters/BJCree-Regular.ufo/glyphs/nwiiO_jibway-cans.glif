@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nwiiOjibway-cans" format="2">
-  <advance width="2060"/>
+  <advance width="2127"/>
   <unicode hex="18C9"/>
   <anchor x="526" y="1062" name="_dot2"/>
   <anchor x="526" y="1060" name="_dot3"/>
   <anchor x="526" y="1058" name="ring"/>
   <outline>
     <component base="nii-cans"/>
-    <component base="_dotrightfar" xOffset="1599"/>
+    <component base="_dotrightfar" xOffset="1666"/>
   </outline>
   <lib>
     <dict>

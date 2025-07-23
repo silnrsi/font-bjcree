@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l-cans" format="2">
-  <advance width="1139"/>
+  <advance width="1138"/>
   <unicode hex="14EA"/>
   <outline>
     <component base="c-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="-449" yOffset="495"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

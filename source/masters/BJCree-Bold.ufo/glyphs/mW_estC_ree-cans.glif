@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mWestCree-cans" format="2">
-  <advance width="817"/>
+  <advance width="816"/>
   <unicode hex="14BC"/>
   <outline>
     <component base="t-cans"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>
