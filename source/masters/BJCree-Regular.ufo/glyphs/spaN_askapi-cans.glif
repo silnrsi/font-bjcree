@@ -4,9 +4,9 @@
   <unicode hex="150C"/>
   <outline>
     <component base="pa-cans"/>
-    <component base="s-cans.small" xOffset="328" yOffset="-10"/>
-    <component base="_dotabove" xOffset="920" yOffset="-130"/>
-    <component base="_dotabove" xOffset="287" yOffset="-452"/>
+    <component base="s-cans.small" xOffset="328" yOffset="-17"/>
+    <component base="_dotabove" xOffset="1046" yOffset="-109"/>
+    <component base="_dotabove" xOffset="228" yOffset="-532"/>
   </outline>
   <lib>
     <dict>

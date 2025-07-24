@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalgrave-cans" format="2">
-  <advance width="685"/>
+  <advance width="725"/>
   <unicode hex="1420"/>
   <outline>
-    <component base="finalacute-cans" xScale="-1" xOffset="685"/>
+    <component base="finalacute-cans" xScale="-1" xOffset="725"/>
   </outline>
   <lib>
     <dict>

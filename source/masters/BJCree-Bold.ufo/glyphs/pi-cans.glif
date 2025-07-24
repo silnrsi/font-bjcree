@@ -2,10 +2,10 @@
 <glyph name="pi-cans" format="2">
   <advance width="1623"/>
   <unicode hex="1431"/>
-  <anchor x="780" y="1467" name="dot"/>
-  <anchor x="780" y="1465" name="ring"/>
+  <anchor x="765" y="1467" name="dot"/>
+  <anchor x="765" y="1465" name="ring"/>
   <outline>
-    <component base="pa-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="90" yOffset="1541"/>
+    <component base="pa-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="75" yOffset="1541"/>
   </outline>
   <lib>
     <dict>

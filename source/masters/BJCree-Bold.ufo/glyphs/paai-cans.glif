@@ -2,11 +2,11 @@
 <glyph name="paai-cans" format="2">
   <advance width="1623"/>
   <unicode hex="1430"/>
-  <anchor x="780" y="1463" name="_ringmiddle"/>
-  <anchor x="780" y="1467" name="dot"/>
+  <anchor x="765" y="1463" name="_ringmiddle"/>
+  <anchor x="765" y="1467" name="dot"/>
   <outline>
     <component base="pi-cans"/>
-    <component base="_ring" xOffset="780" yOffset="-2"/>
+    <component base="_ring" xOffset="765" yOffset="-2"/>
   </outline>
   <lib>
     <dict>

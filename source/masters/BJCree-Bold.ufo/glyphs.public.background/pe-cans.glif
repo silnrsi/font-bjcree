@@ -2,13 +2,13 @@
 <glyph name="pe-cans" format="2">
   <outline>
     <contour>
-      <point x="795" y="-30" type="line"/>
-      <point x="1527" y="1458" type="line"/>
-      <point x="1237" y="1458" type="line"/>
-      <point x="779" y="527" type="line"/>
-      <point x="811" y="527" type="line"/>
-      <point x="353" y="1458" type="line"/>
-      <point x="63" y="1458" type="line"/>
+      <point x="810" y="-30" type="line"/>
+      <point x="1542" y="1458" type="line"/>
+      <point x="1252" y="1458" type="line"/>
+      <point x="794" y="527" type="line"/>
+      <point x="826" y="527" type="line"/>
+      <point x="368" y="1458" type="line"/>
+      <point x="78" y="1458" type="line"/>
     </contour>
   </outline>
 </glyph>

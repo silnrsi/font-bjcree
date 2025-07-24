@@ -14,9 +14,12 @@
       <point x="60" y="729" type="line"/>
     </contour>
     <contour>
-      <point x="1281" y="408" type="line"/>
-      <point x="641" y="729" type="line"/>
-      <point x="1281" y="1050" type="line"/>
+      <point x="1321" y="387" type="line"/>
+      <point x="601" y="748" type="line"/>
+      <point x="601" y="709" type="line"/>
+      <point x="1321" y="1070" type="line"/>
+      <point x="1281" y="1095" type="line"/>
+      <point x="1281" y="363" type="line"/>
     </contour>
   </outline>
   <lib>

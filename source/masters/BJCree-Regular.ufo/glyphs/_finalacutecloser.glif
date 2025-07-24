@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_finalacutecloser" format="2">
-  <advance width="148"/>
+  <advance width="211"/>
   <outline>
     <component base="finalacute-cans" xOffset="-415"/>
   </outline>
