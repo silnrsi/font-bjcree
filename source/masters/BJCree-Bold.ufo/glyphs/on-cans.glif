@@ -11,7 +11,7 @@
   <anchor x="987" y="1467" name="ringmiddle"/>
   <outline>
     <component base="o-cans"/>
-    <component base="finalgrave-cans" xOffset="1498" yOffset="-261"/>
+    <component base="finalgrave-cans" xOffset="1438"/>
   </outline>
   <lib>
     <dict>
