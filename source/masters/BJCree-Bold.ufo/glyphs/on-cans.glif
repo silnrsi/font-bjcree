@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="on-cans" format="2">
-  <advance width="2344"/>
+  <advance width="2183"/>
   <unicode hex="142D"/>
+  <guideline x="754" y="729" angle="0"/>
   <anchor x="769" y="1467" name="2dotsmiddle"/>
   <anchor x="320" y="1467" name="dot"/>
   <anchor x="647" y="1310" name="dot2"/>
@@ -16,6 +17,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
     </dict>
   </lib>
 </glyph>

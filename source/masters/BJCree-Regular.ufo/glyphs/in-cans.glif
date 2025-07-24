@@ -4,7 +4,7 @@
   <unicode hex="142C"/>
   <outline>
     <component base="i-cans"/>
-    <component base="finalgrave-cans" xOffset="856"/>
+    <component base="finalgrave-cans" xOffset="965"/>
   </outline>
   <lib>
     <dict>
@@ -12,8 +12,6 @@
       <string>_sb.point</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
-      <key>public.markColor</key>
-      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
