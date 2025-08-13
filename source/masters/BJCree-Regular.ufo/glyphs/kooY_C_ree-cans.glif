@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kooYCree-cans" format="2">
-  <advance width="1132"/>
+  <advance width="1130"/>
   <unicode hex="1471"/>
-  <anchor x="411" y="1397" name="_2dotsleft"/>
-  <anchor x="646" y="1397" name="_2dotsmiddle"/>
-  <anchor x="880" y="1395" name="dot"/>
-  <anchor x="880" y="1393" name="ring"/>
+  <anchor x="409" y="1397" name="_2dotsleft"/>
+  <anchor x="644" y="1397" name="_2dotsmiddle"/>
+  <anchor x="878" y="1395" name="dot"/>
+  <anchor x="878" y="1393" name="ring"/>
   <outline>
     <component base="ko-cans"/>
-    <component base="_dot2hclose" xOffset="12" yOffset="2"/>
+    <component base="_dot2hclose" xOffset="10" yOffset="2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertdotabove</string>
       <key>public.markColor</key>

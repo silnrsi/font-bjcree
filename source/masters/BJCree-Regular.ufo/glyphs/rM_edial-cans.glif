@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rMedial-cans" format="2">
-  <advance width="1037"/>
+  <advance width="1070"/>
   <unicode hex="1552"/>
   <outline>
-    <component base="lMedial-cans" xScale="-1" xOffset="1049"/>
+    <component base="lMedial-cans" xScale="-1" xOffset="1082"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

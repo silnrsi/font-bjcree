@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwo-cans" format="2">
-  <advance width="1493"/>
+  <advance width="1491"/>
   <unicode hex="147A"/>
-  <anchor x="1241" y="1397" name="2dotsright"/>
-  <anchor x="1241" y="1395" name="dot"/>
-  <anchor x="1241" y="1393" name="ring"/>
+  <anchor x="1239" y="1397" name="2dotsright"/>
+  <anchor x="1239" y="1395" name="dot"/>
+  <anchor x="1239" y="1393" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="ko-cans" xOffset="361"/>

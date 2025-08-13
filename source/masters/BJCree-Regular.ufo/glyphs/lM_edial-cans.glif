@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lMedial-cans" format="2">
-  <advance width="1037"/>
+  <advance width="1070"/>
   <unicode hex="14EC"/>
   <outline>
     <contour>
-      <point x="875" y="1487" type="line"/>
-      <point x="97" y="1038" type="line"/>
-      <point x="680" y="735" type="line"/>
-      <point x="97" y="432" type="line"/>
-      <point x="875" y="-15" type="line"/>
-      <point x="875" y="129" type="line"/>
-      <point x="357" y="426" type="line"/>
-      <point x="952" y="735" type="line"/>
-      <point x="357" y="1044" type="line"/>
-      <point x="875" y="1343" type="line"/>
+      <point x="908" y="1487" type="line"/>
+      <point x="130" y="1038" type="line"/>
+      <point x="713" y="735" type="line"/>
+      <point x="130" y="432" type="line"/>
+      <point x="908" y="-15" type="line"/>
+      <point x="908" y="129" type="line"/>
+      <point x="390" y="426" type="line"/>
+      <point x="985" y="735" type="line"/>
+      <point x="390" y="1044" type="line"/>
+      <point x="908" y="1343" type="line"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.1or2stroke</string>
+    </dict>
+  </lib>
 </glyph>

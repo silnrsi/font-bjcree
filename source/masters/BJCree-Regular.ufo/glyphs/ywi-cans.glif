@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywi-cans" format="2">
-  <advance width="1576"/>
+  <advance width="1575"/>
   <unicode hex="1531"/>
-  <anchor x="705" y="1395" name="dot"/>
-  <anchor x="705" y="1391" name="ring"/>
+  <anchor x="704" y="1395" name="dot"/>
+  <anchor x="704" y="1391" name="ring"/>
   <outline>
     <component base="_dotleft"/>
     <component base="yi-cans" xOffset="361"/>

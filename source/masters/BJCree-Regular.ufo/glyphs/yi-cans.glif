@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yi-cans" format="2">
-  <advance width="1215"/>
+  <advance width="1214"/>
   <unicode hex="1528"/>
-  <anchor x="344" y="1395" name="dot"/>
-  <anchor x="344" y="1391" name="ring"/>
+  <anchor x="343" y="1395" name="dot"/>
+  <anchor x="343" y="1391" name="ring"/>
   <outline>
-    <component base="ye-cans" xScale="-1" xOffset="1215" yOffset="2"/>
+    <component base="ye-cans" xScale="-1" xOffset="1214" yOffset="2"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.point</string>
       <key>public.markColor</key>

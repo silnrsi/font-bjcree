@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="koo-cans" format="2">
-  <advance width="1132"/>
+  <advance width="1130"/>
   <unicode hex="1470"/>
-  <anchor x="880" y="1397" name="2dotsright"/>
-  <anchor x="880" y="1393" name="_dot2"/>
-  <anchor x="880" y="1391" name="_dot3"/>
-  <anchor x="880" y="1393" name="ring"/>
+  <anchor x="878" y="1397" name="2dotsright"/>
+  <anchor x="878" y="1393" name="_dot2"/>
+  <anchor x="878" y="1391" name="_dot3"/>
+  <anchor x="878" y="1393" name="ring"/>
   <outline>
     <component base="ko-cans"/>
-    <component base="_dotabove" xOffset="880"/>
+    <component base="_dotabove" xOffset="878"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.curve</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.vertdotabove</string>
       <key>public.markColor</key>

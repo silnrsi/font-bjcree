@@ -1,16 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ywiiWestCree-cans" format="2">
-  <advance width="1676"/>
+  <advance width="1675"/>
   <unicode hex="1534"/>
-  <anchor x="344" y="1393" name="_dot2"/>
-  <anchor x="344" y="1391" name="_dot3"/>
-  <anchor x="344" y="1391" name="ring"/>
+  <anchor x="343" y="1393" name="_dot2"/>
+  <anchor x="343" y="1391" name="_dot3"/>
+  <anchor x="343" y="1391" name="ring"/>
   <outline>
     <component base="yii-cans"/>
-    <component base="_dotrightfar" xOffset="1215"/>
+    <component base="_dotrightfar" xOffset="1214"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.dot</string>
       <key>public.markColor</key>
