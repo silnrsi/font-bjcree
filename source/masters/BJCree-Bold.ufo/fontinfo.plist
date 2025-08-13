@@ -96,7 +96,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2025/08/13 16:42:54</string>
+  <string>2025/08/13 16:54:02</string>
   <key>openTypeHheaAscender</key>
   <integer>2019</integer>
   <key>openTypeHheaDescender</key>
@@ -213,7 +213,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeOS2SuperscriptYOffset</key>
   <integer>717</integer>
   <key>openTypeOS2SuperscriptYSize</key>
-  <integer>717</integer>
+  <integer>1229</integer>
   <key>openTypeOS2Type</key>
   <array/>
   <key>openTypeOS2TypoAscender</key>
