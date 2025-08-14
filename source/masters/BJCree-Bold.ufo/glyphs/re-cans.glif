@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="re-cans" format="2">
-  <advance width="1708"/>
+  <advance width="1777"/>
   <unicode hex="1542"/>
   <outline>
-    <component base="ra-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1588" yOffset="-135"/>
+    <component base="ra-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1657" yOffset="-135"/>
   </outline>
   <lib>
     <dict>

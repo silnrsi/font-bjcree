@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lMedial-cans" format="2">
-  <advance width="1213"/>
+  <advance width="1289"/>
   <unicode hex="14EC"/>
   <outline>
     <contour>
-      <point x="1002" y="1565" type="line"/>
-      <point x="94" y="1041" type="line"/>
-      <point x="623" y="735" type="line"/>
-      <point x="94" y="429" type="line"/>
-      <point x="1002" y="-93" type="line"/>
-      <point x="1002" y="207" type="line"/>
-      <point x="614" y="429" type="line"/>
-      <point x="1143" y="735" type="line"/>
-      <point x="614" y="1041" type="line"/>
-      <point x="1002" y="1265" type="line"/>
+      <point x="1028" y="1565" type="line"/>
+      <point x="120" y="1041" type="line"/>
+      <point x="649" y="735" type="line"/>
+      <point x="120" y="429" type="line"/>
+      <point x="1028" y="-93" type="line"/>
+      <point x="1028" y="207" type="line"/>
+      <point x="640" y="429" type="line"/>
+      <point x="1169" y="735" type="line"/>
+      <point x="640" y="1041" type="line"/>
+      <point x="1028" y="1265" type="line"/>
     </contour>
   </outline>
   <lib>

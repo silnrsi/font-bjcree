@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fi-cans" format="2">
-  <advance width="1511"/>
+  <advance width="1510"/>
   <unicode hex="1555"/>
-  <anchor x="719" y="1467" name="dot"/>
-  <anchor x="719" y="1463" name="ring"/>
+  <anchor x="718" y="1467" name="dot"/>
+  <anchor x="718" y="1463" name="ring"/>
   <outline>
-    <component base="fe-cans" yScale="-1" xOffset="1" yOffset="1458"/>
+    <component base="fe-cans" yScale="-1" yOffset="1458"/>
   </outline>
   <lib>
     <dict>

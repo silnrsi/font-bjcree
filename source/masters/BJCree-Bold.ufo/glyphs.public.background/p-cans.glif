@@ -2,12 +2,12 @@
 <glyph name="p-cans" format="2">
   <outline>
     <contour>
-      <point x="905" y="553" type="line"/>
-      <point x="905" y="849" type="line"/>
-      <point x="605" y="1012" type="line"/>
-      <point x="905" y="1175" type="line"/>
-      <point x="905" y="1470" type="line"/>
-      <point x="59" y="1012" type="line"/>
+      <point x="906" y="553" type="line"/>
+      <point x="906" y="849" type="line"/>
+      <point x="606" y="1012" type="line"/>
+      <point x="906" y="1175" type="line"/>
+      <point x="906" y="1470" type="line"/>
+      <point x="60" y="1012" type="line"/>
     </contour>
   </outline>
 </glyph>

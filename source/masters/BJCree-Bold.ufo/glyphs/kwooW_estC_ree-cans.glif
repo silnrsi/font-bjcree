@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kwooWestCree-cans" format="2">
-  <advance width="1615"/>
+  <advance width="1683"/>
   <unicode hex="147D"/>
-  <anchor x="933" y="1469" name="2dotsright"/>
-  <anchor x="933" y="1465" name="_dot2"/>
-  <anchor x="933" y="1463" name="_dot3"/>
-  <anchor x="933" y="1465" name="ring"/>
+  <anchor x="1001" y="1469" name="2dotsright"/>
+  <anchor x="1001" y="1465" name="_dot2"/>
+  <anchor x="1001" y="1463" name="_dot3"/>
+  <anchor x="1001" y="1465" name="ring"/>
   <outline>
     <component base="koo-cans"/>
-    <component base="_dotright" xOffset="1184"/>
+    <component base="_dotright" xOffset="1252"/>
   </outline>
   <lib>
     <dict>

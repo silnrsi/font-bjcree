@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ray-cans" format="2">
-  <advance width="1179"/>
+  <advance width="1249"/>
   <unicode hex="18C5"/>
   <anchor x="969" y="1461" name="_ringmiddle"/>
   <anchor x="969" y="1467" name="dot"/>

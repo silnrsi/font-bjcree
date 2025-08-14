@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lwii-cans" format="2">
-  <advance width="2145"/>
+  <advance width="2144"/>
   <unicode hex="14E0"/>
-  <anchor x="1044" y="1050" name="_dot2"/>
-  <anchor x="1044" y="1048" name="_dot3"/>
-  <anchor x="1044" y="1046" name="ring"/>
+  <anchor x="1043" y="1050" name="_dot2"/>
+  <anchor x="1043" y="1048" name="_dot3"/>
+  <anchor x="1043" y="1046" name="ring"/>
   <outline>
     <component base="lwi-cans"/>
-    <component base="_dotabove" xOffset="1044" yOffset="-416"/>
+    <component base="_dotabove" xOffset="1043" yOffset="-416"/>
   </outline>
   <lib>
     <dict>

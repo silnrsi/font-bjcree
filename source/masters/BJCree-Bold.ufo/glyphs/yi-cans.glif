@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yi-cans" format="2">
-  <advance width="1407"/>
+  <advance width="1415"/>
   <unicode hex="1528"/>
-  <anchor x="375" y="1467" name="dot"/>
-  <anchor x="375" y="1463" name="ring"/>
+  <anchor x="383" y="1467" name="dot"/>
+  <anchor x="383" y="1463" name="ring"/>
   <outline>
-    <component base="ye-cans" xScale="-1" xOffset="1407"/>
+    <component base="ye-cans" xScale="-1" xOffset="1415"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fii-cans" format="2">
-  <advance width="1511"/>
+  <advance width="1510"/>
   <unicode hex="1556"/>
-  <anchor x="719" y="1465" name="_dot2"/>
-  <anchor x="719" y="1463" name="_dot3"/>
-  <anchor x="719" y="1463" name="ring"/>
+  <anchor x="718" y="1465" name="_dot2"/>
+  <anchor x="718" y="1463" name="_dot3"/>
+  <anchor x="718" y="1463" name="ring"/>
   <outline>
     <component base="fi-cans"/>
-    <component base="_dotabove" xOffset="719" yOffset="-1"/>
+    <component base="_dotabove" xOffset="718" yOffset="-1"/>
   </outline>
   <lib>
     <dict>

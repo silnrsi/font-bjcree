@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_finalgravecloser" format="2">
-  <advance width="469"/>
+  <advance width="560"/>
   <outline>
     <component base="finalgrave-cans" xOffset="-66"/>
   </outline>

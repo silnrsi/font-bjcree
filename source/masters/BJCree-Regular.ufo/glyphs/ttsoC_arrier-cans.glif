@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ttsoCarrier-cans" format="2">
-  <advance width="1251"/>
+  <advance width="1157"/>
   <unicode hex="1668"/>
   <outline>
     <component base=".notdef"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>=.notdef</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>=.notdef</string>
+    </dict>
+  </lib>
 </glyph>

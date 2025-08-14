@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="chisign-cans" format="2">
-  <advance width="1331"/>
+  <advance width="1423"/>
   <unicode hex="166D"/>
   <outline>
     <contour>
-      <point x="28" y="0" type="line"/>
-      <point x="339" y="0" type="line"/>
-      <point x="644" y="496" type="line"/>
-      <point x="953" y="0" type="line"/>
-      <point x="1271" y="0" type="line"/>
-      <point x="804" y="737" type="line"/>
-      <point x="1261" y="1458" type="line"/>
-      <point x="953" y="1458" type="line"/>
-      <point x="644" y="975" type="line"/>
-      <point x="337" y="1458" type="line"/>
-      <point x="40" y="1458" type="line"/>
-      <point x="495" y="737" type="line"/>
+      <point x="120" y="0" type="line"/>
+      <point x="431" y="0" type="line"/>
+      <point x="736" y="496" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="1363" y="0" type="line"/>
+      <point x="896" y="737" type="line"/>
+      <point x="1353" y="1458" type="line"/>
+      <point x="1045" y="1458" type="line"/>
+      <point x="736" y="975" type="line"/>
+      <point x="429" y="1458" type="line"/>
+      <point x="132" y="1458" type="line"/>
+      <point x="587" y="737" type="line"/>
     </contour>
   </outline>
   <lib>
