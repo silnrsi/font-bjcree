@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rWestCree-cans" format="2">
-  <advance width="768"/>
+  <advance width="882"/>
   <unicode hex="1551"/>
   <outline>
-    <component base="lWestCree-cans" xScale="-1" xOffset="768"/>
+    <component base="lWestCree-cans" xScale="-1" xOffset="882"/>
   </outline>
 </glyph>

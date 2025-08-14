@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nOjibway-cans" format="2">
-  <advance width="1107"/>
+  <advance width="1104"/>
   <unicode hex="18D9"/>
   <outline>
     <component base="k-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="-473" yOffset="1442"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.1or2stroke</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t-cans" format="2">
-  <advance width="796"/>
+  <advance width="793"/>
   <unicode hex="1466"/>
   <outline>
     <contour>
@@ -24,10 +24,4 @@
       <point x="303" y="601"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.1or2stroke</string>
-    </dict>
-  </lib>
 </glyph>

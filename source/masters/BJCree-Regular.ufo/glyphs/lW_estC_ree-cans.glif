@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lWestCree-cans" format="2">
-  <advance width="768"/>
+  <advance width="882"/>
   <unicode hex="14EB"/>
   <outline>
     <contour>
-      <point x="658" y="425" type="line"/>
-      <point x="658" y="568" type="line"/>
-      <point x="330" y="753" type="line"/>
-      <point x="698" y="945" type="line"/>
-      <point x="331" y="1137" type="line"/>
-      <point x="658" y="1322" type="line"/>
-      <point x="658" y="1465" type="line"/>
-      <point x="70" y="1134" type="line"/>
-      <point x="425" y="945" type="line"/>
-      <point x="70" y="756" type="line"/>
+      <point x="715" y="425" type="line"/>
+      <point x="715" y="568" type="line"/>
+      <point x="387" y="753" type="line"/>
+      <point x="755" y="945" type="line"/>
+      <point x="388" y="1137" type="line"/>
+      <point x="715" y="1322" type="line"/>
+      <point x="715" y="1465" type="line"/>
+      <point x="127" y="1134" type="line"/>
+      <point x="482" y="945" type="line"/>
+      <point x="127" y="756" type="line"/>
     </contour>
   </outline>
 </glyph>

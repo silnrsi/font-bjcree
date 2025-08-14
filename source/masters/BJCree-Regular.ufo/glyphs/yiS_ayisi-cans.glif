@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yiSayisi-cans" format="2">
-  <advance width="690"/>
+  <advance width="818"/>
   <unicode hex="1541"/>
   <outline>
-    <component base="fullstop-cans" yOffset="777"/>
+    <component base="fullstop-cans" xOffset="64" yOffset="777"/>
   </outline>
   <lib>
     <dict>

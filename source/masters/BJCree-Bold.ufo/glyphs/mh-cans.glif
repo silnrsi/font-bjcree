@@ -5,10 +5,4 @@
   <outline>
     <component base="m-cans" xScale="-1" xOffset="822"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.1or2stroke</string>
-    </dict>
-  </lib>
 </glyph>

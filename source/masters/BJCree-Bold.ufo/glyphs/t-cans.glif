@@ -24,10 +24,4 @@
       <point x="268" y="575"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.1or2stroke</string>
-    </dict>
-  </lib>
 </glyph>

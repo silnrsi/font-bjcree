@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="swNaskapi-cans" format="2">
-  <advance width="698"/>
+  <advance width="581"/>
   <unicode hex="150B"/>
   <outline>
-    <component base="_dotsmall" xOffset="2"/>
-    <component base="_dotsmall" xOffset="-1" yOffset="-901"/>
-    <component base="s-cans.small.short" xOffset="-8" yOffset="-21"/>
+    <component base="_dotsmall" xOffset="-92"/>
+    <component base="_dotsmall" xOffset="-95" yOffset="-901"/>
+    <component base="s-cans.small.short" xOffset="-102" yOffset="-21"/>
   </outline>
 </glyph>

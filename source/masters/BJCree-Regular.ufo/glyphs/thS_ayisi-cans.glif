@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thSayisi-cans" format="2">
-  <advance width="809"/>
+  <advance width="838"/>
   <unicode hex="14A2"/>
   <outline>
     <component base="c-cans" xScale="-1" xOffset="838"/>
