@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thoo-cans" format="2">
-  <advance width="1258"/>
+  <advance width="1325"/>
   <unicode hex="1565"/>
-  <anchor x="309" y="1393" name="_dot2"/>
-  <anchor x="309" y="1391" name="_dot3"/>
+  <anchor x="376" y="1393" name="_dot2"/>
+  <anchor x="376" y="1391" name="_dot3"/>
   <outline>
     <component base="tho-cans"/>
-    <component base="_dotabove" xOffset="309"/>
+    <component base="_dotabove" xOffset="376"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.curve</string>
+      <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
       <string>_sb.curve</string>
       <key>public.markColor</key>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eCarrier-cans" format="2">
-  <advance width="1642"/>
+  <advance width="1655"/>
   <unicode hex="1408"/>
   <outline>
     <component base="o-cans"/>
@@ -15,6 +15,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.vertical</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.point</string>
     </dict>
   </lib>
 </glyph>

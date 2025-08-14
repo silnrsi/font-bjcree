@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="rwa-cans" format="2">
-  <advance width="1443"/>
+  <advance width="1506"/>
   <unicode hex="18D3"/>
   <anchor x="1236" y="1395" name="dot"/>
   <anchor x="1236" y="1391" name="ring"/>
@@ -12,6 +12,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.dot</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.5,0.09,0.79,1</string>
     </dict>

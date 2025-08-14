@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="leWestCree-cans" format="2">
-  <advance width="1655"/>
+  <advance width="1715"/>
   <unicode hex="1544"/>
   <outline>
     <component base="ra-cans" xScale="0" xyScale="-1" yxScale="1" yScale="0" xOffset="130" yOffset="955"/>
@@ -10,7 +10,7 @@
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.1or2stroke</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
+      <string>_sb.vertical</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tha-cans" format="2">
-  <advance width="1322"/>
+  <advance width="1325"/>
   <unicode hex="1566"/>
   <anchor x="949" y="1395" name="dot"/>
   <outline>
@@ -29,6 +29,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>_sb.curve</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>_sb.1or2stroke</string>
       <key>public.markColor</key>
       <string>0.25,0.25,0.25,1</string>
     </dict>
