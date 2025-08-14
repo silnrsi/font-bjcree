@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mOjibway-cans" format="2">
-  <advance width="822"/>
+  <advance width="845"/>
   <unicode hex="18D8"/>
   <outline>
     <component base="m-cans" yScale="-1" yOffset="2042"/>

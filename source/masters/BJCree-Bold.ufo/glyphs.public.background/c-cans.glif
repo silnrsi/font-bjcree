@@ -2,24 +2,24 @@
 <glyph name="c-cans" format="2">
   <outline>
     <contour>
-      <point x="463" y="555" type="curve" smooth="yes"/>
-      <point x="642" y="555"/>
-      <point x="801" y="695"/>
-      <point x="801" y="879" type="curve" smooth="yes"/>
-      <point x="801" y="983" type="line"/>
-      <point x="607" y="983" type="line"/>
-      <point x="607" y="884" type="line" smooth="yes"/>
-      <point x="607" y="806"/>
-      <point x="544" y="743"/>
-      <point x="466" y="743" type="curve" smooth="yes"/>
-      <point x="388" y="743"/>
-      <point x="326" y="806"/>
-      <point x="326" y="884" type="curve" smooth="yes"/>
-      <point x="326" y="1458" type="line"/>
-      <point x="121" y="1458" type="line"/>
-      <point x="121" y="879" type="line" smooth="yes"/>
-      <point x="121" y="695"/>
-      <point x="284" y="555"/>
+      <point x="474" y="555" type="curve" smooth="yes"/>
+      <point x="653" y="555"/>
+      <point x="812" y="695"/>
+      <point x="812" y="879" type="curve" smooth="yes"/>
+      <point x="812" y="983" type="line"/>
+      <point x="618" y="983" type="line"/>
+      <point x="618" y="884" type="line" smooth="yes"/>
+      <point x="618" y="806"/>
+      <point x="555" y="743"/>
+      <point x="477" y="743" type="curve" smooth="yes"/>
+      <point x="399" y="743"/>
+      <point x="337" y="806"/>
+      <point x="337" y="884" type="curve" smooth="yes"/>
+      <point x="337" y="1458" type="line"/>
+      <point x="132" y="1458" type="line"/>
+      <point x="132" y="879" type="line" smooth="yes"/>
+      <point x="132" y="695"/>
+      <point x="295" y="555"/>
     </contour>
   </outline>
 </glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l-cans" format="2">
-  <advance width="1138"/>
+  <advance width="1161"/>
   <unicode hex="14EA"/>
   <outline>
-    <component base="c-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="-449" yOffset="495"/>
+    <component base="c-cans" xScale="0" xyScale="1" yxScale="1" yScale="0" xOffset="-438" yOffset="495"/>
   </outline>
 </glyph>

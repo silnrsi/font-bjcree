@@ -2,12 +2,12 @@
 <glyph name="mh-cans" format="2">
   <outline>
     <contour>
-      <point x="120" y="563" type="line"/>
-      <point x="701" y="563" type="line"/>
-      <point x="701" y="1458" type="line"/>
-      <point x="497" y="1458" type="line"/>
-      <point x="497" y="768" type="line"/>
-      <point x="120" y="768" type="line"/>
+      <point x="143" y="563" type="line"/>
+      <point x="724" y="563" type="line"/>
+      <point x="724" y="1458" type="line"/>
+      <point x="520" y="1458" type="line"/>
+      <point x="520" y="768" type="line"/>
+      <point x="143" y="768" type="line"/>
     </contour>
   </outline>
 </glyph>

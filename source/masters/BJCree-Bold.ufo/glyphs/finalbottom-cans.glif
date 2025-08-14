@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finalbottom-cans" format="2">
-  <advance width="979"/>
+  <advance width="1001"/>
   <unicode hex="1421"/>
   <outline>
-    <component base="ngCarrier-cans"/>
+    <component base="ngCarrier-cans" xOffset="11"/>
   </outline>
 </glyph>

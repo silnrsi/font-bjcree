@@ -5,10 +5,4 @@
   <outline>
     <component base="fullstop-cans" xOffset="64" yOffset="777"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
-    </dict>
-  </lib>
 </glyph>

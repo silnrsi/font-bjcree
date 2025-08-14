@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wBlackfoot-cans" format="2">
-  <advance width="982"/>
+  <advance width="1004"/>
   <unicode hex="167F"/>
   <outline>
-    <component base="_barH" yOffset="98"/>
-    <component base="_barH" yOffset="-232"/>
+    <component base="_barH" xOffset="11" yOffset="98"/>
+    <component base="_barH" xOffset="11" yOffset="-232"/>
   </outline>
 </glyph>

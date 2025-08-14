@@ -1,14 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yiSayisi-cans" format="2">
-  <advance width="770"/>
+  <advance width="928"/>
   <unicode hex="1541"/>
   <outline>
-    <component base="fullstop-cans" yOffset="847"/>
+    <component base="fullstop-cans" xOffset="79" yOffset="847"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
-    </dict>
-  </lib>
 </glyph>

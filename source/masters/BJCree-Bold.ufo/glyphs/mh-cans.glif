@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="mh-cans" format="2">
-  <advance width="822"/>
+  <advance width="845"/>
   <unicode hex="14BD"/>
   <outline>
-    <component base="m-cans" xScale="-1" xOffset="822"/>
+    <component base="m-cans" xScale="-1" xOffset="845"/>
   </outline>
 </glyph>

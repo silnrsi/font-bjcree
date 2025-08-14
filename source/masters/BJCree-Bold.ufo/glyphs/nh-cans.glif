@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="nh-cans" format="2">
-  <advance width="1148"/>
+  <advance width="1174"/>
   <unicode hex="14D2"/>
   <outline>
-    <component base="k-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1587" yOffset="494"/>
+    <component base="k-cans" xScale="0" xyScale="1" yxScale="-1" yScale="0" xOffset="1599" yOffset="494"/>
   </outline>
 </glyph>

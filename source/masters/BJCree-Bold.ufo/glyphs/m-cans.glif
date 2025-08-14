@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="m-cans" format="2">
-  <advance width="822"/>
+  <advance width="845"/>
   <unicode hex="14BB"/>
   <outline>
     <contour>
-      <point x="121" y="575" type="line"/>
-      <point x="702" y="575" type="line"/>
-      <point x="702" y="800" type="line"/>
-      <point x="346" y="800" type="line"/>
-      <point x="346" y="1467" type="line"/>
-      <point x="121" y="1467" type="line"/>
+      <point x="132" y="575" type="line"/>
+      <point x="713" y="575" type="line"/>
+      <point x="713" y="800" type="line"/>
+      <point x="357" y="800" type="line"/>
+      <point x="357" y="1467" type="line"/>
+      <point x="132" y="1467" type="line"/>
     </contour>
   </outline>
 </glyph>

@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="finaldbleshortvstrokes-cans" format="2">
-  <advance width="890"/>
+  <advance width="912"/>
   <unicode hex="1426"/>
   <outline>
-    <component base="pWestCree-cans"/>
-    <component base="pWestCree-cans" xOffset="423"/>
+    <component base="pWestCree-cans" xOffset="11"/>
+    <component base="pWestCree-cans" xOffset="434"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=|</string>
-    </dict>
-  </lib>
 </glyph>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thThCree-cans" format="2">
-  <advance width="1071"/>
+  <advance width="1202"/>
   <unicode hex="15AE"/>
   <outline>
-    <component base="y-cans"/>
-    <component base="_barStemH" xScale="0.75857" yScale="0.5" xOffset="-644" yOffset="1130"/>
+    <component base="y-cans" xOffset="109"/>
+    <component base="_barStemH" xScale="0.75857" yScale="0.5" xOffset="-535" yOffset="1130"/>
   </outline>
 </glyph>
