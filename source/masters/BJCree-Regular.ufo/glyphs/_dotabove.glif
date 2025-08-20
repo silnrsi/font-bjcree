@@ -5,7 +5,7 @@
   <anchor x="0" y="1393" name="_dot2"/>
   <anchor x="0" y="1391" name="_dot3"/>
   <outline>
-    <component base="finalmiddledot-cans" xOffset="-246" yOffset="976"/>
+    <component base="finalmiddledot-cans" xOffset="-244" yOffset="976"/>
   </outline>
   <lib>
     <dict>
