@@ -39,7 +39,7 @@
     <array/>
   </dict>
   <key>com.schriftgestaltung.appVersion</key>
-  <string>3424</string>
+  <string>3434</string>
   <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
   <array>
     <string>/space "/space #/space $/space %/space &amp;/space '/space (/space )/space */space +/space ,/space -/space ./space///space 0/space 1/space 2/space 3/space 4/space 5/space 6/space 7/space 8/space 9/space :/space ;/space &lt;/space =/space &gt;/space @/space A/space B/space C/space D/space E/space F/space G/space H/space I/space J/space K/space L/space M/space N/space O/space P/space Q/space R/space S/space T/space U/space V/space W/space X/space Y/space Z/space [/space/backslash/space ]/space ^/space _/space `/space a/space b/space c/space d/space e/space f/space g/space h/space i/space j/space k/space l/space m/space n/space o/space p/space q/space r/space s/space t/space u/space v/space w/space x/space y/space z/space {/space |/space }/space ~/space Ä/space Å/space/Amacron/space Ç/space É/space Ñ/space Ö/space/Omacron/space Ü/space á/space à/space â/space ä/space ã/space å/space/amacron/space ç/space é/space è/space ê/space ë/space/emacron/space í/space ì/space î/space ï/space/imacron/space ñ/space ó/space ò/space ô/space ö/space/omacron/space õ/space ú/space ù/space û/space ü/space/dagger/space °/space ¢/space £/space §/space/bullet/space ¶/space ß/space ®/space ©/space/trademark/space ´/space ¨/space/notequal/space Æ/space Ø/space/infinity/space ±/space/lessequal/space/greaterequal/space ¥/space µ/space/partialdiff/space/summation/space/product/space/pi/space/integral/space ª/space º/space/space æ/space ø/space ¿/space ¡/space ¬/space/radical/space/florin/space/approxequal/space/Delta/space «/space »/space/ellipsis/space/nbspace/space À/space Ã/space Õ/space/OE/space/oe/space/endash/space/emdash/space/quotedblleft/space/quotedblright/space/quoteleft/space/quoteright/space ÷/space/lozenge/space/ydieresis/space/Ydieresis/space/fraction/space ¤/space/guilsinglleft/space/guilsinglright/space/fi/space/fl/space/daggerdbl/space ·/space/quotesinglbase/space/quotedblbase/space/perthousand/space Â/space Ê/space Á/space Ë/space/Emacron/space È/space Í/space Î/space Ï/space/Imacron/space Ì/space Ó/space Ô/space Ò/space Ú/space Û/space Ù/space/dotlessi/space/circumflex/space/tilde/space ¯/space/breve/space/dotaccent/space/ring/space ¸/space/hungarumlaut/space/ogonek/space/caron/space/space Ð/space Þ/space/Scaron/space Ý/space/Zcaron/space ð/space þ/space/scaron/space ý/space/zcaron/space/Euro/space/gravecomb/space/acutecomb/space/circumflexcomb/space/tildecomb/dieresiscomb/space/cedillacomb</string>
@@ -83,6 +83,7 @@
 /glottalstop-cans/wECree-cans/wWCree-cans/pOjibway-cans/p-cans/ngCarrier-cans/tOjibway-cans/t-cans/mWestCree-cans/kOjibway-cans/kw-cans/k-cans/nOjibway-cans/nh-cans/n-cans/cOjibway-cans/thSayisi-cans/c-cans/l-cans 
 /mOjibway-cans/mh-cans/m-cans/sOjibway-cans/sw-cans/skwNaskapi-cans/s-cans/_dot2vsa/swNaskapi-cans/skMooseCree-cans/s-cans.small/shOjibway-cans/sh-cans/sh-cans.alt/y-cans/thThCree-cans/r-cans/f-cans/th-cans</string>
     <string>/finalplus-cans</string>
+    <string>/.notdef</string>
   </array>
   <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
   <true/>
@@ -1464,7 +1465,7 @@
     <key>narrownbspace</key>
     <string>uni202F</string>
     <key>nay-cans</key>
-    <string>uni14CF</string>
+    <string>uni18BC</string>
     <key>nbspace</key>
     <string>uni00A0</string>
     <key>ne-cans</key>
@@ -2079,6 +2080,8 @@
     <string>uni200C</string>
     <key>zerowidthspace</key>
     <string>uni200B</string>
+    <key>replacementCharacter</key>
+    <string>uniFFFD</string>
   </dict>
 </dict>
 </plist>
