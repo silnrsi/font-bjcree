@@ -20,6 +20,7 @@ ftmlTest('tools/ftml-smith.xsl')
 
 cmds = []
 cmds.append(cmd('psfchangettfglyphnames ${SRC} ${DEP} ${TGT}', ['${source}']))
+cmds.append(cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'))
 #cmds.append(cmd('../tools/ttfaddemptyot.py -t gpos ${DEP} ${TGT}'))
 #cmds.append(cmd('${TTFAUTOHINT} -n -W ${DEP} ${TGT}'))
 
