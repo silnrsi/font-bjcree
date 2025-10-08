@@ -1,4 +1,4 @@
-Copyright (c) 2000-2023 SIL International.
+Copyright (c) 2000-2025, SIL Global (https://www.sil.org)
 
 This Font Software is licensed under the SIL Open Font License, 
 Version 1.1. This license is copied below, and is also available with 
