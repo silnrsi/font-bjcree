@@ -19,6 +19,9 @@ source/backups/*
 documentation/source/pdftemp/
 documentation/source/productsite/
 
+# temporary interpolation test folder
+variable_ttf/
+
 # diffenator2
 .ninja_log
 build.ninja
