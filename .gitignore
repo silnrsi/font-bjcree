@@ -5,7 +5,7 @@
 local/*
 
 # smith
-.waf-*
+.waf*
 .smithpickle-*
 .lock-*
 results/**
@@ -115,3 +115,30 @@ $RECYCLE.BIN/
 *$py.class
 __pycache__/
 references
+
+
+### From https://github.com/silnrsi/smith/blob/master/.gitignore
+.lock*
+.conf*
+.waf*
+build
+*~
+*.pyc
+c4che
+config.log
+dist
+*.egg-info
+.*.sw?
+**/results/*
+*.pdf
+*.epub
+dev/
+*.code-workspace
+.vscode/
+docs/sphinx
+tc
+docker/tests
+src/smithlib/_version.py 
+venv
+###
+
