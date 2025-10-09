@@ -1,7 +1,3 @@
----
-title: BJCree - About
-fontversion: 6.000
----
 
 ## About this project
 
@@ -9,7 +5,7 @@ The **BJCree** (*'Baie-James'* [James Bay] Cree) font is a Canadian Syllabics fo
 
 The **BJCree** typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the “Algonquian” language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
 
-For more information on the visual characteristics of the font family see [Design](design.md).
+For more information on the visual characteristics of the font family see [Design](design).
 
 ## Future plans
 
@@ -20,7 +16,7 @@ The highest priorities for future additions and enhancements are mainly driven b
 - New additions to [The Unicode Standard](https://unicode.org/)
 - Requests from language communities using the fonts
 
-Please send us your requests using the [form on the font website](https://software.sil.org/bjcree/about/contact/). If you are interested in helping us make the fonts better see the [Developer](developer.md) page.
+Please send us your requests using the [form on the font website](https://software.sil.org/bjcree/about/contact/). If you are interested in helping us make the fonts better see the [Developer](developer) page.
 
 ## Announcement list
 
@@ -32,7 +28,7 @@ You can subscribe using either of the two following options.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
 
-Our font announcements are also available through X (formerly Twitter) [\@silfonts](https://x.com/silfonts).
+Our font announcements are also available through X (formerly Twitter) [@silfonts](https://x.com/silfonts).
 
 ## Supporting the project
 

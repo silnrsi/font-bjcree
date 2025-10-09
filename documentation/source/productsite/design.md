@@ -1,7 +1,3 @@
----
-title: BJCree - Design
-fontversion: 6.000
----
 
 
 The **BJCree** font is a Canadian Syllabics font in the style preferred by Cree and Naskapi communities of Canada. It was originally designed in collaboration with the persons who speak these language around James Bay.
@@ -31,6 +27,4 @@ One example of some text is shown below.
 ᐊᔪᐅᒄ ᐅᔭ ᑎᐸᒋᒧᐅᓂᔪᐤ ᑲ ᐎᑎᒧᐛᑦ ᒋᓴᔅ ᐊᓂᔭ ᓇᐸᐛ ᑲ ᒋᔅᑯᑎᒪᒐᔨᒋ ᐊᔭᒥᐊᐅ ᐎᓱᐛᐅᓂᔪᐤ᙮ ᐊᑯ ᒂ ᐃᑕᑦ, “ᑕᓐ ᐊᓐ ᐊᐅᒄ ᐊᓐᒡ ᐊ ᓂᔅᑎᒡ ᓇᐸᐅᒡ ᒧᔭᒻ ᐎᒡ ᐃᔪᐛ ᑲ ᐃᑐᑐᐛᑦ ᐊᓂᔭ ᓇᐸᐛ ᑲ ᒥᔄᑭᓂᐧᑲᑕᑭᓄᔨᒋ ?”
 ᐊᑯ ᒂ ᐃᔅᒋᔄᔨᒋ ᐊᓂᔭᔪᐛ ᓇᐸᐛ, “ᐊᓐ ᑭᑈ ᓇᐸᐤ ᑲ ᐎᒋᐊᑦ ᑲ ᓄᑯᑕᑦ ᐊ ᒋᔅᑎᒪᒐᔨᒪᑦ᙮” ᒋᓴᔅ ᒂ ᐃᑕᑦ, “ᒪᒋ ᒪᒃ, ᐊᐅᑯᓐ ᒪᒃ ᐅ ᒧᔭᒻ ᒐ ᐃᑐᑎᒥᓐ ᑭᔭ ᒋᔾ᙮” [Luke 10:30-37]( https://www.bible.com/en-GB/bible/2496/LUK.10)</span>
 
-<!-- PRODUCT SITE ONLY
 [font id='cans' face='BJCree-Regular' size='150%']
--->
