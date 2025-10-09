@@ -3,9 +3,10 @@
 # To tweak to your particular needs, see http://git-scm.com/docs/gitignore and http://help.github.com/articles/ignoring-files
 
 local/*
+references/**
 
 # smith
-.waf*
+.waf-*
 .smithpickle-*
 .lock-*
 results/**
@@ -14,13 +15,23 @@ bin/**
 source/temp/*
 source/masters/temp/*
 source/backups/*
+.tmp/*
 
 # temporary fontdocs files
 documentation/source/pdftemp/
-documentation/source/productsite/
 
 # temporary interpolation test folder
 variable_ttf/
+
+# documentation/source/productsite/
+web/*.woff*
+
+# graphite
+$_temp.gdl
+gdlerr.txt
+graide_dbg_output.json
+graide_image*.png
+dbg_*.txt
 
 # diffenator2
 .ninja_log
@@ -31,7 +42,6 @@ build.ninja
 *.swp
 *.autosave
 *(Autosaved)*
-
 
 # OS X
 *.DS_STORE
@@ -58,7 +68,6 @@ Thumbs.db
 ehthumbs.db
 *.lnk
 
-
 # AFDKO
 current.fpr
 
@@ -66,8 +75,8 @@ current.fpr
 *.bak
 *.vfbak
 *.~tt
-+.idea/*
-.vscode/settings.json
+.idea/*
+.vscode/*
 
 # Shares
 .AppleDB
@@ -84,7 +93,6 @@ $RECYCLE.BIN/
 
 # Opaque formats to keep out of git
 *.fog
-*.glyphs
 *.vfc
 
 # generated releases
@@ -112,36 +120,12 @@ $RECYCLE.BIN/
 # Other
 .sass-cache/
 .jekyll-metadata
+tmp/
 
 # Byte-compiled / optimized files
 *.py[co]
 *$py.class
 __pycache__/
-references
 
-
-### From https://github.com/silnrsi/smith/blob/master/.gitignore
-.lock*
-.conf*
-.waf*
-build
-*~
-*.pyc
-c4che
-config.log
-dist
-*.egg-info
-.*.sw?
-**/results/*
-*.pdf
-*.epub
-dev/
-*.code-workspace
-.vscode/
-docs/sphinx
-tc
-docker/tests
-src/smithlib/_version.py 
-venv
-###
-
+# Glyphs.app
+*.glyphs
