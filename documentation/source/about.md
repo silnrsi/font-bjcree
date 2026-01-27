@@ -7,7 +7,7 @@ fontversion: 7.000
 
 The **BJCree** (*'Baie-James'* [James Bay] Cree) font is a Canadian Syllabics font in the style preferred by Cree and Naskapi communities of Canada located around James Bay. It supports the full range of Algonquian (Cree and Ojibwa) languages. This is a new version of an older ‘shareware’ font, improved and updated to support a wide range of uses, from print to web.
 
-The **BJCree** typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus all the “Algonquian” language family languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
+The **BJCree** typeface was originally designed in conjunction with the Naskapi community in the 1990s. When it was subsequently re-encoded for Unicode, coverage was extended for all the Cree (and Ojibwa) languages. Thus, all the “Algonquian” languages that use Unified Canadian Aboriginal Syllabics are covered by the BJCree glyph inventory. That is, Plains Cree [crk], Woods Cree [cwd], Swampy Cree [csw], Moose Cree [crm], East Cree Southern [crj], East Cree Northern [crl], Naskapi [nsk], Severn Ojibwe (Oji-Cree) [ojs], and Northwestern Ojibwe [ojb].
 
 For more information on the visual characteristics of the font family see [Design](design.md).
 
@@ -31,8 +31,6 @@ You can subscribe using either of the two following options.
 - If you use a Google profile and join the group, you will be able to access the group and control your subscription and notification options with a web browser. Make sure you are logged in to your Google profile and go to the [SIL Font News Google Group](https://groups.google.com/a/groups.sil.org/forum/#!forum/sil-font-news). Click on **Join group**.
 
 - If you would rather not use a Google profile, you can subscribe any email address by sending a message to [sil-font-news+subscribe@groups.sil.org](mailto:sil-font-news+subscribe@groups.sil.org) and following the instructions you get in the confirmation message.
-
-Our font announcements are also available through X (formerly Twitter) [\@silfonts](https://x.com/silfonts).
 
 ## Supporting the project
 

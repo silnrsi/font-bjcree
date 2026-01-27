@@ -26,4 +26,4 @@ Here are a few of the most frequently asked questions specifically regarding BJC
 
 #### *What does "BJ" mean in the font name?*
 
-"BJ" represents the *Baie-James* (James Bay) region of Canada where the Cree and Naskapi language communities are located. Its design is based on the preferred style of Canadian Syllabics used by speakers in this region.
+"BJ" represents the *Baie-James* (James Bay) region of Canada where the Cree and Naskapi language communities are located. Its design is based on the preferred style of Canadian Syllabics used by speakers in that region.

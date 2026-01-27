@@ -20,8 +20,8 @@ echo "     > developer.html"
 pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/developer.md -o documentation/developer.html --lua-filter=documentation/source/pandocfilters/filter-html.lua
 echo "     > faq.html"
 pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/faq.md -o documentation/faq.html --lua-filter=documentation/source/pandocfilters/filter-html.lua
-echo "     > features.html"
-pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/features.md -o documentation/features.html --lua-filter=documentation/source/pandocfilters/filter-html.lua
+echo "     > announcement.html"
+pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/announcement.md -o documentation/announcement.html --lua-filter=documentation/source/pandocfilters/filter-html.lua
 echo "     > history.html"
 pandoc -s -f markdown-smart --template documentation/source/template.html documentation/source/history.md -o documentation/history.html --lua-filter=documentation/source/pandocfilters/filter-html.lua
 echo "     > resources.html"
@@ -56,9 +56,9 @@ weasyprint documentation/source/pdftemp/developer.html documentation/pdf/develop
 echo "     > faq.html > faq.pdf"
 pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/faq.md -o documentation/source/pdftemp/faq.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
 weasyprint documentation/source/pdftemp/faq.html documentation/pdf/faq.pdf
-echo "     > features.html > features.pdf"
-pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/features.md -o documentation/source/pdftemp/features.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
-weasyprint documentation/source/pdftemp/features.html documentation/pdf/features.pdf
+echo "     > announcement.html > announcement.pdf"
+pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/announcement.md -o documentation/source/pdftemp/announcement.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
+weasyprint documentation/source/pdftemp/announcement.html documentation/pdf/announcements.pdf
 echo "     > history.html > history.pdf"
 pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/history.md -o documentation/source/pdftemp/history.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
 weasyprint documentation/source/pdftemp/history.html documentation/pdf/history.pdf
@@ -99,10 +99,10 @@ echo "     > faq.md"
 python3 documentation/source/makepsmd.py documentation/source/faq.md documentation/source/productsite/faq.md -q
 pandoc --wrap preserve -f markdown-smart -o documentation/source/productsite/faq.html -L documentation/source/pandocfilters/filter-wp.lua documentation/source/productsite/faq.md
 python3 documentation/source/makepshtml.py documentation/source/productsite/faq.html documentation/source/productsite/faq.wphtml -q
-echo "     > features.md"
-python3 documentation/source/makepsmd.py documentation/source/features.md documentation/source/productsite/features.md -q
-pandoc --wrap preserve -f markdown-smart -o documentation/source/productsite/features.html -L documentation/source/pandocfilters/filter-wp.lua documentation/source/productsite/features.md
-python3 documentation/source/makepshtml.py documentation/source/productsite/features.html documentation/source/productsite/features.wphtml -q
+echo "     > announcement.md"
+python3 documentation/source/makepsmd.py documentation/source/announcement.md documentation/source/productsite/announcement.md -q
+pandoc --wrap preserve -f markdown-smart -o documentation/source/productsite/announcement.html -L documentation/source/pandocfilters/filter-wp.lua documentation/source/productsite/announcement.md
+python3 documentation/source/makepshtml.py documentation/source/productsite/announcement.html documentation/source/productsite/announcement.wphtml -q
 echo "     > history.md"
 python3 documentation/source/makepsmd.py documentation/source/history.md documentation/source/productsite/history.md -q
 pandoc --wrap preserve -f markdown-smart -o documentation/source/productsite/history.html -L documentation/source/pandocfilters/filter-wp.lua documentation/source/productsite/history.md
