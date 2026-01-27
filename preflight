@@ -25,9 +25,9 @@ echo "--- Syncing glyph orders, psnames, and other metadata to other UFOs..."
 psfsyncmasters -p scrlevel=w source/BJCree.designspace
 
 # echo "--- Updating WOFF metadata..."
-# psfmakewoffmetadata -p scrlevel=w -n "BJCree" -i "org.sil.fonts" \
-#     -o source/BJCree-WOFF-metadata.xml \
+# psfmakewoffmetadata -p scrlevel=w -n "bjcree" -i "org.sil.fonts" \
+#     -o source/bjcree-WOFF-metadata.xml \
 #     source/masters/BJCree-Regular.ufo
-# psfmakewoffmetadata -p scrlevel=w -n "BJCree" -i "org.sil.fonts" \
-#     -o source/BJCree-WOFF-metadata.xml \
+# psfmakewoffmetadata -p scrlevel=w -n "bjcree" -i "org.sil.fonts" \
+#     -o source/bjcree-WOFF-metadata.xml \
 #     source/masters/BJCree-Bold.ufo
