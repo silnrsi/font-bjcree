@@ -260,8 +260,6 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <string>regular</string>
   <key>styleName</key>
   <string>Regular</string>
-  <key>trademark</key>
-  <string>BJCree</string>
   <key>unitsPerEm</key>
   <integer>2048</integer>
   <key>versionMajor</key>
