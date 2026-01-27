@@ -1,6 +1,6 @@
 ---
 title: BJCree - Character Set Support
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 The BJCree font supports most of the characters in the Unified Canadian Aboriginal Syllabics block. 

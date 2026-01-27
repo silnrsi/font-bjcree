@@ -1,6 +1,6 @@
 ---
 title: BJCree - Resources
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 ## Requirements

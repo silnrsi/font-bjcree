@@ -1,6 +1,6 @@
 ---
 title: BJCree - Versions and Changes
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 ## Announcement list

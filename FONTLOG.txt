@@ -24,7 +24,7 @@ ChangeLog
 ---------
 (This should list both major and minor changes, most recent first.)
 
-### 2025-xx-xx (SIL WSTech team) BJCree version 6.000
+### 2025-xx-xx (SIL WSTech team) BJCree version 7.000
 - Changed to use Open Font License, sources available on GitHub
 - Changed to UFO-based workflow
 - Replaced Century Schoolbook Latin glyphs with new design based loosely on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
@@ -72,7 +72,7 @@ E: bill_jancewicz@sil.org
 W:
 D: Original designer of the BJCree fonts
 
-N: Peter Martin
+N: Sharon Correll, Peter Martin
 E: https://software.sil.org/about/contact/
 W: https://software.sil.org/wstech/
 D: Design and engineering

@@ -1,6 +1,6 @@
 ---
 title: BJCree - Font Features
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 This version of the BJCree font family does not contain any OpenType features, though features such as language-specific character forms may be added in future releases.

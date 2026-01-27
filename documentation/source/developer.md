@@ -1,6 +1,6 @@
 ---
 title: BJCree - Developer information
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 ## Welcome font developers!

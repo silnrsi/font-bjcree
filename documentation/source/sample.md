@@ -1,6 +1,6 @@
 ---
 title: BJCree - Type Sample
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 This document demonstrates all of the characters in the font. It is organized by Unicode block. Alternate glyphs that are available through features are demonstrated in the [Features](features.md) document. At the end is a sample demonstrating an example of running text.

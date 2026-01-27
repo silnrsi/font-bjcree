@@ -1,6 +1,6 @@
 ---
 title: BJCree - Support
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 ## Support options

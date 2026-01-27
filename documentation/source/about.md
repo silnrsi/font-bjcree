@@ -1,6 +1,6 @@
 ---
 title: BJCree - About
-fontversion: 6.000
+fontversion: 7.000
 ---
 
 ## About this project
