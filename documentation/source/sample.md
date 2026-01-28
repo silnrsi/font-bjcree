@@ -101,5 +101,5 @@ This document demonstrates all of the characters in the font. It is organized by
 
 
 <!-- PRODUCT SITE ONLY
-[font id='cans' face='BJCree-Regular' bold='BJCree-Bold'size='150%']
+[font id='cans' face='BJCree-Regular' bold='BJCree-Bold'size='180%']
 -->
