@@ -58,7 +58,7 @@ pandoc -s -f markdown-smart --template documentation/source/templatepdf.html doc
 weasyprint documentation/source/pdftemp/faq.html documentation/pdf/faq.pdf
 echo "     > announcement.html > announcement.pdf"
 pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/announcement.md -o documentation/source/pdftemp/announcement.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
-weasyprint documentation/source/pdftemp/announcement.html documentation/pdf/announcements.pdf
+weasyprint documentation/source/pdftemp/announcement.html documentation/pdf/announcement.pdf
 echo "     > history.html > history.pdf"
 pandoc -s -f markdown-smart --template documentation/source/templatepdf.html documentation/source/history.md -o documentation/source/pdftemp/history.html --lua-filter=documentation/source/pandocfilters/filter-pdf.lua
 weasyprint documentation/source/pdftemp/history.html documentation/pdf/history.pdf

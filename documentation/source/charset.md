@@ -23,17 +23,17 @@ A selection of characters from the General Punctuation block, such as various-si
 
 ### Indigenous names of the languages: 
 
-- <span class='cans-R normal'>ᐃᔪᐤ ᐃᔨᒧᐅᓐ</span> - Iyuw Iyimuuun - Naskapi ISO639 [nsk]
-- <span class='cans-R normal'>ᐄᔨᔫ ᐊᔨᒧᐎᓐ</span> Îyiyû ayimuwin - Northern East Cree ISO639 [crl]
-- <span class='cans-R normal'>ᐄᓅ ᐊᔨᒧᐎᓐ</span> - Înû ayimuwin  - Southern East Cree ISO639 [crj]
-- <span class='cans-R normal'>ᐃᓕᓖᒧᐎᓐ</span> - Ililîmowin - Moose Cree ISO639 [crm]
-- <span class='cans-R normal'>ᐃᓂᓂᐎ ᐃᔑᑭᔗᐎᐣ</span> - Ininiwi Išikišwêwin - Eastern Swampy Cree ISO639 [csw]
-- <span class='cans-R normal'>ᐃᓂᓃᒧᐏᐣ</span> - Ininīmowin - Western Swampy Cree ISO639 [csw]
-- <span class='cans-R normal'>ᓀᐦᐃᖬᐍᐏᐣ</span> - Nīhithawīwin - Woods Cree ISO639 [cwd]
-- <span class='cans-R normal'>ᓀᐦᐃᔭᐍᐏᐣ</span> - Nêhiyawêwin - Plains Cree ISO639 [crk]
-- <span class='cans-R normal'>ᐊᓂᐦᔑᓂᓃᒧᐏᐣ</span> - Anishininiimowin - Oji-Cree ISO639 [ojs]
-- <span class='cans-R normal'>ᐊᓂᔑᓈᐯᒧᐎᓐ</span> - Anishinaabemowin - Northwestern Ojibwe ISO639 [ojb]
-- <span class='cans-R normal'>ᓇᐦᑲᐌᒧᐎᓐ</span> - Nahkawēmowin - Western Ojibwe (Saulteaux) ISO639 [ojw]
+- <span class='cans-R normal'>ᐃᔪᐤ ᐃᔨᒧᐅᓐ</span> - Iyuw Iyimuuun - Naskapi [[nsk]](https://www.ethnologue.com/language/nsk/)
+- <span class='cans-R normal'>ᐄᔨᔫ ᐊᔨᒧᐎᓐ</span> Îyiyû ayimuwin - Northern East Cree [[crl]](https://www.ethnologue.com/language/crl/)
+- <span class='cans-R normal'>ᐄᓅ ᐊᔨᒧᐎᓐ</span> - Înû ayimuwin  - Southern East Cree [[crj]](https://www.ethnologue.com/language/crj/)
+- <span class='cans-R normal'>ᐃᓕᓖᒧᐎᓐ</span> - Ililîmowin - Moose Cree [crm](https://www.ethnologue.com/language/crm/)
+- <span class='cans-R normal'>ᐃᓂᓂᐎ ᐃᔑᑭᔗᐎᐣ</span> - Ininiwi Išikišwêwin - Eastern Swampy Cree [[csw]](https://www.ethnologue.com/language/csw/)
+- <span class='cans-R normal'>ᐃᓂᓃᒧᐏᐣ</span> - Ininīmowin - Western Swampy Cree [[csw]](https://www.ethnologue.com/language/csw/)
+- <span class='cans-R normal'>ᓀᐦᐃᖬᐍᐏᐣ</span> - Nīhithawīwin - Woods Cree [[cwd]](https://www.ethnologue.com/language/cwd/)
+- <span class='cans-R normal'>ᓀᐦᐃᔭᐍᐏᐣ</span> - Nêhiyawêwin - Plains Cree [[crk]](https://www.ethnologue.com/language/crk/)
+- <span class='cans-R normal'>ᐊᓂᐦᔑᓂᓃᒧᐏᐣ</span> - Anishininiimowin - Oji-Cree [[ojs]](https://www.ethnologue.com/language/ojs/)
+- <span class='cans-R normal'>ᐊᓂᔑᓈᐯᒧᐎᓐ</span> - Anishinaabemowin - Northwestern Ojibwe [[ojb]](https://www.ethnologue.com/language/ojb/)
+- <span class='cans-R normal'>ᓇᐦᑲᐌᒧᐎᓐ</span> - Nahkawēmowin - Western Ojibwe (Saulteaux) [[ojw]](https://www.ethnologue.com/language/ojw/)
 
 ### Naskapi [nsk]
 
