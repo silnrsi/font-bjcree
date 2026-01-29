@@ -84,16 +84,15 @@ This document demonstrates all of the characters in the font. It is organized by
 
 <span class='cans-R normal'>3. ᐅᐟ ᐃᑌᓂᑕᒧᐎᓂᐗᐤ ᐃᓂᓂᐗᐠ ᑲᑕ ᐅᒋ ᓂᐸᐎᒪᑲᐣ ᑲᐡᑭᐅᐎᐣ ᐱᒋ ᐅᑭᒪᐎᐎᓂᐠ ᓀᐢᑕ ᑲᑕ ᓄᑭᑕᓂᐗᐣ ᐊᐢᑭ ᐊᐢᑲᐤ ᑲ ᑕᐺᒪᑲᐠ ᐗᐌᓇᐸᒋᑫᐎᐣ ᒥᓯᐌᐣᑲᒥᐠ ᑲ ᐱᒧᑌᒪᑲᐠ ᐯᔭᑾᓄᐠ ᑲ ᐱᒧᑕᑐᒋᑲᑌᐠ ᐯᒪᐗᓯᓇᐃᑫᐎᐣ ᓀᐢᑕ ᑲᑕᓄᐠ ᑲ ᐱᒋᐌᐱᓂᑲᓂᐗᐠ ᓀᐢᑕ ᐱᑯ ᑲ ᓄᓱᓀᐃᑲᑌᑭ ᐗᐌᓇᐸᒋᑫᐎᓇ᙮</span>
 
-### Moose Cree (Horden’s Old Testament Lessons, p 172)
+### Moose Cree (Horden’s Old Testament Lessons, p 172) <!--https://archive.org/details/properlessonsfro00lond -->
 
-<span class='cans-R normal'>1 ᐊᓛᒐ ᒫᑲ ᐊᓇ ᑎᔥᐹᑦ ᑳ ᑭ ᐅᒌᑦ ᑭᓕᔭᑦ ᐃᓕᓕᐧᐊ, ᑭ ᐃᑌᐤ ᐁᐋᐸ, ᑖᐱᔅᑯᒡ ᐁ ᐱᒫᑎᓰᑦ ᐅᑎᐯᓕᒋᑫᐤ ᐃᔅᕃᐃᓪ ᐅ ᑭᒋᒪᓂᑐᒪ, ᑳ ᐅᑎᔥᑳᐧᐃᑳᐸᐧᐄᔅᑕᐦᐊᒃ, ᓇᒪᐧᐃᓚ ᑲᑕ ᐊᑯᓯᐯᔭᐤ, ᓇᒪ ᓀᔥᑕ ᑲᑕ ᑭᒥᐧᐊᓐ ᒣᐧᑳᒡ ᐅᐦᐅ ᐱᐴᓇ ᒫᑲ ᑖᐱᔅᑯᒡ ᑳ ᐃᐧᑌᔮᓐ᙮</span>
+<span class='cans-R normal'>1 ᐊᢽᒐ ᒫᑲ ᐊᓇ ᑎᔥᢵᑦ ᑳ ᑭ ᐅᒌᑦ ᑭᓕᔭᑦ ᐃᓕᓕᐧᐊ, ᑭ ᐃᑌᐤ ᐁᐋᐸ, ᑖᐱᔅᑯᒡ ᐁ ᐱᒫᑎᓰᑦ ᐅᑎᐯᓕᒋᑫᐤ ᐃᔅᕃᐃᓪ ᐅ ᑭᒋᒪᓂᑐᒪ, ᑳ ᐅᑎᔥᑳᐎᑳᐸᐧᐄᔅᑕᐧᐊᒃ, ᓇᒪᐧᐃᓚ ᑲᑕ ᐊᑯᓯᐯᔭᐤ, ᓇᒪ ᓀᔥᑕ ᑲᑕ ᑭᒥᐧᐊᓐ ᒣᐧᑳᒡ ᐅᐅ ᐱᐴᓇ ᒫᑲ ᑖᐱᔅᑯᒡ ᑳ ᐃᐧᑌᔮᓐ᙮</span>
 
-<span class='cans-R normal'>2 ᐅᑎᐯᓕᒋᑫᐤ ᐅᑦ ᐋᔭᒥᐧᐃᓐ ᒫᑲ ᑭ ᐅᑎᑎᑯᓕᐧᐊ, ᐁ ᐃᑎᑯᓕᒋ,</span>
+<span class='cans-R normal'>2 ᐅᑎᐯᓕᒋᑫᐤ ᐅᑦ ᐋᔭᒥᐎᓐ ᒫᑲ ᑭ ᐅᑎᑎᑯᓕᐧᐊ, ᐁ ᐃᑎᑯᓕᒋ,</span>
 
-<span class='cans-R normal'>3 ᐅᑕ ᐅᒋ ᑭᑐᑌ, ᐃᑐᑌ ᐧᐋᐸᓄᑖᒃ ᐃᑌᑫ, ᑳᓱ ᒫᑲ ᒋᑭᒡ ᑭᕆᑦ ᓯᐱᔑᔑᒃ, ᐅᑎᔥᑲᐤ ᒑᕐᑕᓂᒃ ᑳ ᐃᑕᐧᑲᒃ᙮</span>
+<span class='cans-R normal'>3 ᐅᑕ ᐅᒋ ᑭᑐᑌ, ᐃᑐᑌ ᐧᐋᐸᓄᑖᒃ ᐃᑌᑫ, ᑳᓱ ᒫᑲ ᒋᑭᒡ ᑭᕆᕪ ᓯᐱᔑᔑᒃ, ᐅᑎᔥᑲᐤ ᒐᕐᑕᓂᒃ ᑳ ᐃᑕᐧᑲᒃ᙮</span>
 
-<span class='cans-R normal'>4 ᑲᑕ ᐃᑭᓐ ᒫᑲ, ᑭᒋ ᐅᒋ ᒥᓂᐧᑫᔭᓐ ᓯᐱᔑᔑᒃ; ᓂ ᑭ ᐃᑕᔓᐧᐋᑖᐧᐊᒃ ᒫᑲ ᑳᑳᐊᑭᐧᐊᒃ ᐁᑯᑕ ᑭᒋ ᐊᔑᒥᔅᑭᒃ᙮</span>
-
+<span class='cans-R normal'>4 ᑲᑕ ᐃᑭᓐ ᒫᑲ, ᑭᒋ ᐅᒋ ᒥᓂᐧᑫᔭᓐ ᓯᐱᔑᔑᒃ; ᓂ ᑭ ᐃᑕᔓᐧᐋᑖᐧᐊᒃ ᒫᑲ ᑳᑳᑭᐧᐊᒃ ᐁᑯᑕ ᑭᒋ ᐊᔑᒥᔅᑭᒃ᙮</span>
 
 <!-- PRODUCT SITE ONLY
 [font id='cans' face='BJCree-Regular' bold='BJCree-Bold'size='180%']
