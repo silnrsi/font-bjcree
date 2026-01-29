@@ -25,7 +25,7 @@ Full instructions for setting up the tools and building SIL fonts are available 
 
 ## Contributing to the project
 
-We warmly welcome contributions to the fonts, such as new glyphs, enhanced smart font code, or bug fixes. The [brief overview of contributing changes](https://silnrsi.github.io/silfontdev/en-US/Contributing_Changes.html) is a good place to begin. The next step is to contact us by responding to an existing issue or creating an issue in the Github repository and expressing your interest. We can then work together to plan and integrate your contributions.
+We warmly welcome contributions to the fonts, such as new glyphs, enhanced smart font code, or bug fixes. The [brief overview of contributing changes](https://writingsystems.info/topics/fonts/building-and-modifying-sil-fonts/#contributing-changes) is a good place to begin. The next step is to contact us by responding to an existing issue or creating an issue in the Github repository and expressing your interest. We can then work together to plan and integrate your contributions.
 
 Here are a few examples of contributions that would be welcomed (some more than others):
 
