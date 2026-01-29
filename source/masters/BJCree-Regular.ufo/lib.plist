@@ -306,7 +306,6 @@
     <string>hungarumlaut</string>
     <string>ogonek</string>
     <string>caron</string>
-    <string>_heightcontrol</string>
     <string>uni0102</string>
     <string>uni1EAE</string>
     <string>uni1EB6</string>
@@ -330,9 +329,9 @@
     <string>uni1EB8</string>
     <string>uni1EBA</string>
     <string>uni1EBC</string>
-    <string>uni0128</string>
-    <string>uni1EC8</string>
     <string>uni1ECA</string>
+    <string>uni1EC8</string>
+    <string>uni0128</string>
     <string>uni1ED0</string>
     <string>uni1ED8</string>
     <string>uni1ED2</string>
@@ -1013,8 +1012,6 @@
     <string>uniFE07</string>
     <key>VS9</key>
     <string>uniFE08</string>
-    <key>_heightcontrol</key>
-    <string>uni261D</string>
     <key>a-cans</key>
     <string>uni140A</string>
     <key>aa-cans</key>
@@ -1699,8 +1696,6 @@
     <string>uni18BE</string>
     <key>spaNaskapi-cans</key>
     <string>uni150C</string>
-    <key>space</key>
-    <string>uni0020</string>
     <key>staNaskapi-cans</key>
     <string>uni150D</string>
     <key>sw-cans</key>
@@ -2035,8 +2030,8 @@
     <string>uni200C</string>
     <key>zerowidthspace</key>
     <string>uni200B</string>
-    <key>replacementCharacter</key>
-    <string>uniFFFD</string>
+    <key>sidebearingright</key>
+    <string>uniF131</string>
   </dict>
 </dict>
 </plist>

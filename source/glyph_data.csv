@@ -1,5 +1,5 @@
 glyph_name,ps_name,sort_design,sort_final,usv
-space,uni0020,10003,3,0020
+space,space,10003,3,0020
 quotedbl,quotedbl,10005,5,0022
 numbersign,numbersign,10006,6,0023
 dollar,dollar,10007,7,0024
@@ -159,7 +159,6 @@ cedilla,cedilla,10222,222,00B8
 hungarumlaut,hungarumlaut,10223,223,02DD
 ogonek,ogonek,10224,224,02DB
 caron,caron,10225,225,02C7
-_heightcontrol,uni261D,10299,10299,261D
 Aacute,Aacute,11036.11,201,00C1
 uni0102,Abreve,11036.12,11036.12,0102
 uni1EAE,uni1EAE,11036.13,11036.13,1EAE
@@ -178,8 +177,8 @@ uni1EA0,uni1EA0,11036.25,11036.25,1EA0
 Agrave,Agrave,11036.26,173,00C0
 uni1EA2,uni1EA2,11036.27,11036.27,1EA2
 Aring,Aring,11036.28,99,00C5
-Atilde,Atilde,11036.29,174,00C3
 Amacron,Amacron,11036.29,99.1,0100
+Atilde,Atilde,11036.29,174,00C3
 AE,AE,11036.5,144,00C6
 Ccedilla,Ccedilla,11038.1,100,00C7
 uni0110,Dcroat,11039.1,11039.1,0110
@@ -193,14 +192,14 @@ uni1EC2,uni1EC2,11040.24,11040.24,1EC2
 uni1EC4,uni1EC4,11040.25,11040.25,1EC4
 Edieresis,Edieresis,11040.26,202,00CB
 uni1EB8,uni1EB8,11040.27,11040.27,1EB8
-Egrave,Egrave,11040.28,203,00C8
 Emacron,Emacron,11040.28,202.5,0112
+Egrave,Egrave,11040.28,203,00C8
 uni1EBA,uni1EBA,11040.29,11040.29,1EBA
 uni1EBC,uni1EBC,11040.3,11040.3,1EBC
 Igrave,Igrave,11044.11,207,00CC
-uni0128,Itilde,11044.11,11044.11,0128
-uni1EC8,uni1EC8,11044.11,11044.11,1EC8
 uni1ECA,uni1ECA,11044.11,11044.11,1ECA
+uni1EC8,uni1EC8,11044.11,11044.11,1EC8
+uni0128,Itilde,11044.11,11044.11,0128
 Iacute,Iacute,11044.12,204,00CD
 Icircumflex,Icircumflex,11044.13,205,00CE
 Idieresis,Idieresis,11044.14,206,00CF
