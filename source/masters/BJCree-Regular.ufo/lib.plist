@@ -459,6 +459,7 @@
     <string>kayNaskapi-cans</string>
     <string>kwayNaskapi-cans</string>
     <string>skaNaskapi-cans</string>
+    <string>k-cans</string>
     <string>ke-cans</string>
     <string>kwe-cans</string>
     <string>kweWestCree-cans</string>
@@ -1070,6 +1071,8 @@
     <string>uni1404</string>
     <key>in-cans</key>
     <string>uni142C</string>
+    <key>k-cans</key>
+    <string>uni1483</string>
     <key>kOjibway-cans</key>
     <string>uni18D6</string>
     <key>ka-cans</key>
