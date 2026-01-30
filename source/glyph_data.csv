@@ -110,7 +110,7 @@ aacute,aacute,11068.11,105,00E1
 agrave,agrave,11068.26,106,00E0
 acircumflex,acircumflex,11068.18,107,00E2
 adieresis,adieresis,11068.24,108,00E4
-atilde,atilde,11068.29,109,00E3
+atilde,atilde,11068.3,109,00E3
 aring,aring,11068.28,110,00E5
 amacron,amacron,11068.29,110.5,0101
 ccedilla,ccedilla,11070.1,111,00E7
@@ -118,8 +118,8 @@ eacute,eacute,11072.11,112,00E9
 egrave,egrave,11072.2,113,00E8
 ecircumflex,ecircumflex,11072.12,114,00EA
 edieresis,edieresis,11072.18,115,00EB
-emacron,emacron,11072.2,116,0113
-iacute,iacute,11076.11,116,00ED
+emacron,emacron,11072.29,116,0113
+iacute,iacute,11076.11,116.5,00ED
 igrave,igrave,11076.16,117,00EC
 icircumflex,icircumflex,11076.13,118,00EE
 idieresis,idieresis,11076.14,119,00EF
@@ -178,9 +178,8 @@ guillemotleft,guillemotleft,10169,169,00AB
 guillemotright,guillemotright,10170,170,00BB
 ellipsis,ellipsis,10171,171,2026
 nbspace,uni00A0,10172,172,00A0
-nbspace,uni00A0,10172,172,00A0
 Agrave,Agrave,11036.26,173,00C0
-Atilde,Atilde,11036.29,174,00C3
+Atilde,Atilde,11036.3,174,00C3
 Otilde,Otilde,11050.29,175,00D5
 OE,OE,11050.5,176,0152
 oe,oe,11082.5,177,0153
@@ -209,7 +208,7 @@ Acircumflex,Acircumflex,11036.18,199,00C2
 Ecircumflex,Ecircumflex,11040.2,200,00CA
 Aacute,Aacute,11036.11,201,00C1
 Edieresis,Edieresis,11040.26,202,00CB
-Emacron,Emacron,11040.28,202.5,0112
+Emacron,Emacron,11040.27,202.5,0112
 Egrave,Egrave,11040.28,203,00C8
 Iacute,Iacute,11044.12,204,00CD
 Icircumflex,Icircumflex,11044.13,205,00CE
