@@ -310,6 +310,8 @@
   <string>brokenbar.glif</string>
   <key>bullet</key>
   <string>bullet.glif</string>
+  <key>bulletoperator</key>
+  <string>bulletoperator.glif</string>
   <key>c</key>
   <string>c.glif</string>
   <key>c-cans</key>
@@ -404,6 +406,8 @@
   <string>dieresiscomb.glif</string>
   <key>divide</key>
   <string>divide.glif</string>
+  <key>divisionslash</key>
+  <string>divisionslash.glif</string>
   <key>dollar</key>
   <string>dollar.glif</string>
   <key>dotaccent</key>
@@ -828,6 +832,8 @@
   <string>nine.glif</string>
   <key>no-cans</key>
   <string>no-cans.glif</string>
+  <key>nonbreakinghyphen</key>
+  <string>nonbreakinghyphen.glif</string>
   <key>nonmarkingreturn</key>
   <string>nonmarkingreturn.glif</string>
   <key>noo-cans</key>
@@ -1216,6 +1222,8 @@
   <string>slash.glif</string>
   <key>so-cans</key>
   <string>so-cans.glif</string>
+  <key>softhyphen</key>
+  <string>softhyphen.glif</string>
   <key>soo-cans</key>
   <string>soo-cans.glif</string>
   <key>sooYCree-cans</key>

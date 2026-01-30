@@ -435,3 +435,8 @@ thiiNCree-cans      = thiNCree-cans + _dotabove@dot
 
 ### ᕤ tho-cans based
 thoo-cans           = tho-cans + _dotabove@dot
+
+bulletoperator = periodcentered | 2219
+divisionslash = slash | 2215
+nonbreakinghyphen = hyphen | 2011
+softhyphen = hyphen | 00AD
