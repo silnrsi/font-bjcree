@@ -5,6 +5,6 @@
   <outline>
     <component base="_dotsmall" xOffset="-83" yOffset="-14"/>
     <component base="_dotsmall" xOffset="-83" yOffset="-893"/>
-    <component base="s-cans.small.short" xOffset="-45" yOffset="-23"/>
+    <component base="_s-cans.small.short" xOffset="-45" yOffset="-23"/>
   </outline>
 </glyph>

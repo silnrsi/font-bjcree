@@ -188,6 +188,10 @@
   <string>_raisedT_riangle.glif</string>
   <key>_ring</key>
   <string>_ring.glif</string>
+  <key>_s-cans.small</key>
+  <string>_s-cans.small.glif</string>
+  <key>_s-cans.small.short</key>
+  <string>_s-cans.small.short.glif</string>
   <key>_sb.1or2stroke</key>
   <string>_sb.1or2stroke.glif</string>
   <key>_sb.curve</key>
@@ -1076,10 +1080,6 @@
   <string>s.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
-  <key>s-cans.small</key>
-  <string>s-cans.small.glif</string>
-  <key>s-cans.small.short</key>
-  <string>s-cans.small.short.glif</string>
   <key>sAthapaskan-cans</key>
   <string>sA_thapaskan-cans.glif</string>
   <key>sBlackfoot-cans</key>

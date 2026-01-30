@@ -7,7 +7,7 @@
   <outline>
     <component base="_dot2vclose" xOffset="115"/>
     <component base="ta-cans" xOffset="499"/>
-    <component base="s-cans.small.short" xOffset="13" yOffset="-14"/>
+    <component base="_s-cans.small.short" xOffset="13" yOffset="-14"/>
   </outline>
   <lib>
     <dict>
