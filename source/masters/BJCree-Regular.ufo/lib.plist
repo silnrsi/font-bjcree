@@ -78,6 +78,7 @@
     <string>.null</string>
     <string>nonmarkingreturn</string>
     <string>space</string>
+    <string>exclam</string>
     <string>quotedbl</string>
     <string>numbersign</string>
     <string>dollar</string>
@@ -107,6 +108,7 @@
     <string>less</string>
     <string>equal</string>
     <string>greater</string>
+    <string>question</string>
     <string>at</string>
     <string>A</string>
     <string>B</string>
@@ -306,144 +308,26 @@
     <string>hungarumlaut</string>
     <string>ogonek</string>
     <string>caron</string>
-    <string>uni0102</string>
-    <string>uni1EAE</string>
-    <string>uni1EB6</string>
-    <string>uni1EB0</string>
-    <string>uni1EB2</string>
-    <string>uni1EB4</string>
-    <string>uni1EA4</string>
-    <string>uni1EAC</string>
-    <string>uni1EA6</string>
-    <string>uni1EA8</string>
-    <string>uni1EAA</string>
-    <string>uni1EA0</string>
-    <string>uni1EA2</string>
-    <string>uni0110</string>
     <string>Eth</string>
-    <string>uni1EBE</string>
-    <string>uni1EC6</string>
-    <string>uni1EC0</string>
-    <string>uni1EC2</string>
-    <string>uni1EC4</string>
-    <string>uni1EB8</string>
-    <string>uni1EBA</string>
-    <string>uni1EBC</string>
-    <string>uni1ECA</string>
-    <string>uni1EC8</string>
-    <string>uni0128</string>
-    <string>uni1ED0</string>
-    <string>uni1ED8</string>
-    <string>uni1ED2</string>
-    <string>uni1ED4</string>
-    <string>uni1ED6</string>
-    <string>uni1ECC</string>
-    <string>uni1ECE</string>
-    <string>uni01A0</string>
-    <string>uni1EDA</string>
-    <string>uni1EE2</string>
-    <string>uni1EDC</string>
-    <string>uni1EDE</string>
-    <string>uni1EE0</string>
     <string>Thorn</string>
     <string>Scaron</string>
-    <string>uni1EE4</string>
-    <string>uni1EE6</string>
-    <string>uni01AF</string>
-    <string>uni1EE8</string>
-    <string>uni1EF0</string>
-    <string>uni1EEA</string>
-    <string>uni1EEC</string>
-    <string>uni1EEE</string>
-    <string>uni0168</string>
     <string>Yacute</string>
-    <string>uni1EF4</string>
-    <string>Ygrave</string>
-    <string>uni1EF6</string>
-    <string>uni1EF8</string>
     <string>Zcaron</string>
-    <string>uni0103</string>
-    <string>uni1EAF</string>
-    <string>uni1EB7</string>
-    <string>uni1EB1</string>
-    <string>uni1EB3</string>
-    <string>uni1EB5</string>
-    <string>uni1EA5</string>
-    <string>uni1EAD</string>
-    <string>uni1EA7</string>
-    <string>uni1EA9</string>
-    <string>uni1EAB</string>
-    <string>uni1EA1</string>
-    <string>uni1EA3</string>
-    <string>uni0111</string>
     <string>eth</string>
-    <string>uni1EBF</string>
-    <string>uni1EC7</string>
-    <string>uni1EC1</string>
-    <string>uni1EC3</string>
-    <string>uni1EC5</string>
-    <string>uni1EB9</string>
-    <string>uni1EBB</string>
-    <string>uni1EBD</string>
-    <string>uni1ECB</string>
-    <string>uni1EC9</string>
-    <string>uni0129</string>
-    <string>uni1ED1</string>
-    <string>uni1ED9</string>
-    <string>uni1ED3</string>
-    <string>uni1ED5</string>
-    <string>uni1ED7</string>
-    <string>uni1ECD</string>
-    <string>uni1ECF</string>
-    <string>uni01A1</string>
-    <string>uni1EDB</string>
-    <string>uni1EE3</string>
-    <string>uni1EDD</string>
-    <string>uni1EDF</string>
-    <string>uni1EE1</string>
     <string>thorn</string>
     <string>scaron</string>
-    <string>uni1EE5</string>
-    <string>uni1EE7</string>
-    <string>uni01B0</string>
-    <string>uni1EE9</string>
-    <string>uni1EF1</string>
-    <string>uni1EEB</string>
-    <string>uni1EED</string>
-    <string>uni1EEF</string>
-    <string>uni0169</string>
     <string>yacute</string>
-    <string>uni1EF5</string>
-    <string>ygrave</string>
-    <string>uni1EF7</string>
-    <string>uni1EF9</string>
     <string>zcaron</string>
     <string>Euro</string>
-    <string>uni20AB</string>
     <string>gravecomb</string>
     <string>acutecomb</string>
     <string>circumflexcomb</string>
     <string>tildecomb</string>
-    <string>uni0304</string>
-    <string>uni0306</string>
-    <string>uni0307</string>
+    <string>macroncomb</string>
     <string>dieresiscomb</string>
-    <string>uni0309</string>
     <string>caroncomb</string>
     <string>ringcomb</string>
-    <string>uni031B</string>
-    <string>uni0323</string>
     <string>cedillacomb</string>
-    <string>uni03020306</string>
-    <string>uni0306.high</string>
-    <string>uni00CA0306</string>
-    <string>uni00D40306</string>
-    <string>uni00EA0306</string>
-    <string>uni00F40306</string>
-    <string>uni01A00306</string>
-    <string>uni01A10306</string>
-    <string>uni01AF0306</string>
-    <string>uni01B00306</string>
     <string>ai-cans</string>
     <string>wYCree-cans</string>
     <string>finalbottom-cans</string>
@@ -459,9 +343,7 @@
     <string>finalraiseddot-cans</string>
     <string>finalshorthstroke-cans</string>
     <string>pWestCree-cans</string>
-    <string>hCarrier-cans</string>
     <string>finaldowntack-cans</string>
-    <string>yBibleCree-cans</string>
     <string>finalplus-cans</string>
     <string>yWestCree-cans</string>
     <string>yiSayisi-cans</string>
@@ -537,8 +419,6 @@
     <string>pwooWestCree-cans</string>
     <string>poy-cans</string>
     <string>pwoy-cans</string>
-    <string>heeCarrier-cans</string>
-    <string>hiCarrier-cans</string>
     <string>ta-cans</string>
     <string>taa-cans</string>
     <string>twa-cans</string>
@@ -547,14 +427,12 @@
     <string>twaaWestCree-cans</string>
     <string>twaaNaskapi-cans</string>
     <string>tay-cans</string>
-    <string>tta-cans</string>
     <string>staNaskapi-cans</string>
     <string>t-cans</string>
     <string>mWestCree-cans</string>
     <string>te-cans</string>
     <string>twe-cans</string>
     <string>tweWestCree-cans</string>
-    <string>tte-cans</string>
     <string>ngCarrier-cans</string>
     <string>ti-cans</string>
     <string>tii-cans</string>
@@ -563,7 +441,6 @@
     <string>twii-cans</string>
     <string>twiiWestCree-cans</string>
     <string>taai-cans</string>
-    <string>tti-cans</string>
     <string>tOjibway-cans</string>
     <string>to-cans</string>
     <string>too-cans</string>
@@ -572,9 +449,6 @@
     <string>twoWestCree-cans</string>
     <string>twoo-cans</string>
     <string>twooWestCree-cans</string>
-    <string>deeCarrier-cans</string>
-    <string>diCarrier-cans</string>
-    <string>tto-cans</string>
     <string>ka-cans</string>
     <string>kaa-cans</string>
     <string>kwa-cans</string>
@@ -584,14 +458,10 @@
     <string>kwaaNaskapi-cans</string>
     <string>kayNaskapi-cans</string>
     <string>kwayNaskapi-cans</string>
-    <string>kahSouthSlavey-cans</string>
     <string>skaNaskapi-cans</string>
-    <string>k-cans</string>
     <string>ke-cans</string>
     <string>kwe-cans</string>
     <string>kweWestCree-cans</string>
-    <string>qai-cans</string>
-    <string>keSouthSlavey-cans</string>
     <string>ki-cans</string>
     <string>kii-cans</string>
     <string>kwi-cans</string>
@@ -599,7 +469,6 @@
     <string>kwii-cans</string>
     <string>kwiiWestCree-cans</string>
     <string>kaai-cans</string>
-    <string>kiSouthSlavey-cans</string>
     <string>kOjibway-cans</string>
     <string>ko-cans</string>
     <string>koo-cans</string>
@@ -608,7 +477,6 @@
     <string>kwoWestCree-cans</string>
     <string>kwoo-cans</string>
     <string>kwooWestCree-cans</string>
-    <string>koSouthSlavey-cans</string>
     <string>kw-cans</string>
     <string>na-cans</string>
     <string>naa-cans</string>
@@ -729,10 +597,11 @@
     <string>swaaNaskapi-cans</string>
     <string>say-cans</string>
     <string>s-cans</string>
+    <string>_s-cans.small</string>
+    <string>_s-cans.small.short</string>
     <string>swNaskapi-cans</string>
     <string>_dot2vsa</string>
     <string>skMooseCree-cans</string>
-    <string>s-cans.small</string>
     <string>se-cans</string>
     <string>swe-cans</string>
     <string>sweWestCree-cans</string>
@@ -889,32 +758,10 @@
     <string>thiiNCree-cans</string>
     <string>tho-cans</string>
     <string>thoo-cans</string>
-    <string>mSayisi-cans</string>
-    <string>mAthapascan-cans</string>
-    <string>sBlackfoot-cans</string>
     <string>rWestCree-cans</string>
     <string>rMedial-cans</string>
     <string>lMedial-cans</string>
     <string>lWestCree-cans</string>
-    <string>sAthapaskan-cans</string>
-    <string>tthe-cans</string>
-    <string>tthi-cans</string>
-    <string>ttho-cans</string>
-    <string>ttha-cans</string>
-    <string>tth-cans</string>
-    <string>tsaCarrier-cans</string>
-    <string>chuCarrier-cans</string>
-    <string>choCarrier-cans</string>
-    <string>cheCarrier-cans</string>
-    <string>cheeCarrier-cans</string>
-    <string>chiCarrier-cans</string>
-    <string>chaCarrier-cans</string>
-    <string>ttsuCarrier-cans</string>
-    <string>ttsoCarrier-cans</string>
-    <string>ttseCarrier-cans</string>
-    <string>ttseeCarrier-cans</string>
-    <string>ttsiCarrier-cans</string>
-    <string>ttsaCarrier-cans</string>
     <string>chisign-cans</string>
     <string>onesuperior</string>
     <string>twosuperior</string>
@@ -954,7 +801,7 @@
     <string>VS16</string>
     <string>wordjoiner</string>
     <string>zerowidthjoiner</string>
-    <string>zeroWidthNoBreakSpace</string>
+    <string>zerowidthnobreakspace</string>
     <string>zerowidthnonjoiner</string>
     <string>zerowidthspace</string>
     <string>lineseparator</string>
@@ -977,6 +824,37 @@
     <string>replacementCharacter</string>
     <string>sidebearingleft</string>
     <string>sidebearingright</string>
+    <string>_barH</string>
+    <string>_barStemH</string>
+    <string>_barStemH2</string>
+    <string>_dot2h</string>
+    <string>_dot2hclose</string>
+    <string>_dot2v</string>
+    <string>_dot2vclose</string>
+    <string>_dotabove</string>
+    <string>_dotleft</string>
+    <string>_dotleftclose</string>
+    <string>_dotleftcloser</string>
+    <string>_dotleftfar</string>
+    <string>_dotright</string>
+    <string>_dotrightclose</string>
+    <string>_dotrightcloser</string>
+    <string>_dotrightfar</string>
+    <string>_dotsmall</string>
+    <string>_fe-ring</string>
+    <string>_finalacuteclose</string>
+    <string>_finalacutecloser</string>
+    <string>_finalgraveclose</string>
+    <string>_finalgravecloser</string>
+    <string>_raisedTriangle</string>
+    <string>_ring</string>
+    <string>_sb.1or2stroke</string>
+    <string>_sb.curve</string>
+    <string>_sb.dot</string>
+    <string>_sb.point</string>
+    <string>_sb.vertdotabove</string>
+    <string>_sb.vertical</string>
+    <string>_sb.vertringabove</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
@@ -1012,6 +890,10 @@
     <string>uniFE07</string>
     <key>VS9</key>
     <string>uniFE08</string>
+    <key>_s-cans.small</key>
+    <string>_uni1505.small</string>
+    <key>_s-cans.small.short</key>
+    <string>_uni1505.small.short</string>
     <key>a-cans</key>
     <string>uni140A</string>
     <key>aa-cans</key>
@@ -1044,20 +926,8 @@
     <string>uni1489</string>
     <key>cedillacomb</key>
     <string>uni0327</string>
-    <key>chaCarrier-cans</key>
-    <string>uni1666</string>
-    <key>cheCarrier-cans</key>
-    <string>uni1663</string>
-    <key>cheeCarrier-cans</key>
-    <string>uni1664</string>
-    <key>chiCarrier-cans</key>
-    <string>uni1665</string>
     <key>chisign-cans</key>
     <string>uni166D</string>
-    <key>choCarrier-cans</key>
-    <string>uni1662</string>
-    <key>chuCarrier-cans</key>
-    <string>uni1661</string>
     <key>ci-cans</key>
     <string>uni148B</string>
     <key>cii-cans</key>
@@ -1100,10 +970,6 @@
     <string>uni149A</string>
     <key>cwooWestCree-cans</key>
     <string>uni149B</string>
-    <key>deeCarrier-cans</key>
-    <string>uni1453</string>
-    <key>diCarrier-cans</key>
-    <string>uni1454</string>
     <key>dieresiscomb</key>
     <string>uni0308</string>
     <key>divisionslash</key>
@@ -1186,14 +1052,8 @@
     <string>uni141E</string>
     <key>graphemejoinercomb</key>
     <string>uni034F</string>
-    <key>hCarrier-cans</key>
-    <string>uni144B</string>
     <key>hairspace</key>
     <string>uni200A</string>
-    <key>heeCarrier-cans</key>
-    <string>uni1436</string>
-    <key>hiCarrier-cans</key>
-    <string>uni1437</string>
     <key>hk-cans</key>
     <string>uni157D</string>
     <key>horizontalbar</key>
@@ -1210,8 +1070,6 @@
     <string>uni1404</string>
     <key>in-cans</key>
     <string>uni142C</string>
-    <key>k-cans</key>
-    <string>uni1483</string>
     <key>kOjibway-cans</key>
     <string>uni18D6</string>
     <key>ka-cans</key>
@@ -1220,24 +1078,16 @@
     <string>uni1473</string>
     <key>kaai-cans</key>
     <string>uni146C</string>
-    <key>kahSouthSlavey-cans</key>
-    <string>uni1488</string>
     <key>kayNaskapi-cans</key>
     <string>uni18B8</string>
     <key>ke-cans</key>
     <string>uni146B</string>
-    <key>keSouthSlavey-cans</key>
-    <string>uni1485</string>
     <key>ki-cans</key>
     <string>uni146D</string>
-    <key>kiSouthSlavey-cans</key>
-    <string>uni1486</string>
     <key>kii-cans</key>
     <string>uni146E</string>
     <key>ko-cans</key>
     <string>uni146F</string>
-    <key>koSouthSlavey-cans</key>
-    <string>uni1487</string>
     <key>koo-cans</key>
     <string>uni1470</string>
     <key>kooYCree-cans</key>
@@ -1344,12 +1194,8 @@
     <string>uni14E5</string>
     <key>m-cans</key>
     <string>uni14BB</string>
-    <key>mAthapascan-cans</key>
-    <string>uni14BE</string>
     <key>mOjibway-cans</key>
     <string>uni18D8</string>
-    <key>mSayisi-cans</key>
-    <string>uni14BF</string>
     <key>mWestCree-cans</key>
     <string>uni14BC</string>
     <key>ma-cans</key>
@@ -1358,6 +1204,8 @@
     <string>uni14AB</string>
     <key>maai-cans</key>
     <string>uni14A4</string>
+    <key>macroncomb</key>
+    <string>uni0304</string>
     <key>mayNaskapi-cans</key>
     <string>uni18BA</string>
     <key>me-cans</key>
@@ -1546,8 +1394,6 @@
     <string>uni1443</string>
     <key>pwoy-cans</key>
     <string>uni18B6</string>
-    <key>qai-cans</key>
-    <string>uni166F</string>
     <key>r-cans</key>
     <string>uni1550</string>
     <key>rMedial-cans</key>
@@ -1598,10 +1444,6 @@
     <string>uni18D2</string>
     <key>s-cans</key>
     <string>uni1505</string>
-    <key>sAthapaskan-cans</key>
-    <string>uni1506</string>
-    <key>sBlackfoot-cans</key>
-    <string>uni1508</string>
     <key>sOjibway-cans</key>
     <string>uni18DA</string>
     <key>sa-cans</key>
@@ -1618,14 +1460,22 @@
     <string>uni14ED</string>
     <key>sh-cans</key>
     <string>uni1525</string>
+    <key>sh-cans.alt</key>
+    <string>uni1525.alt</string>
     <key>shOjibway-cans</key>
     <string>uni18DB</string>
     <key>sha-cans</key>
     <string>uni1515</string>
+    <key>sha-cans.alt</key>
+    <string>uni1515.alt</string>
     <key>shaa-cans</key>
     <string>uni1516</string>
+    <key>shaa-cans.alt</key>
+    <string>uni1516.alt</string>
     <key>shay-cans</key>
     <string>uni18C1</string>
+    <key>shay-cans.alt</key>
+    <string>uni18C1.alt</string>
     <key>she-cans</key>
     <string>uni1510</string>
     <key>shi-cans</key>
@@ -1634,18 +1484,32 @@
     <string>uni1512</string>
     <key>sho-cans</key>
     <string>uni1513</string>
+    <key>sho-cans.alt</key>
+    <string>uni1513.alt</string>
     <key>shoo-cans</key>
     <string>uni1514</string>
+    <key>shoo-cans.alt</key>
+    <string>uni1514.alt</string>
     <key>shoy-cans</key>
     <string>uni18C0</string>
+    <key>shoy-cans.alt</key>
+    <string>uni18C0.alt</string>
     <key>shwa-cans</key>
     <string>uni1521</string>
+    <key>shwa-cans.alt</key>
+    <string>uni1521.alt</string>
     <key>shwaWestCree-cans</key>
     <string>uni1522</string>
+    <key>shwaWestCree-cans.alt</key>
+    <string>uni1522.alt</string>
     <key>shwaa-cans</key>
     <string>uni1523</string>
+    <key>shwaa-cans.alt</key>
+    <string>uni1523.alt</string>
     <key>shwaaWestCree-cans</key>
     <string>uni1524</string>
+    <key>shwaaWestCree-cans.alt</key>
+    <string>uni1524.alt</string>
     <key>shwe-cans</key>
     <string>uni1517</string>
     <key>shweWestCree-cans</key>
@@ -1660,14 +1524,24 @@
     <string>uni151C</string>
     <key>shwo-cans</key>
     <string>uni151D</string>
+    <key>shwo-cans.alt</key>
+    <string>uni151D.alt</string>
     <key>shwoWestCree-cans</key>
     <string>uni151E</string>
+    <key>shwoWestCree-cans.alt</key>
+    <string>uni151E.alt</string>
     <key>shwoo-cans</key>
     <string>uni151F</string>
+    <key>shwoo-cans.alt</key>
+    <string>uni151F.alt</string>
     <key>shwooWestCree-cans</key>
     <string>uni1520</string>
+    <key>shwooWestCree-cans.alt</key>
+    <string>uni1520.alt</string>
     <key>shwoy-cans</key>
     <string>uni18C2</string>
+    <key>shwoy-cans.alt</key>
+    <string>uni18C2.alt</string>
     <key>si-cans</key>
     <string>uni14EF</string>
     <key>sidebearingleft</key>
@@ -1824,38 +1698,6 @@
     <string>uni1451</string>
     <key>tooYCree-cans</key>
     <string>uni1452</string>
-    <key>tsaCarrier-cans</key>
-    <string>uni1660</string>
-    <key>tta-cans</key>
-    <string>uni146A</string>
-    <key>tte-cans</key>
-    <string>uni1467</string>
-    <key>tth-cans</key>
-    <string>uni156F</string>
-    <key>ttha-cans</key>
-    <string>uni156E</string>
-    <key>tthe-cans</key>
-    <string>uni156B</string>
-    <key>tthi-cans</key>
-    <string>uni156C</string>
-    <key>ttho-cans</key>
-    <string>uni156D</string>
-    <key>tti-cans</key>
-    <string>uni1468</string>
-    <key>tto-cans</key>
-    <string>uni1469</string>
-    <key>ttsaCarrier-cans</key>
-    <string>uni166C</string>
-    <key>ttseCarrier-cans</key>
-    <string>uni1669</string>
-    <key>ttseeCarrier-cans</key>
-    <string>uni166A</string>
-    <key>ttsiCarrier-cans</key>
-    <string>uni166B</string>
-    <key>ttsoCarrier-cans</key>
-    <string>uni1668</string>
-    <key>ttsuCarrier-cans</key>
-    <string>uni1667</string>
     <key>twa-cans</key>
     <string>uni1461</string>
     <key>twaWestCree-cans</key>
@@ -1888,36 +1730,6 @@
     <string>uni1460</string>
     <key>uni00B5</key>
     <string>mu</string>
-    <key>uni0102</key>
-    <string>Abreve</string>
-    <key>uni0103</key>
-    <string>abreve</string>
-    <key>uni0110</key>
-    <string>Dcroat</string>
-    <key>uni0111</key>
-    <string>dcroat</string>
-    <key>uni0128</key>
-    <string>Itilde</string>
-    <key>uni0129</key>
-    <string>itilde</string>
-    <key>uni0168</key>
-    <string>Utilde</string>
-    <key>uni0169</key>
-    <string>utilde</string>
-    <key>uni01A0</key>
-    <string>Ohorn</string>
-    <key>uni01A1</key>
-    <string>ohorn</string>
-    <key>uni01AF</key>
-    <string>Uhorn</string>
-    <key>uni01B0</key>
-    <string>uhorn</string>
-    <key>uni0309</key>
-    <string>hookabovecomb</string>
-    <key>uni0323</key>
-    <string>dotbelowcomb</string>
-    <key>uni20AB</key>
-    <string>dong</string>
     <key>wBlackfoot-cans</key>
     <string>uni167F</string>
     <key>wECree-cans</key>
@@ -1964,8 +1776,6 @@
     <string>uni2060</string>
     <key>y-cans</key>
     <string>uni153E</string>
-    <key>yBibleCree-cans</key>
-    <string>uni153F</string>
     <key>yWestCree-cans</key>
     <string>uni1540</string>
     <key>ya-cans</key>
@@ -2022,10 +1832,10 @@
     <string>uni1537</string>
     <key>ywooWestCree-cans</key>
     <string>uni1538</string>
-    <key>zeroWidthNoBreakSpace</key>
-    <string>uniFEFF</string>
     <key>zerowidthjoiner</key>
     <string>uni200D</string>
+    <key>zerowidthnobreakspace</key>
+    <string>uniFEFF</string>
     <key>zerowidthnonjoiner</key>
     <string>uni200C</string>
     <key>zerowidthspace</key>
