@@ -302,20 +302,8 @@
   <string>cedillacomb.glif</string>
   <key>cent</key>
   <string>cent.glif</string>
-  <key>chaCarrier-cans</key>
-  <string>chaC_arrier-cans.glif</string>
-  <key>cheCarrier-cans</key>
-  <string>cheC_arrier-cans.glif</string>
-  <key>cheeCarrier-cans</key>
-  <string>cheeC_arrier-cans.glif</string>
-  <key>chiCarrier-cans</key>
-  <string>chiC_arrier-cans.glif</string>
   <key>chisign-cans</key>
   <string>chisign-cans.glif</string>
-  <key>choCarrier-cans</key>
-  <string>choC_arrier-cans.glif</string>
-  <key>chuCarrier-cans</key>
-  <string>chuC_arrier-cans.glif</string>
   <key>ci-cans</key>
   <string>ci-cans.glif</string>
   <key>cii-cans</key>
@@ -374,12 +362,8 @@
   <string>dagger.glif</string>
   <key>daggerdbl</key>
   <string>daggerdbl.glif</string>
-  <key>deeCarrier-cans</key>
-  <string>deeC_arrier-cans.glif</string>
   <key>degree</key>
   <string>degree.glif</string>
-  <key>diCarrier-cans</key>
-  <string>diC_arrier-cans.glif</string>
   <key>dieresis</key>
   <string>dieresis.glif</string>
   <key>dieresiscomb</key>
@@ -532,14 +516,8 @@
   <string>guilsinglright.glif</string>
   <key>h</key>
   <string>h.glif</string>
-  <key>hCarrier-cans</key>
-  <string>hC_arrier-cans.glif</string>
   <key>hairspace</key>
   <string>hairspace.glif</string>
-  <key>heeCarrier-cans</key>
-  <string>heeC_arrier-cans.glif</string>
-  <key>hiCarrier-cans</key>
-  <string>hiC_arrier-cans.glif</string>
   <key>hk-cans</key>
   <string>hk-cans.glif</string>
   <key>horizontalbar</key>
@@ -580,8 +558,6 @@
   <string>j.glif</string>
   <key>k</key>
   <string>k.glif</string>
-  <key>k-cans</key>
-  <string>k-cans.glif</string>
   <key>kOjibway-cans</key>
   <string>kO_jibway-cans.glif</string>
   <key>ka-cans</key>
@@ -590,24 +566,16 @@
   <string>kaa-cans.glif</string>
   <key>kaai-cans</key>
   <string>kaai-cans.glif</string>
-  <key>kahSouthSlavey-cans</key>
-  <string>kahS_outhS_lavey-cans.glif</string>
   <key>kayNaskapi-cans</key>
   <string>kayN_askapi-cans.glif</string>
   <key>ke-cans</key>
   <string>ke-cans.glif</string>
-  <key>keSouthSlavey-cans</key>
-  <string>keS_outhS_lavey-cans.glif</string>
   <key>ki-cans</key>
   <string>ki-cans.glif</string>
-  <key>kiSouthSlavey-cans</key>
-  <string>kiS_outhS_lavey-cans.glif</string>
   <key>kii-cans</key>
   <string>kii-cans.glif</string>
   <key>ko-cans</key>
   <string>ko-cans.glif</string>
-  <key>koSouthSlavey-cans</key>
-  <string>koS_outhS_lavey-cans.glif</string>
   <key>koo-cans</key>
   <string>koo-cans.glif</string>
   <key>kooYCree-cans</key>
@@ -724,12 +692,8 @@
   <string>m.glif</string>
   <key>m-cans</key>
   <string>m-cans.glif</string>
-  <key>mAthapascan-cans</key>
-  <string>mA_thapascan-cans.glif</string>
   <key>mOjibway-cans</key>
   <string>mO_jibway-cans.glif</string>
-  <key>mSayisi-cans</key>
-  <string>mS_ayisi-cans.glif</string>
   <key>mWestCree-cans</key>
   <string>mW_estC_ree-cans.glif</string>
   <key>ma-cans</key>
@@ -1000,8 +964,6 @@
   <string>pwoy-cans.glif</string>
   <key>q</key>
   <string>q.glif</string>
-  <key>qai-cans</key>
-  <string>qai-cans.glif</string>
   <key>question</key>
   <string>question.glif</string>
   <key>questiondown</key>
@@ -1080,10 +1042,6 @@
   <string>s.glif</string>
   <key>s-cans</key>
   <string>s-cans.glif</string>
-  <key>sAthapaskan-cans</key>
-  <string>sA_thapaskan-cans.glif</string>
-  <key>sBlackfoot-cans</key>
-  <string>sB_lackfoot-cans.glif</string>
   <key>sOjibway-cans</key>
   <string>sO_jibway-cans.glif</string>
   <key>sa-cans</key>
@@ -1370,38 +1328,6 @@
   <string>tooY_C_ree-cans.glif</string>
   <key>trademark</key>
   <string>trademark.glif</string>
-  <key>tsaCarrier-cans</key>
-  <string>tsaC_arrier-cans.glif</string>
-  <key>tta-cans</key>
-  <string>tta-cans.glif</string>
-  <key>tte-cans</key>
-  <string>tte-cans.glif</string>
-  <key>tth-cans</key>
-  <string>tth-cans.glif</string>
-  <key>ttha-cans</key>
-  <string>ttha-cans.glif</string>
-  <key>tthe-cans</key>
-  <string>tthe-cans.glif</string>
-  <key>tthi-cans</key>
-  <string>tthi-cans.glif</string>
-  <key>ttho-cans</key>
-  <string>ttho-cans.glif</string>
-  <key>tti-cans</key>
-  <string>tti-cans.glif</string>
-  <key>tto-cans</key>
-  <string>tto-cans.glif</string>
-  <key>ttsaCarrier-cans</key>
-  <string>ttsaC_arrier-cans.glif</string>
-  <key>ttseCarrier-cans</key>
-  <string>ttseC_arrier-cans.glif</string>
-  <key>ttseeCarrier-cans</key>
-  <string>ttseeC_arrier-cans.glif</string>
-  <key>ttsiCarrier-cans</key>
-  <string>ttsiC_arrier-cans.glif</string>
-  <key>ttsoCarrier-cans</key>
-  <string>ttsoC_arrier-cans.glif</string>
-  <key>ttsuCarrier-cans</key>
-  <string>ttsuC_arrier-cans.glif</string>
   <key>twa-cans</key>
   <string>twa-cans.glif</string>
   <key>twaWestCree-cans</key>
@@ -1506,8 +1432,6 @@
   <string>y.glif</string>
   <key>y-cans</key>
   <string>y-cans.glif</string>
-  <key>yBibleCree-cans</key>
-  <string>yB_ibleC_ree-cans.glif</string>
   <key>yWestCree-cans</key>
   <string>yW_estC_ree-cans.glif</string>
   <key>ya-cans</key>
