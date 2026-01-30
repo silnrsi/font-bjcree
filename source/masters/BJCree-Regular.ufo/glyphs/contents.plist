@@ -376,6 +376,8 @@
   <string>dotaccent.glif</string>
   <key>dotlessi</key>
   <string>dotlessi.glif</string>
+  <key>dottedcircle</key>
+  <string>dottedcircle.glif</string>
   <key>e</key>
   <string>e.glif</string>
   <key>e-cans</key>
@@ -788,6 +790,8 @@
   <string>nine.glif</string>
   <key>no-cans</key>
   <string>no-cans.glif</string>
+  <key>nonmarkingreturn</key>
+  <string>nonmarkingreturn.glif</string>
   <key>noo-cans</key>
   <string>noo-cans.glif</string>
   <key>nooYCree-cans</key>
@@ -1008,6 +1012,8 @@
   <string>reR_C_ree-cans.glif</string>
   <key>registered</key>
   <string>registered.glif</string>
+  <key>replacementCharacter</key>
+  <string>replacementC_haracter.glif</string>
   <key>ri-cans</key>
   <string>ri-cans.glif</string>
   <key>rii-cans</key>
@@ -1500,5 +1506,7 @@
   <string>zcaron.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zerowidthspace</key>
+  <string>zerowidthspace.glif</string>
 </dict>
 </plist>
