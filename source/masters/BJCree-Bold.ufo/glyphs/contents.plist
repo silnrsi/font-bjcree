@@ -4,6 +4,8 @@
 <dict>
   <key>.notdef</key>
   <string>_notdef.glif</string>
+  <key>.null</key>
+  <string>_null.glif</string>
   <key>A</key>
   <string>A_.glif</string>
   <key>AE</key>
@@ -124,6 +126,38 @@
   <string>U_grave.glif</string>
   <key>V</key>
   <string>V_.glif</string>
+  <key>VS1</key>
+  <string>V_S_1.glif</string>
+  <key>VS10</key>
+  <string>V_S_10.glif</string>
+  <key>VS11</key>
+  <string>V_S_11.glif</string>
+  <key>VS12</key>
+  <string>V_S_12.glif</string>
+  <key>VS13</key>
+  <string>V_S_13.glif</string>
+  <key>VS14</key>
+  <string>V_S_14.glif</string>
+  <key>VS15</key>
+  <string>V_S_15.glif</string>
+  <key>VS16</key>
+  <string>V_S_16.glif</string>
+  <key>VS2</key>
+  <string>V_S_2.glif</string>
+  <key>VS3</key>
+  <string>V_S_3.glif</string>
+  <key>VS4</key>
+  <string>V_S_4.glif</string>
+  <key>VS5</key>
+  <string>V_S_5.glif</string>
+  <key>VS6</key>
+  <string>V_S_6.glif</string>
+  <key>VS7</key>
+  <string>V_S_7.glif</string>
+  <key>VS8</key>
+  <string>V_S_8.glif</string>
+  <key>VS9</key>
+  <string>V_S_9.glif</string>
   <key>W</key>
   <string>W_.glif</string>
   <key>X</key>
@@ -500,6 +534,8 @@
   <string>germandbls.glif</string>
   <key>glottalstop-cans</key>
   <string>glottalstop-cans.glif</string>
+  <key>graphemejoinercomb</key>
+  <string>graphemejoinercomb.glif</string>
   <key>grave</key>
   <string>grave.glif</string>
   <key>gravecomb</key>
@@ -648,6 +684,8 @@
   <string>li-cans.glif</string>
   <key>lii-cans</key>
   <string>lii-cans.glif</string>
+  <key>lineseparator</key>
+  <string>lineseparator.glif</string>
   <key>lo-cans</key>
   <string>lo-cans.glif</string>
   <key>loWestCree-cans</key>
@@ -894,6 +932,8 @@
   <string>paai-cans.glif</string>
   <key>paragraph</key>
   <string>paragraph.glif</string>
+  <key>paragraphseparator</key>
+  <string>paragraphseparator.glif</string>
   <key>parenleft</key>
   <string>parenleft.glif</string>
   <key>parenright</key>
@@ -1432,6 +1472,8 @@
   <string>wooN_askapi-cans.glif</string>
   <key>wooWestCree-cans</key>
   <string>wooW_estC_ree-cans.glif</string>
+  <key>wordjoiner</key>
+  <string>wordjoiner.glif</string>
   <key>x</key>
   <string>x.glif</string>
   <key>y</key>
@@ -1506,6 +1548,12 @@
   <string>zcaron.glif</string>
   <key>zero</key>
   <string>zero.glif</string>
+  <key>zerowidthjoiner</key>
+  <string>zerowidthjoiner.glif</string>
+  <key>zerowidthnobreakspace</key>
+  <string>zerowidthnobreakspace.glif</string>
+  <key>zerowidthnonjoiner</key>
+  <string>zerowidthnonjoiner.glif</string>
   <key>zerowidthspace</key>
   <string>zerowidthspace.glif</string>
 </dict>
