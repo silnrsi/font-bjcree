@@ -1844,5 +1844,27 @@
     <key>zerowidthspace</key>
     <string>uni200B</string>
   </dict>
+  <key>public.skipExportGlyphs</key>
+  <array>
+    <string>eCarrier-cans</string>
+    <string>iCarrier-cans</string>
+    <string>ngCarrier-cans</string>
+    <string>sh-cans.alt</string>
+    <string>sha-cans.alt</string>
+    <string>shaa-cans.alt</string>
+    <string>shay-cans.alt</string>
+    <string>sho-cans.alt</string>
+    <string>shoo-cans.alt</string>
+    <string>shoy-cans.alt</string>
+    <string>shwa-cans.alt</string>
+    <string>shwaa-cans.alt</string>
+    <string>shwaaWestCree-cans.alt</string>
+    <string>shwaWestCree-cans.alt</string>
+    <string>shwo-cans.alt</string>
+    <string>shwoo-cans.alt</string>
+    <string>shwooWestCree-cans.alt</string>
+    <string>shwoWestCree-cans.alt</string>
+    <string>shwoy-cans.alt</string>
+  </array>
 </dict>
 </plist>
