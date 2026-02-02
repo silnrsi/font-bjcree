@@ -26,7 +26,7 @@ cmds.append(cmd('gftools fix-nonhinting -q --no-backup ${DEP} ${TGT}'))
 
 designspace('source/' + FAMILY + '.designspace',
     target = process("${DS:FILENAME_BASE}.ttf", *cmds),
-    params = "--decomposeComponents --removeOverlap",
+    params = "--decomposeComponents --removeOverlap --compregex ^_",
     # opentype = fea('srcs/${DS:FILENAME_BASE}.fea', master='source/empty.feax'),
     woff = woff('web/${DS:FILENAME_BASE}.woff',
         metadata=f'../source/bjcree-WOFF-metadata.xml',
