@@ -1,58 +1,37 @@
 #!/usr/bin/env python3
-'''
-Example script to generate ftml document from glyph_data.csv and UFO.
-
-To try this with the Harmattan font project:
-    1) clone and build Harmattan:
-        clone https://github.com/silnrsi/font-harmattan
-        cd font-harmattan
-        smith configure
-        smith build ftml
-    2) run psfgenftml as follows:
-        python3 psfgenftml.py \
-            -t "AllChars" \
-            --ap "_?dia[AB]$" \
-            --xsl ../tools/lib/ftml.xsl \
-            --scale 200 \
-            -i source/glyph_data.csv \
-            -s "url(../references/Harmattan-Regular-v1.ttf)=ver 1" \
-            -s "url(../results/Harmattan-Regular.ttf)=Reg-GR" \
-            -s "url(../results/tests/ftml/fonts/Harmattan-Regular_ot_arab.ttf)=Reg-OT" \
-            source/Harmattan-Regular.ufo tests/AllChars-dev.ftml
-    3) launch resulting output file, tests/AllChars-dev.ftml, in a browser.
-        (see https://silnrsi.github.io/FDBP/en-US/Browsers%20as%20a%20font%20test%20platform.html)
-        NB: Using Firefox will allow simultaneous display of both Graphite and OpenType rendering
-    4) As above but substitute:
-            -t "Diac Test"             for the -t parameter
-            tests/DiacTest-dev.ftml    for the final parameter
-       and launch tests/DiacTest-dev.ftml in a browser.
-'''
-__url__ = 'https://github.com/silnrsi/pysilfont'
-__copyright__ = 'Copyright (c) 2018-2025, SIL Global (https://www.sil.org)'
+__doc__ = '''generate ftml tests from glyph_data.csv and UFO'''
+__url__ = 'https://github.com/silnrsi/font-arab-tools'
+__copyright__ = 'Copyright (c) 2018-2025 SIL Global  (https://www.sil.org)'
 __license__ = 'Released under the MIT License (https://opensource.org/licenses/MIT)'
 __author__ = 'Bob Hallissy'
 
 import re
 from silfont.core import execute
 import silfont.ftml_builder as FB
+from palaso.unicode.ucd import get_ucd, loadxml
+from collections import OrderedDict
+from itertools import permutations
+
 
 argspec = [
     ('ifont', {'help': 'Input UFO'}, {'type': 'infont'}),
     ('output', {'help': 'Output file ftml in XML format', 'nargs': '?'}, {'type': 'outfile', 'def': '_out.ftml'}),
     ('-i','--input', {'help': 'Glyph info csv file'}, {'type': 'incsv', 'def': 'glyph_data.csv'}),
     ('-f','--fontcode', {'help': 'letter to filter for glyph_data'},{}),
+    ('--prevfont', {'help': 'font file of previous version'}, {'type': 'filename', 'def': None}),
     ('-l','--log', {'help': 'Set log file name'}, {'type': 'outfile', 'def': '_ftml.log'}),
     ('--langs', {'help':'List of bcp47 language tags', 'default': None}, {}),
     ('--rtl', {'help': 'enable right-to-left features', 'action': 'store_true'}, {}),
+    ('--nobump', {'help': 'do not bump max feature value for tests like cv12', 'action': 'store_true'}, {}),
     ('--norendercheck', {'help': 'do not include the RenderingUnknown check', 'action': 'store_true'}, {}),
     ('-t', '--test', {'help': 'name of the test to generate', 'default': None}, {}),
-    ('-s','--fontsrc', {'help': 'font source: "url()" or "local()" optionally followed by "=label"', 'action': 'append'}, {}),
+    ('-s','--fontsrc', {'help': 'font source: "url()" or "local()" optionally followed by "|label"', 'action': 'append'}, {}),
     ('--scale', {'help': 'percentage to scale rendered text (default 100)'}, {}),
     ('--ap', {'help': 'regular expression describing APs to examine', 'default': '.'}, {}),
     ('-w', '--width', {'help': 'total width of all <string> column (default automatic)'}, {}),
     ('--xsl', {'help': 'XSL stylesheet to use'}, {}),
+    ('--ucdxml', {'help': 'File with UCD XML data for chars in the pipeline'}, {}),
 ]
-
 
 def doit(args):
     logger = args.logger
@@ -62,7 +41,7 @@ def doit(args):
                              rtlenable=True, langs=args.langs)
 
     # Override default base (25CC) for displaying combining marks:
-    builder.diacBase = 0x0628   # beh
+    builder.diacBase = 0x25cc   # beh
 
     # Initialize FTML document:
     # Default name for test: AllChars or something based on the csvdata file:
@@ -109,39 +88,6 @@ def doit(args):
                 ftml.setLang(langID)
                 builder.render((uid,), ftml)
             ftml.clearLang()
-
-        # Add unencoded specials and ligatures -- i.e., things with a sequence of USVs in the glyph_data:
-        ftml.startTestGroup('Specials & ligatures from glyph_data')
-        for basename in sorted(builder.specials()):
-            special = builder.special(basename)
-            # iterate over all permutations of feature settings that might affect this special
-            for featlist in builder.permuteFeatures(uids = special.uids):
-                ftml.setFeatures(featlist)
-                builder.render(special.uids, ftml)
-                # close test so each special is on its own row:
-                ftml.closeTest()
-            ftml.clearFeatures()
-            if len(special.langs):
-                for langID in sorted(special.langs):
-                    ftml.setLang(langID)
-                    builder.render(special.uids, ftml)
-                    ftml.closeTest()
-                ftml.clearLang()
-
-        # Add Lam-Alef data manually
-        ftml.startTestGroup('Lam-Alef')
-        # generate list of lam and alef characters that should be in the font:
-        lamlist = list(filter(lambda x: x in builder.uids(), (0x0644, 0x06B5, 0x06B6, 0x06B7, 0x06B8, 0x076A, 0x08A6)))
-        aleflist = list(filter(lambda x: x in builder.uids(), (0x0627, 0x0622, 0x0623, 0x0625, 0x0671, 0x0672, 0x0673, 0x0675, 0x0773, 0x0774)))
-        # iterate over all combinations:
-        for lam in lamlist:
-            for alef in aleflist:
-                for featlist in builder.permuteFeatures(uids = (lam, alef)):
-                    ftml.setFeatures(featlist)
-                    builder.render((lam,alef), ftml)
-                    # close test so each combination is on its own row:
-                    ftml.closeTest()
-                ftml.clearFeatures()
 
     if test.lower().startswith("diac"):
         # Diac attachment:
