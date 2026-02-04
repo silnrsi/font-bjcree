@@ -1846,9 +1846,6 @@
   </dict>
   <key>public.skipExportGlyphs</key>
   <array>
-    <string>eCarrier-cans</string>
-    <string>iCarrier-cans</string>
-    <string>ngCarrier-cans</string>
     <string>sh-cans.alt</string>
     <string>sha-cans.alt</string>
     <string>shaa-cans.alt</string>
