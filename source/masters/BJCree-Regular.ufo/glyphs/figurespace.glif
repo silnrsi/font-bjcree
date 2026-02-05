@@ -3,10 +3,4 @@
   <advance width="1074"/>
   <unicode hex="2007"/>
   <outline/>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
-      <string>=zero</string>
-    </dict>
-  </lib>
 </glyph>

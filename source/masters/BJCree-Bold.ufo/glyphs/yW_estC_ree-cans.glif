@@ -5,12 +5,4 @@
   <outline>
     <component base="finalplus-cans" yOffset="-407"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>=finalplus-cans</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>=finalplus-cans</string>
-    </dict>
-  </lib>
 </glyph>

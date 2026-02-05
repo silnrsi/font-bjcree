@@ -8,12 +8,4 @@
     <component base="_dotabove" xOffset="1046" yOffset="-120"/>
     <component base="_dotabove" xOffset="231" yOffset="-530"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.1or2stroke</string>
-    </dict>
-  </lib>
 </glyph>

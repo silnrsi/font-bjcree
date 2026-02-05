@@ -6,10 +6,4 @@
 uni2002
 </note>
   <outline/>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
-      <string>=emspace/2</string>
-    </dict>
-  </lib>
 </glyph>

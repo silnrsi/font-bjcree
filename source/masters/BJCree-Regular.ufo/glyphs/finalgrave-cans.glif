@@ -5,12 +5,4 @@
   <outline>
     <component base="finalacute-cans" xScale="-1" xOffset="626"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.point</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
-    </dict>
-  </lib>
 </glyph>

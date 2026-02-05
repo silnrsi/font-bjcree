@@ -6,12 +6,4 @@
     <component base="o-cans"/>
     <component base="finalmiddledot-cans" xOffset="300"/>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
-      <string>_sb.vertical</string>
-      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
-      <string>_sb.point</string>
-    </dict>
-  </lib>
 </glyph>

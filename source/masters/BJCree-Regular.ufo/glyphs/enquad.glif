@@ -3,10 +3,4 @@
   <advance width="1024"/>
   <unicode hex="2000"/>
   <outline/>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.glyph.widthMetricsKey</key>
-      <string>=enspace</string>
-    </dict>
-  </lib>
 </glyph>
