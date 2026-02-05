@@ -16,9 +16,9 @@ echo "--- Normalizing Bold..."
 psfnormalize -p scrlevel=w -p checkfix=fix source/masters/BJCree-Bold.ufo
 
 echo "--- Rebuilding composites..."
-psfbuildcomp -p backup=False --force --noflatten --colors="leave,g_purple,g_red" \
+psfbuildcomp -p backup=False --force --noflatten --colors="g_blue,g_purple,g_red" \
     -i source/composites.txt source/masters/BJCree-Regular.ufo
-psfbuildcomp -p backup=False --force --noflatten --colors="leave,g_purple,g_red" \
+psfbuildcomp -p backup=False --force --noflatten --colors="g_blue,g_purple,g_red" \
     -i source/composites.txt source/masters/BJCree-Bold.ufo
 
 echo "--- Syncing glyph orders, psnames, and other metadata to other UFOs..."
