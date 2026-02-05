@@ -849,13 +849,6 @@
     <string>_finalgravecloser</string>
     <string>_raisedTriangle</string>
     <string>_ring</string>
-    <string>_sb.1or2stroke</string>
-    <string>_sb.curve</string>
-    <string>_sb.dot</string>
-    <string>_sb.point</string>
-    <string>_sb.vertdotabove</string>
-    <string>_sb.vertical</string>
-    <string>_sb.vertringabove</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>
