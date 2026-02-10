@@ -7,12 +7,12 @@
   <anchor x="933" y="1391" name="ring"/>
   <outline>
     <component base="sii-cans"/>
-    <component base="_dotrightclose" xOffset="1122"/>
+    <component base="_dotrightmid" xOffset="1122"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

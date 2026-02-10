@@ -261,9 +261,9 @@ sweWestCree-cans    = se-cans & _dotright
 ### ᓯ si-cans based
 sii-cans            = si-cans + _dotabove@dot
 swi-cans            = _dotleft & si-cans
-swiWestCree-cans    = si-cans & _dotrightclose
+swiWestCree-cans    = si-cans & _dotrightmid
 swii-cans           = swi-cans + _dotabove@dot
-swiiWestCree-cans   = sii-cans & _dotrightclose
+swiiWestCree-cans   = sii-cans & _dotrightmid
 saai-cans           = si-cans + _ring@ring
 
 ### ᓱ so-cans based
@@ -417,9 +417,9 @@ foo-cans            = fo-cans + _dotabove@dot
 
 ### ᕦ tha-cans based
 thaa-cans           = tha-cans + _dotabove@dot
-thwa-cans           = tha-cans & _dotrightclose
+thwa-cans           = tha-cans & _dotrightmid
 thwaa-cans          = _dotleft & thaa-cans
-thwaaWestCree-cans  = thaa-cans & _dotrightclose
+thwaaWestCree-cans  = thaa-cans & _dotrightmid
 
 ### ᕞ the-cans based
 thwe-cans           = the-cans & _dotright
