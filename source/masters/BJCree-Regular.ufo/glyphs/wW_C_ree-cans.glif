@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="wWCree-cans" format="2">
-  <advance width="1115"/>
+  <advance width="1203"/>
   <unicode hex="18DD"/>
   <outline>
-    <component base="_raisedTriangle"/>
-    <component base="_dotsmall" xOffset="580" yOffset="-104"/>
+    <component base="_raisedTriangle" xOffset="13"/>
+    <component base="_dotsmall" xOffset="593" yOffset="-104"/>
   </outline>
 </glyph>
