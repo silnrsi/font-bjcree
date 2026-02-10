@@ -598,10 +598,7 @@
     <string>swaaNaskapi-cans</string>
     <string>say-cans</string>
     <string>s-cans</string>
-    <string>_s-cans.small</string>
-    <string>_s-cans.small.short</string>
     <string>swNaskapi-cans</string>
-    <string>_dot2vsa</string>
     <string>skMooseCree-cans</string>
     <string>se-cans</string>
     <string>swe-cans</string>
@@ -827,10 +824,9 @@
     <string>sidebearingright</string>
     <string>_barH</string>
     <string>_barStemH</string>
-    <string>_barStemH2</string>
-    <string>_dot2h</string>
     <string>_dot2hclose</string>
     <string>_dot2v</string>
+    <string>_dot2vsa</string>
     <string>_dot2vclose</string>
     <string>_dotabove</string>
     <string>_dotleft</string>
@@ -839,17 +835,14 @@
     <string>_dotleftfar</string>
     <string>_dotright</string>
     <string>_dotrightclose</string>
-    <string>_dotrightcloser</string>
     <string>_dotrightmid</string>
     <string>_dotrightfar</string>
     <string>_dotsmall</string>
     <string>_fe-ring</string>
-    <string>_finalacuteclose</string>
-    <string>_finalacutecloser</string>
-    <string>_finalgraveclose</string>
-    <string>_finalgravecloser</string>
     <string>_raisedTriangle</string>
     <string>_ring</string>
+    <string>_s-cans.small</string>
+    <string>_s-cans.small.short</string>
   </array>
   <key>public.postscriptNames</key>
   <dict>

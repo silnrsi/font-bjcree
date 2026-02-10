@@ -2,14 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>_finalacuteclose</key>
-  <string>_finalacuteclose.glif</string>
-  <key>_finalacutecloser</key>
-  <string>_finalacutecloser.glif</string>
-  <key>_finalgraveclose</key>
-  <string>_finalgraveclose.glif</string>
-  <key>_finalgravecloser</key>
-  <string>_finalgravecloser.glif</string>
   <key>ai-cans</key>
   <string>ai-cans.glif</string>
   <key>c-cans</key>
