@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foo-cans" format="2">
-  <advance width="1770"/>
+  <advance width="1830"/>
   <unicode hex="1558"/>
-  <anchor x="351" y="1465" name="_dot2"/>
-  <anchor x="351" y="1463" name="_dot3"/>
+  <anchor x="411" y="1465" name="_dot2"/>
+  <anchor x="411" y="1463" name="_dot3"/>
   <outline>
     <component base="fo-cans"/>
-    <component base="_dotabove" xOffset="351" yOffset="-1"/>
+    <component base="_dotabove" xOffset="411" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

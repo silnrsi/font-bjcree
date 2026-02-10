@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="_dotrightclose" format="2">
-  <advance width="251"/>
+  <advance width="205"/>
   <outline>
     <component base="_dotrightcloser" xOffset="94"/>
   </outline>

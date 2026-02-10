@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="thwiiWoodsCree-cans" format="2">
-  <advance width="1951"/>
+  <advance width="1976"/>
   <unicode hex="1679"/>
   <anchor x="463" y="1465" name="_dot2"/>
   <anchor x="463" y="1463" name="_dot3"/>
@@ -11,7 +11,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
