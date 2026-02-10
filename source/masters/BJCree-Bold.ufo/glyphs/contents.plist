@@ -206,6 +206,8 @@
   <string>_dotrightcloser.glif</string>
   <key>_dotrightfar</key>
   <string>_dotrightfar.glif</string>
+  <key>_dotrightmid</key>
+  <string>_dotrightmid.glif</string>
   <key>_dotsmall</key>
   <string>_dotsmall.glif</string>
   <key>_fe-ring</key>
