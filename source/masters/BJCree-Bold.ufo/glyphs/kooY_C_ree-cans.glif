@@ -2,18 +2,18 @@
 <glyph name="kooYCree-cans" format="2">
   <advance width="1252"/>
   <unicode hex="1471"/>
-  <anchor x="531" y="1469" name="_2dotsleft"/>
-  <anchor x="766" y="1469" name="_2dotsmiddle"/>
-  <anchor x="1001" y="1467" name="dot"/>
-  <anchor x="1001" y="1465" name="ring"/>
+  <anchor x="462" y="1469" name="_2dotsleft"/>
+  <anchor x="697" y="1469" name="_2dotsmiddle"/>
+  <anchor x="932" y="1467" name="dot"/>
+  <anchor x="932" y="1465" name="ring"/>
   <outline>
     <component base="ko-cans"/>
-    <component base="_dot2hclose" xOffset="70" yOffset="2"/>
+    <component base="_dot2hclose" xOffset="1" yOffset="2"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

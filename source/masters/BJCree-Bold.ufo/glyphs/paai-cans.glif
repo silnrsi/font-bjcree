@@ -2,16 +2,16 @@
 <glyph name="paai-cans" format="2">
   <advance width="1623"/>
   <unicode hex="1430"/>
-  <anchor x="765" y="1463" name="_ringmiddle"/>
-  <anchor x="765" y="1467" name="dot"/>
+  <anchor x="819" y="1463" name="_ringmiddle"/>
+  <anchor x="819" y="1467" name="dot"/>
   <outline>
     <component base="pi-cans"/>
-    <component base="_ring" xOffset="765" yOffset="-2"/>
+    <component base="_ring" xOffset="819" yOffset="-2"/>
   </outline>
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>

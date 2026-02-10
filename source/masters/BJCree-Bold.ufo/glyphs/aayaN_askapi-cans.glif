@@ -2,12 +2,12 @@
 <glyph name="aayaNaskapi-cans" format="2">
   <advance width="1731"/>
   <unicode hex="18B2"/>
-  <anchor x="1384" y="1465" name="_dot2"/>
-  <anchor x="1384" y="1463" name="_dot3"/>
+  <anchor x="1411" y="1465" name="_dot2"/>
+  <anchor x="1411" y="1463" name="_dot3"/>
   <anchor x="888" y="1469" name="_ring"/>
   <anchor x="950" y="1280" name="dot2"/>
   <anchor x="317" y="966" name="dot3"/>
-  <anchor x="1384" y="1465" name="ring"/>
+  <anchor x="1411" y="1465" name="ring"/>
   <outline>
     <component base="aa-cans"/>
     <component base="_ring" xOffset="888" yOffset="2"/>
@@ -15,7 +15,7 @@
   <lib>
     <dict>
       <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
+      <string>0.5,0.09,0.79,1</string>
     </dict>
   </lib>
 </glyph>
