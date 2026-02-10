@@ -9,12 +9,6 @@
   <anchor x="822" y="1395" name="ringmiddle"/>
   <outline>
     <component base="a-cans"/>
-    <component base="_finalgravecloser" xOffset="1655"/>
+    <component base="finalgrave-cans" xOffset="1589"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>

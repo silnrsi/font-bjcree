@@ -11,12 +11,12 @@ waaNaskapi-cans     = a-cans + _dotabove@dot2 + _dotabove@dot3
 ayNaskapi-cans      = a-cans + _ring@ring
 aayaNaskapi-cans    = aa-cans + _ring@ringmiddle
 wayNaskapi-cans     = wa-cans + _ring@ring
-an-cans             = a-cans & _finalgravecloser
+# an-cans             = a-cans & _finalgravecloser    # now manually composed
 
 ### ᐁ e-cans based
 we-cans             = _dotleftclose & e-cans
 weWestCree-cans     = e-cans & _dotrightclose
-en-cans             = e-cans & _finalgraveclose
+# en-cans             = e-cans & _finalgraveclose    # now manually composed
 
 ### ᐃ i-cans based
 ii-cans             = i-cans + _dotabove@dot

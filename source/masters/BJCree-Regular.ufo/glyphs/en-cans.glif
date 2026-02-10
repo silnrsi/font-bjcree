@@ -4,12 +4,6 @@
   <unicode hex="142B"/>
   <outline>
     <component base="e-cans"/>
-    <component base="_finalgraveclose" xOffset="1586"/>
+    <component base="finalgrave-cans" xOffset="1634"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0.18,0.16,0.78,1</string>
-    </dict>
-  </lib>
 </glyph>
