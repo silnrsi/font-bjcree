@@ -16,9 +16,7 @@ Four fonts from this typeface family are included in the **BJCree** release:
 * BJCree SemiBold
 * BJCree Bold
 
-The Latin glyphs are based loosely on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
-
-SIL Global is the creator of the BJCree fonts, and is the owner of all proprietary rights therein.
+The Latin glyphs are based on C059 (New Century Schoolbook) from (URW)++, released under the SIL Open Font License version 1.1.
 
 ## Type Samples
 
