@@ -96,7 +96,7 @@
     </dict>
   </array>
   <key>openTypeHeadCreated</key>
-  <string>2026/02/10 17:46:25</string>
+  <string>2026/02/13 09:49:02</string>
   <key>openTypeHheaAscender</key>
   <integer>2080</integer>
   <key>openTypeHheaDescender</key>
@@ -166,7 +166,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>openTypeNameUniqueID</key>
   <string>SIL Global: BJCree Bold: 2026</string>
   <key>openTypeNameVersion</key>
-  <string>Version 7.000</string>
+  <string>Version 7.001</string>
   <key>openTypeOS2CodePageRanges</key>
   <array>
     <integer>0</integer>
@@ -283,7 +283,7 @@ THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
   <key>versionMajor</key>
   <integer>7</integer>
   <key>versionMinor</key>
-  <integer>0</integer>
+  <integer>1</integer>
   <key>woffMetadataCredits</key>
   <dict>
     <key>credits</key>

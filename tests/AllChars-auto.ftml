@@ -3,7 +3,7 @@
 <ftml version="1.0">
   <head>
     <fontscale>250</fontscale>
-    <fontsrc>url(../references/v2.0/bjcrus.ttf)</fontsrc>
+    <fontsrc>url(../references/v7.000/BJCree-Regular.ttf)</fontsrc>
     <fontsrc>url(../results/BJCree-Regular.ttf)</fontsrc>
     <fontsrc>url(../results/BJCree-Medium.ttf)</fontsrc>
     <fontsrc>url(../results/BJCree-SemiBold.ttf)</fontsrc>

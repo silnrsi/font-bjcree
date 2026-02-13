@@ -1,6 +1,6 @@
 ---
 title: BJCree - Character Set Support
-fontversion: 7.000
+fontversion: 7.001
 ---
 
 The BJCree font supports most of the characters in the Unified Canadian Aboriginal Syllabics blocks. In particular, it was originally designed to accommodate all the languages that use syllabics that are part of the Cree-Innu subgroup of the Algonquian language family. Notably absent in this release is support for languages that use syllabics from other language families spoken in Canada: that is Athabaskan (Carrier, Dene) and Eskimo-Aleut (Inuktitut).

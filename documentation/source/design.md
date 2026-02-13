@@ -1,6 +1,6 @@
 ---
 title: BJCree - Design
-fontversion: 7.000
+fontversion: 7.001
 ---
 
 The **BJCree** font is a Canadian Syllabics font in the style preferred by Cree and Naskapi communities of Canada. It was originally designed in collaboration with the persons who speak these languages around James Bay.

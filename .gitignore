@@ -3,7 +3,7 @@
 # To tweak to your particular needs, see http://git-scm.com/docs/gitignore and http://help.github.com/articles/ignoring-files
 
 local/*
-references/**
+# references/**
 
 # smith
 .waf-*

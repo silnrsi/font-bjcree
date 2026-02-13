@@ -1,6 +1,6 @@
 ---
 title: BJCree - Documentation
-fontversion: 7.000
+fontversion: 7.001
 ---
 
 Thank you for your interest in the BJCree fonts. The BJCree typeface was originally designed in conjunction with the Naskapi

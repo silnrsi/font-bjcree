@@ -1,6 +1,6 @@
 ---
 title: BJCree - Version History
-fontversion: 7.000
+fontversion: 7.001
 ---
 
 ### 2026-02-11 (SIL WSTech team) BJCree version 7.000

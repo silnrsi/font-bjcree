@@ -1,6 +1,6 @@
 ---
 title: BJCree - Type Sample
-fontversion: 7.000
+fontversion: 7.001
 ---
 
 This document demonstrates all of the characters in the font in Regular and Bold weights. Medium and SemiBold are also available, but they are not shown here. It is organized by Unicode block. At the end is a sample demonstrating an example of running text.

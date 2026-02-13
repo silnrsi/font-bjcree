@@ -2,7 +2,7 @@
 
 # This script rebuilds the algorithmically-generated ftml files. See README.md
 
-# Copyright (c) 2020-2025 SIL Global  (https://www.sil.org)
+# Copyright (c) 2020-2026 SIL Global  (https://www.sil.org)
 # Released under the MIT License (https://opensource.org/licenses/
 
 # Assumes we're in the root folder, i.e., font-idiqlat
@@ -15,8 +15,8 @@ then
 	exit 2
 fi
 
-prevfont="references/v2.0/bjcrus.ttf"
-prevver="2.000"
+prevfont="references/v7.000/BJCree-Regular.ttf"
+prevver="7.000"
 
 commonParams=( \
 	--prevfont "$prevfont"  \
